@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T21:58:46.464369",
+  "last_updated": "2026-03-02T22:29:54.880503",
   "event_count": 3,
   "events": {
     "code": "0000",
@@ -316,7 +316,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-02T21:57:48.420Z",
+        "node_api_updated_at": "2026-03-02T22:29:48.385Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -571,7 +571,7 @@
           "status_id": 1,
           "venue_id": "9k82rekhvkerepz"
         },
-        "node_api_updated_at": "2026-03-02T21:57:48.416Z",
+        "node_api_updated_at": "2026-03-02T22:29:48.381Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -753,7 +753,7 @@
           "status_id": 1,
           "venue_id": "56ypq3nhz72md7o"
         },
-        "node_api_updated_at": "2026-03-02T21:57:48.416Z",
+        "node_api_updated_at": "2026-03-02T22:29:48.380Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -1026,7 +1026,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-02T21:57:48.418Z",
+        "node_api_updated_at": "2026-03-02T22:29:48.383Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -1315,14 +1315,14 @@
             "houseId": "97312754",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OGZiZDA0Y2QyMWItMjY3Ng/Yjg4YzFjNjYzYmYtNmE2NQ.png",
             "houseIntroduction": "",
-            "houseName": "SPA D1  Real Madrid  vs  Getafe  ",
-            "liveStatus": 2,
+            "houseName": "ACL Elite  Gangwon   vs  Machida   ",
+            "liveStatus": 1,
             "matchId": "j374oi0nzz3ugqo",
             "nickName": "BLV ÔLONG",
             "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
-            "visitHistory": 2231650
+            "visitHistory": 2231679
           },
           {
             "anchorTitle": "",
@@ -1331,14 +1331,14 @@
             "houseId": "14830711",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzhjMjFiYTAzYWYtMGYzNQ/M2NkNmI4NGU4NjItNGQ1Yg.jpg",
             "houseIntroduction": "",
-            "houseName": "SPA D1\tReal Madrid\tvs  Getafe",
-            "liveStatus": 2,
+            "houseName": "AUS D1\tMacarthur FC\tvs Central Coast Mariners",
+            "liveStatus": 1,
             "matchId": "j374oi0nzz3ugqo",
             "nickName": "BLV GIÀ LÀNG",
             "playStreamAddress": "https://live5.msrktz.app/live/14830711.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/14830711.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NWJlYjRhNTYyZmYtZTM3MQ/ZjY3N2M5NzhkZDMtMWQyMw.jpg",
-            "visitHistory": 3635244
+            "visitHistory": 3635266
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4426690",
@@ -1497,14 +1497,14 @@
             "houseId": "87547578",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MDFlMmFlYzk0NDEtMjA4NA/MTI0MTFkNzg0ZmYtYTA4ZA.png",
             "houseIntroduction": "",
-            "houseName": "ENG LCH\tBirmingham City\tvs  Middlesbrough",
-            "liveStatus": 2,
+            "houseName": "POR LRU23\tTorreense U23\tvs  Academico Viseu U23",
+            "liveStatus": 1,
             "matchId": "o07dni5nyvphmkn",
             "nickName": "BLV MOUNTAIN DEW",
             "playStreamAddress": "https://live5.msrktz.app/live/87547578.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/87547578.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NDU2ODM5ZDZhY2QtOTg5Ng/MjU3MDJjNmI3ZDctMDk2Yg.jpg",
-            "visitHistory": 2616659
+            "visitHistory": 2616672
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4506881",
@@ -1579,7 +1579,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2229320
+            "visitHistory": 2229355
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4466159",
@@ -1647,14 +1647,14 @@
             "houseId": "75915087",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODRjNGMzZDI0ODItMDg5Yg/ZjUzY2VhODIzYWQtYWI4YQ.png",
             "houseIntroduction": "",
-            "houseName": "POR D1\tGil Vicente\tvs Benfica",
+            "houseName": "ARG D1\tDep. Riestra\tvs  Platense",
             "liveStatus": 2,
             "matchId": "527r3i4l8dvu47e",
             "nickName": "BLV MONSTER",
             "playStreamAddress": "https://live5.msrktz.app/live/75915087.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/75915087.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZmNmM2FmOGQwNmQtOWI2MQ/ZmU2Y2FjNGFiYTAtNDc2NA.jpg",
-            "visitHistory": 2621400
+            "visitHistory": 2621471
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465059",
@@ -1664,7 +1664,7 @@
           0,
           0,
           0,
-          0,
+          2,
           0,
           0
         ],
@@ -1690,7 +1690,7 @@
           0,
           0,
           0,
-          0,
+          2,
           0,
           0
         ],
@@ -1704,10 +1704,10 @@
         },
         "house_id": null,
         "matchId": "527r3i4l8dvu47e",
-        "matchStatus": 1,
+        "matchStatus": 2,
         "matchTime": 1772489700,
         "match_id": "527r3i4l8dvu47e",
-        "match_status": "scheduled",
+        "match_status": "live",
         "match_time": 1772489700,
         "node_api_data": {
           "_id": "69a4d5cb07c7bc72a593506c",
@@ -1734,11 +1734,11 @@
           "competition_id": "p3glrw7hevqdyjv",
           "custom_key": "e5b3a3c3d820289f429ac06deb062ca2",
           "environment": {
-            "humidity": "54%",
-            "pressure": "755mmHg",
-            "temperature": "28°C",
+            "humidity": "58%",
+            "pressure": "756mmHg",
+            "temperature": "27°C",
             "weather": 5,
-            "wind": "6.8m/s"
+            "wind": "6.1m/s"
           },
           "home_scores": [
             0,
@@ -1776,11 +1776,11 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "54%",
-              "pressure": "755mmHg",
-              "temperature": "28°C",
+              "humidity": "58%",
+              "pressure": "756mmHg",
+              "temperature": "27°C",
               "weather": 5,
-              "wind": "6.8m/s"
+              "wind": "6.1m/s"
             },
             "home_position": "14",
             "home_scores": [
@@ -1805,7 +1805,7 @@
             },
             "season_id": "vjxm8gh4vvwr6od",
             "status_id": 1,
-            "updated_at": 1772487427,
+            "updated_at": 1772489415,
             "venue_id": "p3glrw7hldpqdyj"
           },
           "referee_id": "jednm9whz38ryox",
@@ -1813,10 +1813,11 @@
           "status_id": 1,
           "venue_id": "p3glrw7hldpqdyj"
         },
-        "node_api_updated_at": "2026-03-02T21:57:48.743Z",
+        "node_api_updated_at": "2026-03-02T22:29:48.727Z",
         "sportId": 1,
         "sport_id": 1,
-        "video_url": null
+        "videoUrl": "https://live.trendgallary.com/live/13376033_d011c9663de64b0559fee8b293f7bb35_autoChange.m3u8?auth_key=1772504881-0-0-73be4012b0236b44740ed1f1af31ef75",
+        "video_url": "https://live.trendgallary.com/live/13376033_d011c9663de64b0559fee8b293f7bb35_autoChange.m3u8?auth_key=1772504881-0-0-73be4012b0236b44740ed1f1af31ef75"
       },
       "duc-nu-vs-slovenia-nu-luc-2345-ngay-03-03-2026-vrqwni43ew6i4qn": {
         "anchorAppointmentVoList": [
@@ -1909,7 +1910,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2229320
+            "visitHistory": 2229355
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465095",
@@ -1919,7 +1920,7 @@
           0,
           0,
           0,
-          0,
+          2,
           0,
           0
         ],
@@ -1945,7 +1946,7 @@
           0,
           0,
           0,
-          0,
+          1,
           0,
           0
         ],
@@ -1959,10 +1960,10 @@
         },
         "house_id": null,
         "matchId": "g6763i5rgx9co7r",
-        "matchStatus": 1,
+        "matchStatus": 2,
         "matchTime": 1772489700,
         "match_id": "g6763i5rgx9co7r",
-        "match_status": "scheduled",
+        "match_status": "live",
         "match_time": 1772489700,
         "node_api_data": {
           "_id": "69a4d5cb07c7bc72a5935075",
@@ -1989,11 +1990,11 @@
           "competition_id": "p3glrw7hevqdyjv",
           "custom_key": "14be7c6510e32059d45860232902f4bb",
           "environment": {
-            "humidity": "52%",
-            "pressure": "756mmHg",
+            "humidity": "49%",
+            "pressure": "755mmHg",
             "temperature": "27°C",
             "weather": 5,
-            "wind": "5.3m/s"
+            "wind": "5.6m/s"
           },
           "home_scores": [
             0,
@@ -2031,11 +2032,11 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "52%",
-              "pressure": "756mmHg",
+              "humidity": "49%",
+              "pressure": "755mmHg",
               "temperature": "27°C",
               "weather": 5,
-              "wind": "5.3m/s"
+              "wind": "5.6m/s"
             },
             "home_position": "1",
             "home_scores": [
@@ -2060,7 +2061,7 @@
             },
             "season_id": "vjxm8gh4vvwr6od",
             "status_id": 1,
-            "updated_at": 1772487247,
+            "updated_at": 1772489415,
             "venue_id": "yl5ergph358r8k0"
           },
           "referee_id": "9k82rekh8v7repz",
@@ -2068,10 +2069,11 @@
           "status_id": 1,
           "venue_id": "yl5ergph358r8k0"
         },
-        "node_api_updated_at": "2026-03-02T21:57:48.226Z",
+        "node_api_updated_at": "2026-03-02T22:29:48.210Z",
         "sportId": 1,
         "sport_id": 1,
-        "video_url": null,
+        "videoUrl": "https://live1.trendgallary.com/live/13376034_7db3aa8a83c9dcc91f39c8036226b2b1_autoChange.m3u8?auth_key=1772504881-0-0-eaf5b9b613847af3e2c167549919d236",
+        "video_url": "https://live1.trendgallary.com/live/13376034_7db3aa8a83c9dcc91f39c8036226b2b1_autoChange.m3u8?auth_key=1772504881-0-0-eaf5b9b613847af3e2c167549919d236",
         "zalo_enabled": false,
         "zalo_phone": ""
       },
@@ -2355,11 +2357,11 @@
           "competition_id": "z8yomo4h11q0j6l",
           "custom_key": "e276ab5cad9dcac436abc204b8dc250f",
           "environment": {
-            "humidity": "46%",
+            "humidity": "45%",
             "pressure": "769mmHg",
             "temperature": "18°C",
             "weather": 5,
-            "wind": "3.2m/s"
+            "wind": "2.9m/s"
           },
           "home_scores": [
             0,
@@ -2397,11 +2399,11 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "46%",
+              "humidity": "45%",
               "pressure": "769mmHg",
               "temperature": "18°C",
               "weather": 5,
-              "wind": "3.2m/s"
+              "wind": "2.9m/s"
             },
             "home_position": "12",
             "home_scores": [
@@ -2426,7 +2428,7 @@
             },
             "season_id": "9vjxm8ghykvr6od",
             "status_id": 1,
-            "updated_at": 1772486415,
+            "updated_at": 1772488216,
             "venue_id": "gpxwrxlhjknryk0"
           },
           "referee_id": "",
@@ -2434,7 +2436,7 @@
           "status_id": 1,
           "venue_id": "gpxwrxlhjknryk0"
         },
-        "node_api_updated_at": "2026-03-02T21:57:48.742Z",
+        "node_api_updated_at": "2026-03-02T22:29:48.726Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -2523,14 +2525,14 @@
             "houseId": "97312754",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OGZiZDA0Y2QyMWItMjY3Ng/Yjg4YzFjNjYzYmYtNmE2NQ.png",
             "houseIntroduction": "",
-            "houseName": "SPA D1  Real Madrid  vs  Getafe  ",
-            "liveStatus": 2,
+            "houseName": "ACL Elite  Gangwon   vs  Machida   ",
+            "liveStatus": 1,
             "matchId": "jr7owipp303hgq0",
             "nickName": "BLV ÔLONG",
             "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
-            "visitHistory": 2231650
+            "visitHistory": 2231679
           },
           {
             "anchorTitle": "",
@@ -2539,14 +2541,14 @@
             "houseId": "24561735",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzZmMTdhNDQyODUtMzUzOA/OTllZGUxNmUwOGEtZmZhZQ.png",
             "houseIntroduction": "",
-            "houseName": "SPA D1  Real Madrid   vs  Getafe  ",
-            "liveStatus": 2,
+            "houseName": "ACL Elite    Gangwon  vs  Machida  ",
+            "liveStatus": 1,
             "matchId": "jr7owipp303hgq0",
             "nickName": "BLV COCA",
             "playStreamAddress": "https://live5.msrktz.app/live/24561735.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/24561735.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MGFjOWJmNDI2NTgtMjM1Zg/OGMwZTMzY2M3YzctOTVkNA.jpg",
-            "visitHistory": 4103559
+            "visitHistory": 4103591
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4499651",
@@ -2706,7 +2708,7 @@
           "status_id": 1,
           "venue_id": "p4jwq2gh2znm0ve"
         },
-        "node_api_updated_at": "2026-03-02T21:57:48.668Z",
+        "node_api_updated_at": "2026-03-02T22:29:48.650Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -2807,7 +2809,7 @@
           "competition_id": "l965mkyhe0r1ge4",
           "custom_key": "03e147e1b5e037c27c9fc562461ecd19",
           "environment": {
-            "humidity": "61%",
+            "humidity": "60%",
             "pressure": "771mmHg",
             "temperature": "16°C",
             "weather": 5,
@@ -2849,7 +2851,7 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "61%",
+              "humidity": "60%",
               "pressure": "771mmHg",
               "temperature": "16°C",
               "weather": 5,
@@ -2878,7 +2880,7 @@
             },
             "season_id": "jednm9wh19lryox",
             "status_id": 1,
-            "updated_at": 1772487615,
+            "updated_at": 1772489415,
             "venue_id": ""
           },
           "referee_id": "",
@@ -2886,193 +2888,12 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-02T21:57:48.218Z",
+        "node_api_updated_at": "2026-03-02T22:29:48.205Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
         "zalo_enabled": false,
         "zalo_phone": ""
-      },
-      "gil-vicente-vs-benfica-luc-0315-ngay-03-03-2026-ezk96i3ynn3t1kn": {
-        "anchorAppointmentVoList": [
-          {
-            "anchorTitle": "",
-            "anchorTypeName": "足球",
-            "fansCount": 344,
-            "houseId": "75915087",
-            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODRjNGMzZDI0ODItMDg5Yg/ZjUzY2VhODIzYWQtYWI4YQ.png",
-            "houseIntroduction": "",
-            "houseName": "POR D1\tGil Vicente\tvs Benfica",
-            "liveStatus": 2,
-            "matchId": "ezk96i3ynn3t1kn",
-            "nickName": "BLV MONSTER",
-            "playStreamAddress": "https://live5.msrktz.app/live/75915087.flv",
-            "playStreamAddress2": "https://live5.msrktz.app/live/75915087.m3u8",
-            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZmNmM2FmOGQwNmQtOWI2MQ/ZmU2Y2FjNGFiYTAtNDc2NA.jpg",
-            "visitHistory": 2621400
-          }
-        ],
-        "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4368997",
-        "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4368997",
-        "awayScore": [
-          2,
-          1,
-          0,
-          2,
-          3,
-          0,
-          0
-        ],
-        "awayTeamId": "2jr7owi8y4t3q0e",
-        "awayTeamLogo": "https://img.colatv88xd.cc/football/team/78360445c12fa3fdc8b489486fff4eb6.png!w80",
-        "awayTeamName": "Benfica",
-        "away_team": {
-          "id": "2jr7owi8y4t3q0e",
-          "logo": "https://img.colatv88xd.cc/football/team/78360445c12fa3fdc8b489486fff4eb6.png!w80",
-          "name": "Benfica"
-        },
-        "competition": {
-          "id": "n527r3ipms17evx",
-          "logo": "https://img.colatv88xd.cc/football/competition/944fcefc160f78322ddcc68ec995040e.png!w80",
-          "name": "Giải Bóng đá Vô địch Quốc gia Bồ Đào Nha"
-        },
-        "competitionId": "n527r3ipms17evx",
-        "competitionLogo": "https://img.colatv88xd.cc/football/competition/944fcefc160f78322ddcc68ec995040e.png!w80",
-        "competitionName": "Giải Bóng đá Vô địch Quốc gia Bồ Đào Nha",
-        "custom_key": "3f8a36648fba3a58de1cdd56eb132a63",
-        "homeScore": [
-          1,
-          0,
-          0,
-          1,
-          5,
-          0,
-          0
-        ],
-        "homeTeamId": "xo17pjiwoec27jw",
-        "homeTeamLogo": "https://img.colatv88xd.cc/football/team/6a2005d20c872db3173d2bf995768055.png!w80",
-        "homeTeamName": "Gil Vicente",
-        "home_team": {
-          "id": "xo17pjiwoec27jw",
-          "logo": "https://img.colatv88xd.cc/football/team/6a2005d20c872db3173d2bf995768055.png!w80",
-          "name": "Gil Vicente"
-        },
-        "house_id": null,
-        "matchId": "ezk96i3ynn3t1kn",
-        "matchStatus": 2,
-        "matchTime": 1772482500,
-        "match_id": "ezk96i3ynn3t1kn",
-        "match_status": "live",
-        "match_time": 1772482500,
-        "node_api_data": {
-          "_id": "69a4d5cb07c7bc72a5934f2e",
-          "away_scores": [
-            1,
-            1,
-            0,
-            1,
-            2,
-            0,
-            0
-          ],
-          "away_team": {
-            "id": "z8yomo4hjyoq0j6",
-            "logo": "https://img.thesports.com/football/team/78360445c12fa3fdc8b489486fff4eb6.png",
-            "name": "Benfica"
-          },
-          "away_team_id": "z8yomo4hjyoq0j6",
-          "competition": {
-            "id": "9vjxm8ghx2r6odg",
-            "logo": "https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png",
-            "name": "Portuguese Primera Liga"
-          },
-          "competition_id": "9vjxm8ghx2r6odg",
-          "custom_key": "3f8a36648fba3a58de1cdd56eb132a63",
-          "environment": {
-            "humidity": "90%",
-            "pressure": "759mmHg",
-            "temperature": "12°C",
-            "weather": 1,
-            "wind": "3.2m/s"
-          },
-          "home_scores": [
-            1,
-            0,
-            0,
-            1,
-            5,
-            0,
-            0
-          ],
-          "home_team": {
-            "id": "v2y8m4zho51ql07",
-            "logo": "https://img.thesports.com/football/team/6a2005d20c872db3173d2bf995768055.png",
-            "name": "Gil Vicente"
-          },
-          "home_team_id": "v2y8m4zho51ql07",
-          "match_date_vn": "20260303",
-          "match_id": "4wyrn4h64886q86",
-          "match_time": 1772482500,
-          "raw": {
-            "away_position": "3",
-            "away_scores": [
-              1,
-              1,
-              0,
-              1,
-              2,
-              0,
-              0
-            ],
-            "away_team_id": "z8yomo4hjyoq0j6",
-            "competition_id": "9vjxm8ghx2r6odg",
-            "coverage": {
-              "lineup": 1,
-              "mlive": 1
-            },
-            "environment": {
-              "humidity": "90%",
-              "pressure": "759mmHg",
-              "temperature": "12°C",
-              "weather": 1,
-              "wind": "3.2m/s"
-            },
-            "home_position": "5",
-            "home_scores": [
-              1,
-              0,
-              0,
-              1,
-              5,
-              0,
-              0
-            ],
-            "home_team_id": "v2y8m4zho51ql07",
-            "id": "4wyrn4h64886q86",
-            "match_time": 1772482500,
-            "neutral": 0,
-            "note": "",
-            "referee_id": "z8yomo4hxxnq0j6",
-            "round": {
-              "group_num": 0,
-              "round_num": 24,
-              "stage_id": "965mkyh09vxr1ge"
-            },
-            "season_id": "kjw2r09h811rz84",
-            "status_id": 4,
-            "updated_at": 1772487615,
-            "venue_id": "p4jwq2ghvxvm0ve"
-          },
-          "referee_id": "z8yomo4hxxnq0j6",
-          "season_id": "kjw2r09h811rz84",
-          "status_id": 4,
-          "venue_id": "p4jwq2ghvxvm0ve"
-        },
-        "node_api_updated_at": "2026-03-02T21:57:48.331Z",
-        "sportId": 1,
-        "sport_id": 1,
-        "videoUrl": "https://live.trendgallary.com/live/12693957_9875192a9dd765fe3c385ddb01972ae2_autoChange.m3u8?auth_key=1772502829-0-0-25de702d2c3ae61307093ebf4d94f872",
-        "video_url": "https://live.trendgallary.com/live/12693957_9875192a9dd765fe3c385ddb01972ae2_autoChange.m3u8?auth_key=1772502829-0-0-25de702d2c3ae61307093ebf4d94f872"
       },
       "golden-state-warriors-vs-los-angeles-clippers-luc-1000-ngay-03-03-2026-ndkzysnddpjax73": {
         "anchorAppointmentVoList": [
@@ -3154,14 +2975,14 @@
             "houseId": "75915087",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODRjNGMzZDI0ODItMDg5Yg/ZjUzY2VhODIzYWQtYWI4YQ.png",
             "houseIntroduction": "",
-            "houseName": "POR D1\tGil Vicente\tvs Benfica",
+            "houseName": "ARG D1\tDep. Riestra\tvs  Platense",
             "liveStatus": 2,
             "matchId": "oj7x9ix0og5s47g",
             "nickName": "BLV MONSTER",
             "playStreamAddress": "https://live5.msrktz.app/live/75915087.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/75915087.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZmNmM2FmOGQwNmQtOWI2MQ/ZmU2Y2FjNGFiYTAtNDc2NA.jpg",
-            "visitHistory": 2621400
+            "visitHistory": 2621471
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465077",
@@ -3236,7 +3057,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2229320
+            "visitHistory": 2229355
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4469783",
@@ -3470,7 +3291,7 @@
           "status_id": 1,
           "venue_id": "4zp5rzgh007q82w"
         },
-        "node_api_updated_at": "2026-03-02T21:57:48.496Z",
+        "node_api_updated_at": "2026-03-02T22:29:48.463Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -3573,7 +3394,7 @@
           "environment": {
             "humidity": "68%",
             "pressure": "771mmHg",
-            "temperature": "10°C",
+            "temperature": "11°C",
             "weather": 7,
             "wind": "3.2m/s"
           },
@@ -3615,7 +3436,7 @@
             "environment": {
               "humidity": "68%",
               "pressure": "771mmHg",
-              "temperature": "10°C",
+              "temperature": "11°C",
               "weather": 7,
               "wind": "3.2m/s"
             },
@@ -3642,7 +3463,7 @@
             },
             "season_id": "9vjxm8ghykvr6od",
             "status_id": 1,
-            "updated_at": 1772482815,
+            "updated_at": 1772488815,
             "venue_id": ""
           },
           "referee_id": "",
@@ -3650,7 +3471,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-02T21:57:48.674Z",
+        "node_api_updated_at": "2026-03-02T22:29:48.657Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -3673,7 +3494,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/78905744.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/78905744.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NWUwNzcyMzRjMDUtZDg2NA/YTZhMzUyYjZkMzAtOGNkZg.jpg",
-            "visitHistory": 9506531
+            "visitHistory": 9506538
           },
           {
             "anchorTitle": "",
@@ -3995,7 +3816,7 @@
           "status_id": 1,
           "venue_id": "2y8m4zh30poql07"
         },
-        "node_api_updated_at": "2026-03-02T21:57:48.324Z",
+        "node_api_updated_at": "2026-03-02T22:29:48.290Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -4507,11 +4328,11 @@
           "competition_id": "56ypq3nhz53md7o",
           "custom_key": "3971b413d723f4bb1e747f33bafcca07",
           "environment": {
-            "humidity": "83%",
+            "humidity": "84%",
             "pressure": "758mmHg",
             "temperature": "27°C",
             "weather": 7,
-            "wind": "3.7m/s"
+            "wind": "4.0m/s"
           },
           "home_scores": [
             0,
@@ -4549,11 +4370,11 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "83%",
+              "humidity": "84%",
               "pressure": "758mmHg",
               "temperature": "27°C",
               "weather": 7,
-              "wind": "3.7m/s"
+              "wind": "4.0m/s"
             },
             "home_position": "2",
             "home_scores": [
@@ -4578,7 +4399,7 @@
             },
             "season_id": "4zp5rzgh80yq82w",
             "status_id": 1,
-            "updated_at": 1772486415,
+            "updated_at": 1772488216,
             "venue_id": "e4wyrn4h4jxq86p"
           },
           "referee_id": "",
@@ -4586,228 +4407,10 @@
           "status_id": 1,
           "venue_id": "e4wyrn4h4jxq86p"
         },
-        "node_api_updated_at": "2026-03-02T21:57:48.329Z",
+        "node_api_updated_at": "2026-03-02T22:29:48.298Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
-      },
-      "real-madrid-cf-vs-getafe-cf-luc-0300-ngay-03-03-2026-jr7owipjno6igq0": {
-        "anchorAppointmentVoList": [
-          {
-            "anchorTitle": "",
-            "anchorTypeName": "足球",
-            "fansCount": 122,
-            "houseId": "97312754",
-            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OGZiZDA0Y2QyMWItMjY3Ng/Yjg4YzFjNjYzYmYtNmE2NQ.png",
-            "houseIntroduction": "",
-            "houseName": "SPA D1  Real Madrid  vs  Getafe  ",
-            "liveStatus": 2,
-            "matchId": "jr7owipjno6igq0",
-            "nickName": "BLV ÔLONG",
-            "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
-            "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
-            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
-            "visitHistory": 2231650
-          },
-          {
-            "anchorTitle": "",
-            "anchorTypeName": "足球",
-            "fansCount": 162,
-            "houseId": "24561735",
-            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzZmMTdhNDQyODUtMzUzOA/OTllZGUxNmUwOGEtZmZhZQ.png",
-            "houseIntroduction": "",
-            "houseName": "SPA D1  Real Madrid   vs  Getafe  ",
-            "liveStatus": 2,
-            "matchId": "jr7owipjno6igq0",
-            "nickName": "BLV COCA",
-            "playStreamAddress": "https://live5.msrktz.app/live/24561735.flv",
-            "playStreamAddress2": "https://live5.msrktz.app/live/24561735.m3u8",
-            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MGFjOWJmNDI2NTgtMjM1Zg/OGMwZTMzY2M3YzctOTVkNA.jpg",
-            "visitHistory": 4103559
-          },
-          {
-            "anchorTitle": "",
-            "anchorTypeName": "足球",
-            "fansCount": 89,
-            "houseId": "14830711",
-            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzhjMjFiYTAzYWYtMGYzNQ/M2NkNmI4NGU4NjItNGQ1Yg.jpg",
-            "houseIntroduction": "",
-            "houseName": "SPA D1\tReal Madrid\tvs  Getafe",
-            "liveStatus": 2,
-            "matchId": "jr7owipjno6igq0",
-            "nickName": "BLV GIÀ LÀNG",
-            "playStreamAddress": "https://live5.msrktz.app/live/14830711.flv",
-            "playStreamAddress2": "https://live5.msrktz.app/live/14830711.m3u8",
-            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NWJlYjRhNTYyZmYtZTM3MQ/ZjY3N2M5NzhkZDMtMWQyMw.jpg",
-            "visitHistory": 3635244
-          }
-        ],
-        "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4358953",
-        "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4358953",
-        "awayScore": [
-          1,
-          1,
-          0,
-          5,
-          2,
-          0,
-          0
-        ],
-        "awayTeamId": "9oj7x9ij00ir7g3",
-        "awayTeamLogo": "https://img.colatv88xd.cc/football/team/36bf5bf0c8fdf08c1270124808f060e1.png!w80",
-        "awayTeamName": "Getafe CF",
-        "away_team": {
-          "id": "9oj7x9ij00ir7g3",
-          "logo": "https://img.colatv88xd.cc/football/team/36bf5bf0c8fdf08c1270124808f060e1.png!w80",
-          "name": "Getafe CF"
-        },
-        "competition": {
-          "id": "yzrkn6iorbjqle4",
-          "logo": "https://img.colatv88xd.cc/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png!w80",
-          "name": "Giải Bóng đá Vô địch Quốc gia Tây Ban Nha"
-        },
-        "competitionId": "yzrkn6iorbjqle4",
-        "competitionLogo": "https://img.colatv88xd.cc/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png!w80",
-        "competitionName": "Giải Bóng đá Vô địch Quốc gia Tây Ban Nha",
-        "custom_key": "708771c7b2df00ea1de4b7e53c7eb284",
-        "homeScore": [
-          0,
-          0,
-          0,
-          2,
-          10,
-          0,
-          0
-        ],
-        "homeTeamId": "5xvkjoiyyyix793",
-        "homeTeamLogo": "https://img.colatv88xd.cc/football/team/7dacaa934fe4be00f23c1e209b5ef947.png!w80",
-        "homeTeamName": "Real Madrid CF",
-        "home_team": {
-          "id": "5xvkjoiyyyix793",
-          "logo": "https://img.colatv88xd.cc/football/team/7dacaa934fe4be00f23c1e209b5ef947.png!w80",
-          "name": "Real Madrid CF"
-        },
-        "house_id": null,
-        "matchId": "jr7owipjno6igq0",
-        "matchStatus": 2,
-        "matchTime": 1772481600,
-        "match_id": "jr7owipjno6igq0",
-        "match_status": "live",
-        "match_time": 1772481600,
-        "node_api_data": {
-          "_id": "69a4d5ca07c7bc72a5934e6f",
-          "away_scores": [
-            1,
-            1,
-            0,
-            3,
-            1,
-            0,
-            0
-          ],
-          "away_team": {
-            "id": "vl7oqdehz33r510",
-            "logo": "https://img.thesports.com/football/team/36bf5bf0c8fdf08c1270124808f060e1.png",
-            "name": "Getafe"
-          },
-          "away_team_id": "vl7oqdehz33r510",
-          "competition": {
-            "id": "vl7oqdehlyr510j",
-            "logo": "https://img.thesports.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png",
-            "name": "Spanish La Liga"
-          },
-          "competition_id": "vl7oqdehlyr510j",
-          "custom_key": "708771c7b2df00ea1de4b7e53c7eb284",
-          "environment": {
-            "humidity": "70%",
-            "pressure": "763mmHg",
-            "temperature": "11°C",
-            "weather": 2,
-            "wind": "3.2m/s"
-          },
-          "home_scores": [
-            0,
-            0,
-            0,
-            2,
-            8,
-            0,
-            0
-          ],
-          "home_team": {
-            "id": "e4wyrn4h111q86p",
-            "logo": "https://img.thesports.com/football/team/7dacaa934fe4be00f23c1e209b5ef947.png",
-            "name": "Real Madrid"
-          },
-          "home_team_id": "e4wyrn4h111q86p",
-          "match_date_vn": "20260303",
-          "match_id": "pxwrxlhy92ngryk",
-          "match_time": 1772481600,
-          "raw": {
-            "away_position": "14",
-            "away_scores": [
-              1,
-              1,
-              0,
-              3,
-              1,
-              0,
-              0
-            ],
-            "away_team_id": "vl7oqdehz33r510",
-            "competition_id": "vl7oqdehlyr510j",
-            "coverage": {
-              "lineup": 1,
-              "mlive": 1
-            },
-            "environment": {
-              "humidity": "70%",
-              "pressure": "763mmHg",
-              "temperature": "11°C",
-              "weather": 2,
-              "wind": "3.2m/s"
-            },
-            "home_position": "2",
-            "home_scores": [
-              0,
-              0,
-              0,
-              2,
-              8,
-              0,
-              0
-            ],
-            "home_team_id": "e4wyrn4h111q86p",
-            "id": "pxwrxlhy92ngryk",
-            "match_time": 1772481600,
-            "neutral": 0,
-            "note": "",
-            "referee_id": "kjw2r09hxp2rz84",
-            "round": {
-              "group_num": 0,
-              "round_num": 26,
-              "stage_id": "dn1m1ghgdd5moep"
-            },
-            "season_id": "56ypq3nhxw7md7o",
-            "status_id": 4,
-            "updated_at": 1772487615,
-            "venue_id": "z8yomo4hke0q0j6"
-          },
-          "referee_id": "kjw2r09hxp2rz84",
-          "season_id": "56ypq3nhxw7md7o",
-          "status_id": 4,
-          "venue_id": "z8yomo4hke0q0j6"
-        },
-        "node_api_updated_at": "2026-03-02T21:57:48.492Z",
-        "set_home_anchors": [
-          "97312754"
-        ],
-        "sportId": 1,
-        "sport_id": 1,
-        "videoUrl": "https://live2.trendgallary.com/live/12562090_8386335175fc7f8572734ed1bf3e83ab_autoChange.m3u8?auth_key=1772502828-0-0-8f7cd7cae3a1f02e36a1a5ad814a0565",
-        "video_url": "https://live2.trendgallary.com/live/12562090_8386335175fc7f8572734ed1bf3e83ab_autoChange.m3u8?auth_key=1772502828-0-0-8f7cd7cae3a1f02e36a1a5ad814a0565",
-        "zalo_enabled": false,
-        "zalo_phone": "0858.465.868"
       },
       "romania-nu-vs-moldova-nu-luc-2300-ngay-03-03-2026-vrqwni436n9h4qn": {
         "anchorAppointmentVoList": [
@@ -4963,14 +4566,14 @@
             "houseId": "75915087",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODRjNGMzZDI0ODItMDg5Yg/ZjUzY2VhODIzYWQtYWI4YQ.png",
             "houseIntroduction": "",
-            "houseName": "POR D1\tGil Vicente\tvs Benfica",
+            "houseName": "ARG D1\tDep. Riestra\tvs  Platense",
             "liveStatus": 2,
             "matchId": "xvkjoi8zr1ji879",
             "nickName": "BLV MONSTER",
             "playStreamAddress": "https://live5.msrktz.app/live/75915087.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/75915087.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZmNmM2FmOGQwNmQtOWI2MQ/ZmU2Y2FjNGFiYTAtNDc2NA.jpg",
-            "visitHistory": 2621400
+            "visitHistory": 2621471
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465531",
@@ -5125,9 +4728,9 @@
           "competition_id": "l965mkyhe0r1ge4",
           "custom_key": "a0545dab5432fbe11bf2808c0c805ed8",
           "environment": {
-            "humidity": "80%",
-            "pressure": "771mmHg",
-            "temperature": "14°C",
+            "humidity": "83%",
+            "pressure": "772mmHg",
+            "temperature": "13°C",
             "weather": 7,
             "wind": "4.0m/s"
           },
@@ -5167,9 +4770,9 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "80%",
-              "pressure": "771mmHg",
-              "temperature": "14°C",
+              "humidity": "83%",
+              "pressure": "772mmHg",
+              "temperature": "13°C",
               "weather": 7,
               "wind": "4.0m/s"
             },
@@ -5196,7 +4799,7 @@
             },
             "season_id": "jednm9wh19lryox",
             "status_id": 1,
-            "updated_at": 1772487615,
+            "updated_at": 1772489415,
             "venue_id": ""
           },
           "referee_id": "",
@@ -5204,7 +4807,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-02T21:57:48.586Z",
+        "node_api_updated_at": "2026-03-02T22:29:48.561Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -5605,7 +5208,7 @@
           "status_id": 1,
           "venue_id": "x7lm7phkolgm2wd"
         },
-        "node_api_updated_at": "2026-03-02T21:57:48.590Z",
+        "node_api_updated_at": "2026-03-02T22:29:48.564Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -5622,13 +5225,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MDFlMmFlYzk0NDEtMjA4NA/MTI0MTFkNzg0ZmYtYTA4ZA.png",
             "houseIntroduction": "",
             "houseName": "POR LRU23\tTorreense U23\tvs  Academico Viseu U23",
-            "liveStatus": 2,
+            "liveStatus": 1,
             "matchId": "o17pjio912msy7j",
             "nickName": "BLV MOUNTAIN DEW",
             "playStreamAddress": "https://live5.msrktz.app/live/87547578.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/87547578.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NDU2ODM5ZDZhY2QtOTg5Ng/MjU3MDJjNmI3ZDctMDk2Yg.jpg",
-            "visitHistory": 2616659
+            "visitHistory": 2616672
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4454753",
@@ -5862,7 +5465,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-02T21:57:48.332Z",
+        "node_api_updated_at": "2026-03-02T22:29:48.301Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -5877,13 +5480,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MDFlMmFlYzk0NDEtMjA4NA/MTI0MTFkNzg0ZmYtYTA4ZA.png",
             "houseIntroduction": "",
             "houseName": "POR LRU23\tTorreense U23\tvs  Academico Viseu U23",
-            "liveStatus": 2,
+            "liveStatus": 1,
             "matchId": "o07dni5mwzlumkn",
             "nickName": "BLV MOUNTAIN DEW",
             "playStreamAddress": "https://live5.msrktz.app/live/87547578.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/87547578.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NDU2ODM5ZDZhY2QtOTg5Ng/MjU3MDJjNmI3ZDctMDk2Yg.jpg",
-            "visitHistory": 2616659
+            "visitHistory": 2616672
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4472517",
@@ -6042,7 +5645,7 @@
           "status_id": 1,
           "venue_id": "gy0or5jh2e3qwzv"
         },
-        "node_api_updated_at": "2026-03-02T21:57:48.585Z",
+        "node_api_updated_at": "2026-03-02T22:29:48.560Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -6224,7 +5827,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-02T21:57:48.324Z",
+        "node_api_updated_at": "2026-03-02T22:29:48.291Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -6327,9 +5930,9 @@
           "competition_id": "8y39mp1h26mojxg",
           "custom_key": "d7f9184b5d50afb8243bb7144f93fcef",
           "environment": {
-            "humidity": "78%",
+            "humidity": "77%",
             "pressure": "759mmHg",
-            "temperature": "24°C",
+            "temperature": "25°C",
             "weather": 7,
             "wind": "3.7m/s"
           },
@@ -6369,9 +5972,9 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "78%",
+              "humidity": "77%",
               "pressure": "759mmHg",
-              "temperature": "24°C",
+              "temperature": "25°C",
               "weather": 7,
               "wind": "3.7m/s"
             },
@@ -6398,7 +6001,7 @@
             },
             "season_id": "9vjxm8ghny8r6od",
             "status_id": 1,
-            "updated_at": 1772486470,
+            "updated_at": 1772488815,
             "venue_id": ""
           },
           "referee_id": "",
@@ -6406,7 +6009,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-02T21:57:48.675Z",
+        "node_api_updated_at": "2026-03-02T22:29:48.657Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -6570,14 +6173,14 @@
             "houseId": "24561735",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzZmMTdhNDQyODUtMzUzOA/OTllZGUxNmUwOGEtZmZhZQ.png",
             "houseIntroduction": "",
-            "houseName": "SPA D1  Real Madrid   vs  Getafe  ",
-            "liveStatus": 2,
+            "houseName": "ACL Elite    Gangwon  vs  Machida  ",
+            "liveStatus": 1,
             "matchId": "ezk96i3lw51c1kn",
             "nickName": "BLV COCA",
             "playStreamAddress": "https://live5.msrktz.app/live/24561735.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/24561735.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MGFjOWJmNDI2NTgtMjM1Zg/OGMwZTMzY2M3YzctOTVkNA.jpg",
-            "visitHistory": 4103559
+            "visitHistory": 4103591
           },
           {
             "anchorTitle": "",
@@ -6586,14 +6189,14 @@
             "houseId": "14830711",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzhjMjFiYTAzYWYtMGYzNQ/M2NkNmI4NGU4NjItNGQ1Yg.jpg",
             "houseIntroduction": "",
-            "houseName": "SPA D1\tReal Madrid\tvs  Getafe",
-            "liveStatus": 2,
+            "houseName": "AUS D1\tMacarthur FC\tvs Central Coast Mariners",
+            "liveStatus": 1,
             "matchId": "ezk96i3lw51c1kn",
             "nickName": "BLV GIÀ LÀNG",
             "playStreamAddress": "https://live5.msrktz.app/live/14830711.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/14830711.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NWJlYjRhNTYyZmYtZTM3MQ/ZjY3N2M5NzhkZDMtMWQyMw.jpg",
-            "visitHistory": 3635244
+            "visitHistory": 3635266
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4390938",
@@ -6661,14 +6264,14 @@
             "houseId": "97312754",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OGZiZDA0Y2QyMWItMjY3Ng/Yjg4YzFjNjYzYmYtNmE2NQ.png",
             "houseIntroduction": "",
-            "houseName": "SPA D1  Real Madrid  vs  Getafe  ",
-            "liveStatus": 2,
+            "houseName": "ACL Elite  Gangwon   vs  Machida   ",
+            "liveStatus": 1,
             "matchId": "o17pjiorp9mfy7j",
             "nickName": "BLV ÔLONG",
             "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
-            "visitHistory": 2231650
+            "visitHistory": 2231679
           },
           {
             "anchorTitle": "",
@@ -6677,14 +6280,14 @@
             "houseId": "24561735",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzZmMTdhNDQyODUtMzUzOA/OTllZGUxNmUwOGEtZmZhZQ.png",
             "houseIntroduction": "",
-            "houseName": "SPA D1  Real Madrid   vs  Getafe  ",
-            "liveStatus": 2,
+            "houseName": "ACL Elite    Gangwon  vs  Machida  ",
+            "liveStatus": 1,
             "matchId": "o17pjiorp9mfy7j",
             "nickName": "BLV COCA",
             "playStreamAddress": "https://live5.msrktz.app/live/24561735.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/24561735.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MGFjOWJmNDI2NTgtMjM1Zg/OGMwZTMzY2M3YzctOTVkNA.jpg",
-            "visitHistory": 4103559
+            "visitHistory": 4103591
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4343297",
