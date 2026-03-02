@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T15:36:46.922561",
+  "last_updated": "2026-03-02T16:07:02.923521",
   "event_count": 3,
   "events": {
     "code": "0000",
@@ -316,7 +316,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-02T15:35:48.279Z",
+        "node_api_updated_at": "2026-03-02T16:05:48.274Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -492,7 +492,7 @@
           "competition_id": "p3glrw7hevqdyjv",
           "custom_key": "61eb8da4b72b3ff96a0ba128d1062504",
           "environment": {
-            "humidity": "57%",
+            "humidity": "56%",
             "pressure": "757mmHg",
             "temperature": "25°C",
             "weather": 1,
@@ -534,7 +534,7 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "57%",
+              "humidity": "56%",
               "pressure": "757mmHg",
               "temperature": "25°C",
               "weather": 1,
@@ -563,7 +563,7 @@
             },
             "season_id": "vjxm8gh4vvwr6od",
             "status_id": 1,
-            "updated_at": 1772463616,
+            "updated_at": 1772465416,
             "venue_id": "9k82rekhvkerepz"
           },
           "referee_id": "kdj2ryoh22jq1zp",
@@ -571,7 +571,7 @@
           "status_id": 1,
           "venue_id": "9k82rekhvkerepz"
         },
-        "node_api_updated_at": "2026-03-02T15:35:48.275Z",
+        "node_api_updated_at": "2026-03-02T16:05:48.269Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -753,7 +753,7 @@
           "status_id": 1,
           "venue_id": "56ypq3nhz72md7o"
         },
-        "node_api_updated_at": "2026-03-02T15:35:48.274Z",
+        "node_api_updated_at": "2026-03-02T16:05:48.269Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -774,7 +774,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/87547578.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/87547578.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NDU2ODM5ZDZhY2QtOTg5Ng/MjU3MDJjNmI3ZDctMDk2Yg.jpg",
-            "visitHistory": 2616593
+            "visitHistory": 2616599
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4351524",
@@ -933,7 +933,7 @@
           "status_id": 1,
           "venue_id": "jednm9wh9zjryox"
         },
-        "node_api_updated_at": "2026-03-02T15:35:48.458Z",
+        "node_api_updated_at": "2026-03-02T16:05:48.434Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -964,14 +964,14 @@
             "houseId": "02456966",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NWE0OTdhYWE1NGYtMjdkZg/MTVkZDcyNjEyM2MtNDRjMA.png",
             "houseIntroduction": "",
-            "houseName": "IDN D1\tPSM Makassar vs Persita Tangerang",
+            "houseName": "   \t ACL Elite Melbourne City vs Buriram United",
             "liveStatus": 1,
             "matchId": "edq09ilp0n6seqx",
             "nickName": "BLV SODA",
             "playStreamAddress": "https://live5.msrktz.app/live/02456966.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/02456966.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NjBlZWE2MDY4ZTEtMjNjNw/OWUzMmZkYjk2ZjAtODI3NQ.png",
-            "visitHistory": 215365
+            "visitHistory": 215403
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4343279",
@@ -1207,7 +1207,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-02T15:35:48.277Z",
+        "node_api_updated_at": "2026-03-02T16:05:48.272Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -1513,7 +1513,7 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzhjMjFiYTAzYWYtMGYzNQ/M2NkNmI4NGU4NjItNGQ1Yg.jpg",
             "houseIntroduction": "",
             "houseName": "SER SL\t FK IMT Belgrad  vs  Radnik Surdulica",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "j374oi0nzz3ugqo",
             "nickName": "BLV GIÀ LÀNG",
             "playStreamAddress": "https://live5.msrktz.app/live/14830711.flv",
@@ -1603,14 +1603,14 @@
             "houseId": "02456966",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NWE0OTdhYWE1NGYtMjdkZg/MTVkZDcyNjEyM2MtNDRjMA.png",
             "houseIntroduction": "",
-            "houseName": "IDN D1\tPSM Makassar vs Persita Tangerang",
+            "houseName": "   \t ACL Elite Melbourne City vs Buriram United",
             "liveStatus": 1,
             "matchId": "9gklzi11684sm7x",
             "nickName": "BLV SODA",
             "playStreamAddress": "https://live5.msrktz.app/live/02456966.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/02456966.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NjBlZWE2MDY4ZTEtMjNjNw/OWUzMmZkYjk2ZjAtODI3NQ.png",
-            "visitHistory": 215365
+            "visitHistory": 215403
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4499652",
@@ -1685,7 +1685,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/87547578.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/87547578.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NDU2ODM5ZDZhY2QtOTg5Ng/MjU3MDJjNmI3ZDctMDk2Yg.jpg",
-            "visitHistory": 2616593
+            "visitHistory": 2616599
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4506881",
@@ -1915,7 +1915,7 @@
           "competition_id": "p3glrw7hevqdyjv",
           "custom_key": "e5b3a3c3d820289f429ac06deb062ca2",
           "environment": {
-            "humidity": "56%",
+            "humidity": "55%",
             "pressure": "755mmHg",
             "temperature": "27°C",
             "weather": 5,
@@ -1957,7 +1957,7 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "56%",
+              "humidity": "55%",
               "pressure": "755mmHg",
               "temperature": "27°C",
               "weather": 5,
@@ -1986,7 +1986,7 @@
             },
             "season_id": "vjxm8gh4vvwr6od",
             "status_id": 1,
-            "updated_at": 1772463616,
+            "updated_at": 1772465416,
             "venue_id": "p3glrw7hldpqdyj"
           },
           "referee_id": "jednm9whz38ryox",
@@ -1994,7 +1994,7 @@
           "status_id": 1,
           "venue_id": "p3glrw7hldpqdyj"
         },
-        "node_api_updated_at": "2026-03-02T15:35:48.605Z",
+        "node_api_updated_at": "2026-03-02T16:05:48.612Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -2249,7 +2249,7 @@
           "status_id": 1,
           "venue_id": "yl5ergph358r8k0"
         },
-        "node_api_updated_at": "2026-03-02T15:35:48.091Z",
+        "node_api_updated_at": "2026-03-02T16:05:48.098Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -2374,14 +2374,14 @@
             "houseId": "88508431",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OGU2MGFkODUxMjEtNjA2ZQ/MjcxYzQ3ZGEzMDYtMWU0ZQ.jpg",
             "houseIntroduction": "",
-            "houseName": "IDN D1\tPersebaya Surabaya\tvs Persib Bandung",
-            "liveStatus": 2,
+            "houseName": "ARG D1 Ind. Rivadavia vs River Plate",
+            "liveStatus": 1,
             "matchId": "ezk96i330g6h1kn",
             "nickName": "BLV RỒNG ĐỎ",
             "playStreamAddress": "https://live5.msrktz.app/live/88508431.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/88508431.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/YTMxY2ZmY2JhYzAtZjFjZQ/NTA1ZDM4ZTc3M2EtYWFiYQ.jpg",
-            "visitHistory": 2131810
+            "visitHistory": 2131815
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4493049",
@@ -2535,7 +2535,13 @@
           },
           "competition_id": "z8yomo4h11q0j6l",
           "custom_key": "e276ab5cad9dcac436abc204b8dc250f",
-          "environment": {},
+          "environment": {
+            "humidity": "46%",
+            "pressure": "769mmHg",
+            "temperature": "18°C",
+            "weather": 5,
+            "wind": "2.9m/s"
+          },
           "home_scores": [
             0,
             0,
@@ -2571,6 +2577,13 @@
               "lineup": 0,
               "mlive": 1
             },
+            "environment": {
+              "humidity": "46%",
+              "pressure": "769mmHg",
+              "temperature": "18°C",
+              "weather": 5,
+              "wind": "2.9m/s"
+            },
             "home_position": "12",
             "home_scores": [
               0,
@@ -2594,7 +2607,7 @@
             },
             "season_id": "9vjxm8ghykvr6od",
             "status_id": 1,
-            "updated_at": 1772335268,
+            "updated_at": 1772464815,
             "venue_id": "gpxwrxlhjknryk0"
           },
           "referee_id": "",
@@ -2602,7 +2615,7 @@
           "status_id": 1,
           "venue_id": "gpxwrxlhjknryk0"
         },
-        "node_api_updated_at": "2026-03-02T15:35:48.604Z",
+        "node_api_updated_at": "2026-03-02T16:05:48.610Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -2874,7 +2887,7 @@
           "status_id": 1,
           "venue_id": "p4jwq2gh2znm0ve"
         },
-        "node_api_updated_at": "2026-03-02T15:35:48.531Z",
+        "node_api_updated_at": "2026-03-02T16:05:48.529Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -3054,7 +3067,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-02T15:35:48.086Z",
+        "node_api_updated_at": "2026-03-02T16:05:48.092Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -3236,7 +3249,7 @@
           "status_id": 1,
           "venue_id": "p4jwq2ghvxvm0ve"
         },
-        "node_api_updated_at": "2026-03-02T15:35:48.178Z",
+        "node_api_updated_at": "2026-03-02T16:05:48.180Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -3398,7 +3411,7 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzhjMjFiYTAzYWYtMGYzNQ/M2NkNmI4NGU4NjItNGQ1Yg.jpg",
             "houseIntroduction": "",
             "houseName": "SER SL\t FK IMT Belgrad  vs  Radnik Surdulica",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "8lk2dir55m0uz73",
             "nickName": "BLV GIÀ LÀNG",
             "playStreamAddress": "https://live5.msrktz.app/live/14830711.flv",
@@ -3454,10 +3467,10 @@
         },
         "house_id": null,
         "matchId": "8lk2dir55m0uz73",
-        "matchStatus": 1,
+        "matchStatus": 2,
         "matchTime": 1772467200,
         "match_id": "8lk2dir55m0uz73",
-        "match_status": "scheduled",
+        "match_status": "live",
         "match_time": 1772467200,
         "node_api_data": {
           "_id": "69a4d5c907c7bc72a5934a9e",
@@ -3484,11 +3497,11 @@
           "competition_id": "yl5ergphk2r8k0o",
           "custom_key": "9bf161d3ab46c4a5a0c3b1467ddea86b",
           "environment": {
-            "humidity": "66%",
+            "humidity": "67%",
             "pressure": "770mmHg",
             "temperature": "12°C",
             "weather": 5,
-            "wind": "0.9m/s"
+            "wind": "1.2m/s"
           },
           "home_scores": [
             0,
@@ -3526,11 +3539,11 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "66%",
+              "humidity": "67%",
               "pressure": "770mmHg",
               "temperature": "12°C",
               "weather": 5,
-              "wind": "0.9m/s"
+              "wind": "1.2m/s"
             },
             "home_position": "12",
             "home_scores": [
@@ -3555,7 +3568,7 @@
             },
             "season_id": "j1l4rjnhvz7m7vx",
             "status_id": 1,
-            "updated_at": 1772464027,
+            "updated_at": 1772464815,
             "venue_id": "p3glrw7hx07qdyj"
           },
           "referee_id": "",
@@ -3563,11 +3576,11 @@
           "status_id": 1,
           "venue_id": "p3glrw7hx07qdyj"
         },
-        "node_api_updated_at": "2026-03-02T15:35:48.455Z",
+        "node_api_updated_at": "2026-03-02T16:05:48.432Z",
         "sportId": 1,
         "sport_id": 1,
-        "videoUrl": "https",
-        "video_url": "https"
+        "videoUrl": "https://live1.trendgallary.com/live/13615621_e851f398469b9d9d50583aadff6cb46d_autoChange.m3u8?auth_key=1772481695-0-0-32b68e67862a9dc4b93cdb38925d6336",
+        "video_url": "https://live1.trendgallary.com/live/13615621_e851f398469b9d9d50583aadff6cb46d_autoChange.m3u8?auth_key=1772481695-0-0-32b68e67862a9dc4b93cdb38925d6336"
       },
       "independiente-petroleros-vs-guabira-bol-luc-0500-ngay-04-03-2026-wv78xivx52ocokr": {
         "anchorAppointmentVoList": [
@@ -3653,14 +3666,14 @@
             "houseId": "88508431",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OGU2MGFkODUxMjEtNjA2ZQ/MjcxYzQ3ZGEzMDYtMWU0ZQ.jpg",
             "houseIntroduction": "",
-            "houseName": "IDN D1\tPersebaya Surabaya\tvs Persib Bandung",
-            "liveStatus": 2,
+            "houseName": "ARG D1 Ind. Rivadavia vs River Plate",
+            "liveStatus": 1,
             "matchId": "69759igz2p1fgk2",
             "nickName": "BLV RỒNG ĐỎ",
             "playStreamAddress": "https://live5.msrktz.app/live/88508431.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/88508431.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/YTMxY2ZmY2JhYzAtZjFjZQ/NTA1ZDM4ZTc3M2EtYWFiYQ.jpg",
-            "visitHistory": 2131810
+            "visitHistory": 2131815
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465063",
@@ -3819,7 +3832,7 @@
           "status_id": 1,
           "venue_id": "4zp5rzgh007q82w"
         },
-        "node_api_updated_at": "2026-03-02T15:35:48.359Z",
+        "node_api_updated_at": "2026-03-02T16:05:48.342Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -3833,14 +3846,14 @@
             "houseId": "88508431",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OGU2MGFkODUxMjEtNjA2ZQ/MjcxYzQ3ZGEzMDYtMWU0ZQ.jpg",
             "houseIntroduction": "",
-            "houseName": "IDN D1\tPersebaya Surabaya\tvs Persib Bandung",
-            "liveStatus": 2,
+            "houseName": "ARG D1 Ind. Rivadavia vs River Plate",
+            "liveStatus": 1,
             "matchId": "34kgmioe63xseko",
             "nickName": "BLV RỒNG ĐỎ",
             "playStreamAddress": "https://live5.msrktz.app/live/88508431.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/88508431.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/YTMxY2ZmY2JhYzAtZjFjZQ/NTA1ZDM4ZTc3M2EtYWFiYQ.jpg",
-            "visitHistory": 2131810
+            "visitHistory": 2131815
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4462109",
@@ -3919,7 +3932,13 @@
           },
           "competition_id": "z8yomo4h11q0j6l",
           "custom_key": "d6ed502df4f068c1180fae708f0b23c6",
-          "environment": {},
+          "environment": {
+            "humidity": "65%",
+            "pressure": "770mmHg",
+            "temperature": "11°C",
+            "weather": 7,
+            "wind": "2.9m/s"
+          },
           "home_scores": [
             0,
             0,
@@ -3955,6 +3974,13 @@
               "lineup": 0,
               "mlive": 1
             },
+            "environment": {
+              "humidity": "65%",
+              "pressure": "770mmHg",
+              "temperature": "11°C",
+              "weather": 7,
+              "wind": "2.9m/s"
+            },
             "home_position": "13",
             "home_scores": [
               0,
@@ -3978,7 +4004,7 @@
             },
             "season_id": "9vjxm8ghykvr6od",
             "status_id": 1,
-            "updated_at": 1772284026,
+            "updated_at": 1772466015,
             "venue_id": ""
           },
           "referee_id": "",
@@ -3986,7 +4012,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-02T15:35:48.537Z",
+        "node_api_updated_at": "2026-03-02T16:05:48.537Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -4172,7 +4198,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/87547578.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/87547578.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NDU2ODM5ZDZhY2QtOTg5Ng/MjU3MDJjNmI3ZDctMDk2Yg.jpg",
-            "visitHistory": 2616593
+            "visitHistory": 2616599
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4420427",
@@ -4222,10 +4248,10 @@
         },
         "house_id": null,
         "matchId": "ndqmliw5vj3brkv",
-        "matchStatus": 1,
+        "matchStatus": 2,
         "matchTime": 1772467200,
         "match_id": "ndqmliw5vj3brkv",
-        "match_status": "scheduled",
+        "match_status": "live",
         "match_time": 1772467200,
         "node_api_data": {
           "_id": "69a4d5c907c7bc72a5934ab5",
@@ -4252,11 +4278,11 @@
           "competition_id": "kn54qllhn0qvy9d",
           "custom_key": "f42a4e4cb0b85e94114964ca3367f47f",
           "environment": {
-            "humidity": "60%",
+            "humidity": "72%",
             "pressure": "769mmHg",
-            "temperature": "10°C",
-            "weather": 1,
-            "wind": "1.8m/s"
+            "temperature": "9°C",
+            "weather": 7,
+            "wind": "2.6m/s"
           },
           "home_scores": [
             0,
@@ -4294,11 +4320,11 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "60%",
+              "humidity": "72%",
               "pressure": "769mmHg",
-              "temperature": "10°C",
-              "weather": 1,
-              "wind": "1.8m/s"
+              "temperature": "9°C",
+              "weather": 7,
+              "wind": "2.6m/s"
             },
             "home_position": "3",
             "home_scores": [
@@ -4323,7 +4349,7 @@
             },
             "season_id": "9vjxm8ghyjkr6od",
             "status_id": 1,
-            "updated_at": 1772463616,
+            "updated_at": 1772465416,
             "venue_id": "z8yomo4h2gdq0j6"
           },
           "referee_id": "4zp5rzgh4xzq82w",
@@ -4331,11 +4357,11 @@
           "status_id": 1,
           "venue_id": "z8yomo4h2gdq0j6"
         },
-        "node_api_updated_at": "2026-03-02T15:35:48.610Z",
+        "node_api_updated_at": "2026-03-02T16:05:48.616Z",
         "sportId": 1,
         "sport_id": 1,
-        "videoUrl": "https",
-        "video_url": "https"
+        "videoUrl": "https://live2.trendgallary.com/live/13581664_63d1b675b71b0e85a373d1c812d9052d_autoChange.m3u8?auth_key=1772481695-0-0-5a00087266bde0c0b6054b9e7f7402f3",
+        "video_url": "https://live2.trendgallary.com/live/13581664_63d1b675b71b0e85a373d1c812d9052d_autoChange.m3u8?auth_key=1772481695-0-0-5a00087266bde0c0b6054b9e7f7402f3"
       },
       "madura-united-vs-malut-united-luc-2030-ngay-03-03-2026-63kv9ig9n9eix7e": {
         "anchorAppointmentVoList": [
@@ -4512,7 +4538,7 @@
           "status_id": 1,
           "venue_id": "2y8m4zh30poql07"
         },
-        "node_api_updated_at": "2026-03-02T15:35:48.170Z",
+        "node_api_updated_at": "2026-03-02T16:05:48.173Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -4528,14 +4554,14 @@
             "houseId": "02456966",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NWE0OTdhYWE1NGYtMjdkZg/MTVkZDcyNjEyM2MtNDRjMA.png",
             "houseIntroduction": "",
-            "houseName": "IDN D1\tPSM Makassar vs Persita Tangerang",
+            "houseName": "   \t ACL Elite Melbourne City vs Buriram United",
             "liveStatus": 1,
             "matchId": "527r3i44wg3a47e",
             "nickName": "BLV SODA",
             "playStreamAddress": "https://live5.msrktz.app/live/02456966.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/02456966.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NjBlZWE2MDY4ZTEtMjNjNw/OWUzMmZkYjk2ZjAtODI3NQ.png",
-            "visitHistory": 215365
+            "visitHistory": 215403
           },
           {
             "anchorTitle": "",
@@ -4787,14 +4813,14 @@
             "houseId": "88508431",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OGU2MGFkODUxMjEtNjA2ZQ/MjcxYzQ3ZGEzMDYtMWU0ZQ.jpg",
             "houseIntroduction": "",
-            "houseName": "IDN D1\tPersebaya Surabaya\tvs Persib Bandung",
-            "liveStatus": 2,
+            "houseName": "ARG D1 Ind. Rivadavia vs River Plate",
+            "liveStatus": 1,
             "matchId": "ndkz6i3xdooaxq3",
             "nickName": "BLV RỒNG ĐỎ",
             "playStreamAddress": "https://live5.msrktz.app/live/88508431.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/88508431.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/YTMxY2ZmY2JhYzAtZjFjZQ/NTA1ZDM4ZTc3M2EtYWFiYQ.jpg",
-            "visitHistory": 2131810
+            "visitHistory": 2131815
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4390948",
@@ -5103,7 +5129,7 @@
           "status_id": 1,
           "venue_id": "e4wyrn4h4jxq86p"
         },
-        "node_api_updated_at": "2026-03-02T15:35:48.177Z",
+        "node_api_updated_at": "2026-03-02T16:05:48.178Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -5331,7 +5357,7 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzhjMjFiYTAzYWYtMGYzNQ/M2NkNmI4NGU4NjItNGQ1Yg.jpg",
             "houseIntroduction": "",
             "houseName": "SER SL\t FK IMT Belgrad  vs  Radnik Surdulica",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "jr7owipjno6igq0",
             "nickName": "BLV GIÀ LÀNG",
             "playStreamAddress": "https://live5.msrktz.app/live/14830711.flv",
@@ -5496,7 +5522,7 @@
           "status_id": 1,
           "venue_id": "z8yomo4hke0q0j6"
         },
-        "node_api_updated_at": "2026-03-02T15:35:48.280Z",
+        "node_api_updated_at": "2026-03-02T16:05:48.274Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -5897,7 +5923,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-02T15:35:48.457Z",
+        "node_api_updated_at": "2026-03-02T16:05:48.433Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -6219,11 +6245,11 @@
           "competition_id": "kn54qllhn0qvy9d",
           "custom_key": "abdded6af343a52401245d08953ff6ac",
           "environment": {
-            "humidity": "67%",
+            "humidity": "68%",
             "pressure": "770mmHg",
             "temperature": "11°C",
             "weather": 1,
-            "wind": "1.5m/s"
+            "wind": "1.2m/s"
           },
           "home_scores": [
             0,
@@ -6261,11 +6287,11 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "67%",
+              "humidity": "68%",
               "pressure": "770mmHg",
               "temperature": "11°C",
               "weather": 1,
-              "wind": "1.5m/s"
+              "wind": "1.2m/s"
             },
             "home_position": "14",
             "home_scores": [
@@ -6290,7 +6316,7 @@
             },
             "season_id": "9vjxm8ghyjkr6od",
             "status_id": 1,
-            "updated_at": 1772463615,
+            "updated_at": 1772465415,
             "venue_id": "x7lm7phkolgm2wd"
           },
           "referee_id": "",
@@ -6298,7 +6324,7 @@
           "status_id": 1,
           "venue_id": "x7lm7phkolgm2wd"
         },
-        "node_api_updated_at": "2026-03-02T15:35:48.460Z",
+        "node_api_updated_at": "2026-03-02T16:05:48.437Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -6321,7 +6347,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/87547578.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/87547578.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NDU2ODM5ZDZhY2QtOTg5Ng/MjU3MDJjNmI3ZDctMDk2Yg.jpg",
-            "visitHistory": 2616593
+            "visitHistory": 2616599
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4454753",
@@ -6389,14 +6415,14 @@
             "houseId": "02456966",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NWE0OTdhYWE1NGYtMjdkZg/MTVkZDcyNjEyM2MtNDRjMA.png",
             "houseIntroduction": "",
-            "houseName": "IDN D1\tPSM Makassar vs Persita Tangerang",
+            "houseName": "   \t ACL Elite Melbourne City vs Buriram United",
             "liveStatus": 1,
             "matchId": "vrqwni43616a4qn",
             "nickName": "BLV SODA",
             "playStreamAddress": "https://live5.msrktz.app/live/02456966.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/02456966.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NjBlZWE2MDY4ZTEtMjNjNw/OWUzMmZkYjk2ZjAtODI3NQ.png",
-            "visitHistory": 215365
+            "visitHistory": 215403
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4454790",
@@ -6555,7 +6581,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-02T15:35:48.180Z",
+        "node_api_updated_at": "2026-03-02T16:05:48.181Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -6576,7 +6602,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/87547578.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/87547578.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NDU2ODM5ZDZhY2QtOTg5Ng/MjU3MDJjNmI3ZDctMDk2Yg.jpg",
-            "visitHistory": 2616593
+            "visitHistory": 2616599
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4472517",
@@ -6656,7 +6682,7 @@
           "competition_id": "9dn1m1gh84pmoep",
           "custom_key": "9b5037ea7813acb66a1075ea77163552",
           "environment": {
-            "humidity": "64%",
+            "humidity": "62%",
             "pressure": "760mmHg",
             "temperature": "19°C",
             "weather": 5,
@@ -6698,7 +6724,7 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "64%",
+              "humidity": "62%",
               "pressure": "760mmHg",
               "temperature": "19°C",
               "weather": 5,
@@ -6727,7 +6753,7 @@
             },
             "season_id": "9k82rekhlx1repz",
             "status_id": 1,
-            "updated_at": 1772463616,
+            "updated_at": 1772464815,
             "venue_id": "gy0or5jh2e3qwzv"
           },
           "referee_id": "",
@@ -6735,7 +6761,7 @@
           "status_id": 1,
           "venue_id": "gy0or5jh2e3qwzv"
         },
-        "node_api_updated_at": "2026-03-02T15:35:48.455Z",
+        "node_api_updated_at": "2026-03-02T16:05:48.432Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -6904,7 +6930,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-02T15:35:48.171Z",
+        "node_api_updated_at": "2026-03-02T16:05:48.174Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -7073,7 +7099,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-02T15:35:48.537Z",
+        "node_api_updated_at": "2026-03-02T16:05:48.537Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -7174,7 +7200,7 @@
           "competition_id": "4zp5rzghp5q82w1",
           "custom_key": "8657e93c8845baebc29da4e0a7833723",
           "environment": {
-            "humidity": "94%",
+            "humidity": "95%",
             "pressure": "771mmHg",
             "temperature": "9°C",
             "weather": 7,
@@ -7216,7 +7242,7 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "94%",
+              "humidity": "95%",
               "pressure": "771mmHg",
               "temperature": "9°C",
               "weather": 7,
@@ -7245,7 +7271,7 @@
             },
             "season_id": "4zp5rzghn83q82w",
             "status_id": 1,
-            "updated_at": 1772457615,
+            "updated_at": 1772465416,
             "venue_id": "vl7oqdehnp5r510"
           },
           "referee_id": "gy0or5jh450qwzv",
@@ -7253,7 +7279,7 @@
           "status_id": 1,
           "venue_id": "vl7oqdehnp5r510"
         },
-        "node_api_updated_at": "2026-03-02T15:35:48.363Z",
+        "node_api_updated_at": "2026-03-02T16:05:48.347Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -7505,11 +7531,11 @@
           "competition_id": "kdj2ryohe2q1zpg",
           "custom_key": "6c1f110a3646f6c738d408ec92caa433",
           "environment": {
-            "humidity": "89%",
+            "humidity": "98%",
             "pressure": "770mmHg",
-            "temperature": "3°C",
+            "temperature": "1°C",
             "weather": 7,
-            "wind": "1.5m/s"
+            "wind": "0.9m/s"
           },
           "home_scores": [
             0,
@@ -7547,11 +7573,11 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "89%",
+              "humidity": "98%",
               "pressure": "770mmHg",
-              "temperature": "3°C",
+              "temperature": "1°C",
               "weather": 7,
-              "wind": "1.5m/s"
+              "wind": "0.9m/s"
             },
             "home_position": "14",
             "home_scores": [
@@ -7576,7 +7602,7 @@
             },
             "season_id": "gpxwrxlhd92ryk0",
             "status_id": 1,
-            "updated_at": 1772463616,
+            "updated_at": 1772464815,
             "venue_id": "kn54qllhwpgqvy9"
           },
           "referee_id": "vl7oqdeh0oyr510",
@@ -7584,7 +7610,7 @@
           "status_id": 1,
           "venue_id": "kn54qllhwpgqvy9"
         },
-        "node_api_updated_at": "2026-03-02T15:35:48.278Z",
+        "node_api_updated_at": "2026-03-02T16:05:48.272Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -7615,7 +7641,7 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzhjMjFiYTAzYWYtMGYzNQ/M2NkNmI4NGU4NjItNGQ1Yg.jpg",
             "houseIntroduction": "",
             "houseName": "SER SL\t FK IMT Belgrad  vs  Radnik Surdulica",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "ezk96i3lw51c1kn",
             "nickName": "BLV GIÀ LÀNG",
             "playStreamAddress": "https://live5.msrktz.app/live/14830711.flv",
@@ -7867,11 +7893,11 @@
           "competition_id": "vl7oqdeh3lr510j",
           "custom_key": "84ea8d128007df1095611686aa601000",
           "environment": {
-            "humidity": "64%",
+            "humidity": "56%",
             "pressure": "771mmHg",
-            "temperature": "7°C",
+            "temperature": "8°C",
             "weather": 1,
-            "wind": "1.5m/s"
+            "wind": "2.3m/s"
           },
           "home_scores": [
             0,
@@ -7909,11 +7935,11 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "64%",
+              "humidity": "56%",
               "pressure": "771mmHg",
-              "temperature": "7°C",
+              "temperature": "8°C",
               "weather": 1,
-              "wind": "1.5m/s"
+              "wind": "2.3m/s"
             },
             "home_position": "3",
             "home_scores": [
@@ -7938,7 +7964,7 @@
             },
             "season_id": "p4jwq2gh8l5m0ve",
             "status_id": 1,
-            "updated_at": 1772459415,
+            "updated_at": 1772464815,
             "venue_id": "d23xmvkhdkvqg8n"
           },
           "referee_id": "gpxwrxlh2ojryk0",
@@ -7946,7 +7972,7 @@
           "status_id": 1,
           "venue_id": "d23xmvkhdkvqg8n"
         },
-        "node_api_updated_at": "2026-03-02T15:35:48.363Z",
+        "node_api_updated_at": "2026-03-02T16:05:48.347Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
