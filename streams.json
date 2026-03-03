@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-03T23:01:31.020908",
+  "last_updated": "2026-03-03T23:35:26.107051",
   "event_count": 3,
   "events": {
     "code": "0000",
@@ -196,7 +196,7 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmZlNjJjNjgzNmMtYWM2MQ/NTBkOTRhMGY5ODQtZjAxOQ.png",
             "houseIntroduction": "",
             "houseName": " Atl.   Tucuman  vs  Racing Club ",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "ndkz6i3j5w8hxq3",
             "nickName": "BLV REVIVE",
             "playStreamAddress": "https://live5.msrktz.app/live/33982309.flv",
@@ -286,7 +286,7 @@
             "pressure": "759mmHg",
             "temperature": "18°C",
             "weather": 7,
-            "wind": "0.1m/s"
+            "wind": "0.4m/s"
           },
           "home_scores": [
             0,
@@ -329,7 +329,7 @@
               "pressure": "759mmHg",
               "temperature": "18°C",
               "weather": 7,
-              "wind": "0.1m/s"
+              "wind": "0.4m/s"
             },
             "home_position": "13",
             "home_scores": [
@@ -354,7 +354,7 @@
             },
             "season_id": "vjxm8gh4vvwr6od",
             "status_id": 1,
-            "updated_at": 1772576427,
+            "updated_at": 1772579428,
             "venue_id": "kjw2r09h1wlrz84"
           },
           "referee_id": "p4jwq2ghkl8m0ve",
@@ -362,7 +362,7 @@
           "status_id": 1,
           "venue_id": "kjw2r09h1wlrz84"
         },
-        "node_api_updated_at": "2026-03-03T23:00:46.876Z",
+        "node_api_updated_at": "2026-03-03T23:34:46.882Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -384,7 +384,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/75915087.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/75915087.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZmNmM2FmOGQwNmQtOWI2MQ/ZmU2Y2FjNGFiYTAtNDc2NA.jpg",
-            "visitHistory": 2621897
+            "visitHistory": 2621965
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465510",
@@ -694,7 +694,7 @@
           "status_id": 1,
           "venue_id": "gpxwrxlhve5ryk0"
         },
-        "node_api_updated_at": "2026-03-03T23:00:47.018Z",
+        "node_api_updated_at": "2026-03-03T23:34:47.027Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -1106,7 +1106,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2229814
+            "visitHistory": 2229852
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4504808",
@@ -1454,7 +1454,7 @@
           "status_id": 8,
           "venue_id": "8y39mp1h3xgmojx"
         },
-        "node_api_updated_at": "2026-03-03T23:00:46.865Z",
+        "node_api_updated_at": "2026-03-03T23:34:46.874Z",
         "pin_hot_anchor": "90865415",
         "sportId": 1,
         "sport_id": 1,
@@ -1487,7 +1487,7 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmZlNjJjNjgzNmMtYWM2MQ/NTBkOTRhMGY5ODQtZjAxOQ.png",
             "houseIntroduction": "",
             "houseName": " Atl.   Tucuman  vs  Racing Club ",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "ndqmliw83w1srkv",
             "nickName": "BLV REVIVE",
             "playStreamAddress": "https://live5.msrktz.app/live/33982309.flv",
@@ -1669,7 +1669,7 @@
           "status_id": 1,
           "venue_id": "gpxwrxlh71lryk0"
         },
-        "node_api_updated_at": "2026-03-03T23:00:46.875Z",
+        "node_api_updated_at": "2026-03-03T23:34:46.881Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -1852,7 +1852,7 @@
           "status_id": 1,
           "venue_id": "v2y8m4zh1nxql07"
         },
-        "node_api_updated_at": "2026-03-03T23:00:46.869Z",
+        "node_api_updated_at": "2026-03-03T23:34:46.875Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -1885,7 +1885,7 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmZlNjJjNjgzNmMtYWM2MQ/NTBkOTRhMGY5ODQtZjAxOQ.png",
             "houseIntroduction": "",
             "houseName": " Atl.   Tucuman  vs  Racing Club ",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "j374oi0dl3nbgqo",
             "nickName": "BLV REVIVE",
             "playStreamAddress": "https://live5.msrktz.app/live/33982309.flv",
@@ -2134,7 +2134,7 @@
           "status_id": 1,
           "venue_id": "vl7oqdehkz5r510"
         },
-        "node_api_updated_at": "2026-03-03T23:00:46.543Z",
+        "node_api_updated_at": "2026-03-03T23:34:46.557Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -2481,7 +2481,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/75915087.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/75915087.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZmNmM2FmOGQwNmQtOWI2MQ/ZmU2Y2FjNGFiYTAtNDc2NA.jpg",
-            "visitHistory": 2621897
+            "visitHistory": 2621965
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465077",
@@ -2513,11 +2513,11 @@
         "competitionName": "Giải Bóng đá Vô địch Quốc gia Argentina",
         "custom_key": "0fff1b06b945cfdba90fdc57c1d42831",
         "homeScore": [
-          2,
+          3,
           2,
           0,
           1,
-          1,
+          2,
           0,
           0
         ],
@@ -2543,7 +2543,7 @@
             0,
             0,
             0,
-            0,
+            1,
             0,
             0
           ],
@@ -2592,7 +2592,7 @@
               0,
               0,
               0,
-              0,
+              1,
               0,
               0
             ],
@@ -2632,20 +2632,20 @@
               "stage_id": "x7lm7ph26vem2wd"
             },
             "season_id": "vjxm8gh4vvwr6od",
-            "status_id": 2,
-            "updated_at": 1772578087,
+            "status_id": 4,
+            "updated_at": 1772579907,
             "venue_id": "kdj2ryoh2njq1zp"
           },
           "referee_id": "9k82rekhy88repz",
           "season_id": "vjxm8gh4vvwr6od",
-          "status_id": 2,
+          "status_id": 4,
           "venue_id": "kdj2ryoh2njq1zp"
         },
-        "node_api_updated_at": "2026-03-03T23:00:46.537Z",
+        "node_api_updated_at": "2026-03-03T23:34:46.552Z",
         "sportId": 1,
         "sport_id": 1,
-        "videoUrl": "https://live1.trendgallary.com/live/13459734_ea40481cea5758a91249bb57cd9e0878_autoChange.m3u8?auth_key=1772593267-0-0-b5c15cfad226949594ad965fd6437ab3",
-        "video_url": "https://live1.trendgallary.com/live/13459734_ea40481cea5758a91249bb57cd9e0878_autoChange.m3u8?auth_key=1772593267-0-0-b5c15cfad226949594ad965fd6437ab3"
+        "videoUrl": "https://live1.trendgallary.com/live/13459734_ea40481cea5758a91249bb57cd9e0878_autoChange.m3u8?auth_key=1772595297-0-0-bb78ca7da2f9857efdb4a789dd45eacd",
+        "video_url": "https://live1.trendgallary.com/live/13459734_ea40481cea5758a91249bb57cd9e0878_autoChange.m3u8?auth_key=1772595297-0-0-bb78ca7da2f9857efdb4a789dd45eacd"
       },
       "ifk-mariehamn-vs-clb-lahti-luc-2300-ngay-05-03-2026-vmqy9ivn0ljsgk9": {
         "anchorAppointmentVoList": [
@@ -2738,7 +2738,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2229814
+            "visitHistory": 2229852
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4469783",
@@ -2818,9 +2818,9 @@
           "competition_id": "56ypq3nhpkmd7oj",
           "custom_key": "cb75341fdca25cdcc0df0f7919c1b7dd",
           "environment": {
-            "humidity": "41%",
-            "pressure": "754mmHg",
-            "temperature": "21°C",
+            "humidity": "45%",
+            "pressure": "755mmHg",
+            "temperature": "19°C",
             "weather": 1,
             "wind": "5.1m/s"
           },
@@ -2828,7 +2828,7 @@
             0,
             0,
             0,
-            2,
+            3,
             2,
             0,
             0
@@ -2861,9 +2861,9 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "41%",
-              "pressure": "754mmHg",
-              "temperature": "21°C",
+              "humidity": "45%",
+              "pressure": "755mmHg",
+              "temperature": "19°C",
               "weather": 1,
               "wind": "5.1m/s"
             },
@@ -2872,7 +2872,7 @@
               0,
               0,
               0,
-              2,
+              3,
               2,
               0,
               0
@@ -2889,20 +2889,20 @@
               "stage_id": "l5ergph7172r8k0"
             },
             "season_id": "vjxm8gh4vv0r6od",
-            "status_id": 2,
-            "updated_at": 1772578210,
+            "status_id": 4,
+            "updated_at": 1772579427,
             "venue_id": "z8yomo4hkgpq0j6"
           },
           "referee_id": "p3glrw7hyk9qdyj",
           "season_id": "vjxm8gh4vv0r6od",
-          "status_id": 2,
+          "status_id": 4,
           "venue_id": "z8yomo4hkgpq0j6"
         },
-        "node_api_updated_at": "2026-03-03T23:00:46.944Z",
+        "node_api_updated_at": "2026-03-03T23:34:46.948Z",
         "sportId": 1,
         "sport_id": 1,
-        "videoUrl": "https://live2.trendgallary.com/live/13401201_73c8efd803f01cc247b5a13d7b94407c_autoChange.m3u8?auth_key=1772593266-0-0-dc7c9a0ef7604e64870fc673e89e071e",
-        "video_url": "https://live2.trendgallary.com/live/13401201_73c8efd803f01cc247b5a13d7b94407c_autoChange.m3u8?auth_key=1772593266-0-0-dc7c9a0ef7604e64870fc673e89e071e",
+        "videoUrl": "https://live2.trendgallary.com/live/13401201_73c8efd803f01cc247b5a13d7b94407c_autoChange.m3u8?auth_key=1772595297-0-0-c62543307140e1d9e494e09849ef3e84",
+        "video_url": "https://live2.trendgallary.com/live/13401201_73c8efd803f01cc247b5a13d7b94407c_autoChange.m3u8?auth_key=1772595297-0-0-c62543307140e1d9e494e09849ef3e84",
         "zalo_enabled": false,
         "zalo_phone": ""
       },
@@ -3158,7 +3158,7 @@
           "status_id": 1,
           "venue_id": "yl5ergph6lkr8k0"
         },
-        "node_api_updated_at": "2026-03-03T23:00:46.631Z",
+        "node_api_updated_at": "2026-03-03T23:34:46.635Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -3181,7 +3181,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/75915087.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/75915087.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZmNmM2FmOGQwNmQtOWI2MQ/ZmU2Y2FjNGFiYTAtNDc2NA.jpg",
-            "visitHistory": 2621897
+            "visitHistory": 2621965
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465052",
@@ -4105,7 +4105,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-03T23:00:46.795Z",
+        "node_api_updated_at": "2026-03-03T23:34:46.797Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -4126,7 +4126,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2229814
+            "visitHistory": 2229852
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465479",
@@ -4210,7 +4210,7 @@
             "pressure": "760mmHg",
             "temperature": "16°C",
             "weather": 5,
-            "wind": "5.1m/s"
+            "wind": "4.5m/s"
           },
           "home_scores": [
             0,
@@ -4253,7 +4253,7 @@
               "pressure": "760mmHg",
               "temperature": "16°C",
               "weather": 5,
-              "wind": "5.1m/s"
+              "wind": "4.5m/s"
             },
             "home_position": "5",
             "home_scores": [
@@ -4278,7 +4278,7 @@
             },
             "season_id": "d23xmvkhe76qg8n",
             "status_id": 1,
-            "updated_at": 1772575827,
+            "updated_at": 1772579427,
             "venue_id": "e4wyrn4henpq86p"
           },
           "referee_id": "e4wyrn4h7vvq86p",
@@ -4286,7 +4286,7 @@
           "status_id": 1,
           "venue_id": "e4wyrn4henpq86p"
         },
-        "node_api_updated_at": "2026-03-03T23:00:46.704Z",
+        "node_api_updated_at": "2026-03-03T23:34:46.711Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -4377,7 +4377,7 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmZlNjJjNjgzNmMtYWM2MQ/NTBkOTRhMGY5ODQtZjAxOQ.png",
             "houseIntroduction": "",
             "houseName": " Atl.   Tucuman  vs  Racing Club ",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "vrqwni4vpndu4qn",
             "nickName": "BLV REVIVE",
             "playStreamAddress": "https://live5.msrktz.app/live/33982309.flv",
@@ -4458,7 +4458,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2229814
+            "visitHistory": 2229852
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4390935",
@@ -4935,7 +4935,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/75915087.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/75915087.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZmNmM2FmOGQwNmQtOWI2MQ/ZmU2Y2FjNGFiYTAtNDc2NA.jpg",
-            "visitHistory": 2621897
+            "visitHistory": 2621965
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465531",
@@ -5095,7 +5095,7 @@
           "status_id": 1,
           "venue_id": "9vjxm8ghjg0r6od"
         },
-        "node_api_updated_at": "2026-03-03T23:00:46.871Z",
+        "node_api_updated_at": "2026-03-03T23:34:46.876Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -5277,7 +5277,7 @@
           "status_id": 1,
           "venue_id": "kdj2ryoh0vyq1zp"
         },
-        "node_api_updated_at": "2026-03-03T23:00:47.012Z",
+        "node_api_updated_at": "2026-03-03T23:34:47.021Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -5475,7 +5475,7 @@
           "status_id": 1,
           "venue_id": "yl5ergphp11r8k0"
         },
-        "node_api_updated_at": "2026-03-03T23:00:46.625Z",
+        "node_api_updated_at": "2026-03-03T23:34:46.629Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -5592,11 +5592,11 @@
           "competition_id": "z8yomo4hg66q0j6",
           "custom_key": "bddcfeb6c2bcc9eda5a9052891546e0f",
           "environment": {
-            "humidity": "51%",
+            "humidity": "50%",
             "pressure": "769mmHg",
-            "temperature": "6°C",
+            "temperature": "7°C",
             "weather": 5,
-            "wind": "2.0m/s"
+            "wind": "1.8m/s"
           },
           "home_scores": [
             0,
@@ -5635,11 +5635,11 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "51%",
+              "humidity": "50%",
               "pressure": "769mmHg",
-              "temperature": "6°C",
+              "temperature": "7°C",
               "weather": 5,
-              "wind": "2.0m/s"
+              "wind": "1.8m/s"
             },
             "home_position": "3",
             "home_scores": [
@@ -5665,7 +5665,7 @@
             "season_id": "p4jwq2gh83zm0ve",
             "status_id": 1,
             "tbd": 1,
-            "updated_at": 1772577627,
+            "updated_at": 1772579427,
             "venue_id": "gpxwrxlh1n9ryk0"
           },
           "referee_id": "",
@@ -5673,7 +5673,7 @@
           "status_id": 1,
           "venue_id": "gpxwrxlh1n9ryk0"
         },
-        "node_api_updated_at": "2026-03-03T23:00:46.940Z",
+        "node_api_updated_at": "2026-03-03T23:34:46.944Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -6002,7 +6002,7 @@
           "status_id": 1,
           "venue_id": "9vjxm8gh832r6od"
         },
-        "node_api_updated_at": "2026-03-03T23:00:47.012Z",
+        "node_api_updated_at": "2026-03-03T23:34:47.020Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -6199,7 +6199,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-03T23:00:46.536Z",
+        "node_api_updated_at": "2026-03-03T23:34:46.551Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -6413,7 +6413,7 @@
           "status_id": 8,
           "venue_id": "9vjxm8ghgkvr6od"
         },
-        "node_api_updated_at": "2026-03-03T23:00:46.943Z",
+        "node_api_updated_at": "2026-03-03T23:34:46.947Z",
         "pin_hot_anchor": "97312754",
         "sportId": 1,
         "sport_id": 1,
