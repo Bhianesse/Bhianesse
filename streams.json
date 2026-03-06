@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-03-06T22:52:12.186349",
+  "last_updated": "2026-03-06T23:15:28.477982",
   "event_count": 3,
   "events": {
     "code": "0000",
     "data": {
-      "1-fc-kln-borussia-dortmund-luc-0030-vao-08-03-2026": {
+      "1-fc-kln-vs-borussia-dortmund-luc-0030-ngay-08-03-2026-8lk2diro62gsz73": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -79,7 +79,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "1-fc-union-berlin-sv-werder-bremen-luc-2330-vao-08-03-2026": {
+      "1-fc-union-berlin-vs-sv-werder-bremen-luc-2330-ngay-08-03-2026-j374oi0d9j5tgqo": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -154,7 +154,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "acf-fiorentina-clb-parma-luc-2100-vao-08-03-2026": {
+      "acf-fiorentina-vs-clb-parma-luc-2100-ngay-08-03-2026-527r3i4eol2b47e": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -229,7 +229,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "aj-auxerre-rc-strasbourg-luc-0100-vao-08-03-2026": {
+      "aj-auxerre-vs-rc-strasbourg-luc-0100-ngay-08-03-2026-jr7owiplr1vtgq0": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -304,7 +304,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "al-kholood-al-qadisiya-luc-0200-vao-08-03-2026": {
+      "al-kholood-vs-al-qadisiya-luc-0200-ngay-08-03-2026-ezk96i3ojvdt1kn": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -485,7 +485,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "anh-nu-iceland-nu-luc-1930-vao-07-03-2026": {
+      "anh-nu-vs-iceland-nu-luc-1930-ngay-07-03-2026-9gklzi1rnz2hm7x": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -661,12 +661,12 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-06T22:51:33.316Z",
+        "node_api_updated_at": "2026-03-06T23:14:33.291Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
       },
-      "atalanta-bc-udinese-calcio-luc-0000-vao-08-03-2026": {
+      "atalanta-bc-vs-udinese-calcio-luc-0000-ngay-08-03-2026-o17pjio029lty7j": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -741,7 +741,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "athletic-bilbao-fc-barcelona-luc-0300-vao-08-03-2026": {
+      "athletic-bilbao-vs-fc-barcelona-luc-0300-ngay-08-03-2026-wv78xivj3ywaokr": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -832,7 +832,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "atlas-chivas-guadalajara-luc-0805-vao-08-03-2026": {
+      "atlas-vs-chivas-guadalajara-luc-0805-ngay-08-03-2026-8lk2dir60dybz73": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -907,7 +907,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "atletico-madrid-real-sociedad-luc-0030-vao-08-03-2026": {
+      "atletico-madrid-vs-real-sociedad-luc-0030-ngay-08-03-2026-jr7owipjno2cgq0": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -982,7 +982,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "auckland-fc-clb-perth-glory-luc-0900-vao-08-03-2026": {
+      "auckland-fc-vs-clb-perth-glory-luc-0900-ngay-08-03-2026-m2q15iz1556ue76": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -1073,7 +1073,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "becamex-binh-duong-the-cong-viettel-luc-1800-vao-08-03-2026": {
+      "becamex-binh-duong-vs-the-cong-viettel-luc-1800-ngay-08-03-2026-oj7x9ixxjj9u47g": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -1148,7 +1148,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "besiktas-jk-galatasaray-luc-0000-vao-08-03-2026": {
+      "besiktas-jk-vs-galatasaray-luc-0000-ngay-08-03-2026-34kgmionly0ueko": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -1223,7 +1223,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "bologna-fc-1909-hellas-verona-fc-luc-2100-vao-08-03-2026": {
+      "bologna-fc-1909-vs-hellas-verona-fc-luc-2100-ngay-08-03-2026-9gklzi10zrehm7x": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -1298,7 +1298,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "boston-celtics-dallas-mavericks-luc-0700-vao-07-03-2026": {
+      "boston-celtics-vs-dallas-mavericks-luc-0700-ngay-07-03-2026-vrqw9s92p0et47n": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -1371,7 +1371,7 @@
         "zalo_enabled": false,
         "zalo_phone": ""
       },
-      "cagliari-calcio-como-luc-2100-vao-07-03-2026": {
+      "cagliari-vs-calcio-como-luc-2100-ngay-07-03-2026-ndkz6i3zej0bxq3": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -1547,14 +1547,14 @@
           "status_id": 1,
           "venue_id": "yl5ergph1l9r8k0"
         },
-        "node_api_updated_at": "2026-03-06T22:51:33.306Z",
+        "node_api_updated_at": "2026-03-06T23:14:33.285Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
         "zalo_enabled": false,
         "zalo_phone": ""
       },
-      "chiba-kashiwa-reysol-luc-1100-vao-07-03-2026": {
+      "chiba-vs-kashiwa-reysol-luc-1100-ngay-07-03-2026-527r3i4w643c47e": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -1730,12 +1730,12 @@
           "status_id": 1,
           "venue_id": "d23xmvkh4edqg8n"
         },
-        "node_api_updated_at": "2026-03-06T22:51:33.784Z",
+        "node_api_updated_at": "2026-03-06T23:14:33.765Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
       },
-      "clb-columbus-crew-clb-chicago-fire-luc-0730-vao-08-03-2026": {
+      "clb-columbus-crew-vs-clb-chicago-fire-luc-0730-ngay-08-03-2026-o17pjio9lrohy7j": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -1810,7 +1810,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "clb-leeds-united-cau-lac-bo-bong-da-norwich-city-luc-2330-vao-08-03-2026": {
+      "clb-leeds-united-vs-cau-lac-bo-bong-da-norwich-city-luc-2330-ngay-08-03-2026-ezk96i33p6xu1kn": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -1917,7 +1917,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "clb-nashville-minnesota-united-luc-0830-vao-08-03-2026": {
+      "clb-nashville-vs-minnesota-united-luc-0830-ngay-08-03-2026-ndkz6i3jd8vbxq3": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -1992,7 +1992,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "clb-philadelphia-union-san-jose-earthquakes-luc-0730-vao-08-03-2026": {
+      "clb-philadelphia-union-vs-san-jose-earthquakes-luc-0730-ngay-08-03-2026-jr7owip1olycgq0": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -2067,7 +2067,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "clb-wrexham-chelsea-luc-0045-vao-08-03-2026": {
+      "clb-wrexham-vs-chelsea-luc-0045-ngay-08-03-2026-m2q15izzr46te76": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -2174,7 +2174,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "colorado-rapids-clb-la-galaxy-luc-0930-vao-08-03-2026": {
+      "colorado-rapids-vs-clb-la-galaxy-luc-0930-ngay-08-03-2026-wv78xivmydrcokr": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -2249,7 +2249,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "cruz-azul-atletico-san-luis-luc-0600-vao-08-03-2026": {
+      "cruz-azul-vs-atletico-san-luis-luc-0600-ngay-08-03-2026-527r3i4w0ryi47e": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -2265,7 +2265,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2231120
+            "visitHistory": 2231150
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465516",
@@ -2324,7 +2324,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "dai-loan-tq-nu-viet-nam-nu-luc-1200-vao-07-03-2026": {
+      "dai-loan-tq-nu-vs-viet-nam-nu-luc-1200-ngay-07-03-2026-l6kegi8v4ediv75": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -2516,12 +2516,12 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-06T22:51:33.399Z",
+        "node_api_updated_at": "2026-03-06T23:14:33.356Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
       },
-      "darmstadt-holstein-kiel-luc-1900-vao-07-03-2026": {
+      "darmstadt-vs-holstein-kiel-luc-1900-ngay-07-03-2026-ndkz6i3988vuxq3": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -2619,7 +2619,7 @@
           "environment": {
             "humidity": "50%",
             "pressure": "769mmHg",
-            "temperature": "15°C",
+            "temperature": "16°C",
             "weather": 5,
             "wind": "2.6m/s"
           },
@@ -2662,7 +2662,7 @@
             "environment": {
               "humidity": "50%",
               "pressure": "769mmHg",
-              "temperature": "15°C",
+              "temperature": "16°C",
               "weather": 5,
               "wind": "2.6m/s"
             },
@@ -2689,7 +2689,7 @@
             },
             "season_id": "gx7lm7ph40vm2wd",
             "status_id": 1,
-            "updated_at": 1772835026,
+            "updated_at": 1772836824,
             "venue_id": "kjw2r09hnllrz84"
           },
           "referee_id": "56ypq3nh0d9md7o",
@@ -2697,14 +2697,14 @@
           "status_id": 1,
           "venue_id": "kjw2r09hnllrz84"
         },
-        "node_api_updated_at": "2026-03-06T22:51:33.473Z",
+        "node_api_updated_at": "2026-03-06T23:14:33.433Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
         "zalo_enabled": false,
         "zalo_phone": ""
       },
-      "dc-united-inter-miami-luc-0430-vao-08-03-2026": {
+      "dc-united-vs-inter-miami-luc-0430-ngay-08-03-2026-zrkn6i4eplehwql": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -2795,7 +2795,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "denver-nuggets-new-york-knicks-luc-0900-vao-07-03-2026": {
+      "denver-nuggets-vs-new-york-knicks-luc-0900-ngay-07-03-2026-vmqy6snx3gjigk9": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -2866,7 +2866,7 @@
         "sport_id": 2,
         "video_url": null
       },
-      "fagiano-okayama-kyoto-sanga-luc-1055-vao-08-03-2026": {
+      "fagiano-okayama-vs-kyoto-sanga-luc-1055-ngay-08-03-2026-l6kegi8m3n3cv75": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -2941,7 +2941,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "fc-anyang-jeju-utd-luc-1430-vao-08-03-2026": {
+      "fc-anyang-vs-jeju-utd-luc-1430-ngay-08-03-2026-xvkjoi8zwy8i879": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -3016,7 +3016,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "fc-nantes-angers-sco-luc-2300-vao-07-03-2026": {
+      "fc-nantes-vs-angers-sco-luc-2300-ngay-07-03-2026-edq09ilp4olteqx": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -3091,7 +3091,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "fulham-southampton-luc-1900-vao-08-03-2026": {
+      "fulham-vs-southampton-luc-1900-ngay-08-03-2026-xvkjoi88zv2h879": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -3200,7 +3200,7 @@
         "zalo_enabled": false,
         "zalo_phone": ""
       },
-      "gamba-osaka-v-varen-nagasaki-luc-1300-vao-08-03-2026": {
+      "gamba-osaka-vs-v-varen-nagasaki-luc-1300-ngay-08-03-2026-xvkjoi8zvyna879": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -3216,7 +3216,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2231120
+            "visitHistory": 2231150
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4470754",
@@ -3275,7 +3275,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "getafe-cf-real-betis-balompie-luc-2215-vao-08-03-2026": {
+      "getafe-cf-vs-real-betis-balompie-luc-2215-ngay-08-03-2026-edq09il58wdbeqx": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -3350,7 +3350,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "gimcheon-sangmu-fc-clb-jeonbuk-hyundai-motors-luc-1200-vao-08-03-2026": {
+      "gimcheon-sangmu-fc-vs-clb-jeonbuk-hyundai-motors-luc-1200-ngay-08-03-2026-l6kegi8m2nwtv75": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -3425,7 +3425,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "gwangju-fc-incheon-united-luc-1430-vao-07-03-2026": {
+      "gwangju-fc-vs-incheon-united-luc-1430-ngay-07-03-2026-g6763i5lzorfo7r": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -3601,12 +3601,12 @@
           "status_id": 1,
           "venue_id": "jw2r09hlxplrz84"
         },
-        "node_api_updated_at": "2026-03-06T22:51:33.553Z",
+        "node_api_updated_at": "2026-03-06T23:14:33.516Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
       },
-      "ha-noi-cong-an-ha-noi-fc-luc-1915-vao-08-03-2026": {
+      "ha-noi-vs-cong-an-ha-noi-fc-luc-1915-ngay-08-03-2026-vmqy9ivv99rigk9": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -3681,7 +3681,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "hannover-96-greuther-furth-luc-1930-vao-08-03-2026": {
+      "hannover-96-vs-greuther-furth-luc-1930-ngay-08-03-2026-wv78xivjddruokr": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -3756,7 +3756,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "heidenheimer-tsg-1899-hoffenheim-luc-2130-vao-07-03-2026": {
+      "heidenheimer-vs-tsg-1899-hoffenheim-luc-2130-ngay-07-03-2026-jek33i8jdz9t9ko": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -3932,12 +3932,12 @@
           "status_id": 1,
           "venue_id": "gpxwrxlh1ewryk0"
         },
-        "node_api_updated_at": "2026-03-06T22:51:33.399Z",
+        "node_api_updated_at": "2026-03-06T23:14:33.356Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
       },
-      "hoang-anh-gia-lai-thanh-pho-ho-chi-minh-luc-1700-vao-07-03-2026": {
+      "hoang-anh-gia-lai-vs-thanh-pho-ho-chi-minh-luc-1700-ngay-07-03-2026-l6kegi88nnziv75": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -4100,12 +4100,12 @@
           "status_id": 1,
           "venue_id": "z318q66hpx6qo9j"
         },
-        "node_api_updated_at": "2026-03-06T22:51:33.635Z",
+        "node_api_updated_at": "2026-03-06T23:14:33.603Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
       },
-      "juventus-fc-clb-pisa-luc-0245-vao-08-03-2026": {
+      "juventus-fc-vs-clb-pisa-luc-0245-ngay-08-03-2026-69759ig3oz2fgk2": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -4196,7 +4196,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "kashima-antlers-tokyo-verdy-luc-1400-vao-07-03-2026": {
+      "kashima-antlers-vs-tokyo-verdy-luc-1400-ngay-07-03-2026-wv78xivxevybokr": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -4372,12 +4372,12 @@
           "status_id": 1,
           "venue_id": "z318q66hk60qo9j"
         },
-        "node_api_updated_at": "2026-03-06T22:51:33.786Z",
+        "node_api_updated_at": "2026-03-06T23:14:33.768Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
       },
-      "levante-girona-luc-2215-vao-07-03-2026": {
+      "levante-vs-girona-luc-2215-ngay-07-03-2026-8lk2dir5vd3cz73": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -4553,14 +4553,14 @@
           "status_id": 1,
           "venue_id": "9k82rekhvperepz"
         },
-        "node_api_updated_at": "2026-03-06T22:51:33.788Z",
+        "node_api_updated_at": "2026-03-06T23:14:33.770Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
         "zalo_enabled": false,
         "zalo_phone": ""
       },
-      "lille-osc-fc-lorient-luc-2315-vao-08-03-2026": {
+      "lille-osc-vs-fc-lorient-luc-2315-ngay-08-03-2026-527r3i49nlwb47e": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -4635,7 +4635,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "los-angeles-fc-clb-dallas-luc-1030-vao-08-03-2026": {
+      "los-angeles-fc-vs-clb-dallas-luc-1030-ngay-08-03-2026-edq09ilowpjieqx": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -4710,7 +4710,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "mainz-05-vfb-stuttgart-luc-2130-vao-07-03-2026": {
+      "mainz-05-vs-vfb-stuttgart-luc-2130-ngay-07-03-2026-o07dni56ml0fmkn": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -4886,14 +4886,14 @@
           "status_id": 1,
           "venue_id": "d23xmvkhdo1qg8n"
         },
-        "node_api_updated_at": "2026-03-06T22:51:33.404Z",
+        "node_api_updated_at": "2026-03-06T23:14:33.362Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
         "zalo_enabled": false,
         "zalo_phone": ""
       },
-      "mansfield-town-arsenal-luc-1915-vao-07-03-2026": {
+      "mansfield-town-vs-arsenal-luc-1915-ngay-07-03-2026-zrkn6i44538uwql": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -5021,8 +5021,8 @@
           "competition_id": "9vjxm8gh8gr6odg",
           "custom_key": "84522c2a63cbc23420ffbebee5cd7d56",
           "environment": {
-            "humidity": "78%",
-            "pressure": "770mmHg",
+            "humidity": "79%",
+            "pressure": "771mmHg",
             "temperature": "8°C",
             "weather": 7,
             "wind": "1.8m/s"
@@ -5064,8 +5064,8 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "78%",
-              "pressure": "770mmHg",
+              "humidity": "79%",
+              "pressure": "771mmHg",
               "temperature": "8°C",
               "weather": 7,
               "wind": "1.8m/s"
@@ -5093,7 +5093,7 @@
             },
             "season_id": "l965mkyhp2er1ge",
             "status_id": 1,
-            "updated_at": 1772827831,
+            "updated_at": 1772836226,
             "venue_id": "yl5ergphvg5r8k0"
           },
           "referee_id": "v2y8m4zhjlzql07",
@@ -5101,7 +5101,7 @@
           "status_id": 1,
           "venue_id": "yl5ergphvg5r8k0"
         },
-        "node_api_updated_at": "2026-03-06T22:51:33.554Z",
+        "node_api_updated_at": "2026-03-06T23:14:33.518Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -5109,7 +5109,7 @@
         "zalo_enabled": false,
         "zalo_phone": ""
       },
-      "mazatlan-fc-club-leon-luc-0800-vao-07-03-2026": {
+      "mazatlan-fc-vs-club-leon-luc-0800-ngay-07-03-2026-o17pjioy6jgiy7j": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -5285,12 +5285,12 @@
           "status_id": 1,
           "venue_id": "z8yomo4hwenq0j6"
         },
-        "node_api_updated_at": "2026-03-06T22:51:33.317Z",
+        "node_api_updated_at": "2026-03-06T23:14:33.292Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
       },
-      "necaxa-unam-pumas-luc-1000-vao-07-03-2026": {
+      "necaxa-vs-unam-pumas-luc-1000-ngay-07-03-2026-jr7owip3xpgtgq0": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -5466,12 +5466,12 @@
           "status_id": 1,
           "venue_id": "d23xmvkhx9jqg8n"
         },
-        "node_api_updated_at": "2026-03-06T22:51:33.401Z",
+        "node_api_updated_at": "2026-03-06T23:14:33.358Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
       },
-      "newcastle-jets-western-sydney-luc-1300-vao-07-03-2026": {
+      "newcastle-jets-vs-western-sydney-luc-1300-ngay-07-03-2026-l6kegi81vv8av75": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -5564,7 +5564,7 @@
         "zalo_enabled": false,
         "zalo_phone": ""
       },
-      "newcastle-united-manchester-city-luc-0300-vao-08-03-2026": {
+      "newcastle-united-vs-manchester-city-luc-0300-ngay-08-03-2026-oj7x9ixxzdjc47g": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -5673,7 +5673,7 @@
         "zalo_enabled": false,
         "zalo_phone": ""
       },
-      "ogc-nice-stade-rennais-luc-2315-vao-08-03-2026": {
+      "ogc-nice-vs-stade-rennais-luc-2315-ngay-08-03-2026-34kgmioyzegbeko": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -5748,7 +5748,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "osasuna-rcd-mallorca-luc-2000-vao-07-03-2026": {
+      "osasuna-vs-rcd-mallorca-luc-2000-ngay-07-03-2026-o07dni52o4pbmkn": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": " ",
@@ -5844,9 +5844,9 @@
           "competition_id": "vl7oqdehlyr510j",
           "custom_key": "c84cbc513719264b03a4af9a8989497c",
           "environment": {
-            "humidity": "69%",
+            "humidity": "70%",
             "pressure": "765mmHg",
-            "temperature": "12°C",
+            "temperature": "13°C",
             "weather": 7,
             "wind": "2.0m/s"
           },
@@ -5887,9 +5887,9 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "69%",
+              "humidity": "70%",
               "pressure": "765mmHg",
-              "temperature": "12°C",
+              "temperature": "13°C",
               "weather": 7,
               "wind": "2.0m/s"
             },
@@ -5916,7 +5916,7 @@
             },
             "season_id": "56ypq3nhxw7md7o",
             "status_id": 1,
-            "updated_at": 1772834429,
+            "updated_at": 1772836225,
             "venue_id": "p4jwq2gh4l5m0ve"
           },
           "referee_id": "",
@@ -5924,13 +5924,13 @@
           "status_id": 1,
           "venue_id": "p4jwq2gh4l5m0ve"
         },
-        "node_api_updated_at": "2026-03-06T22:51:33.712Z",
+        "node_api_updated_at": "2026-03-06T23:14:33.676Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
         "video_url": "https"
       },
-      "phu-dong-ninh-binh-shb-da-nang-luc-1800-vao-07-03-2026": {
+      "phu-dong-ninh-binh-vs-shb-da-nang-luc-1800-ngay-07-03-2026-m2q15izzxxgce76": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -6106,12 +6106,12 @@
           "status_id": 1,
           "venue_id": "6ypq3nh0672md7o"
         },
-        "node_api_updated_at": "2026-03-06T22:51:33.554Z",
+        "node_api_updated_at": "2026-03-06T23:14:33.518Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
       },
-      "psv-eindhoven-az-alkmaar-luc-0200-vao-08-03-2026": {
+      "psv-eindhoven-vs-az-alkmaar-luc-0200-ngay-08-03-2026-jr7owipl20wagq0": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -6186,7 +6186,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "pvf-cand-nam-dinh-luc-1800-vao-08-03-2026": {
+      "pvf-cand-vs-nam-dinh-luc-1800-ngay-08-03-2026-zrkn6i44ggntwql": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -6261,7 +6261,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "rb-leipzig-fc-augsburg-luc-2130-vao-07-03-2026": {
+      "rb-leipzig-vs-fc-augsburg-luc-2130-ngay-07-03-2026-vrqwni489yeb4qn": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -6437,12 +6437,12 @@
           "status_id": 1,
           "venue_id": "56ypq3nh5z7md7o"
         },
-        "node_api_updated_at": "2026-03-06T22:51:33.472Z",
+        "node_api_updated_at": "2026-03-06T23:14:33.433Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
       },
-      "rc-lens-clb-metz-luc-2100-vao-08-03-2026": {
+      "rc-lens-vs-clb-metz-luc-2100-ngay-08-03-2026-ndkz6i38ljjfxq3": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -6517,7 +6517,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "rizespor-antalyaspor-luc-1730-vao-08-03-2026": {
+      "rizespor-vs-antalyaspor-luc-1730-ngay-08-03-2026-jr7owipjg6gugq0": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -6592,7 +6592,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "sc-freiburg-bayer-04-leverkusen-luc-2130-vao-07-03-2026": {
+      "sc-freiburg-vs-bayer-04-leverkusen-luc-2130-ngay-07-03-2026-63kv9igjoyjux7e": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -6768,12 +6768,12 @@
           "status_id": 1,
           "venue_id": "z318q66h96kqo9j"
         },
-        "node_api_updated_at": "2026-03-06T22:51:33.402Z",
+        "node_api_updated_at": "2026-03-06T23:14:33.359Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
       },
-      "shandong-taishan-liaoning-tieren-luc-1430-vao-07-03-2026": {
+      "shandong-taishan-vs-liaoning-tieren-luc-1430-ngay-07-03-2026-g6763i55r4nto7r": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -6949,14 +6949,14 @@
           "status_id": 1,
           "venue_id": "kjw2r09hppprz84"
         },
-        "node_api_updated_at": "2026-03-06T22:51:33.547Z",
+        "node_api_updated_at": "2026-03-06T23:14:33.511Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
         "zalo_enabled": false,
         "zalo_phone": ""
       },
-      "shanghai-shenhua-dalian-yingbo-luc-1600-vao-07-03-2026": {
+      "shanghai-shenhua-vs-dalian-yingbo-luc-1600-ngay-07-03-2026-ezk96i33gons1kn": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -7132,14 +7132,14 @@
           "status_id": 1,
           "venue_id": "kdj2ryohy4lq1zp"
         },
-        "node_api_updated_at": "2026-03-06T22:51:33.709Z",
+        "node_api_updated_at": "2026-03-06T23:14:33.672Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
         "zalo_enabled": false,
         "zalo_phone": ""
       },
-      "song-lam-nghe-an-clb-xm-hai-phong-luc-1800-vao-07-03-2026": {
+      "song-lam-nghe-an-vs-clb-xm-hai-phong-luc-1800-ngay-07-03-2026-xvkjoi88yyms879": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -7315,12 +7315,12 @@
           "status_id": 1,
           "venue_id": "gy0or5jhok2qwzv"
         },
-        "node_api_updated_at": "2026-03-06T22:51:33.405Z",
+        "node_api_updated_at": "2026-03-06T23:14:33.362Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
       },
-      "st-pauli-eintracht-frankfurt-luc-2130-vao-08-03-2026": {
+      "st-pauli-vs-eintracht-frankfurt-luc-2130-ngay-08-03-2026-ndqmliwz3ldurkv": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -7395,7 +7395,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "stade-brestois-29-le-havre-luc-2315-vao-08-03-2026": {
+      "stade-brestois-29-vs-le-havre-luc-2315-ngay-08-03-2026-9gklzi1y4rpsm7x": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -7470,7 +7470,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "sydney-fc-melbourne-victory-luc-1535-vao-07-03-2026": {
+      "sydney-fc-vs-melbourne-victory-luc-1535-ngay-07-03-2026-xvkjoi85ll2b879": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -7561,7 +7561,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "tigres-monterrey-luc-1000-vao-08-03-2026": {
+      "tigres-vs-monterrey-luc-1000-ngay-08-03-2026-ezk96i3p0jxt1kn": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -7636,7 +7636,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "tokyo-fc-yokohama-f-marinos-luc-1200-vao-07-03-2026": {
+      "tokyo-fc-vs-yokohama-f-marinos-luc-1200-ngay-07-03-2026-ndkz6i3n633fxq3": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -7652,7 +7652,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2231120
+            "visitHistory": 2231151
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4470661",
@@ -7812,14 +7812,14 @@
           "status_id": 1,
           "venue_id": "56ypq3nh2zlmd7o"
         },
-        "node_api_updated_at": "2026-03-06T22:51:33.545Z",
+        "node_api_updated_at": "2026-03-06T23:14:33.508Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
         "zalo_enabled": false,
         "zalo_phone": ""
       },
-      "toulouse-fc-olympique-de-marseille-luc-0305-vao-08-03-2026": {
+      "toulouse-fc-vs-olympique-de-marseille-luc-0305-ngay-08-03-2026-8lk2dirox4wtz73": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -7894,7 +7894,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "uc-nu-han-quoc-nu-luc-1600-vao-08-03-2026": {
+      "uc-nu-vs-han-quoc-nu-luc-1600-ngay-08-03-2026-xvkjoi8l1ows879": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -7969,7 +7969,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "urawa-reds-mito-hollyhock-luc-1300-vao-07-03-2026": {
+      "urawa-reds-vs-mito-hollyhock-luc-1300-ngay-07-03-2026-jr7owip3mpwtgq0": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -8069,7 +8069,7 @@
             "pressure": "759mmHg",
             "temperature": "15°C",
             "weather": 7,
-            "wind": "7.0m/s"
+            "wind": "6.8m/s"
           },
           "home_scores": [
             0,
@@ -8112,7 +8112,7 @@
               "pressure": "759mmHg",
               "temperature": "15°C",
               "weather": 7,
-              "wind": "7.0m/s"
+              "wind": "6.8m/s"
             },
             "home_position": "4",
             "home_scores": [
@@ -8137,7 +8137,7 @@
             },
             "season_id": "4jwq2gh4o48m0ve",
             "status_id": 1,
-            "updated_at": 1772833824,
+            "updated_at": 1772836227,
             "venue_id": "yl5ergph300r8k0"
           },
           "referee_id": "",
@@ -8145,12 +8145,12 @@
           "status_id": 1,
           "venue_id": "yl5ergph300r8k0"
         },
-        "node_api_updated_at": "2026-03-06T22:51:33.307Z",
+        "node_api_updated_at": "2026-03-06T23:14:33.286Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
       },
-      "us-lecce-us-cremonese-luc-1830-vao-08-03-2026": {
+      "us-lecce-vs-us-cremonese-luc-1830-ngay-08-03-2026-o07dni5dxm2cmkn": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -8225,7 +8225,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "vfl-wolfsburg-hamburger-sv-luc-2130-vao-07-03-2026": {
+      "vfl-wolfsburg-vs-hamburger-sv-luc-2130-ngay-07-03-2026-g6763i5dlxybo7r": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -8401,12 +8401,12 @@
           "status_id": 1,
           "venue_id": "gx7lm7phoo7m2wd"
         },
-        "node_api_updated_at": "2026-03-06T22:51:33.395Z",
+        "node_api_updated_at": "2026-03-06T23:14:33.353Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
       },
-      "villarreal-elche-luc-2000-vao-08-03-2026": {
+      "villarreal-vs-elche-luc-2000-ngay-08-03-2026-69759igv1xgfgk2": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -8483,7 +8483,7 @@
         "zalo_enabled": false,
         "zalo_phone": ""
       },
-      "wanderers-fc-maldonado-luc-0600-vao-07-03-2026": {
+      "wanderers-fc-vs-maldonado-luc-0600-ngay-07-03-2026-8lk2dirrexrsz73": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -8499,7 +8499,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2231120
+            "visitHistory": 2231151
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4506349",
@@ -8535,7 +8535,7 @@
           0,
           0,
           0,
-          0,
+          1,
           0,
           0
         ],
@@ -8549,10 +8549,10 @@
         },
         "house_id": null,
         "matchId": "8lk2dirrexrsz73",
-        "matchStatus": 1,
+        "matchStatus": 2,
         "matchTime": 1772838000,
         "match_id": "8lk2dirrexrsz73",
-        "match_status": "scheduled",
+        "match_status": "live",
         "match_time": 1772838000,
         "node_api_data": {
           "_id": "69aa1f5607c7bc72a56cfcbc",
@@ -8579,7 +8579,7 @@
           "competition_id": "v2y8m4zhydql074",
           "custom_key": "851bcd074cfd703c12664dd79dddb89c",
           "environment": {
-            "humidity": "96%",
+            "humidity": "97%",
             "pressure": "763mmHg",
             "temperature": "20°C",
             "weather": 10,
@@ -8618,11 +8618,11 @@
             "competition_id": "v2y8m4zhydql074",
             "coverage": {
               "gif": 0,
-              "lineup": 0,
+              "lineup": 1,
               "mlive": 1
             },
             "environment": {
-              "humidity": "96%",
+              "humidity": "97%",
               "pressure": "763mmHg",
               "temperature": "20°C",
               "weather": 10,
@@ -8651,7 +8651,7 @@
             },
             "season_id": "y0or5jhlxgvqwzv",
             "status_id": 1,
-            "updated_at": 1772833824,
+            "updated_at": 1772837303,
             "venue_id": "vl7oqdehk61r510"
           },
           "referee_id": "d23xmvkh42eqg8n",
@@ -8659,12 +8659,12 @@
           "status_id": 1,
           "venue_id": "vl7oqdehk61r510"
         },
-        "node_api_updated_at": "2026-03-06T22:51:33.554Z",
+        "node_api_updated_at": "2026-03-06T23:14:33.518Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
       },
-      "wuhan-three-towns-beijing-guoan-luc-1800-vao-08-03-2026": {
+      "wuhan-three-towns-vs-beijing-guoan-luc-1800-ngay-08-03-2026-zrkn6i44edoawql": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -8739,7 +8739,7 @@
         "sport_id": 1,
         "video_url": null
       },
-      "yuxi-yukun-qingdao-hainiu-fc-luc-1835-vao-07-03-2026": {
+      "yuxi-yukun-vs-qingdao-hainiu-fc-luc-1835-ngay-07-03-2026-xvkjoi88ndou879": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -8915,7 +8915,7 @@
           "status_id": 1,
           "venue_id": "pxwrxlhgglzryk0"
         },
-        "node_api_updated_at": "2026-03-06T22:51:33.396Z",
+        "node_api_updated_at": "2026-03-06T23:14:33.354Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -8923,7 +8923,7 @@
         "zalo_enabled": false,
         "zalo_phone": ""
       },
-      "zhejiang-professional-qingdao-west-coast-luc-1430-vao-08-03-2026": {
+      "zhejiang-professional-vs-qingdao-west-coast-luc-1430-ngay-08-03-2026-m2q15izzw9nae76": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
