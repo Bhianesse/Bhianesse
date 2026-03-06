@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-06T21:56:30.309131",
+  "last_updated": "2026-03-06T22:24:08.345120",
   "event_count": 3,
   "events": {
     "code": "0000",
@@ -581,11 +581,11 @@
           "competition_id": "gx7lm7ph00m2wdk",
           "custom_key": "1bf253756cc5c517b5f57d06b40316cf",
           "environment": {
-            "humidity": "82%",
+            "humidity": "81%",
             "pressure": "771mmHg",
             "temperature": "8°C",
             "weather": 7,
-            "wind": "1.8m/s"
+            "wind": "1.5m/s"
           },
           "home_scores": [
             0,
@@ -624,11 +624,11 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "82%",
+              "humidity": "81%",
               "pressure": "771mmHg",
               "temperature": "8°C",
               "weather": 7,
-              "wind": "1.8m/s"
+              "wind": "1.5m/s"
             },
             "home_position": "4",
             "home_scores": [
@@ -653,7 +653,7 @@
             },
             "season_id": "9dn1m1gh6w6moep",
             "status_id": 1,
-            "updated_at": 1772830824,
+            "updated_at": 1772833225,
             "venue_id": ""
           },
           "referee_id": "9dn1m1gh1wzmoep",
@@ -661,7 +661,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-06T21:55:33.269Z",
+        "node_api_updated_at": "2026-03-06T22:23:33.279Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -675,14 +675,14 @@
             "houseId": "07808742",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODc0NmIxOGE1NzMtYTQ4Mw/OTBkMTE4Mzg2Y2ItYjNiOQ.png",
             "houseIntroduction": "kết bạn zalo/telegram để vào nhóm soi kèo, khuyến mãi tiền thưởng miễn phí tặng mỗi ngày!",
-            "houseName": "SPA D1\tCelta Vigo\tvs  Real Madrid",
-            "liveStatus": 2,
+            "houseName": "GER D1  Freiburg  vs Bayer Leverkusen ",
+            "liveStatus": 1,
             "matchId": "o17pjio029lty7j",
             "nickName": "BLV SAMURAI",
             "playStreamAddress": "https://live5.msrktz.app/live/07808742.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/07808742.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZDQzOWUyYmNkNWItM2JkZg/ODgyMjBjMDgzMGEtYzEzZg.jpg",
-            "visitHistory": 531040
+            "visitHistory": 531042
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4339839",
@@ -766,14 +766,14 @@
             "houseId": "33982309",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmZlNjJjNjgzNmMtYWM2MQ/NTBkOTRhMGY5ODQtZjAxOQ.png",
             "houseIntroduction": "",
-            "houseName": "SPA D1   Celta Vigo   vs   Real Madrid  ",
-            "liveStatus": 2,
+            "houseName": "SPA D1  Levante vs  Girona  ",
+            "liveStatus": 1,
             "matchId": "wv78xivj3ywaokr",
             "nickName": "BLV REVIVE",
             "playStreamAddress": "https://live5.msrktz.app/live/33982309.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/33982309.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/OGNhNTc0OTZhNTQtNDE3NA/MzUzMTg2NTM3NTctYWRlMw.jpg",
-            "visitHistory": 1392556
+            "visitHistory": 1392558
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4358957",
@@ -987,22 +987,6 @@
           {
             "anchorTitle": "",
             "anchorTypeName": "篮球",
-            "fansCount": 302,
-            "houseId": "87379114",
-            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MzMyODYxYzM1ODEtNWZjNg/NzUzZGRiMDRmYjMtYWU4NQ.JPG",
-            "houseIntroduction": "",
-            "houseName": "NBA\tDenver Nuggets vs New York Knicks",
-            "liveStatus": 1,
-            "matchId": "m2q15iz1556ue76",
-            "nickName": "BLV Cozy",
-            "playStreamAddress": "https://live5.msrktz.app/live/87379114.flv",
-            "playStreamAddress2": "https://live5.msrktz.app/live/87379114.m3u8",
-            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NGZkODJiZmYyNTktNDFhZQ/MTBjZDlkZjE5ZGYtMDIwOQ.jpg",
-            "visitHistory": 1079881
-          },
-          {
-            "anchorTitle": "",
-            "anchorTypeName": "篮球",
             "fansCount": 38,
             "houseId": "02456966",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NWE0OTdhYWE1NGYtMjdkZg/MTVkZDcyNjEyM2MtNDRjMA.png",
@@ -1015,6 +999,22 @@
             "playStreamAddress2": "https://live5.msrktz.app/live/02456966.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NjBlZWE2MDY4ZTEtMjNjNw/OWUzMmZkYjk2ZjAtODI3NQ.png",
             "visitHistory": 216985
+          },
+          {
+            "anchorTitle": "",
+            "anchorTypeName": "篮球",
+            "fansCount": 302,
+            "houseId": "87379114",
+            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MzMyODYxYzM1ODEtNWZjNg/NzUzZGRiMDRmYjMtYWU4NQ.JPG",
+            "houseIntroduction": "",
+            "houseName": "NBA\tDenver Nuggets vs New York Knicks",
+            "liveStatus": 1,
+            "matchId": "m2q15iz1556ue76",
+            "nickName": "BLV Cozy",
+            "playStreamAddress": "https://live5.msrktz.app/live/87379114.flv",
+            "playStreamAddress2": "https://live5.msrktz.app/live/87379114.m3u8",
+            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NGZkODJiZmYyNTktNDFhZQ/MTBjZDlkZjE5ZGYtMDIwOQ.jpg",
+            "visitHistory": 1079881
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4426695",
@@ -1232,14 +1232,14 @@
             "houseId": "33982309",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmZlNjJjNjgzNmMtYWM2MQ/NTBkOTRhMGY5ODQtZjAxOQ.png",
             "houseIntroduction": "",
-            "houseName": "SPA D1   Celta Vigo   vs   Real Madrid  ",
-            "liveStatus": 2,
+            "houseName": "SPA D1  Levante vs  Girona  ",
+            "liveStatus": 1,
             "matchId": "9gklzi10zrehm7x",
             "nickName": "BLV REVIVE",
             "playStreamAddress": "https://live5.msrktz.app/live/33982309.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/33982309.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/OGNhNTc0OTZhNTQtNDE3NA/MzUzMTg2NTM3NTctYWRlMw.jpg",
-            "visitHistory": 1392556
+            "visitHistory": 1392558
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4339841",
@@ -1467,11 +1467,11 @@
           "competition_id": "4zp5rzghp5q82w1",
           "custom_key": "07e9359309d84a39fd7ef7125d3ff67f",
           "environment": {
-            "humidity": "83%",
+            "humidity": "82%",
             "pressure": "767mmHg",
             "temperature": "16°C",
             "weather": 6,
-            "wind": "4.3m/s"
+            "wind": "4.5m/s"
           },
           "home_scores": [
             0,
@@ -1510,11 +1510,11 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "83%",
+              "humidity": "82%",
               "pressure": "767mmHg",
               "temperature": "16°C",
               "weather": 6,
-              "wind": "4.3m/s"
+              "wind": "4.5m/s"
             },
             "home_position": "13",
             "home_scores": [
@@ -1539,7 +1539,7 @@
             },
             "season_id": "4zp5rzghn83q82w",
             "status_id": 1,
-            "updated_at": 1772829625,
+            "updated_at": 1772833224,
             "venue_id": "yl5ergph1l9r8k0"
           },
           "referee_id": "yl5ergphv0pr8k0",
@@ -1547,210 +1547,12 @@
           "status_id": 1,
           "venue_id": "yl5ergph1l9r8k0"
         },
-        "node_api_updated_at": "2026-03-06T21:55:33.262Z",
+        "node_api_updated_at": "2026-03-06T22:23:33.272Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
         "zalo_enabled": false,
         "zalo_phone": ""
-      },
-      "celta-vigo-vs-real-madrid-cf-luc-0300-ngay-07-03-2026-ndkz6i39gd1bxq3": {
-        "anchorAppointmentVoList": [
-          {
-            "anchorTitle": "",
-            "anchorTypeName": "足球",
-            "fansCount": 443,
-            "houseId": "33982309",
-            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmZlNjJjNjgzNmMtYWM2MQ/NTBkOTRhMGY5ODQtZjAxOQ.png",
-            "houseIntroduction": "",
-            "houseName": "SPA D1   Celta Vigo   vs   Real Madrid  ",
-            "liveStatus": 2,
-            "matchId": "ndkz6i39gd1bxq3",
-            "nickName": "BLV REVIVE",
-            "playStreamAddress": "https://live5.msrktz.app/live/33982309.flv",
-            "playStreamAddress2": "https://live5.msrktz.app/live/33982309.m3u8",
-            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/OGNhNTc0OTZhNTQtNDE3NA/MzUzMTg2NTM3NTctYWRlMw.jpg",
-            "visitHistory": 1392556
-          },
-          {
-            "anchorTitle": "",
-            "anchorTypeName": "足球",
-            "fansCount": 25,
-            "houseId": "07808742",
-            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODc0NmIxOGE1NzMtYTQ4Mw/OTBkMTE4Mzg2Y2ItYjNiOQ.png",
-            "houseIntroduction": "kết bạn zalo/telegram để vào nhóm soi kèo, khuyến mãi tiền thưởng miễn phí tặng mỗi ngày!",
-            "houseName": "SPA D1\tCelta Vigo\tvs  Real Madrid",
-            "liveStatus": 2,
-            "matchId": "ndkz6i39gd1bxq3",
-            "nickName": "BLV SAMURAI",
-            "playStreamAddress": "https://live5.msrktz.app/live/07808742.flv",
-            "playStreamAddress2": "https://live5.msrktz.app/live/07808742.m3u8",
-            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZDQzOWUyYmNkNWItM2JkZg/ODgyMjBjMDgzMGEtYzEzZg.jpg",
-            "visitHistory": 531040
-          }
-        ],
-        "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4358960",
-        "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4358960",
-        "awayScore": [
-          2,
-          1,
-          0,
-          2,
-          6,
-          0,
-          0
-        ],
-        "awayTeamId": "5xvkjoiyyyix793",
-        "awayTeamLogo": "https://img.colatv88xd.cc/football/team/7dacaa934fe4be00f23c1e209b5ef947.png!w80",
-        "awayTeamName": "Real Madrid CF",
-        "away_team": {
-          "id": "5xvkjoiyyyix793",
-          "logo": "https://img.colatv88xd.cc/football/team/7dacaa934fe4be00f23c1e209b5ef947.png!w80",
-          "name": "Real Madrid CF"
-        },
-        "competition": {
-          "id": "yzrkn6iorbjqle4",
-          "logo": "https://img.colatv88xd.cc/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png!w80",
-          "name": "Giải Bóng đá Vô địch Quốc gia Tây Ban Nha "
-        },
-        "competitionId": "yzrkn6iorbjqle4",
-        "competitionLogo": "https://img.colatv88xd.cc/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png!w80",
-        "competitionName": "Giải Bóng đá Vô địch Quốc gia Tây Ban Nha ",
-        "custom_key": "ba3d919aebdb7580cae05c78575a122c",
-        "homeScore": [
-          1,
-          1,
-          0,
-          1,
-          1,
-          0,
-          0
-        ],
-        "homeTeamId": "xo17pjid6zc27jw",
-        "homeTeamLogo": "https://img.colatv88xd.cc/football/team/fd954d083ee85a6f1a3f2471dc756242.png!w80",
-        "homeTeamName": "Celta Vigo",
-        "home_team": {
-          "id": "xo17pjid6zc27jw",
-          "logo": "https://img.colatv88xd.cc/football/team/fd954d083ee85a6f1a3f2471dc756242.png!w80",
-          "name": "Celta Vigo"
-        },
-        "house_id": null,
-        "matchId": "ndkz6i39gd1bxq3",
-        "matchStatus": 2,
-        "matchTime": 1772827200,
-        "match_id": "ndkz6i39gd1bxq3",
-        "match_status": "live",
-        "match_time": 1772827200,
-        "node_api_data": {
-          "_id": "69aa1f5507c7bc72a56cf942",
-          "away_scores": [
-            1,
-            1,
-            0,
-            0,
-            2,
-            0,
-            0
-          ],
-          "away_team": {
-            "id": "e4wyrn4h111q86p",
-            "logo": "https://img.thesports.com/football/team/7dacaa934fe4be00f23c1e209b5ef947.png",
-            "name": "Real Madrid"
-          },
-          "away_team_id": "e4wyrn4h111q86p",
-          "competition": {
-            "id": "vl7oqdehlyr510j",
-            "logo": "https://img.thesports.com/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png",
-            "name": "Spanish La Liga"
-          },
-          "competition_id": "vl7oqdehlyr510j",
-          "custom_key": "ba3d919aebdb7580cae05c78575a122c",
-          "environment": {
-            "humidity": "64%",
-            "pressure": "768mmHg",
-            "temperature": "9°C",
-            "weather": 5,
-            "wind": "7.8m/s"
-          },
-          "home_scores": [
-            1,
-            1,
-            0,
-            1,
-            1,
-            0,
-            0
-          ],
-          "home_team": {
-            "id": "v2y8m4zh90gql07",
-            "logo": "https://img.thesports.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",
-            "name": "RC Celta"
-          },
-          "home_team_id": "v2y8m4zh90gql07",
-          "match_date_vn": "20260307",
-          "match_id": "vjxm8ghej209r6o",
-          "match_time": 1772827200,
-          "raw": {
-            "away_position": "2",
-            "away_scores": [
-              1,
-              1,
-              0,
-              0,
-              2,
-              0,
-              0
-            ],
-            "away_team_id": "e4wyrn4h111q86p",
-            "competition_id": "vl7oqdehlyr510j",
-            "coverage": {
-              "gif": 1,
-              "lineup": 1,
-              "mlive": 1
-            },
-            "environment": {
-              "humidity": "64%",
-              "pressure": "768mmHg",
-              "temperature": "9°C",
-              "weather": 5,
-              "wind": "7.8m/s"
-            },
-            "home_position": "6",
-            "home_scores": [
-              1,
-              1,
-              0,
-              1,
-              1,
-              0,
-              0
-            ],
-            "home_team_id": "v2y8m4zh90gql07",
-            "id": "vjxm8ghej209r6o",
-            "match_time": 1772827200,
-            "neutral": 0,
-            "note": "",
-            "referee_id": "z318q66hvvvqo9j",
-            "round": {
-              "group_num": 0,
-              "round_num": 27,
-              "stage_id": "dn1m1ghgdd5moep"
-            },
-            "season_id": "56ypq3nhxw7md7o",
-            "status_id": 4,
-            "updated_at": 1772832024,
-            "venue_id": "d23xmvkh3e6qg8n"
-          },
-          "referee_id": "z318q66hvvvqo9j",
-          "season_id": "56ypq3nhxw7md7o",
-          "status_id": 4,
-          "venue_id": "d23xmvkh3e6qg8n"
-        },
-        "node_api_updated_at": "2026-03-06T21:55:33.653Z",
-        "sportId": 1,
-        "sport_id": 1,
-        "videoUrl": "https://live1.trendgallary.com/live/12562094_5dcfe1f034691ac8560b00f7e1f8dcd6_autoChange.m3u8?auth_key=1772848554-0-0-aa50c6ce5bb698b6baf389dcc6e15220",
-        "video_url": "https://live1.trendgallary.com/live/12562094_5dcfe1f034691ac8560b00f7e1f8dcd6_autoChange.m3u8?auth_key=1772848554-0-0-aa50c6ce5bb698b6baf389dcc6e15220"
       },
       "chiba-vs-kashiwa-reysol-luc-1100-ngay-07-03-2026-527r3i4w643c47e": {
         "anchorAppointmentVoList": [
@@ -1928,7 +1730,7 @@
           "status_id": 1,
           "venue_id": "d23xmvkh4edqg8n"
         },
-        "node_api_updated_at": "2026-03-06T21:55:33.727Z",
+        "node_api_updated_at": "2026-03-06T22:23:33.759Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -2024,7 +1826,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
-            "visitHistory": 2234233
+            "visitHistory": 2234243
           },
           {
             "anchorTitle": "",
@@ -2281,7 +2083,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
-            "visitHistory": 2234233
+            "visitHistory": 2234243
           },
           {
             "anchorTitle": "",
@@ -2306,14 +2108,14 @@
             "houseId": "41943555",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NGE1Nzg3MWNhNTItZjU5Nw/ZjIzOTdiZTE2ZTctYTU3YQ.png",
             "houseIntroduction": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/J3SUxjjjQJyDvzJ_Rdej5A.jpg",
-            "houseName": "ENG FAC\tWolves\tvs  Liverpool",
+            "houseName": "AUS D1  Newcastle Jets vs WS Wanderers ",
             "liveStatus": 1,
             "matchId": "m2q15izzr46te76",
             "nickName": "BLV  KHÔNG ĐỘ",
             "playStreamAddress": "https://live5.msrktz.app/live/41943555.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/41943555.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/YzlhMTQzNGM2MGUtOTQwYw/NmFmYTczOTNjZGEtZTFkMQ.jpg",
-            "visitHistory": 1769822
+            "visitHistory": 1769824
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4499367",
@@ -2457,13 +2259,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWY4M2E3MzMwYzQtODIxYQ/NjBiYmQxMzJmZjctMGI2YQ.png",
             "houseIntroduction": "",
             "houseName": "URU D1\tMontevideo Wanderers\tvs  Deportivo Maldonado",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "527r3i4w0ryi47e",
             "nickName": "BLV FANTA",
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2231078
+            "visitHistory": 2231091
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465516",
@@ -2714,7 +2516,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-06T21:55:33.335Z",
+        "node_api_updated_at": "2026-03-06T22:23:33.351Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -2817,7 +2619,7 @@
           "environment": {
             "humidity": "50%",
             "pressure": "769mmHg",
-            "temperature": "15°C",
+            "temperature": "16°C",
             "weather": 5,
             "wind": "2.6m/s"
           },
@@ -2860,7 +2662,7 @@
             "environment": {
               "humidity": "50%",
               "pressure": "769mmHg",
-              "temperature": "15°C",
+              "temperature": "16°C",
               "weather": 5,
               "wind": "2.6m/s"
             },
@@ -2887,7 +2689,7 @@
             },
             "season_id": "gx7lm7ph40vm2wd",
             "status_id": 1,
-            "updated_at": 1772830044,
+            "updated_at": 1772832624,
             "venue_id": "kjw2r09hnllrz84"
           },
           "referee_id": "56ypq3nh0d9md7o",
@@ -2895,7 +2697,7 @@
           "status_id": 1,
           "venue_id": "kjw2r09hnllrz84"
         },
-        "node_api_updated_at": "2026-03-06T21:55:33.414Z",
+        "node_api_updated_at": "2026-03-06T22:23:33.436Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -3305,7 +3107,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
-            "visitHistory": 2234233
+            "visitHistory": 2234243
           },
           {
             "anchorTitle": "",
@@ -3330,14 +3132,14 @@
             "houseId": "41943555",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NGE1Nzg3MWNhNTItZjU5Nw/ZjIzOTdiZTE2ZTctYTU3YQ.png",
             "houseIntroduction": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/J3SUxjjjQJyDvzJ_Rdej5A.jpg",
-            "houseName": "ENG FAC\tWolves\tvs  Liverpool",
+            "houseName": "AUS D1  Newcastle Jets vs WS Wanderers ",
             "liveStatus": 1,
             "matchId": "xvkjoi88zv2h879",
             "nickName": "BLV  KHÔNG ĐỘ",
             "playStreamAddress": "https://live5.msrktz.app/live/41943555.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/41943555.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/YzlhMTQzNGM2MGUtOTQwYw/NmFmYTczOTNjZGEtZTFkMQ.jpg",
-            "visitHistory": 1769822
+            "visitHistory": 1769824
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4499366",
@@ -3408,13 +3210,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWY4M2E3MzMwYzQtODIxYQ/NjBiYmQxMzJmZjctMGI2YQ.png",
             "houseIntroduction": "",
             "houseName": "URU D1\tMontevideo Wanderers\tvs  Deportivo Maldonado",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "xvkjoi8zvyna879",
             "nickName": "BLV FANTA",
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2231078
+            "visitHistory": 2231091
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4470754",
@@ -3799,7 +3601,7 @@
           "status_id": 1,
           "venue_id": "jw2r09hlxplrz84"
         },
-        "node_api_updated_at": "2026-03-06T21:55:33.501Z",
+        "node_api_updated_at": "2026-03-06T22:23:33.517Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -4130,7 +3932,7 @@
           "status_id": 1,
           "venue_id": "gpxwrxlh1ewryk0"
         },
-        "node_api_updated_at": "2026-03-06T21:55:33.335Z",
+        "node_api_updated_at": "2026-03-06T22:23:33.351Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -4298,7 +4100,7 @@
           "status_id": 1,
           "venue_id": "z318q66hpx6qo9j"
         },
-        "node_api_updated_at": "2026-03-06T21:55:33.585Z",
+        "node_api_updated_at": "2026-03-06T22:23:33.602Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -4570,7 +4372,7 @@
           "status_id": 1,
           "venue_id": "z318q66hk60qo9j"
         },
-        "node_api_updated_at": "2026-03-06T21:55:33.730Z",
+        "node_api_updated_at": "2026-03-06T22:23:33.762Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -4584,14 +4386,14 @@
             "houseId": "33982309",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmZlNjJjNjgzNmMtYWM2MQ/NTBkOTRhMGY5ODQtZjAxOQ.png",
             "houseIntroduction": "",
-            "houseName": "SPA D1   Celta Vigo   vs   Real Madrid  ",
-            "liveStatus": 2,
+            "houseName": "SPA D1  Levante vs  Girona  ",
+            "liveStatus": 1,
             "matchId": "8lk2dir5vd3cz73",
             "nickName": "BLV REVIVE",
             "playStreamAddress": "https://live5.msrktz.app/live/33982309.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/33982309.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/OGNhNTc0OTZhNTQtNDE3NA/MzUzMTg2NTM3NTctYWRlMw.jpg",
-            "visitHistory": 1392556
+            "visitHistory": 1392558
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4358966",
@@ -4751,7 +4553,7 @@
           "status_id": 1,
           "venue_id": "9k82rekhvperepz"
         },
-        "node_api_updated_at": "2026-03-06T21:55:33.731Z",
+        "node_api_updated_at": "2026-03-06T22:23:33.763Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -5084,7 +4886,7 @@
           "status_id": 1,
           "venue_id": "d23xmvkhdo1qg8n"
         },
-        "node_api_updated_at": "2026-03-06T21:55:33.341Z",
+        "node_api_updated_at": "2026-03-06T22:23:33.362Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -5107,7 +4909,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
-            "visitHistory": 2234233
+            "visitHistory": 2234243
           },
           {
             "anchorTitle": "",
@@ -5299,7 +5101,7 @@
           "status_id": 1,
           "venue_id": "yl5ergphvg5r8k0"
         },
-        "node_api_updated_at": "2026-03-06T21:55:33.503Z",
+        "node_api_updated_at": "2026-03-06T22:23:33.518Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -5483,7 +5285,7 @@
           "status_id": 1,
           "venue_id": "z8yomo4hwenq0j6"
         },
-        "node_api_updated_at": "2026-03-06T21:55:33.269Z",
+        "node_api_updated_at": "2026-03-06T22:23:33.279Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -5664,7 +5466,7 @@
           "status_id": 1,
           "venue_id": "d23xmvkhx9jqg8n"
         },
-        "node_api_updated_at": "2026-03-06T21:55:33.338Z",
+        "node_api_updated_at": "2026-03-06T22:23:33.359Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -5694,14 +5496,14 @@
             "houseId": "41943555",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NGE1Nzg3MWNhNTItZjU5Nw/ZjIzOTdiZTE2ZTctYTU3YQ.png",
             "houseIntroduction": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/J3SUxjjjQJyDvzJ_Rdej5A.jpg",
-            "houseName": "ENG FAC\tWolves\tvs  Liverpool",
+            "houseName": "AUS D1  Newcastle Jets vs WS Wanderers ",
             "liveStatus": 1,
             "matchId": "l6kegi81vv8av75",
             "nickName": "BLV  KHÔNG ĐỘ",
             "playStreamAddress": "https://live5.msrktz.app/live/41943555.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/41943555.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/YzlhMTQzNGM2MGUtOTQwYw/NmFmYTczOTNjZGEtZTFkMQ.jpg",
-            "visitHistory": 1769822
+            "visitHistory": 1769824
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4426693",
@@ -5778,7 +5580,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/97312754.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/97312754.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjgwZjNiMDI4MTQtMTIwYQ/NjJhMDVjZjdkNDUtNDU5Zg.jpg",
-            "visitHistory": 2234233
+            "visitHistory": 2234243
           },
           {
             "anchorTitle": "",
@@ -5955,14 +5757,14 @@
             "houseId": "41943555",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NGE1Nzg3MWNhNTItZjU5Nw/ZjIzOTdiZTE2ZTctYTU3YQ.png",
             "houseIntroduction": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/J3SUxjjjQJyDvzJ_Rdej5A.jpg",
-            "houseName": "ENG FAC\tWolves\tvs  Liverpool",
+            "houseName": "AUS D1  Newcastle Jets vs WS Wanderers ",
             "liveStatus": 1,
             "matchId": "o07dni52o4pbmkn",
             "nickName": "BLV  KHÔNG ĐỘ",
             "playStreamAddress": "https://live5.msrktz.app/live/41943555.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/41943555.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/YzlhMTQzNGM2MGUtOTQwYw/NmFmYTczOTNjZGEtZTFkMQ.jpg",
-            "visitHistory": 1769822
+            "visitHistory": 1769824
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4358969",
@@ -6122,7 +5924,7 @@
           "status_id": 1,
           "venue_id": "p4jwq2gh4l5m0ve"
         },
-        "node_api_updated_at": "2026-03-06T21:55:33.657Z",
+        "node_api_updated_at": "2026-03-06T22:23:33.687Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -6224,7 +6026,7 @@
           "competition_id": "p4jwq2gh4xwm0ve",
           "custom_key": "841bb52661ad05ea1dcfd90035494eb2",
           "environment": {
-            "humidity": "76%",
+            "humidity": "77%",
             "pressure": "763mmHg",
             "temperature": "22°C",
             "weather": 5,
@@ -6267,7 +6069,7 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "76%",
+              "humidity": "77%",
               "pressure": "763mmHg",
               "temperature": "22°C",
               "weather": 5,
@@ -6296,7 +6098,7 @@
             },
             "season_id": "l965mkyhpoer1ge",
             "status_id": 1,
-            "updated_at": 1772825425,
+            "updated_at": 1772833223,
             "venue_id": "6ypq3nh0672md7o"
           },
           "referee_id": "",
@@ -6304,7 +6106,7 @@
           "status_id": 1,
           "venue_id": "6ypq3nh0672md7o"
         },
-        "node_api_updated_at": "2026-03-06T21:55:33.502Z",
+        "node_api_updated_at": "2026-03-06T22:23:33.518Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -6635,7 +6437,7 @@
           "status_id": 1,
           "venue_id": "56ypq3nh5z7md7o"
         },
-        "node_api_updated_at": "2026-03-06T21:55:33.413Z",
+        "node_api_updated_at": "2026-03-06T22:23:33.435Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -6799,14 +6601,14 @@
             "houseId": "07808742",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODc0NmIxOGE1NzMtYTQ4Mw/OTBkMTE4Mzg2Y2ItYjNiOQ.png",
             "houseIntroduction": "kết bạn zalo/telegram để vào nhóm soi kèo, khuyến mãi tiền thưởng miễn phí tặng mỗi ngày!",
-            "houseName": "SPA D1\tCelta Vigo\tvs  Real Madrid",
-            "liveStatus": 2,
+            "houseName": "GER D1  Freiburg  vs Bayer Leverkusen ",
+            "liveStatus": 1,
             "matchId": "63kv9igjoyjux7e",
             "nickName": "BLV SAMURAI",
             "playStreamAddress": "https://live5.msrktz.app/live/07808742.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/07808742.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZDQzOWUyYmNkNWItM2JkZg/ODgyMjBjMDgzMGEtYzEzZg.jpg",
-            "visitHistory": 531040
+            "visitHistory": 531042
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4347578",
@@ -6966,7 +6768,7 @@
           "status_id": 1,
           "venue_id": "z318q66h96kqo9j"
         },
-        "node_api_updated_at": "2026-03-06T21:55:33.338Z",
+        "node_api_updated_at": "2026-03-06T22:23:33.359Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -7147,7 +6949,7 @@
           "status_id": 1,
           "venue_id": "kjw2r09hppprz84"
         },
-        "node_api_updated_at": "2026-03-06T21:55:33.496Z",
+        "node_api_updated_at": "2026-03-06T22:23:33.511Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -7330,7 +7132,7 @@
           "status_id": 1,
           "venue_id": "kdj2ryohy4lq1zp"
         },
-        "node_api_updated_at": "2026-03-06T21:55:33.654Z",
+        "node_api_updated_at": "2026-03-06T22:23:33.684Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -7513,7 +7315,7 @@
           "status_id": 1,
           "venue_id": "gy0or5jhok2qwzv"
         },
-        "node_api_updated_at": "2026-03-06T21:55:33.342Z",
+        "node_api_updated_at": "2026-03-06T22:23:33.363Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -7602,14 +7404,14 @@
             "houseId": "07808742",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODc0NmIxOGE1NzMtYTQ4Mw/OTBkMTE4Mzg2Y2ItYjNiOQ.png",
             "houseIntroduction": "kết bạn zalo/telegram để vào nhóm soi kèo, khuyến mãi tiền thưởng miễn phí tặng mỗi ngày!",
-            "houseName": "SPA D1\tCelta Vigo\tvs  Real Madrid",
-            "liveStatus": 2,
+            "houseName": "GER D1  Freiburg  vs Bayer Leverkusen ",
+            "liveStatus": 1,
             "matchId": "9gklzi1y4rpsm7x",
             "nickName": "BLV SAMURAI",
             "playStreamAddress": "https://live5.msrktz.app/live/07808742.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/07808742.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZDQzOWUyYmNkNWItM2JkZg/ODgyMjBjMDgzMGEtYzEzZg.jpg",
-            "visitHistory": 531040
+            "visitHistory": 531042
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4347897",
@@ -7844,13 +7646,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWY4M2E3MzMwYzQtODIxYQ/NjBiYmQxMzJmZjctMGI2YQ.png",
             "houseIntroduction": "",
             "houseName": "URU D1\tMontevideo Wanderers\tvs  Deportivo Maldonado",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "ndkz6i3n633fxq3",
             "nickName": "BLV FANTA",
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2231078
+            "visitHistory": 2231091
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4470661",
@@ -8010,7 +7812,7 @@
           "status_id": 1,
           "venue_id": "56ypq3nh2zlmd7o"
         },
-        "node_api_updated_at": "2026-03-06T21:55:33.493Z",
+        "node_api_updated_at": "2026-03-06T22:23:33.508Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -8026,14 +7828,14 @@
             "houseId": "07808742",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODc0NmIxOGE1NzMtYTQ4Mw/OTBkMTE4Mzg2Y2ItYjNiOQ.png",
             "houseIntroduction": "kết bạn zalo/telegram để vào nhóm soi kèo, khuyến mãi tiền thưởng miễn phí tặng mỗi ngày!",
-            "houseName": "SPA D1\tCelta Vigo\tvs  Real Madrid",
-            "liveStatus": 2,
+            "houseName": "GER D1  Freiburg  vs Bayer Leverkusen ",
+            "liveStatus": 1,
             "matchId": "8lk2dirox4wtz73",
             "nickName": "BLV SAMURAI",
             "playStreamAddress": "https://live5.msrktz.app/live/07808742.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/07808742.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZDQzOWUyYmNkNWItM2JkZg/ODgyMjBjMDgzMGEtYzEzZg.jpg",
-            "visitHistory": 531040
+            "visitHistory": 531042
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4347904",
@@ -8101,14 +7903,14 @@
             "houseId": "33982309",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmZlNjJjNjgzNmMtYWM2MQ/NTBkOTRhMGY5ODQtZjAxOQ.png",
             "houseIntroduction": "",
-            "houseName": "SPA D1   Celta Vigo   vs   Real Madrid  ",
-            "liveStatus": 2,
+            "houseName": "SPA D1  Levante vs  Girona  ",
+            "liveStatus": 1,
             "matchId": "xvkjoi8l1ows879",
             "nickName": "BLV REVIVE",
             "playStreamAddress": "https://live5.msrktz.app/live/33982309.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/33982309.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/OGNhNTc0OTZhNTQtNDE3NA/MzUzMTg2NTM3NTctYWRlMw.jpg",
-            "visitHistory": 1392556
+            "visitHistory": 1392558
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4390940",
@@ -8265,9 +8067,9 @@
           "environment": {
             "humidity": "24%",
             "pressure": "759mmHg",
-            "temperature": "16°C",
+            "temperature": "15°C",
             "weather": 7,
-            "wind": "6.8m/s"
+            "wind": "7.0m/s"
           },
           "home_scores": [
             0,
@@ -8308,9 +8110,9 @@
             "environment": {
               "humidity": "24%",
               "pressure": "759mmHg",
-              "temperature": "16°C",
+              "temperature": "15°C",
               "weather": 7,
-              "wind": "6.8m/s"
+              "wind": "7.0m/s"
             },
             "home_position": "4",
             "home_scores": [
@@ -8335,7 +8137,7 @@
             },
             "season_id": "4jwq2gh4o48m0ve",
             "status_id": 1,
-            "updated_at": 1772832027,
+            "updated_at": 1772833824,
             "venue_id": "yl5ergph300r8k0"
           },
           "referee_id": "",
@@ -8343,7 +8145,7 @@
           "status_id": 1,
           "venue_id": "yl5ergph300r8k0"
         },
-        "node_api_updated_at": "2026-03-06T21:55:33.262Z",
+        "node_api_updated_at": "2026-03-06T22:23:33.272Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -8599,7 +8401,7 @@
           "status_id": 1,
           "venue_id": "gx7lm7phoo7m2wd"
         },
-        "node_api_updated_at": "2026-03-06T21:55:33.332Z",
+        "node_api_updated_at": "2026-03-06T22:23:33.342Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -8691,13 +8493,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWY4M2E3MzMwYzQtODIxYQ/NjBiYmQxMzJmZjctMGI2YQ.png",
             "houseIntroduction": "",
             "houseName": "URU D1\tMontevideo Wanderers\tvs  Deportivo Maldonado",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "8lk2dirrexrsz73",
             "nickName": "BLV FANTA",
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2231078
+            "visitHistory": 2231091
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4506349",
@@ -8777,11 +8579,11 @@
           "competition_id": "v2y8m4zhydql074",
           "custom_key": "851bcd074cfd703c12664dd79dddb89c",
           "environment": {
-            "humidity": "97%",
+            "humidity": "96%",
             "pressure": "763mmHg",
             "temperature": "20°C",
             "weather": 10,
-            "wind": "8.2m/s"
+            "wind": "8.7m/s"
           },
           "home_scores": [
             0,
@@ -8820,11 +8622,11 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "97%",
+              "humidity": "96%",
               "pressure": "763mmHg",
               "temperature": "20°C",
               "weather": 10,
-              "wind": "8.2m/s"
+              "wind": "8.7m/s"
             },
             "home_position": "10",
             "home_scores": [
@@ -8849,7 +8651,7 @@
             },
             "season_id": "y0or5jhlxgvqwzv",
             "status_id": 1,
-            "updated_at": 1772832026,
+            "updated_at": 1772833824,
             "venue_id": "vl7oqdehk61r510"
           },
           "referee_id": "d23xmvkh42eqg8n",
@@ -8857,7 +8659,7 @@
           "status_id": 1,
           "venue_id": "vl7oqdehk61r510"
         },
-        "node_api_updated_at": "2026-03-06T21:55:33.503Z",
+        "node_api_updated_at": "2026-03-06T22:23:33.518Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -9035,7 +8837,7 @@
           "environment": {
             "humidity": "57%",
             "pressure": "759mmHg",
-            "temperature": "20°C",
+            "temperature": "19°C",
             "weather": 1,
             "wind": "4.8m/s"
           },
@@ -9078,7 +8880,7 @@
             "environment": {
               "humidity": "57%",
               "pressure": "759mmHg",
-              "temperature": "20°C",
+              "temperature": "19°C",
               "weather": 1,
               "wind": "4.8m/s"
             },
@@ -9105,7 +8907,7 @@
             },
             "season_id": "2y8m4zh30z7ql07",
             "status_id": 1,
-            "updated_at": 1772832024,
+            "updated_at": 1772833824,
             "venue_id": "pxwrxlhgglzryk0"
           },
           "referee_id": "9vjxm8ghjw4r6od",
@@ -9113,10 +8915,11 @@
           "status_id": 1,
           "venue_id": "pxwrxlhgglzryk0"
         },
-        "node_api_updated_at": "2026-03-06T21:55:33.334Z",
+        "node_api_updated_at": "2026-03-06T22:23:33.350Z",
         "sportId": 1,
         "sport_id": 1,
-        "video_url": null,
+        "videoUrl": "https",
+        "video_url": "https",
         "zalo_enabled": false,
         "zalo_phone": ""
       },
