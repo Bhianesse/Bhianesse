@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T22:39:32.559980",
+  "last_updated": "2026-03-07T22:55:20.332837",
   "event_count": 3,
   "events": {
     "code": "0000",
@@ -362,7 +362,7 @@
           "status_id": 1,
           "venue_id": "56ypq3nh0y0md7o"
         },
-        "node_api_updated_at": "2026-03-07T22:38:33.808Z",
+        "node_api_updated_at": "2026-03-07T22:54:33.806Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -543,7 +543,7 @@
           "status_id": 1,
           "venue_id": "gy0or5jh412qwzv"
         },
-        "node_api_updated_at": "2026-03-07T22:38:34.054Z",
+        "node_api_updated_at": "2026-03-07T22:54:34.042Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -657,7 +657,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/08552895.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/08552895.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZjcxOTk5ODBiNzgtZmUzOA/MTQxZjc0NjY0MGMtNjc2Yw.jpg",
-            "visitHistory": 3019752
+            "visitHistory": 3019779
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4390928",
@@ -879,7 +879,7 @@
           "status_id": 1,
           "venue_id": "z8yomo4hldgq0j6"
         },
-        "node_api_updated_at": "2026-03-07T22:38:34.051Z",
+        "node_api_updated_at": "2026-03-07T22:54:34.038Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -900,7 +900,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/43612277.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/43612277.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZDFkNzAwYjBlNGUtZmY1Mg/Nzk0OTU4NTM2NjItNDM2Nw.jpg",
-            "visitHistory": 6107138
+            "visitHistory": 6107154
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4369004",
@@ -1050,7 +1050,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2231601
+            "visitHistory": 2231633
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4460038",
@@ -1125,7 +1125,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/78905744.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/78905744.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NWUwNzcyMzRjMDUtZDg2NA/YTZhMzUyYjZkMzAtOGNkZg.jpg",
-            "visitHistory": 9508014
+            "visitHistory": 9508030
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4366194",
@@ -1649,7 +1649,7 @@
           "status_id": 1,
           "venue_id": "v2y8m4zhjlzql07"
         },
-        "node_api_updated_at": "2026-03-07T22:38:33.795Z",
+        "node_api_updated_at": "2026-03-07T22:54:33.798Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -1905,7 +1905,7 @@
           "status_id": 1,
           "venue_id": "vl7oqdeh4ydr510"
         },
-        "node_api_updated_at": "2026-03-07T22:38:34.214Z",
+        "node_api_updated_at": "2026-03-07T22:54:34.204Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -2088,7 +2088,7 @@
           "status_id": 1,
           "venue_id": "vl7oqdehve1r510"
         },
-        "node_api_updated_at": "2026-03-07T22:38:34.266Z",
+        "node_api_updated_at": "2026-03-07T22:54:34.262Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -2111,7 +2111,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2231601
+            "visitHistory": 2231633
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465516",
@@ -2271,7 +2271,7 @@
           "status_id": 1,
           "venue_id": "yl5ergphedvr8k0"
         },
-        "node_api_updated_at": "2026-03-07T22:38:34.134Z",
+        "node_api_updated_at": "2026-03-07T22:54:34.121Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -2292,7 +2292,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/78905744.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/78905744.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NWUwNzcyMzRjMDUtZDg2NA/YTZhMzUyYjZkMzAtOGNkZg.jpg",
-            "visitHistory": 9508014
+            "visitHistory": 9508030
           },
           {
             "anchorTitle": "",
@@ -2308,7 +2308,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/08552895.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/08552895.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZjcxOTk5ODBiNzgtZmUzOA/MTQxZjc0NjY0MGMtNjc2Yw.jpg",
-            "visitHistory": 3019752
+            "visitHistory": 3019779
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4460026",
@@ -2469,12 +2469,12 @@
           "status_id": 2,
           "venue_id": "9k82rekhjn5repz"
         },
-        "node_api_updated_at": "2026-03-07T22:38:33.803Z",
+        "node_api_updated_at": "2026-03-07T22:54:33.802Z",
         "pin_hot_anchor": "78905744",
         "sportId": 1,
         "sport_id": 1,
-        "videoUrl": "https://live.trendgallary.com/live/13360658_f40c74ea792ff7105894bc6df97ab623_autoChange.m3u8?auth_key=1772937537-0-0-c90be10b99bfcdcffbfa07e20c88c546",
-        "video_url": "https://live.trendgallary.com/live/13360658_f40c74ea792ff7105894bc6df97ab623_autoChange.m3u8?auth_key=1772937537-0-0-c90be10b99bfcdcffbfa07e20c88c546",
+        "videoUrl": "https://live.trendgallary.com/live/13360658_f40c74ea792ff7105894bc6df97ab623_autoChange.m3u8?auth_key=1772938486-0-0-31a5a1887bd7f4b70712841fa402ad41",
+        "video_url": "https://live.trendgallary.com/live/13360658_f40c74ea792ff7105894bc6df97ab623_autoChange.m3u8?auth_key=1772938486-0-0-31a5a1887bd7f4b70712841fa402ad41",
         "zalo_enabled": true,
         "zalo_phone": "0583 985 909"
       },
@@ -2494,7 +2494,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/78905744.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/78905744.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NWUwNzcyMzRjMDUtZDg2NA/YTZhMzUyYjZkMzAtOGNkZg.jpg",
-            "visitHistory": 9508014
+            "visitHistory": 9508030
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4470753",
@@ -2654,7 +2654,7 @@
           "status_id": 1,
           "venue_id": "56ypq3nhlj9md7o"
         },
-        "node_api_updated_at": "2026-03-07T22:38:34.209Z",
+        "node_api_updated_at": "2026-03-07T22:54:34.199Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -2822,7 +2822,7 @@
           "status_id": 1,
           "venue_id": "9vjxm8gh54pr6od"
         },
-        "node_api_updated_at": "2026-03-07T22:38:33.972Z",
+        "node_api_updated_at": "2026-03-07T22:54:33.959Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -2859,7 +2859,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/43612277.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/43612277.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZDFkNzAwYjBlNGUtZmY1Mg/Nzk0OTU4NTM2NjItNDM2Nw.jpg",
-            "visitHistory": 6107138
+            "visitHistory": 6107154
           },
           {
             "anchorTitle": " ",
@@ -3035,7 +3035,7 @@
           "status_id": 1,
           "venue_id": "yl5ergphoxxr8k0"
         },
-        "node_api_updated_at": "2026-03-07T22:38:33.967Z",
+        "node_api_updated_at": "2026-03-07T22:54:33.954Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -3058,7 +3058,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2231601
+            "visitHistory": 2231633
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4470754",
@@ -3218,7 +3218,7 @@
           "status_id": 1,
           "venue_id": "vl7oqdehkz5r510"
         },
-        "node_api_updated_at": "2026-03-07T22:38:34.138Z",
+        "node_api_updated_at": "2026-03-07T22:54:34.125Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -3399,7 +3399,7 @@
           "status_id": 1,
           "venue_id": "z318q66hoy3qo9j"
         },
-        "node_api_updated_at": "2026-03-07T22:38:33.978Z",
+        "node_api_updated_at": "2026-03-07T22:54:33.964Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -3420,7 +3420,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/75748097.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/75748097.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjlmNzg4ODFlYjQtOTljOQ/NDM1MGNlNTU4MDktNTViOA.jpg",
-            "visitHistory": 1617687
+            "visitHistory": 1617688
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4472461",
@@ -3642,7 +3642,7 @@
           "status_id": 1,
           "venue_id": "d23xmvkhjlwqg8n"
         },
-        "node_api_updated_at": "2026-03-07T22:38:33.901Z",
+        "node_api_updated_at": "2026-03-07T22:54:33.887Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -3825,7 +3825,7 @@
           "status_id": 1,
           "venue_id": "p3glrw7h0eoqdyj"
         },
-        "node_api_updated_at": "2026-03-07T22:38:34.212Z",
+        "node_api_updated_at": "2026-03-07T22:54:34.201Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -3846,7 +3846,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/75748097.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/75748097.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjlmNzg4ODFlYjQtOTljOQ/NDM1MGNlNTU4MDktNTViOA.jpg",
-            "visitHistory": 1617687
+            "visitHistory": 1617688
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4355778",
@@ -4006,7 +4006,7 @@
           "status_id": 1,
           "venue_id": "gx7lm7phky9m2wd"
         },
-        "node_api_updated_at": "2026-03-07T22:38:34.207Z",
+        "node_api_updated_at": "2026-03-07T22:54:34.197Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -4412,7 +4412,7 @@
           "status_id": 1,
           "venue_id": "gx7lm7ph7kgm2wd"
         },
-        "node_api_updated_at": "2026-03-07T22:38:34.214Z",
+        "node_api_updated_at": "2026-03-07T22:54:34.204Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -4663,7 +4663,7 @@
           "status_id": 1,
           "venue_id": "y39mp1h35j6mojx"
         },
-        "node_api_updated_at": "2026-03-07T22:38:33.899Z",
+        "node_api_updated_at": "2026-03-07T22:54:33.885Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -4686,7 +4686,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/75748097.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/75748097.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjlmNzg4ODFlYjQtOTljOQ/NDM1MGNlNTU4MDktNTViOA.jpg",
-            "visitHistory": 1617687
+            "visitHistory": 1617688
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4347902",
@@ -4996,7 +4996,7 @@
           "status_id": 1,
           "venue_id": "kjw2r09hx4prz84"
         },
-        "node_api_updated_at": "2026-03-07T22:38:33.806Z",
+        "node_api_updated_at": "2026-03-07T22:54:33.804Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -5398,7 +5398,7 @@
           "status_id": 1,
           "venue_id": "965mkyh7loor1ge"
         },
-        "node_api_updated_at": "2026-03-07T22:38:33.722Z",
+        "node_api_updated_at": "2026-03-07T22:54:33.724Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -5494,7 +5494,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/08552895.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/08552895.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZjcxOTk5ODBiNzgtZmUzOA/MTQxZjc0NjY0MGMtNjc2Yw.jpg",
-            "visitHistory": 3019752
+            "visitHistory": 3019779
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4347898",
@@ -5654,7 +5654,7 @@
           "status_id": 1,
           "venue_id": "l965mkyh44pr1ge"
         },
-        "node_api_updated_at": "2026-03-07T22:38:33.978Z",
+        "node_api_updated_at": "2026-03-07T22:54:33.965Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -5835,7 +5835,7 @@
           "status_id": 1,
           "venue_id": "p4jwq2ghk3dm0ve"
         },
-        "node_api_updated_at": "2026-03-07T22:38:33.974Z",
+        "node_api_updated_at": "2026-03-07T22:54:33.961Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -6381,7 +6381,7 @@
           "status_id": 1,
           "venue_id": "gy0or5jh4lzqwzv"
         },
-        "node_api_updated_at": "2026-03-07T22:38:33.724Z",
+        "node_api_updated_at": "2026-03-07T22:54:33.725Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -6712,7 +6712,7 @@
           "status_id": 1,
           "venue_id": "gpxwrxlh91yryk0"
         },
-        "node_api_updated_at": "2026-03-07T22:38:33.808Z",
+        "node_api_updated_at": "2026-03-07T22:54:33.805Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -7043,7 +7043,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-07T22:38:34.214Z",
+        "node_api_updated_at": "2026-03-07T22:54:34.204Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -7224,7 +7224,7 @@
           "status_id": 1,
           "venue_id": "gx7lm7pho76m2wd"
         },
-        "node_api_updated_at": "2026-03-07T22:38:33.897Z",
+        "node_api_updated_at": "2026-03-07T22:54:33.883Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -7480,7 +7480,7 @@
           "status_id": 1,
           "venue_id": "p3glrw7hw8jqdyj"
         },
-        "node_api_updated_at": "2026-03-07T22:38:33.796Z",
+        "node_api_updated_at": "2026-03-07T22:54:33.799Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -7663,7 +7663,7 @@
           "status_id": 1,
           "venue_id": "gpxwrxlhkk4ryk0"
         },
-        "node_api_updated_at": "2026-03-07T22:38:34.051Z",
+        "node_api_updated_at": "2026-03-07T22:54:34.038Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -7844,7 +7844,7 @@
           "status_id": 1,
           "venue_id": "gx7lm7phowvm2wd"
         },
-        "node_api_updated_at": "2026-03-07T22:38:33.723Z",
+        "node_api_updated_at": "2026-03-07T22:54:33.725Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
