@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T23:38:29.704417",
+  "last_updated": "2026-03-07T23:53:04.665755",
   "event_count": 3,
   "events": {
     "code": "0000",
@@ -362,7 +362,7 @@
           "status_id": 1,
           "venue_id": "56ypq3nh0y0md7o"
         },
-        "node_api_updated_at": "2026-03-07T23:37:33.852Z",
+        "node_api_updated_at": "2026-03-07T23:52:33.830Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -544,7 +544,7 @@
           "status_id": 1,
           "venue_id": "gy0or5jh412qwzv"
         },
-        "node_api_updated_at": "2026-03-07T23:37:34.088Z",
+        "node_api_updated_at": "2026-03-07T23:52:34.065Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -651,14 +651,14 @@
             "houseId": "08552895",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NTNhNzk3NTQ4ODEtZDAyNw/ZTY1OGM5YjNmODAtY2FmNw.png",
             "houseIntroduction": "",
-            "houseName": "USA MLS D.C. United  vs  Inter Miami",
+            "houseName": "FRA D1   Lens   vs   Metz  ",
             "liveStatus": 1,
             "matchId": "34kgmiox4ndbeko",
             "nickName": "BLV C2",
             "playStreamAddress": "https://live5.msrktz.app/live/08552895.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/08552895.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZjcxOTk5ODBiNzgtZmUzOA/MTQxZjc0NjY0MGMtNjc2Yw.jpg",
-            "visitHistory": 3019860
+            "visitHistory": 3019862
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4390928",
@@ -880,7 +880,7 @@
           "status_id": 1,
           "venue_id": "z8yomo4hldgq0j6"
         },
-        "node_api_updated_at": "2026-03-07T23:37:34.085Z",
+        "node_api_updated_at": "2026-03-07T23:52:34.061Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -1052,7 +1052,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2231721
+            "visitHistory": 2231749
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4460038",
@@ -1120,14 +1120,14 @@
             "houseId": "78905744",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZmU4NDM4OGViMmUtYzEzYQ/ZmQ3NjA5MmZmMjctYjc2Ng.png",
             "houseIntroduction": "",
-            "houseName": "USA MLS     D.C. United  vs  Inter Miami CF",
-            "liveStatus": 2,
+            "houseName": "JPN D1   Okayama   vs    Kyoto  ",
+            "liveStatus": 1,
             "matchId": "l6kegi8e2p5cv75",
             "nickName": "BLV 7UP",
             "playStreamAddress": "https://live5.msrktz.app/live/78905744.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/78905744.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NWUwNzcyMzRjMDUtZDg2NA/YTZhMzUyYjZkMzAtOGNkZg.jpg",
-            "visitHistory": 9508076
+            "visitHistory": 9508080
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4366194",
@@ -1651,7 +1651,7 @@
           "status_id": 1,
           "venue_id": "v2y8m4zhjlzql07"
         },
-        "node_api_updated_at": "2026-03-07T23:37:33.844Z",
+        "node_api_updated_at": "2026-03-07T23:52:33.822Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -1907,7 +1907,7 @@
           "status_id": 1,
           "venue_id": "vl7oqdeh4ydr510"
         },
-        "node_api_updated_at": "2026-03-07T23:37:34.249Z",
+        "node_api_updated_at": "2026-03-07T23:52:34.227Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -2090,7 +2090,7 @@
           "status_id": 1,
           "venue_id": "vl7oqdehve1r510"
         },
-        "node_api_updated_at": "2026-03-07T23:37:34.302Z",
+        "node_api_updated_at": "2026-03-07T23:52:34.280Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -2113,7 +2113,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2231721
+            "visitHistory": 2231749
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465516",
@@ -2121,8 +2121,8 @@
         "awayScore": [
           0,
           0,
-          0,
           1,
+          2,
           1,
           0,
           0
@@ -2149,7 +2149,7 @@
           1,
           0,
           0,
-          2,
+          4,
           0,
           0
         ],
@@ -2273,212 +2273,11 @@
           "status_id": 2,
           "venue_id": "yl5ergphedvr8k0"
         },
-        "node_api_updated_at": "2026-03-07T23:37:34.170Z",
+        "node_api_updated_at": "2026-03-07T23:52:34.146Z",
         "sportId": 1,
         "sport_id": 1,
-        "videoUrl": "https://live.trendgallary.com/live/13376321_58e23dc58d1a9aaebe0705a29e1985cf_autoChange.m3u8?auth_key=1772941074-0-0-a9c42eb60304f17a80cd39f53bff2c65",
-        "video_url": "https://live.trendgallary.com/live/13376321_58e23dc58d1a9aaebe0705a29e1985cf_autoChange.m3u8?auth_key=1772941074-0-0-a9c42eb60304f17a80cd39f53bff2c65"
-      },
-      "dc-united-vs-inter-miami-luc-0440-ngay-08-03-2026-zrkn6i4eplehwql": {
-        "anchorAppointmentVoList": [
-          {
-            "anchorTitle": "",
-            "anchorTypeName": "足球",
-            "fansCount": 251,
-            "houseId": "78905744",
-            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZmU4NDM4OGViMmUtYzEzYQ/ZmQ3NjA5MmZmMjctYjc2Ng.png",
-            "houseIntroduction": "",
-            "houseName": "USA MLS     D.C. United  vs  Inter Miami CF",
-            "liveStatus": 2,
-            "matchId": "zrkn6i4eplehwql",
-            "nickName": "BLV 7UP",
-            "playStreamAddress": "https://live5.msrktz.app/live/78905744.flv",
-            "playStreamAddress2": "https://live5.msrktz.app/live/78905744.m3u8",
-            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NWUwNzcyMzRjMDUtZDg2NA/YTZhMzUyYjZkMzAtOGNkZg.jpg",
-            "visitHistory": 9508074
-          },
-          {
-            "anchorTitle": "",
-            "anchorTypeName": "足球",
-            "fansCount": 344,
-            "houseId": "08552895",
-            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NTNhNzk3NTQ4ODEtZDAyNw/ZTY1OGM5YjNmODAtY2FmNw.png",
-            "houseIntroduction": "",
-            "houseName": "USA MLS D.C. United  vs  Inter Miami",
-            "liveStatus": 2,
-            "matchId": "zrkn6i4eplehwql",
-            "nickName": "BLV C2",
-            "playStreamAddress": "https://live5.msrktz.app/live/08552895.flv",
-            "playStreamAddress2": "https://live5.msrktz.app/live/08552895.m3u8",
-            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZjcxOTk5ODBiNzgtZmUzOA/MTQxZjc0NjY0MGMtNjc2Yw.jpg",
-            "visitHistory": 3019856
-          }
-        ],
-        "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4460026",
-        "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4460026",
-        "auto_unpin_minutes": 120,
-        "awayScore": [
-          2,
-          2,
-          0,
-          1,
-          1,
-          0,
-          0
-        ],
-        "awayTeamId": "wv78xijo94inkrj",
-        "awayTeamLogo": "https://img.colatv88xd.cc/football/team/976fe1d29c112f4baeb844cdda2f04cb.png!w80",
-        "awayTeamName": "Inter Miami",
-        "away_team": {
-          "id": "wv78xijo94inkrj",
-          "logo": "https://img.colatv88xd.cc/football/team/976fe1d29c112f4baeb844cdda2f04cb.png!w80",
-          "name": "Inter Miami"
-        },
-        "competition": {
-          "id": "w34kgmi82i1ko92",
-          "logo": "https://img.colatv88xd.cc/football/competition/d2fe5be131ad888084f50d6af533570c.png!w80",
-          "name": "Major League Soccer"
-        },
-        "competitionId": "w34kgmi82i1ko92",
-        "competitionLogo": "https://img.colatv88xd.cc/football/competition/d2fe5be131ad888084f50d6af533570c.png!w80",
-        "competitionName": "Major League Soccer",
-        "custom_key": "34b3b3015a4b5a7b92fa4d3ade9e4e03",
-        "homeScore": [
-          1,
-          0,
-          0,
-          1,
-          8,
-          0,
-          0
-        ],
-        "homeTeamId": "mo07dniz2rh9knx",
-        "homeTeamLogo": "https://img.colatv88xd.cc/football/team/2d846f3eea3e2d5067b26de498f83d94.png!w80",
-        "homeTeamName": "DC United",
-        "home_team": {
-          "id": "mo07dniz2rh9knx",
-          "logo": "https://img.colatv88xd.cc/football/team/2d846f3eea3e2d5067b26de498f83d94.png!w80",
-          "name": "DC United"
-        },
-        "house_id": "78905744",
-        "matchId": "zrkn6i4eplehwql",
-        "matchStatus": 8,
-        "matchTime": 1772919600,
-        "match_id": "zrkn6i4eplehwql",
-        "match_status": "finished",
-        "match_time": 1772919600,
-        "node_api_data": {
-          "_id": "69ab70da07c7bc72a506aab2",
-          "away_scores": [
-            2,
-            2,
-            0,
-            0,
-            1,
-            0,
-            0
-          ],
-          "away_team": {
-            "id": "vjxm8ghjyd1r6od",
-            "logo": "https://img.thesports.com/football/team/976fe1d29c112f4baeb844cdda2f04cb.png",
-            "name": "Inter Miami CF"
-          },
-          "away_team_id": "vjxm8ghjyd1r6od",
-          "competition": {
-            "id": "kn54qllhg2qvy9d",
-            "logo": "https://img.thesports.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",
-            "name": "United States Major League Soccer"
-          },
-          "competition_id": "kn54qllhg2qvy9d",
-          "custom_key": "34b3b3015a4b5a7b92fa4d3ade9e4e03",
-          "environment": {
-            "humidity": "92%",
-            "pressure": "759mmHg",
-            "temperature": "10°C",
-            "weather": 5,
-            "wind": "2.0m/s"
-          },
-          "home_scores": [
-            1,
-            0,
-            0,
-            1,
-            5,
-            0,
-            0
-          ],
-          "home_team": {
-            "id": "p4jwq2ghjv2m0ve",
-            "logo": "https://img.thesports.com/football/team/2d846f3eea3e2d5067b26de498f83d94.png",
-            "name": "DC United"
-          },
-          "home_team_id": "p4jwq2ghjv2m0ve",
-          "match_date_vn": "20260308",
-          "match_id": "dj2ryohlxpyxq1z",
-          "match_time": 1772919600,
-          "raw": {
-            "away_position": "7",
-            "away_scores": [
-              2,
-              2,
-              0,
-              0,
-              1,
-              0,
-              0
-            ],
-            "away_team_id": "vjxm8ghjyd1r6od",
-            "competition_id": "kn54qllhg2qvy9d",
-            "coverage": {
-              "gif": 1,
-              "lineup": 1,
-              "mlive": 1
-            },
-            "environment": {
-              "humidity": "92%",
-              "pressure": "759mmHg",
-              "temperature": "10°C",
-              "weather": 5,
-              "wind": "2.0m/s"
-            },
-            "home_position": "6",
-            "home_scores": [
-              1,
-              0,
-              0,
-              1,
-              5,
-              0,
-              0
-            ],
-            "home_team_id": "p4jwq2ghjv2m0ve",
-            "id": "dj2ryohlxpyxq1z",
-            "match_time": 1772919600,
-            "neutral": 0,
-            "note": "",
-            "referee_id": "9dn1m1ghoe6moep",
-            "round": {
-              "group_num": 0,
-              "round_num": 3,
-              "stage_id": "ednm9whpnxnryox"
-            },
-            "season_id": "gy0or5jh77nqwzv",
-            "status_id": 4,
-            "updated_at": 1772925788,
-            "venue_id": "9k82rekhjn5repz"
-          },
-          "referee_id": "9dn1m1ghoe6moep",
-          "season_id": "gy0or5jh77nqwzv",
-          "status_id": 4,
-          "venue_id": "9k82rekhjn5repz"
-        },
-        "node_api_updated_at": "2026-03-07T23:37:33.849Z",
-        "pin_hot_anchor": "78905744",
-        "sportId": 1,
-        "sport_id": 1,
-        "video_url": null,
-        "zalo_enabled": true,
-        "zalo_phone": "0583 985 909"
+        "videoUrl": "https://live.trendgallary.com/live/13376321_58e23dc58d1a9aaebe0705a29e1985cf_autoChange.m3u8?auth_key=1772941941-0-0-819b8043dc132c764f39aac8be56585f",
+        "video_url": "https://live.trendgallary.com/live/13376321_58e23dc58d1a9aaebe0705a29e1985cf_autoChange.m3u8?auth_key=1772941941-0-0-819b8043dc132c764f39aac8be56585f"
       },
       "fagiano-okayama-vs-kyoto-sanga-luc-1055-ngay-08-03-2026-l6kegi8m3n3cv75": {
         "anchorAppointmentVoList": [
@@ -2489,14 +2288,14 @@
             "houseId": "78905744",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZmU4NDM4OGViMmUtYzEzYQ/ZmQ3NjA5MmZmMjctYjc2Ng.png",
             "houseIntroduction": "",
-            "houseName": "USA MLS     D.C. United  vs  Inter Miami CF",
-            "liveStatus": 2,
+            "houseName": "JPN D1   Okayama   vs    Kyoto  ",
+            "liveStatus": 1,
             "matchId": "l6kegi8m3n3cv75",
             "nickName": "BLV 7UP",
             "playStreamAddress": "https://live5.msrktz.app/live/78905744.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/78905744.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NWUwNzcyMzRjMDUtZDg2NA/YTZhMzUyYjZkMzAtOGNkZg.jpg",
-            "visitHistory": 9508076
+            "visitHistory": 9508080
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4470753",
@@ -2656,7 +2455,7 @@
           "status_id": 1,
           "venue_id": "56ypq3nhlj9md7o"
         },
-        "node_api_updated_at": "2026-03-07T23:37:34.244Z",
+        "node_api_updated_at": "2026-03-07T23:52:34.222Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -2824,7 +2623,7 @@
           "status_id": 1,
           "venue_id": "9vjxm8gh54pr6od"
         },
-        "node_api_updated_at": "2026-03-07T23:37:34.005Z",
+        "node_api_updated_at": "2026-03-07T23:52:33.981Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -3037,7 +2836,7 @@
           "status_id": 1,
           "venue_id": "yl5ergphoxxr8k0"
         },
-        "node_api_updated_at": "2026-03-07T23:37:34.001Z",
+        "node_api_updated_at": "2026-03-07T23:52:33.977Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -3060,7 +2859,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2231721
+            "visitHistory": 2231749
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4470754",
@@ -3220,7 +3019,7 @@
           "status_id": 1,
           "venue_id": "vl7oqdehkz5r510"
         },
-        "node_api_updated_at": "2026-03-07T23:37:34.173Z",
+        "node_api_updated_at": "2026-03-07T23:52:34.151Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -3401,7 +3200,7 @@
           "status_id": 1,
           "venue_id": "z318q66hoy3qo9j"
         },
-        "node_api_updated_at": "2026-03-07T23:37:34.011Z",
+        "node_api_updated_at": "2026-03-07T23:52:33.987Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -3422,7 +3221,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/75748097.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/75748097.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjlmNzg4ODFlYjQtOTljOQ/NDM1MGNlNTU4MDktNTViOA.jpg",
-            "visitHistory": 1617691
+            "visitHistory": 1617692
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4472461",
@@ -3644,7 +3443,7 @@
           "status_id": 1,
           "venue_id": "d23xmvkhjlwqg8n"
         },
-        "node_api_updated_at": "2026-03-07T23:37:33.935Z",
+        "node_api_updated_at": "2026-03-07T23:52:33.911Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -3827,7 +3626,7 @@
           "status_id": 1,
           "venue_id": "p3glrw7h0eoqdyj"
         },
-        "node_api_updated_at": "2026-03-07T23:37:34.246Z",
+        "node_api_updated_at": "2026-03-07T23:52:34.224Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -3848,7 +3647,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/75748097.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/75748097.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjlmNzg4ODFlYjQtOTljOQ/NDM1MGNlNTU4MDktNTViOA.jpg",
-            "visitHistory": 1617691
+            "visitHistory": 1617692
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4355778",
@@ -4008,7 +3807,7 @@
           "status_id": 1,
           "venue_id": "gx7lm7phky9m2wd"
         },
-        "node_api_updated_at": "2026-03-07T23:37:34.242Z",
+        "node_api_updated_at": "2026-03-07T23:52:34.220Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -4414,7 +4213,7 @@
           "status_id": 1,
           "venue_id": "gx7lm7ph7kgm2wd"
         },
-        "node_api_updated_at": "2026-03-07T23:37:34.249Z",
+        "node_api_updated_at": "2026-03-07T23:52:34.227Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -4665,7 +4464,7 @@
           "status_id": 1,
           "venue_id": "y39mp1h35j6mojx"
         },
-        "node_api_updated_at": "2026-03-07T23:37:33.933Z",
+        "node_api_updated_at": "2026-03-07T23:52:33.909Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -4688,7 +4487,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/75748097.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/75748097.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjlmNzg4ODFlYjQtOTljOQ/NDM1MGNlNTU4MDktNTViOA.jpg",
-            "visitHistory": 1617691
+            "visitHistory": 1617692
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4347902",
@@ -4998,7 +4797,7 @@
           "status_id": 1,
           "venue_id": "kjw2r09hx4prz84"
         },
-        "node_api_updated_at": "2026-03-07T23:37:33.851Z",
+        "node_api_updated_at": "2026-03-07T23:52:33.829Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -5400,7 +5199,7 @@
           "status_id": 1,
           "venue_id": "965mkyh7loor1ge"
         },
-        "node_api_updated_at": "2026-03-07T23:37:33.748Z",
+        "node_api_updated_at": "2026-03-07T23:52:33.748Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -5489,14 +5288,14 @@
             "houseId": "08552895",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NTNhNzk3NTQ4ODEtZDAyNw/ZTY1OGM5YjNmODAtY2FmNw.png",
             "houseIntroduction": "",
-            "houseName": "USA MLS D.C. United  vs  Inter Miami",
+            "houseName": "FRA D1   Lens   vs   Metz  ",
             "liveStatus": 1,
             "matchId": "ndkz6i38ljjfxq3",
             "nickName": "BLV C2",
             "playStreamAddress": "https://live5.msrktz.app/live/08552895.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/08552895.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZjcxOTk5ODBiNzgtZmUzOA/MTQxZjc0NjY0MGMtNjc2Yw.jpg",
-            "visitHistory": 3019860
+            "visitHistory": 3019862
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4347898",
@@ -5656,10 +5455,11 @@
           "status_id": 1,
           "venue_id": "l965mkyh44pr1ge"
         },
-        "node_api_updated_at": "2026-03-07T23:37:34.084Z",
+        "node_api_updated_at": "2026-03-07T23:52:34.060Z",
         "sportId": 1,
         "sport_id": 1,
-        "video_url": null
+        "videoUrl": "https",
+        "video_url": "https"
       },
       "rizespor-vs-antalyaspor-luc-1730-ngay-08-03-2026-jr7owipjg6gugq0": {
         "anchorAppointmentVoList": [
@@ -5837,7 +5637,7 @@
           "status_id": 1,
           "venue_id": "p4jwq2ghk3dm0ve"
         },
-        "node_api_updated_at": "2026-03-07T23:37:34.008Z",
+        "node_api_updated_at": "2026-03-07T23:52:33.984Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -6383,10 +6183,11 @@
           "status_id": 1,
           "venue_id": "gy0or5jh4lzqwzv"
         },
-        "node_api_updated_at": "2026-03-07T23:37:33.750Z",
+        "node_api_updated_at": "2026-03-07T23:52:33.749Z",
         "sportId": 1,
         "sport_id": 1,
-        "video_url": null
+        "videoUrl": "https",
+        "video_url": "https"
       },
       "stade-brestois-29-vs-le-havre-luc-2315-ngay-08-03-2026-9gklzi1y4rpsm7x": {
         "anchorAppointmentVoList": [
@@ -6714,7 +6515,7 @@
           "status_id": 1,
           "venue_id": "gpxwrxlh91yryk0"
         },
-        "node_api_updated_at": "2026-03-07T23:37:33.852Z",
+        "node_api_updated_at": "2026-03-07T23:52:33.830Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -7045,7 +6846,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-07T23:37:34.249Z",
+        "node_api_updated_at": "2026-03-07T23:52:34.227Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -7226,7 +7027,7 @@
           "status_id": 1,
           "venue_id": "gx7lm7pho76m2wd"
         },
-        "node_api_updated_at": "2026-03-07T23:37:33.931Z",
+        "node_api_updated_at": "2026-03-07T23:52:33.907Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -7483,10 +7284,11 @@
           "status_id": 1,
           "venue_id": "p3glrw7hw8jqdyj"
         },
-        "node_api_updated_at": "2026-03-07T23:37:33.846Z",
+        "node_api_updated_at": "2026-03-07T23:52:33.824Z",
         "sportId": 1,
         "sport_id": 1,
-        "video_url": null,
+        "videoUrl": "https",
+        "video_url": "https",
         "zalo_enabled": false,
         "zalo_phone": ""
       },
@@ -7666,7 +7468,7 @@
           "status_id": 1,
           "venue_id": "8y39mp1hk8emojx"
         },
-        "node_api_updated_at": "2026-03-07T23:37:34.085Z",
+        "node_api_updated_at": "2026-03-07T23:52:34.061Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -7847,7 +7649,7 @@
           "status_id": 1,
           "venue_id": "gx7lm7phowvm2wd"
         },
-        "node_api_updated_at": "2026-03-07T23:37:33.750Z",
+        "node_api_updated_at": "2026-03-07T23:52:33.749Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
