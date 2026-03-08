@@ -2,7 +2,7 @@ name: Update Sports Streams Cache
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -11,14 +11,14 @@ permissions:
 jobs:
   fetch-and-update:
     runs-on: ubuntu-latest
+
     if: github.ref == 'refs/heads/main'
 
     steps:
-
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
@@ -26,31 +26,28 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests
+          pip install aiohttp
 
-      - name: Restore Python script from secret
+      - name: Restore Python script from Base64 secret
         run: |
-          cat << 'EOF' > /tmp/script.py
-          ${{ secrets.KEY_PY }}
-          EOF
+          echo "${{ secrets.KEY_PY_BASE64 }}" | base64 -d > key.py
 
-      - name: Run Python script
+      - name: Run scraper
         run: |
-          python /tmp/script.py
+          python key.py
 
-      - name: Commit and push if changed
+      - name: Commit playlist if changed
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          # hanya commit file hasil script
           git add uwir.php
 
           if git diff --staged --quiet; then
-            echo "No changes to commit"
+            echo "No changes"
           else
-            git commit -m "🔄 Auto-update streams $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+            git commit -m "🔄 Auto update playlist $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
             git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
           fi
