@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T00:57:47.504309",
+  "last_updated": "2026-03-08T03:29:59.933665",
   "event_count": 3,
   "events": {
     "code": "0000",
@@ -14,13 +14,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjM4ZDcwYzIwZWItNDk4MQ/MzU1MDM1ZWFkZWQtNWMzMg.png",
             "houseIntroduction": "",
             "houseName": "USA MLS\tColorado Rapids  vs Los Angeles Galaxy",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "j374oi0d9j5tgqo",
             "nickName": "BLV ROCKSTAR",
             "playStreamAddress": "https://live5.msrktz.app/live/82054853.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/82054853.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZTY1M2Y4MzAxZTItZGRhYw/NTA1MTQ5Y2RlOGMtMmQyYg.jpg",
-            "visitHistory": 2778283
+            "visitHistory": 2778346
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4347583",
@@ -180,7 +180,7 @@
           "status_id": 1,
           "venue_id": "9dn1m1gh4zdmoep"
         },
-        "node_api_updated_at": "2026-03-08T00:57:34.140Z",
+        "node_api_updated_at": "2026-03-08T03:29:34.157Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -393,7 +393,7 @@
           "status_id": 1,
           "venue_id": "gpxwrxlhgk1ryk0"
         },
-        "node_api_updated_at": "2026-03-08T00:57:34.135Z",
+        "node_api_updated_at": "2026-03-08T03:29:34.151Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -408,13 +408,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MzMyODYxYzM1ODEtNWZjNg/NzUzZGRiMDRmYjMtYWU4NQ.JPG",
             "houseIntroduction": "",
             "houseName": "AUS D1\tAuckland FC\tvs Perth Glory",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "527r3i4eol2b47e",
             "nickName": "BLV Cozy",
             "playStreamAddress": "https://live5.msrktz.app/live/87379114.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/87379114.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NGZkODJiZmYyNTktNDFhZQ/MTBjZDlkZjE5ZGYtMDIwOQ.jpg",
-            "visitHistory": 1080577
+            "visitHistory": 1080776
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4339843",
@@ -494,7 +494,7 @@
           "competition_id": "4zp5rzghp5q82w1",
           "custom_key": "3e6b588e8f34fef21c51f86851d35332",
           "environment": {
-            "humidity": "63%",
+            "humidity": "62%",
             "pressure": "770mmHg",
             "temperature": "17°C",
             "weather": 9,
@@ -537,7 +537,7 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "63%",
+              "humidity": "62%",
               "pressure": "770mmHg",
               "temperature": "17°C",
               "weather": 9,
@@ -566,7 +566,7 @@
             },
             "season_id": "4zp5rzghn83q82w",
             "status_id": 1,
-            "updated_at": 1772928624,
+            "updated_at": 1772938826,
             "venue_id": "56ypq3nh0y0md7o"
           },
           "referee_id": "p3glrw7hy5gqdyj",
@@ -574,194 +574,11 @@
           "status_id": 1,
           "venue_id": "56ypq3nh0y0md7o"
         },
-        "node_api_updated_at": "2026-03-08T00:57:33.869Z",
+        "node_api_updated_at": "2026-03-08T03:29:33.913Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
         "video_url": "https"
-      },
-      "atlas-vs-chivas-guadalajara-luc-0805-ngay-08-03-2026-8lk2dir60dybz73": {
-        "anchorAppointmentVoList": [
-          {
-            "anchorTitle": "",
-            "anchorTypeName": "足球",
-            "fansCount": 16,
-            "houseId": "18812304",
-            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YzAwMDlmMmZhNDItZjkwOA/NmRkMWE1YTljZTEtYWRmMg.jpg",
-            "houseIntroduction": "",
-            "houseName": "   \t MEX D1 Atlas vs Guadalajara Chivas",
-            "liveStatus": 2,
-            "matchId": "8lk2dir60dybz73",
-            "nickName": "BLV CHANH MUỐI",
-            "playStreamAddress": "https://live5.msrktz.app/live/18812304.flv",
-            "playStreamAddress2": "https://live5.msrktz.app/live/18812304.m3u8",
-            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MDE0ZTNlOWM5NzgtN2EyZg/NDAxMTlhNWRiN2ItZmRhYg.jpg",
-            "visitHistory": 1745828
-          }
-        ],
-        "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465521",
-        "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465521",
-        "awayScore": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "awayTeamId": "0m2q15iyndcm76x",
-        "awayTeamLogo": "https://img.colatv88xd.cc/football/team/872867a492989e6a9a0785cfd0a40680.png!w80",
-        "awayTeamName": "Chivas Guadalajara",
-        "away_team": {
-          "id": "0m2q15iyndcm76x",
-          "logo": "https://img.colatv88xd.cc/football/team/872867a492989e6a9a0785cfd0a40680.png!w80",
-          "name": "Chivas Guadalajara"
-        },
-        "competition": {
-          "id": "2j374oixwu4qo6d",
-          "logo": "https://img.colatv88xd.cc/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png!w80",
-          "name": "Giải Vô địch Bóng đá Quốc gia Mexico"
-        },
-        "competitionId": "2j374oixwu4qo6d",
-        "competitionLogo": "https://img.colatv88xd.cc/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png!w80",
-        "competitionName": "Giải Vô địch Bóng đá Quốc gia Mexico",
-        "custom_key": "97629bb2c0f98a0009d56baf19390b9d",
-        "homeScore": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "homeTeamId": "oj7x9irwerhr7g3",
-        "homeTeamLogo": "https://img.colatv88xd.cc/football/team/a3316e9ee8fe7b3a279a10d61d0b2f87.png!w80",
-        "homeTeamName": "Atlas",
-        "home_team": {
-          "id": "oj7x9irwerhr7g3",
-          "logo": "https://img.colatv88xd.cc/football/team/a3316e9ee8fe7b3a279a10d61d0b2f87.png!w80",
-          "name": "Atlas"
-        },
-        "house_id": null,
-        "matchId": "8lk2dir60dybz73",
-        "matchStatus": 1,
-        "matchTime": 1772931900,
-        "match_id": "8lk2dir60dybz73",
-        "match_status": "scheduled",
-        "match_time": 1772931900,
-        "node_api_data": {
-          "_id": "69ab70dd07c7bc72a506b33c",
-          "away_scores": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "away_team": {
-            "id": "yl5ergph1e7r8k0",
-            "logo": "https://img.thesports.com/football/team/872867a492989e6a9a0785cfd0a40680.png",
-            "name": "Club Deportivo Guadalajara"
-          },
-          "away_team_id": "yl5ergph1e7r8k0",
-          "competition": {
-            "id": "9k82rekhp6repzj",
-            "logo": "https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",
-            "name": "Mexico Liga MX"
-          },
-          "competition_id": "9k82rekhp6repzj",
-          "custom_key": "97629bb2c0f98a0009d56baf19390b9d",
-          "environment": {
-            "humidity": "19%",
-            "pressure": "756mmHg",
-            "temperature": "26°C",
-            "weather": 5,
-            "wind": "3.4m/s"
-          },
-          "home_scores": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "home_team": {
-            "id": "l7oqdehn6dnr510",
-            "logo": "https://img.thesports.com/football/team/a3316e9ee8fe7b3a279a10d61d0b2f87.png",
-            "name": "Atlas"
-          },
-          "home_team_id": "l7oqdehn6dnr510",
-          "match_date_vn": "20260308",
-          "match_id": "1l4rjnh9jyg5m7v",
-          "match_time": 1772931900,
-          "raw": {
-            "away_position": "4",
-            "away_scores": [
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0
-            ],
-            "away_team_id": "yl5ergph1e7r8k0",
-            "competition_id": "9k82rekhp6repzj",
-            "coverage": {
-              "gif": 0,
-              "lineup": 1,
-              "mlive": 1
-            },
-            "environment": {
-              "humidity": "19%",
-              "pressure": "756mmHg",
-              "temperature": "26°C",
-              "weather": 5,
-              "wind": "3.4m/s"
-            },
-            "home_position": "6",
-            "home_scores": [
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0
-            ],
-            "home_team_id": "l7oqdehn6dnr510",
-            "id": "1l4rjnh9jyg5m7v",
-            "match_time": 1772931900,
-            "neutral": 0,
-            "note": "",
-            "referee_id": "l965mkyh3oor1ge",
-            "round": {
-              "group_num": 0,
-              "round_num": 10,
-              "stage_id": "6ypq3nhpd6lmd7o"
-            },
-            "season_id": "d23xmvkhe76qg8n",
-            "status_id": 1,
-            "updated_at": 1772930709,
-            "venue_id": "gy0or5jh412qwzv"
-          },
-          "referee_id": "l965mkyh3oor1ge",
-          "season_id": "d23xmvkhe76qg8n",
-          "status_id": 1,
-          "venue_id": "gy0or5jh412qwzv"
-        },
-        "node_api_updated_at": "2026-03-08T00:57:34.135Z",
-        "sportId": 1,
-        "sport_id": 1,
-        "video_url": null,
-        "zalo_enabled": true,
-        "zalo_phone": "0335.671.283"
       },
       "auckland-fc-vs-perth-glory-luc-0900-ngay-08-03-2026-m2q15iz1556ue76": {
         "anchorAppointmentVoList": [
@@ -773,13 +590,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NWE0OTdhYWE1NGYtMjdkZg/MTVkZDcyNjEyM2MtNDRjMA.png",
             "houseIntroduction": "",
             "houseName": "   \t AUS D1 Auckland FC vs Perth Glory",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "m2q15iz1556ue76",
             "nickName": "BLV SODA",
             "playStreamAddress": "https://live5.msrktz.app/live/02456966.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/02456966.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NjBlZWE2MDY4ZTEtMjNjNw/OWUzMmZkYjk2ZjAtODI3NQ.png",
-            "visitHistory": 217528
+            "visitHistory": 217734
           },
           {
             "anchorTitle": "",
@@ -789,23 +606,24 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MzMyODYxYzM1ODEtNWZjNg/NzUzZGRiMDRmYjMtYWU4NQ.JPG",
             "houseIntroduction": "",
             "houseName": "AUS D1\tAuckland FC\tvs Perth Glory",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "m2q15iz1556ue76",
             "nickName": "BLV Cozy",
             "playStreamAddress": "https://live5.msrktz.app/live/87379114.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/87379114.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NGZkODJiZmYyNTktNDFhZQ/MTBjZDlkZjE5ZGYtMDIwOQ.jpg",
-            "visitHistory": 1080577
+            "visitHistory": 1080776
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4426695",
         "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4426695",
+        "auto_unpin_minutes": 115,
         "awayScore": [
+          2,
+          1,
           0,
-          0,
-          0,
-          0,
-          0,
+          2,
+          2,
           0,
           0
         ],
@@ -827,11 +645,11 @@
         "competitionName": "Giải vô địch quốc gia Úc",
         "custom_key": "6385a9401bec682b2efc81d3b169122f",
         "homeScore": [
+          2,
+          1,
           0,
           0,
-          0,
-          0,
-          0,
+          4,
           0,
           0
         ],
@@ -843,16 +661,18 @@
           "logo": "https://img.colatv88xd.cc/football/team/1d4c98a8072a4c3c0efc42a790d9c8cb.png!w80",
           "name": "Auckland FC"
         },
-        "house_id": null,
+        "house_id": "87379114",
         "matchId": "m2q15iz1556ue76",
-        "matchStatus": 1,
+        "matchStatus": 2,
         "matchTime": 1772935200,
         "match_id": "m2q15iz1556ue76",
-        "match_status": "scheduled",
+        "match_status": "live",
         "match_time": 1772935200,
+        "pin_hot_anchor": "87379114",
         "sportId": 1,
         "sport_id": 1,
-        "video_url": null,
+        "videoUrl": "https://live.trendgallary.com/live/13039976_a293c881fd2def6e56d242c2a2c850a8_autoChange.m3u8?auth_key=1772954969-0-0-9ffbd40915880e9f0bb1474fcf5b9c52",
+        "video_url": "https://live.trendgallary.com/live/13039976_a293c881fd2def6e56d242c2a2c850a8_autoChange.m3u8?auth_key=1772954969-0-0-9ffbd40915880e9f0bb1474fcf5b9c52",
         "zalo_enabled": true,
         "zalo_phone": "0335.671.283"
       },
@@ -956,7 +776,7 @@
             "pressure": "757mmHg",
             "temperature": "25°C",
             "weather": 1,
-            "wind": "7.6m/s"
+            "wind": "7.3m/s"
           },
           "home_scores": [
             0,
@@ -999,7 +819,7 @@
               "pressure": "757mmHg",
               "temperature": "25°C",
               "weather": 1,
-              "wind": "7.6m/s"
+              "wind": "7.3m/s"
             },
             "home_position": "112",
             "home_scores": [
@@ -1024,15 +844,15 @@
             },
             "season_id": "9vjxm8ghny8r6od",
             "status_id": 1,
-            "updated_at": 1772928626,
-            "venue_id": ""
+            "updated_at": 1772938267,
+            "venue_id": "p3glrw7hwx0qdyj"
           },
           "referee_id": "",
           "season_id": "9vjxm8ghny8r6od",
           "status_id": 1,
-          "venue_id": ""
+          "venue_id": "p3glrw7hwx0qdyj"
         },
-        "node_api_updated_at": "2026-03-08T00:57:33.869Z",
+        "node_api_updated_at": "2026-03-08T03:29:33.914Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -1047,13 +867,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NDk5MTY2MWZiODAtY2QwZQ/MjQwZDI2MzExODMtZTUwMQ.png",
             "houseIntroduction": "",
             "houseName": "   \t MEX D1    Tigres UANL vs   Monterrey",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "oj7x9ixxjj9u47g",
             "nickName": "BLV SPRITE",
             "playStreamAddress": "https://live5.msrktz.app/live/90725470.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/90725470.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MDI1MjY0NzczYTctZGI5MQ/NDQ3NTFjYjlhNjQtNzMwOQ.jpg",
-            "visitHistory": 2220475
+            "visitHistory": 2220562
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4503005",
@@ -1132,7 +952,13 @@
           },
           "competition_id": "p4jwq2gh4xwm0ve",
           "custom_key": "8ab0c552fba5c467938ed06de4a85aac",
-          "environment": {},
+          "environment": {
+            "humidity": "62%",
+            "pressure": "758mmHg",
+            "temperature": "29°C",
+            "weather": 5,
+            "wind": "4.3m/s"
+          },
           "home_scores": [
             0,
             0,
@@ -1169,6 +995,13 @@
               "lineup": 0,
               "mlive": 1
             },
+            "environment": {
+              "humidity": "62%",
+              "pressure": "758mmHg",
+              "temperature": "29°C",
+              "weather": 5,
+              "wind": "4.3m/s"
+            },
             "home_position": "10",
             "home_scores": [
               0,
@@ -1192,7 +1025,7 @@
             },
             "season_id": "l965mkyhpoer1ge",
             "status_id": 1,
-            "updated_at": 1772893703,
+            "updated_at": 1772940067,
             "venue_id": "z8yomo4hldgq0j6"
           },
           "referee_id": "",
@@ -1200,7 +1033,7 @@
           "status_id": 1,
           "venue_id": "z8yomo4hldgq0j6"
         },
-        "node_api_updated_at": "2026-03-08T00:57:34.132Z",
+        "node_api_updated_at": "2026-03-08T03:29:34.148Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -1303,9 +1136,9 @@
           "environment": {
             "humidity": "75%",
             "pressure": "768mmHg",
-            "temperature": "13°C",
+            "temperature": "14°C",
             "weather": 1,
-            "wind": "5.8m/s"
+            "wind": "5.6m/s"
           },
           "home_scores": [
             0,
@@ -1346,9 +1179,9 @@
             "environment": {
               "humidity": "75%",
               "pressure": "768mmHg",
-              "temperature": "13°C",
+              "temperature": "14°C",
               "weather": 1,
-              "wind": "5.8m/s"
+              "wind": "5.6m/s"
             },
             "home_position": "3",
             "home_scores": [
@@ -1373,7 +1206,7 @@
             },
             "season_id": "kjw2r09h811rz84",
             "status_id": 1,
-            "updated_at": 1772931072,
+            "updated_at": 1772939425,
             "venue_id": "j1l4rjnh1x7m7vx"
           },
           "referee_id": "p3glrw7h1v6qdyj",
@@ -1381,7 +1214,7 @@
           "status_id": 1,
           "venue_id": "j1l4rjnh1x7m7vx"
         },
-        "node_api_updated_at": "2026-03-08T00:57:33.776Z",
+        "node_api_updated_at": "2026-03-08T03:29:33.829Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -1471,14 +1304,14 @@
             "houseId": "71426314",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWY4M2E3MzMwYzQtODIxYQ/NjBiYmQxMzJmZjctMGI2YQ.png",
             "houseIntroduction": "",
-            "houseName": "MEX D1\tCruz Azul vs \tAtl. San Luis",
-            "liveStatus": 2,
+            "houseName": "JPN D1\tGamba Osaka\t vs  V-Varen Nagasaki",
+            "liveStatus": 1,
             "matchId": "8lk2dir4dojtz73",
             "nickName": "BLV FANTA",
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2231832
+            "visitHistory": 2231842
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4460038",
@@ -1558,11 +1391,11 @@
           "competition_id": "kn54qllhg2qvy9d",
           "custom_key": "4bf70dfa5880271077abcdfc49369fa1",
           "environment": {
-            "humidity": "45%",
+            "humidity": "47%",
             "pressure": "763mmHg",
             "temperature": "14°C",
             "weather": 5,
-            "wind": "3.4m/s"
+            "wind": "3.2m/s"
           },
           "home_scores": [
             0,
@@ -1601,11 +1434,11 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "45%",
+              "humidity": "47%",
               "pressure": "763mmHg",
               "temperature": "14°C",
               "weather": 5,
-              "wind": "3.4m/s"
+              "wind": "3.2m/s"
             },
             "home_position": "6",
             "home_scores": [
@@ -1630,7 +1463,7 @@
             },
             "season_id": "gy0or5jh77nqwzv",
             "status_id": 1,
-            "updated_at": 1772931026,
+            "updated_at": 1772935226,
             "venue_id": "kjw2r09he7wrz84"
           },
           "referee_id": "gpxwrxlh2jyryk0",
@@ -1638,7 +1471,7 @@
           "status_id": 1,
           "venue_id": "kjw2r09he7wrz84"
         },
-        "node_api_updated_at": "2026-03-08T00:57:33.954Z",
+        "node_api_updated_at": "2026-03-08T03:29:33.988Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -1653,13 +1486,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZmU4NDM4OGViMmUtYzEzYQ/ZmQ3NjA5MmZmMjctYjc2Ng.png",
             "houseIntroduction": "",
             "houseName": "JPN D1   Okayama   vs    Kyoto  ",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "l6kegi8e2p5cv75",
             "nickName": "BLV 7UP",
             "playStreamAddress": "https://live5.msrktz.app/live/78905744.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/78905744.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NWUwNzcyMzRjMDUtZDg2NA/YTZhMzUyYjZkMzAtOGNkZg.jpg",
-            "visitHistory": 9508080
+            "visitHistory": 9508105
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4366194",
@@ -1739,11 +1572,11 @@
           "competition_id": "8y39mp1h6jmojxg",
           "custom_key": "cb4d6fe7747273319d33cea06a476a92",
           "environment": {
-            "humidity": "53%",
+            "humidity": "54%",
             "pressure": "774mmHg",
             "temperature": "11°C",
             "weather": 5,
-            "wind": "7.0m/s"
+            "wind": "7.3m/s"
           },
           "home_scores": [
             0,
@@ -1782,11 +1615,11 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "53%",
+              "humidity": "54%",
               "pressure": "774mmHg",
               "temperature": "11°C",
               "weather": 5,
-              "wind": "7.0m/s"
+              "wind": "7.3m/s"
             },
             "home_position": "15",
             "home_scores": [
@@ -1811,7 +1644,7 @@
             },
             "season_id": "4zp5rzgh8xvq82w",
             "status_id": 1,
-            "updated_at": 1772931026,
+            "updated_at": 1772938827,
             "venue_id": "v2y8m4zhjozql07"
           },
           "referee_id": "p3glrw7hzp7qdyj",
@@ -1819,7 +1652,7 @@
           "status_id": 1,
           "venue_id": "v2y8m4zhjozql07"
         },
-        "node_api_updated_at": "2026-03-08T00:57:34.214Z",
+        "node_api_updated_at": "2026-03-08T03:29:34.239Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -1920,11 +1753,11 @@
           "competition_id": "4zp5rzghp5q82w1",
           "custom_key": "11a444132b32bd74d7e8f10e7ab1731c",
           "environment": {
-            "humidity": "68%",
+            "humidity": "69%",
             "pressure": "770mmHg",
-            "temperature": "15°C",
+            "temperature": "14°C",
             "weather": 7,
-            "wind": "3.2m/s"
+            "wind": "3.4m/s"
           },
           "home_scores": [
             0,
@@ -1963,11 +1796,11 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "68%",
+              "humidity": "69%",
               "pressure": "770mmHg",
-              "temperature": "15°C",
+              "temperature": "14°C",
               "weather": 7,
-              "wind": "3.2m/s"
+              "wind": "3.4m/s"
             },
             "home_position": "15",
             "home_scores": [
@@ -1992,7 +1825,7 @@
             },
             "season_id": "4zp5rzghn83q82w",
             "status_id": 1,
-            "updated_at": 1772929824,
+            "updated_at": 1772939424,
             "venue_id": "gpxwrxlhg61ryk0"
           },
           "referee_id": "v2y8m4zh8o6ql07",
@@ -2000,7 +1833,7 @@
           "status_id": 1,
           "venue_id": "gpxwrxlhg61ryk0"
         },
-        "node_api_updated_at": "2026-03-08T00:57:33.779Z",
+        "node_api_updated_at": "2026-03-08T03:29:33.832Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -2121,14 +1954,14 @@
             "houseId": "75915087",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODRjNGMzZDI0ODItMDg5Yg/ZjUzY2VhODIzYWQtYWI4YQ.png",
             "houseIntroduction": "",
-            "houseName": "USA MLS Columbus Crew vs Chicago Fire",
+            "houseName": "USA MLS\tLos Angeles FC vs FC Dallas",
             "liveStatus": 2,
             "matchId": "63kv9ig9n4etx7e",
             "nickName": "BLV MONSTER",
             "playStreamAddress": "https://live5.msrktz.app/live/75915087.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/75915087.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZmNmM2FmOGQwNmQtOWI2MQ/ZmU2Y2FjNGFiYTAtNDc2NA.jpg",
-            "visitHistory": 2623874
+            "visitHistory": 2624222
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4379417",
@@ -2212,7 +2045,7 @@
             "pressure": "761mmHg",
             "temperature": "21°C",
             "weather": 7,
-            "wind": "0.9m/s"
+            "wind": "0.4m/s"
           },
           "home_scores": [
             0,
@@ -2255,7 +2088,7 @@
               "pressure": "761mmHg",
               "temperature": "21°C",
               "weather": 7,
-              "wind": "0.9m/s"
+              "wind": "0.4m/s"
             },
             "home_position": "1",
             "home_scores": [
@@ -2280,7 +2113,7 @@
             },
             "season_id": "4zp5rzgh80yq82w",
             "status_id": 1,
-            "updated_at": 1772928625,
+            "updated_at": 1772939425,
             "venue_id": "kjw2r09h866rz84"
           },
           "referee_id": "",
@@ -2288,7 +2121,7 @@
           "status_id": 1,
           "venue_id": "kjw2r09h866rz84"
         },
-        "node_api_updated_at": "2026-03-08T00:57:33.779Z",
+        "node_api_updated_at": "2026-03-08T03:29:33.832Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -2319,13 +2152,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NDk5MTY2MWZiODAtY2QwZQ/MjQwZDI2MzExODMtZTUwMQ.png",
             "houseIntroduction": "",
             "houseName": "   \t MEX D1    Tigres UANL vs   Monterrey",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "9gklzi15yxnsm7x",
             "nickName": "BLV SPRITE",
             "playStreamAddress": "https://live5.msrktz.app/live/90725470.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/90725470.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MDI1MjY0NzczYTctZGI5MQ/NDQ3NTFjYjlhNjQtNzMwOQ.jpg",
-            "visitHistory": 2220475
+            "visitHistory": 2220562
           },
           {
             "anchorTitle": "",
@@ -2501,10 +2334,11 @@
           "status_id": 1,
           "venue_id": "v2y8m4zhjlzql07"
         },
-        "node_api_updated_at": "2026-03-08T00:57:33.859Z",
+        "node_api_updated_at": "2026-03-08T03:29:33.905Z",
         "sportId": 1,
         "sport_id": 1,
-        "video_url": null
+        "videoUrl": "https",
+        "video_url": "https"
       },
       "club-tijuana-vs-santos-laguna-luc-1006-ngay-09-03-2026-9gklzi16l48sm7x": {
         "anchorAppointmentVoList": [
@@ -2515,14 +2349,14 @@
             "houseId": "18812304",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YzAwMDlmMmZhNDItZjkwOA/NmRkMWE1YTljZTEtYWRmMg.jpg",
             "houseIntroduction": "",
-            "houseName": "   \t MEX D1 Atlas vs Guadalajara Chivas",
-            "liveStatus": 2,
+            "houseName": "ITA D1\tLecce  vs  Cremonese",
+            "liveStatus": 1,
             "matchId": "9gklzi16l48sm7x",
             "nickName": "BLV CHANH MUỐI",
             "playStreamAddress": "https://live5.msrktz.app/live/18812304.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/18812304.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MDE0ZTNlOWM5NzgtN2EyZg/NDAxMTlhNWRiN2ItZmRhYg.jpg",
-            "visitHistory": 1745828
+            "visitHistory": 1745830
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465461",
@@ -2606,7 +2440,7 @@
             "pressure": "758mmHg",
             "temperature": "17°C",
             "weather": 7,
-            "wind": "5.3m/s"
+            "wind": "5.6m/s"
           },
           "home_scores": [
             0,
@@ -2649,7 +2483,7 @@
               "pressure": "758mmHg",
               "temperature": "17°C",
               "weather": 7,
-              "wind": "5.3m/s"
+              "wind": "5.6m/s"
             },
             "home_position": "15",
             "home_scores": [
@@ -2674,7 +2508,7 @@
             },
             "season_id": "d23xmvkhe76qg8n",
             "status_id": 1,
-            "updated_at": 1772930828,
+            "updated_at": 1772938826,
             "venue_id": "z318q66h41zqo9j"
           },
           "referee_id": "gx7lm7ph9vym2wd",
@@ -2682,12 +2516,12 @@
           "status_id": 1,
           "venue_id": "z318q66h41zqo9j"
         },
-        "node_api_updated_at": "2026-03-08T00:57:34.209Z",
+        "node_api_updated_at": "2026-03-08T03:29:34.233Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
       },
-      "colorado-rapids-vs-los-angeles-galaxy-luc-0930-ngay-08-03-2026-wv78xivmydrcokr": {
+      "colorado-rapids-vs-los-angeles-galaxy-luc-0940-ngay-08-03-2026-wv78xivmydrcokr": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -2697,13 +2531,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjM4ZDcwYzIwZWItNDk4MQ/MzU1MDM1ZWFkZWQtNWMzMg.png",
             "houseIntroduction": "",
             "houseName": "USA MLS\tColorado Rapids  vs Los Angeles Galaxy",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "wv78xivmydrcokr",
             "nickName": "BLV ROCKSTAR",
             "playStreamAddress": "https://live5.msrktz.app/live/82054853.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/82054853.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZTY1M2Y4MzAxZTItZGRhYw/NTA1MTQ5Y2RlOGMtMmQyYg.jpg",
-            "visitHistory": 2778283
+            "visitHistory": 2778346
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4460034",
@@ -2712,8 +2546,8 @@
           0,
           0,
           0,
-          0,
-          0,
+          1,
+          1,
           0,
           0
         ],
@@ -2733,13 +2567,13 @@
         "competitionId": "w34kgmi82i1ko92",
         "competitionLogo": "https://img.colatv88xd.cc/football/competition/d2fe5be131ad888084f50d6af533570c.png!w80",
         "competitionName": "Major League Soccer",
-        "custom_key": "eb14552769f5ca0e655fb300bad9682c",
+        "custom_key": "22216b8e9fc851cc25436415e99a6336",
         "homeScore": [
+          1,
+          1,
           0,
           0,
-          0,
-          0,
-          0,
+          2,
           0,
           0
         ],
@@ -2753,11 +2587,11 @@
         },
         "house_id": null,
         "matchId": "wv78xivmydrcokr",
-        "matchStatus": 1,
-        "matchTime": 1772937000,
+        "matchStatus": 2,
+        "matchTime": 1772937600,
         "match_id": "wv78xivmydrcokr",
-        "match_status": "scheduled",
-        "match_time": 1772937000,
+        "match_status": "live",
+        "match_time": 1772937600,
         "node_api_data": {
           "_id": "69ab70de07c7bc72a506b555",
           "away_scores": [
@@ -2765,7 +2599,7 @@
             0,
             0,
             0,
-            0,
+            1,
             0,
             0
           ],
@@ -2781,20 +2615,20 @@
             "name": "United States Major League Soccer"
           },
           "competition_id": "kn54qllhg2qvy9d",
-          "custom_key": "eb14552769f5ca0e655fb300bad9682c",
+          "custom_key": "22216b8e9fc851cc25436415e99a6336",
           "environment": {
-            "humidity": "43%",
-            "pressure": "764mmHg",
-            "temperature": "6°C",
+            "humidity": "42%",
+            "pressure": "763mmHg",
+            "temperature": "5°C",
             "weather": 5,
-            "wind": "3.7m/s"
+            "wind": "1.5m/s"
           },
           "home_scores": [
+            1,
+            1,
             0,
             0,
-            0,
-            0,
-            0,
+            2,
             0,
             0
           ],
@@ -2806,7 +2640,7 @@
           "home_team_id": "vl7oqdehkl1r510",
           "match_date_vn": "20260308",
           "match_id": "y0or5jh8o54kqwz",
-          "match_time": 1772937000,
+          "match_time": 1772937600,
           "raw": {
             "away_position": "5",
             "away_scores": [
@@ -2814,37 +2648,37 @@
               0,
               0,
               0,
-              0,
+              1,
               0,
               0
             ],
             "away_team_id": "8y39mp1hny7mojx",
             "competition_id": "kn54qllhg2qvy9d",
             "coverage": {
-              "gif": 0,
-              "lineup": 0,
+              "gif": 1,
+              "lineup": 1,
               "mlive": 1
             },
             "environment": {
-              "humidity": "43%",
-              "pressure": "764mmHg",
-              "temperature": "6°C",
+              "humidity": "42%",
+              "pressure": "763mmHg",
+              "temperature": "5°C",
               "weather": 5,
-              "wind": "3.7m/s"
+              "wind": "1.5m/s"
             },
-            "home_position": "11",
+            "home_position": "10",
             "home_scores": [
+              1,
+              1,
               0,
               0,
-              0,
-              0,
-              0,
+              2,
               0,
               0
             ],
             "home_team_id": "vl7oqdehkl1r510",
             "id": "y0or5jh8o54kqwz",
-            "match_time": 1772937000,
+            "match_time": 1772937600,
             "neutral": 0,
             "note": "",
             "referee_id": "vl7oqdeh6v4r510",
@@ -2854,387 +2688,20 @@
               "stage_id": "ednm9whpnxnryox"
             },
             "season_id": "gy0or5jh77nqwzv",
-            "status_id": 1,
-            "updated_at": 1772931026,
+            "status_id": 2,
+            "updated_at": 1772940323,
             "venue_id": "vl7oqdeh4ydr510"
           },
           "referee_id": "vl7oqdeh6v4r510",
           "season_id": "gy0or5jh77nqwzv",
-          "status_id": 1,
+          "status_id": 2,
           "venue_id": "vl7oqdeh4ydr510"
         },
-        "node_api_updated_at": "2026-03-08T00:57:34.293Z",
+        "node_api_updated_at": "2026-03-08T03:29:33.905Z",
         "sportId": 1,
         "sport_id": 1,
-        "video_url": null,
-        "zalo_enabled": true,
-        "zalo_phone": "0383.848.175"
-      },
-      "columbus-crew-vs-chicago-fire-luc-0740-ngay-08-03-2026-o17pjio9lrohy7j": {
-        "anchorAppointmentVoList": [
-          {
-            "anchorTitle": "",
-            "anchorTypeName": "足球",
-            "fansCount": 344,
-            "houseId": "75915087",
-            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODRjNGMzZDI0ODItMDg5Yg/ZjUzY2VhODIzYWQtYWI4YQ.png",
-            "houseIntroduction": "",
-            "houseName": "USA MLS Columbus Crew vs Chicago Fire",
-            "liveStatus": 2,
-            "matchId": "o17pjio9lrohy7j",
-            "nickName": "BLV MONSTER",
-            "playStreamAddress": "https://live5.msrktz.app/live/75915087.flv",
-            "playStreamAddress2": "https://live5.msrktz.app/live/75915087.m3u8",
-            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZmNmM2FmOGQwNmQtOWI2MQ/ZmU2Y2FjNGFiYTAtNDc2NA.jpg",
-            "visitHistory": 2623874
-          }
-        ],
-        "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4460029",
-        "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4460029",
-        "awayScore": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "awayTeamId": "5wv78xiz8zsnkrj",
-        "awayTeamLogo": "https://img.colatv88xd.cc/football/team/929fe1b737e458218cbe8ce00a55a05c.png!w80",
-        "awayTeamName": "Chicago Fire",
-        "away_team": {
-          "id": "5wv78xiz8zsnkrj",
-          "logo": "https://img.colatv88xd.cc/football/team/929fe1b737e458218cbe8ce00a55a05c.png!w80",
-          "name": "Chicago Fire"
-        },
-        "competition": {
-          "id": "w34kgmi82i1ko92",
-          "logo": "https://img.colatv88xd.cc/football/competition/d2fe5be131ad888084f50d6af533570c.png!w80",
-          "name": "Major League Soccer"
-        },
-        "competitionId": "w34kgmi82i1ko92",
-        "competitionLogo": "https://img.colatv88xd.cc/football/competition/d2fe5be131ad888084f50d6af533570c.png!w80",
-        "competitionName": "Major League Soccer",
-        "custom_key": "021fe3fa463becaff196958cb5f74d10",
-        "homeScore": [
-          0,
-          0,
-          0,
-          1,
-          2,
-          0,
-          0
-        ],
-        "homeTeamId": "2j374oiy0ntrqo6",
-        "homeTeamLogo": "https://img.colatv88xd.cc/football/team/b6d8f81e8454813b3e672b179e627d3a.png!w80",
-        "homeTeamName": "Columbus Crew",
-        "home_team": {
-          "id": "2j374oiy0ntrqo6",
-          "logo": "https://img.colatv88xd.cc/football/team/b6d8f81e8454813b3e672b179e627d3a.png!w80",
-          "name": "Columbus Crew"
-        },
-        "house_id": null,
-        "matchId": "o17pjio9lrohy7j",
-        "matchStatus": 2,
-        "matchTime": 1772930400,
-        "match_id": "o17pjio9lrohy7j",
-        "match_status": "live",
-        "match_time": 1772930400,
-        "node_api_data": {
-          "_id": "69ab70dc07c7bc72a506b112",
-          "away_scores": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "away_team": {
-            "id": "9vjxm8gholor6od",
-            "logo": "https://img.thesports.com/football/team/929fe1b737e458218cbe8ce00a55a05c.png",
-            "name": "Chicago Fire"
-          },
-          "away_team_id": "9vjxm8gholor6od",
-          "competition": {
-            "id": "kn54qllhg2qvy9d",
-            "logo": "https://img.thesports.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",
-            "name": "United States Major League Soccer"
-          },
-          "competition_id": "kn54qllhg2qvy9d",
-          "custom_key": "021fe3fa463becaff196958cb5f74d10",
-          "environment": {
-            "humidity": "86%",
-            "pressure": "759mmHg",
-            "temperature": "17°C",
-            "weather": 2,
-            "wind": "1.8m/s"
-          },
-          "home_scores": [
-            0,
-            0,
-            0,
-            0,
-            1,
-            0,
-            0
-          ],
-          "home_team": {
-            "id": "8y39mp1h86pmojx",
-            "logo": "https://img.thesports.com/football/team/b6d8f81e8454813b3e672b179e627d3a.png",
-            "name": "Columbus Crew"
-          },
-          "home_team_id": "8y39mp1h86pmojx",
-          "match_date_vn": "20260308",
-          "match_id": "6ypq3nhvn85vmd7",
-          "match_time": 1772930400,
-          "raw": {
-            "away_position": "5",
-            "away_scores": [
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0
-            ],
-            "away_team_id": "9vjxm8gholor6od",
-            "competition_id": "kn54qllhg2qvy9d",
-            "coverage": {
-              "gif": 0,
-              "lineup": 1,
-              "mlive": 1
-            },
-            "environment": {
-              "humidity": "86%",
-              "pressure": "759mmHg",
-              "temperature": "17°C",
-              "weather": 2,
-              "wind": "1.8m/s"
-            },
-            "home_position": "8",
-            "home_scores": [
-              0,
-              0,
-              0,
-              0,
-              1,
-              0,
-              0
-            ],
-            "home_team_id": "8y39mp1h86pmojx",
-            "id": "6ypq3nhvn85vmd7",
-            "match_time": 1772930400,
-            "neutral": 0,
-            "note": "",
-            "referee_id": "8y39mp1hypzmojx",
-            "round": {
-              "group_num": 0,
-              "round_num": 3,
-              "stage_id": "ednm9whpnxnryox"
-            },
-            "season_id": "gy0or5jh77nqwzv",
-            "status_id": 2,
-            "updated_at": 1772930949,
-            "venue_id": "vl7oqdehve1r510"
-          },
-          "referee_id": "8y39mp1hypzmojx",
-          "season_id": "gy0or5jh77nqwzv",
-          "status_id": 2,
-          "venue_id": "vl7oqdehve1r510"
-        },
-        "node_api_updated_at": "2026-03-08T00:57:33.774Z",
-        "sportId": 1,
-        "sport_id": 1,
-        "videoUrl": "https://live2.trendgallary.com/live/13360661_0a98102561cadd7305572bb0c3c261e1_autoChange.m3u8?auth_key=1772945842-0-0-282f6d68997b5e25922b0234843d3825",
-        "video_url": "https://live2.trendgallary.com/live/13360661_0a98102561cadd7305572bb0c3c261e1_autoChange.m3u8?auth_key=1772945842-0-0-282f6d68997b5e25922b0234843d3825",
-        "zalo_enabled": true,
-        "zalo_phone": "0335.671.283"
-      },
-      "cruz-azul-vs-atletico-san-luis-luc-0600-ngay-08-03-2026-527r3i4w0ryi47e": {
-        "anchorAppointmentVoList": [
-          {
-            "anchorTitle": "",
-            "anchorTypeName": "足球",
-            "fansCount": 227,
-            "houseId": "71426314",
-            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWY4M2E3MzMwYzQtODIxYQ/NjBiYmQxMzJmZjctMGI2YQ.png",
-            "houseIntroduction": "",
-            "houseName": "MEX D1\tCruz Azul vs \tAtl. San Luis",
-            "liveStatus": 2,
-            "matchId": "527r3i4w0ryi47e",
-            "nickName": "BLV FANTA",
-            "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
-            "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
-            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2231832
-          }
-        ],
-        "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465516",
-        "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465516",
-        "awayScore": [
-          0,
-          0,
-          1,
-          2,
-          1,
-          0,
-          0
-        ],
-        "awayTeamId": "jek33i6ovjidko2",
-        "awayTeamLogo": "https://img.colatv88xd.cc/football/team/f6c489e1e71d37e301b30df37a43b8a4.png!w80",
-        "awayTeamName": "Atletico San Luis",
-        "away_team": {
-          "id": "jek33i6ovjidko2",
-          "logo": "https://img.colatv88xd.cc/football/team/f6c489e1e71d37e301b30df37a43b8a4.png!w80",
-          "name": "Atletico San Luis"
-        },
-        "competition": {
-          "id": "2j374oixwu4qo6d",
-          "logo": "https://img.colatv88xd.cc/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png!w80",
-          "name": "Giải Vô địch Bóng đá Quốc gia Mexico"
-        },
-        "competitionId": "2j374oixwu4qo6d",
-        "competitionLogo": "https://img.colatv88xd.cc/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png!w80",
-        "competitionName": "Giải Vô địch Bóng đá Quốc gia Mexico",
-        "custom_key": "beeb9067e8f0c7ef782f429e64473348",
-        "homeScore": [
-          3,
-          1,
-          0,
-          2,
-          10,
-          0,
-          0
-        ],
-        "homeTeamId": "yzrkn6ixnwsnqle",
-        "homeTeamLogo": "https://img.colatv88xd.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80",
-        "homeTeamName": "Cruz Azul",
-        "home_team": {
-          "id": "yzrkn6ixnwsnqle",
-          "logo": "https://img.colatv88xd.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80",
-          "name": "Cruz Azul"
-        },
-        "house_id": null,
-        "matchId": "527r3i4w0ryi47e",
-        "matchStatus": 2,
-        "matchTime": 1772924400,
-        "match_id": "527r3i4w0ryi47e",
-        "match_status": "live",
-        "match_time": 1772924400,
-        "node_api_data": {
-          "_id": "69ab70db07c7bc72a506adde",
-          "away_scores": [
-            0,
-            0,
-            1,
-            2,
-            1,
-            0,
-            0
-          ],
-          "away_team": {
-            "id": "1l4rjnh6x41m7vx",
-            "logo": "https://img.thesports.com/football/team/f6c489e1e71d37e301b30df37a43b8a4.png",
-            "name": "Atletico San Luis"
-          },
-          "away_team_id": "1l4rjnh6x41m7vx",
-          "competition": {
-            "id": "9k82rekhp6repzj",
-            "logo": "https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",
-            "name": "Mexico Liga MX"
-          },
-          "competition_id": "9k82rekhp6repzj",
-          "custom_key": "beeb9067e8f0c7ef782f429e64473348",
-          "environment": {
-            "humidity": "27%",
-            "pressure": "768mmHg",
-            "temperature": "23°C",
-            "weather": 8,
-            "wind": "5.1m/s"
-          },
-          "home_scores": [
-            3,
-            1,
-            0,
-            2,
-            9,
-            0,
-            0
-          ],
-          "home_team": {
-            "id": "kjw2r09hojvrz84",
-            "logo": "https://img.thesports.com/football/team/2addd50487c8f61276d5fff8714f6a5c.png",
-            "name": "Cruz Azul"
-          },
-          "home_team_id": "kjw2r09hojvrz84",
-          "match_date_vn": "20260308",
-          "match_id": "x7lm7phj3gvwm2w",
-          "match_time": 1772924400,
-          "raw": {
-            "away_position": "11",
-            "away_scores": [
-              0,
-              0,
-              1,
-              2,
-              1,
-              0,
-              0
-            ],
-            "away_team_id": "1l4rjnh6x41m7vx",
-            "competition_id": "9k82rekhp6repzj",
-            "coverage": {
-              "gif": 1,
-              "lineup": 1,
-              "mlive": 1
-            },
-            "environment": {
-              "humidity": "27%",
-              "pressure": "768mmHg",
-              "temperature": "23°C",
-              "weather": 8,
-              "wind": "5.1m/s"
-            },
-            "home_position": "1",
-            "home_scores": [
-              3,
-              1,
-              0,
-              2,
-              9,
-              0,
-              0
-            ],
-            "home_team_id": "kjw2r09hojvrz84",
-            "id": "x7lm7phj3gvwm2w",
-            "match_time": 1772924400,
-            "neutral": 0,
-            "note": "",
-            "referee_id": "kjw2r09hp7prz84",
-            "round": {
-              "group_num": 0,
-              "round_num": 10,
-              "stage_id": "6ypq3nhpd6lmd7o"
-            },
-            "season_id": "d23xmvkhe76qg8n",
-            "status_id": 4,
-            "updated_at": 1772931367,
-            "venue_id": "yl5ergphedvr8k0"
-          },
-          "referee_id": "kjw2r09hp7prz84",
-          "season_id": "d23xmvkhe76qg8n",
-          "status_id": 4,
-          "venue_id": "yl5ergphedvr8k0"
-        },
-        "node_api_updated_at": "2026-03-08T00:57:34.210Z",
-        "sportId": 1,
-        "sport_id": 1,
-        "videoUrl": "https://live.trendgallary.com/live/13376321_58e23dc58d1a9aaebe0705a29e1985cf_autoChange.m3u8?auth_key=1772945846-0-0-26b4384e2cc8b69961ef155a914ac3d1",
-        "video_url": "https://live.trendgallary.com/live/13376321_58e23dc58d1a9aaebe0705a29e1985cf_autoChange.m3u8?auth_key=1772945846-0-0-26b4384e2cc8b69961ef155a914ac3d1",
+        "videoUrl": "https://live.trendgallary.com/live/13360666_f691a39ebafc036ee6e4f0539fcaaedc_autoChange.m3u8?auth_key=1772954969-0-0-c3e36490b2f8d080ce7cbc99fcb23103",
+        "video_url": "https://live.trendgallary.com/live/13360666_f691a39ebafc036ee6e4f0539fcaaedc_autoChange.m3u8?auth_key=1772954969-0-0-c3e36490b2f8d080ce7cbc99fcb23103",
         "zalo_enabled": true,
         "zalo_phone": "0383.848.175"
       },
@@ -3248,13 +2715,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZmU4NDM4OGViMmUtYzEzYQ/ZmQ3NjA5MmZmMjctYjc2Ng.png",
             "houseIntroduction": "",
             "houseName": "JPN D1   Okayama   vs    Kyoto  ",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "l6kegi8m3n3cv75",
             "nickName": "BLV 7UP",
             "playStreamAddress": "https://live5.msrktz.app/live/78905744.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/78905744.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NWUwNzcyMzRjMDUtZDg2NA/YTZhMzUyYjZkMzAtOGNkZg.jpg",
-            "visitHistory": 9508080
+            "visitHistory": 9508105
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4470753",
@@ -3334,11 +2801,11 @@
           "competition_id": "z318q66hl1qo9jd",
           "custom_key": "db99bf3c5bc988f451ad2a31dd0ac46b",
           "environment": {
-            "humidity": "39%",
+            "humidity": "42%",
             "pressure": "770mmHg",
             "temperature": "10°C",
-            "weather": 1,
-            "wind": "2.9m/s"
+            "weather": 7,
+            "wind": "2.6m/s"
           },
           "home_scores": [
             0,
@@ -3373,15 +2840,15 @@
             "competition_id": "z318q66hl1qo9jd",
             "coverage": {
               "gif": 0,
-              "lineup": 0,
+              "lineup": 1,
               "mlive": 1
             },
             "environment": {
-              "humidity": "39%",
+              "humidity": "42%",
               "pressure": "770mmHg",
               "temperature": "10°C",
-              "weather": 1,
-              "wind": "2.9m/s"
+              "weather": 7,
+              "wind": "2.6m/s"
             },
             "home_position": "9",
             "home_scores": [
@@ -3406,7 +2873,7 @@
             },
             "season_id": "4jwq2gh4o48m0ve",
             "status_id": 1,
-            "updated_at": 1772913624,
+            "updated_at": 1772939423,
             "venue_id": "56ypq3nhlj9md7o"
           },
           "referee_id": "",
@@ -3414,10 +2881,11 @@
           "status_id": 1,
           "venue_id": "56ypq3nhlj9md7o"
         },
-        "node_api_updated_at": "2026-03-08T00:57:34.288Z",
+        "node_api_updated_at": "2026-03-08T03:29:34.313Z",
         "sportId": 1,
         "sport_id": 1,
-        "video_url": null,
+        "videoUrl": "https",
+        "video_url": "https",
         "zalo_enabled": true,
         "zalo_phone": "0335.671.283"
       },
@@ -3516,7 +2984,13 @@
           },
           "competition_id": "gy0or5jhlxgqwzv",
           "custom_key": "76b86eec39f0e6eda907cfe9f1d047a8",
-          "environment": {},
+          "environment": {
+            "humidity": "38%",
+            "pressure": "771mmHg",
+            "temperature": "5°C",
+            "weather": 1,
+            "wind": "3.7m/s"
+          },
           "home_scores": [
             0,
             0,
@@ -3553,6 +3027,13 @@
               "lineup": 0,
               "mlive": 1
             },
+            "environment": {
+              "humidity": "38%",
+              "pressure": "771mmHg",
+              "temperature": "5°C",
+              "weather": 1,
+              "wind": "3.7m/s"
+            },
             "home_position": "7",
             "home_scores": [
               0,
@@ -3576,7 +3057,7 @@
             },
             "season_id": "jw2r09hl4xprz84",
             "status_id": 1,
-            "updated_at": 1772879467,
+            "updated_at": 1772936424,
             "venue_id": "9vjxm8gh54pr6od"
           },
           "referee_id": "",
@@ -3584,7 +3065,7 @@
           "status_id": 1,
           "venue_id": "9vjxm8gh54pr6od"
         },
-        "node_api_updated_at": "2026-03-08T00:57:34.051Z",
+        "node_api_updated_at": "2026-03-08T03:29:34.068Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -3791,7 +3272,7 @@
             },
             "season_id": "l965mkyhp2er1ge",
             "status_id": 1,
-            "updated_at": 1772927425,
+            "updated_at": 1772935224,
             "venue_id": "yl5ergphoxxr8k0"
           },
           "referee_id": "4zp5rzgh7dwq82w",
@@ -3799,10 +3280,11 @@
           "status_id": 1,
           "venue_id": "yl5ergphoxxr8k0"
         },
-        "node_api_updated_at": "2026-03-08T00:57:34.047Z",
+        "node_api_updated_at": "2026-03-08T03:29:34.064Z",
         "sportId": 1,
         "sport_id": 1,
-        "video_url": null,
+        "videoUrl": "https",
+        "video_url": "https",
         "zalo_enabled": false,
         "zalo_phone": ""
       },
@@ -3815,14 +3297,14 @@
             "houseId": "71426314",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OWY4M2E3MzMwYzQtODIxYQ/NjBiYmQxMzJmZjctMGI2YQ.png",
             "houseIntroduction": "",
-            "houseName": "MEX D1\tCruz Azul vs \tAtl. San Luis",
-            "liveStatus": 2,
+            "houseName": "JPN D1\tGamba Osaka\t vs  V-Varen Nagasaki",
+            "liveStatus": 1,
             "matchId": "xvkjoi8zvyna879",
             "nickName": "BLV FANTA",
             "playStreamAddress": "https://live5.msrktz.app/live/71426314.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/71426314.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NzE3ODJkNDE3ZWYtNzUzNQ/M2EwMzhhMDNiODEtZTFlZQ.jpg",
-            "visitHistory": 2231832
+            "visitHistory": 2231842
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4470754",
@@ -3902,11 +3384,11 @@
           "competition_id": "z318q66hl1qo9jd",
           "custom_key": "cc57ee4cd2128837e4b96d853e055594",
           "environment": {
-            "humidity": "39%",
+            "humidity": "36%",
             "pressure": "769mmHg",
-            "temperature": "9°C",
-            "weather": 5,
-            "wind": "4.0m/s"
+            "temperature": "10°C",
+            "weather": 1,
+            "wind": "4.3m/s"
           },
           "home_scores": [
             0,
@@ -3945,11 +3427,11 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "39%",
+              "humidity": "36%",
               "pressure": "769mmHg",
-              "temperature": "9°C",
-              "weather": 5,
-              "wind": "4.0m/s"
+              "temperature": "10°C",
+              "weather": 1,
+              "wind": "4.3m/s"
             },
             "home_position": "5",
             "home_scores": [
@@ -3974,7 +3456,7 @@
             },
             "season_id": "4jwq2gh4o48m0ve",
             "status_id": 1,
-            "updated_at": 1772913624,
+            "updated_at": 1772939424,
             "venue_id": "vl7oqdehkz5r510"
           },
           "referee_id": "",
@@ -3982,10 +3464,11 @@
           "status_id": 1,
           "venue_id": "vl7oqdehkz5r510"
         },
-        "node_api_updated_at": "2026-03-08T00:57:34.214Z",
+        "node_api_updated_at": "2026-03-08T03:29:34.239Z",
         "sportId": 1,
         "sport_id": 1,
-        "video_url": null,
+        "videoUrl": "https",
+        "video_url": "https",
         "zalo_enabled": true,
         "zalo_phone": "0335.671.283"
       },
@@ -3999,13 +3482,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NWE0OTdhYWE1NGYtMjdkZg/MTVkZDcyNjEyM2MtNDRjMA.png",
             "houseIntroduction": "",
             "houseName": "   \t AUS D1 Auckland FC vs Perth Glory",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "edq09il58wdbeqx",
             "nickName": "BLV SODA",
             "playStreamAddress": "https://live5.msrktz.app/live/02456966.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/02456966.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NjBlZWE2MDY4ZTEtMjNjNw/OWUzMmZkYjk2ZjAtODI3NQ.png",
-            "visitHistory": 217528
+            "visitHistory": 217734
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4358963",
@@ -4085,9 +3568,9 @@
           "competition_id": "vl7oqdehlyr510j",
           "custom_key": "85e9b73e9f4078714b868f6dc331dff3",
           "environment": {
-            "humidity": "63%",
+            "humidity": "64%",
             "pressure": "766mmHg",
-            "temperature": "12°C",
+            "temperature": "11°C",
             "weather": 1,
             "wind": "1.5m/s"
           },
@@ -4128,9 +3611,9 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "63%",
+              "humidity": "64%",
               "pressure": "766mmHg",
-              "temperature": "12°C",
+              "temperature": "11°C",
               "weather": 1,
               "wind": "1.5m/s"
             },
@@ -4157,7 +3640,7 @@
             },
             "season_id": "56ypq3nhxw7md7o",
             "status_id": 1,
-            "updated_at": 1772930423,
+            "updated_at": 1772938826,
             "venue_id": "z318q66hoy3qo9j"
           },
           "referee_id": "p4jwq2ghx9gm0ve",
@@ -4165,7 +3648,7 @@
           "status_id": 1,
           "venue_id": "z318q66hoy3qo9j"
         },
-        "node_api_updated_at": "2026-03-08T00:57:34.057Z",
+        "node_api_updated_at": "2026-03-08T03:29:34.074Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -4186,7 +3669,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/75748097.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/75748097.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjlmNzg4ODFlYjQtOTljOQ/NDM1MGNlNTU4MDktNTViOA.jpg",
-            "visitHistory": 1617696
+            "visitHistory": 1617709
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4472461",
@@ -4333,7 +3816,7 @@
           "status_id": 1,
           "venue_id": "9dn1m1ghjz8moep"
         },
-        "node_api_updated_at": "2026-03-08T00:57:34.292Z",
+        "node_api_updated_at": "2026-03-08T03:29:34.317Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -4348,13 +3831,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MzMyODYxYzM1ODEtNWZjNg/NzUzZGRiMDRmYjMtYWU4NQ.JPG",
             "houseIntroduction": "",
             "houseName": "AUS D1\tAuckland FC\tvs Perth Glory",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "l6kegi8m2nwtv75",
             "nickName": "BLV Cozy",
             "playStreamAddress": "https://live5.msrktz.app/live/87379114.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/87379114.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NGZkODJiZmYyNTktNDFhZQ/MTBjZDlkZjE5ZGYtMDIwOQ.jpg",
-            "visitHistory": 1080577
+            "visitHistory": 1080776
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4477092",
@@ -4433,7 +3916,13 @@
           },
           "competition_id": "gy0or5jhlxgqwzv",
           "custom_key": "65e4833fda8ab23063a8f3c975aaa4e5",
-          "environment": {},
+          "environment": {
+            "humidity": "21%",
+            "pressure": "770mmHg",
+            "temperature": "9°C",
+            "weather": 1,
+            "wind": "1.8m/s"
+          },
           "home_scores": [
             0,
             0,
@@ -4470,6 +3959,13 @@
               "lineup": 0,
               "mlive": 1
             },
+            "environment": {
+              "humidity": "21%",
+              "pressure": "770mmHg",
+              "temperature": "9°C",
+              "weather": 1,
+              "wind": "1.8m/s"
+            },
             "home_position": "6",
             "home_scores": [
               0,
@@ -4493,7 +3989,7 @@
             },
             "season_id": "jw2r09hl4xprz84",
             "status_id": 1,
-            "updated_at": 1772879467,
+            "updated_at": 1772939424,
             "venue_id": "d23xmvkhjlwqg8n"
           },
           "referee_id": "",
@@ -4501,7 +3997,7 @@
           "status_id": 1,
           "venue_id": "d23xmvkhjlwqg8n"
         },
-        "node_api_updated_at": "2026-03-08T00:57:33.963Z",
+        "node_api_updated_at": "2026-03-08T03:29:33.997Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -4684,7 +4180,7 @@
           "status_id": 1,
           "venue_id": "p3glrw7h0eoqdyj"
         },
-        "node_api_updated_at": "2026-03-08T00:57:34.290Z",
+        "node_api_updated_at": "2026-03-08T03:29:34.315Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -4705,7 +4201,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/75748097.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/75748097.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjlmNzg4ODFlYjQtOTljOQ/NDM1MGNlNTU4MDktNTViOA.jpg",
-            "visitHistory": 1617696
+            "visitHistory": 1617709
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4355778",
@@ -4857,7 +4353,7 @@
             },
             "season_id": "gx7lm7ph40vm2wd",
             "status_id": 1,
-            "updated_at": 1772931026,
+            "updated_at": 1772935227,
             "venue_id": "gx7lm7phky9m2wd"
           },
           "referee_id": "gpxwrxlhjn3ryk0",
@@ -4865,7 +4361,7 @@
           "status_id": 1,
           "venue_id": "gx7lm7phky9m2wd"
         },
-        "node_api_updated_at": "2026-03-08T00:57:34.285Z",
+        "node_api_updated_at": "2026-03-08T03:29:34.311Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -4879,14 +4375,14 @@
             "houseId": "18812304",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YzAwMDlmMmZhNDItZjkwOA/NmRkMWE1YTljZTEtYWRmMg.jpg",
             "houseIntroduction": "",
-            "houseName": "   \t MEX D1 Atlas vs Guadalajara Chivas",
-            "liveStatus": 2,
+            "houseName": "ITA D1\tLecce  vs  Cremonese",
+            "liveStatus": 1,
             "matchId": "34kgmiom62eteko",
             "nickName": "BLV CHANH MUỐI",
             "playStreamAddress": "https://live5.msrktz.app/live/18812304.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/18812304.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MDE0ZTNlOWM5NzgtN2EyZg/NDAxMTlhNWRiN2ItZmRhYg.jpg",
-            "visitHistory": 1745828
+            "visitHistory": 1745830
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4406434",
@@ -5033,7 +4529,7 @@
           "status_id": 1,
           "venue_id": "9vjxm8gh9dlr6od"
         },
-        "node_api_updated_at": "2026-03-08T00:57:34.345Z",
+        "node_api_updated_at": "2026-03-08T03:29:34.370Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -5206,7 +4702,7 @@
             },
             "season_id": "9dn1m1gh645moep",
             "status_id": 1,
-            "updated_at": 1772929824,
+            "updated_at": 1772935825,
             "venue_id": "9k82rekh9yvrepz"
           },
           "referee_id": "yl5ergphedvr8k0",
@@ -5214,7 +4710,7 @@
           "status_id": 1,
           "venue_id": "9k82rekh9yvrepz"
         },
-        "node_api_updated_at": "2026-03-08T00:57:33.961Z",
+        "node_api_updated_at": "2026-03-08T03:29:33.995Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -5315,7 +4811,7 @@
           "competition_id": "8y39mp1hwxmojxg",
           "custom_key": "11012dd48baba69a90a88f9ea58c87d2",
           "environment": {
-            "humidity": "79%",
+            "humidity": "80%",
             "pressure": "769mmHg",
             "temperature": "2°C",
             "weather": 7,
@@ -5358,7 +4854,7 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "79%",
+              "humidity": "80%",
               "pressure": "769mmHg",
               "temperature": "2°C",
               "weather": 7,
@@ -5387,7 +4883,7 @@
             },
             "season_id": "jednm9wh1zjryox",
             "status_id": 1,
-            "updated_at": 1772931026,
+            "updated_at": 1772938826,
             "venue_id": "56ypq3nh5w7md7o"
           },
           "referee_id": "jednm9whz75ryox",
@@ -5395,7 +4891,7 @@
           "status_id": 1,
           "venue_id": "56ypq3nh5w7md7o"
         },
-        "node_api_updated_at": "2026-03-08T00:57:33.779Z",
+        "node_api_updated_at": "2026-03-08T03:29:33.832Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -5409,14 +4905,14 @@
             "houseId": "75915087",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODRjNGMzZDI0ODItMDg5Yg/ZjUzY2VhODIzYWQtYWI4YQ.png",
             "houseIntroduction": "",
-            "houseName": "USA MLS Columbus Crew vs Chicago Fire",
+            "houseName": "USA MLS\tLos Angeles FC vs FC Dallas",
             "liveStatus": 2,
             "matchId": "edq09ilowpjieqx",
             "nickName": "BLV MONSTER",
             "playStreamAddress": "https://live5.msrktz.app/live/75915087.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/75915087.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZmNmM2FmOGQwNmQtOWI2MQ/ZmU2Y2FjNGFiYTAtNDc2NA.jpg",
-            "visitHistory": 2623874
+            "visitHistory": 2624222
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4460035",
@@ -5496,11 +4992,11 @@
           "competition_id": "kn54qllhg2qvy9d",
           "custom_key": "eaff12749b5eaa1ead1aa63d3e6c9746",
           "environment": {
-            "humidity": "18%",
+            "humidity": "16%",
             "pressure": "762mmHg",
-            "temperature": "19°C",
+            "temperature": "20°C",
             "weather": 5,
-            "wind": "1.8m/s"
+            "wind": "2.6m/s"
           },
           "home_scores": [
             0,
@@ -5521,7 +5017,7 @@
           "match_id": "n54qllhnz3egqvy",
           "match_time": 1772940600,
           "raw": {
-            "away_position": "8",
+            "away_position": "7",
             "away_scores": [
               0,
               0,
@@ -5535,17 +5031,17 @@
             "competition_id": "kn54qllhg2qvy9d",
             "coverage": {
               "gif": 0,
-              "lineup": 0,
+              "lineup": 1,
               "mlive": 1
             },
             "environment": {
-              "humidity": "18%",
+              "humidity": "16%",
               "pressure": "762mmHg",
-              "temperature": "19°C",
+              "temperature": "20°C",
               "weather": 5,
-              "wind": "1.8m/s"
+              "wind": "2.6m/s"
             },
-            "home_position": "3",
+            "home_position": "2",
             "home_scores": [
               0,
               0,
@@ -5568,7 +5064,7 @@
             },
             "season_id": "gy0or5jh77nqwzv",
             "status_id": 1,
-            "updated_at": 1772927424,
+            "updated_at": 1772940023,
             "venue_id": "gx7lm7ph7kgm2wd"
           },
           "referee_id": "gy0or5jh389qwzv",
@@ -5576,7 +5072,7 @@
           "status_id": 1,
           "venue_id": "gx7lm7ph7kgm2wd"
         },
-        "node_api_updated_at": "2026-03-08T00:57:34.293Z",
+        "node_api_updated_at": "2026-03-08T03:29:34.318Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -5593,13 +5089,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MzMyODYxYzM1ODEtNWZjNg/NzUzZGRiMDRmYjMtYWU4NQ.JPG",
             "houseIntroduction": "",
             "houseName": "AUS D1\tAuckland FC\tvs Perth Glory",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "wv784sxy93gboqr",
             "nickName": "BLV Cozy",
             "playStreamAddress": "https://live5.msrktz.app/live/87379114.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/87379114.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NGZkODJiZmYyNTktNDFhZQ/MTBjZDlkZjE5ZGYtMDIwOQ.jpg",
-            "visitHistory": 1080577
+            "visitHistory": 1080776
           }
         ],
         "animation_url": null,
@@ -5653,7 +5149,7 @@
         "sport_id": 2,
         "video_url": null
       },
-      "nashville-vs-minnesota-united-luc-0830-ngay-08-03-2026-ndkz6i3jd8vbxq3": {
+      "nashville-vs-minnesota-united-luc-0840-ngay-08-03-2026-ndkz6i3jd8vbxq3": {
         "anchorAppointmentVoList": [
           {
             "anchorTitle": "",
@@ -5663,23 +5159,23 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmJlZTBiMGRkYTgtOTA1Mg/MGU3YTgxNzdmMjktYzk3MA.png",
             "houseIntroduction": "",
             "houseName": "USA MLS Nashville SC vs Minnesota United",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "ndkz6i3jd8vbxq3",
             "nickName": "BLV BÍ ĐAO",
             "playStreamAddress": "https://live5.msrktz.app/live/99121525.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/99121525.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/OGZhNGQ0MzRjZWEtOWUyYg/ZjY1YTRiMmY3NDMtZDI3NA.jpg",
-            "visitHistory": 1553696
+            "visitHistory": 1553943
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4460032",
         "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4460032",
         "awayScore": [
+          1,
+          1,
           0,
           0,
-          0,
-          0,
-          0,
+          2,
           0,
           0
         ],
@@ -5699,13 +5195,13 @@
         "competitionId": "w34kgmi82i1ko92",
         "competitionLogo": "https://img.colatv88xd.cc/football/competition/d2fe5be131ad888084f50d6af533570c.png!w80",
         "competitionName": "Major League Soccer",
-        "custom_key": "5fdc2c191e324887efa98a0c8d80c527",
+        "custom_key": "ee0c0a12cb0fae1c053e8e6c777cafe1",
         "homeScore": [
+          3,
+          2,
           0,
-          0,
-          0,
-          0,
-          0,
+          1,
+          5,
           0,
           0
         ],
@@ -5719,19 +5215,19 @@
         },
         "house_id": null,
         "matchId": "ndkz6i3jd8vbxq3",
-        "matchStatus": 1,
-        "matchTime": 1772933400,
+        "matchStatus": 2,
+        "matchTime": 1772934000,
         "match_id": "ndkz6i3jd8vbxq3",
-        "match_status": "scheduled",
-        "match_time": 1772933400,
+        "match_status": "live",
+        "match_time": 1772934000,
         "node_api_data": {
           "_id": "69ab70dd07c7bc72a506b372",
           "away_scores": [
+            1,
+            1,
             0,
             0,
-            0,
-            0,
-            0,
+            2,
             0,
             0
           ],
@@ -5747,20 +5243,20 @@
             "name": "United States Major League Soccer"
           },
           "competition_id": "kn54qllhg2qvy9d",
-          "custom_key": "5fdc2c191e324887efa98a0c8d80c527",
+          "custom_key": "ee0c0a12cb0fae1c053e8e6c777cafe1",
           "environment": {
-            "humidity": "92%",
-            "pressure": "763mmHg",
-            "temperature": "15°C",
-            "weather": 7,
-            "wind": "3.7m/s"
+            "humidity": "95%",
+            "pressure": "764mmHg",
+            "temperature": "16°C",
+            "weather": 2,
+            "wind": "1.2m/s"
           },
           "home_scores": [
+            3,
+            2,
             0,
-            0,
-            0,
-            0,
-            0,
+            1,
+            5,
             0,
             0
           ],
@@ -5772,45 +5268,45 @@
           "home_team_id": "jw2r09hlo87rz84",
           "match_date_vn": "20260308",
           "match_id": "vjxm8ghew0g7r6o",
-          "match_time": 1772933400,
+          "match_time": 1772934000,
           "raw": {
             "away_position": "6",
             "away_scores": [
+              1,
+              1,
               0,
               0,
-              0,
-              0,
-              0,
+              2,
               0,
               0
             ],
             "away_team_id": "y39mp1h3188mojx",
             "competition_id": "kn54qllhg2qvy9d",
             "coverage": {
-              "gif": 0,
+              "gif": 1,
               "lineup": 1,
               "mlive": 1
             },
             "environment": {
-              "humidity": "92%",
-              "pressure": "763mmHg",
-              "temperature": "15°C",
-              "weather": 7,
-              "wind": "3.7m/s"
+              "humidity": "95%",
+              "pressure": "764mmHg",
+              "temperature": "16°C",
+              "weather": 2,
+              "wind": "1.2m/s"
             },
             "home_position": "4",
             "home_scores": [
+              3,
+              2,
               0,
-              0,
-              0,
-              0,
-              0,
+              1,
+              5,
               0,
               0
             ],
             "home_team_id": "jw2r09hlo87rz84",
             "id": "vjxm8ghew0g7r6o",
-            "match_time": 1772933400,
+            "match_time": 1772934000,
             "neutral": 0,
             "note": "",
             "referee_id": "jednm9whgkeryox",
@@ -5820,19 +5316,20 @@
               "stage_id": "ednm9whpnxnryox"
             },
             "season_id": "gy0or5jh77nqwzv",
-            "status_id": 1,
-            "updated_at": 1772931026,
+            "status_id": 4,
+            "updated_at": 1772940366,
             "venue_id": "y39mp1h35j6mojx"
           },
           "referee_id": "jednm9whgkeryox",
           "season_id": "gy0or5jh77nqwzv",
-          "status_id": 1,
+          "status_id": 4,
           "venue_id": "y39mp1h35j6mojx"
         },
-        "node_api_updated_at": "2026-03-08T00:57:33.961Z",
+        "node_api_updated_at": "2026-03-08T03:29:34.319Z",
         "sportId": 1,
         "sport_id": 1,
-        "video_url": null,
+        "videoUrl": "https://live2.trendgallary.com/live/13360663_cf35ca43734b4b34c9d4c34fbbf79787_autoChange.m3u8?auth_key=1772954970-0-0-000f018ad94aa89d08e75a133466b54d",
+        "video_url": "https://live2.trendgallary.com/live/13360663_cf35ca43734b4b34c9d4c34fbbf79787_autoChange.m3u8?auth_key=1772954970-0-0-000f018ad94aa89d08e75a133466b54d",
         "zalo_enabled": true,
         "zalo_phone": "0383.848.175"
       },
@@ -5852,7 +5349,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/75748097.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/75748097.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MjlmNzg4ODFlYjQtOTljOQ/NDM1MGNlNTU4MDktNTViOA.jpg",
-            "visitHistory": 1617696
+            "visitHistory": 1617709
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4347902",
@@ -6004,7 +5501,7 @@
             },
             "season_id": "9dn1m1gh645moep",
             "status_id": 1,
-            "updated_at": 1772930423,
+            "updated_at": 1772938223,
             "venue_id": "j1l4rjnhe0em7vx"
           },
           "referee_id": "p3glrw7hj6kqdyj",
@@ -6012,7 +5509,7 @@
           "status_id": 1,
           "venue_id": "j1l4rjnhe0em7vx"
         },
-        "node_api_updated_at": "2026-03-08T00:57:34.048Z",
+        "node_api_updated_at": "2026-03-08T03:29:34.065Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -6193,194 +5690,10 @@
           "status_id": 1,
           "venue_id": "4zp5rzghkzjq82w"
         },
-        "node_api_updated_at": "2026-03-08T00:57:34.285Z",
+        "node_api_updated_at": "2026-03-08T03:29:34.311Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
-      },
-      "philadelphia-union-vs-san-jose-earthquakes-luc-0740-ngay-08-03-2026-jr7owip1olycgq0": {
-        "anchorAppointmentVoList": [
-          {
-            "anchorTitle": "",
-            "anchorTypeName": "足球",
-            "fansCount": 63,
-            "houseId": "88508431",
-            "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OGU2MGFkODUxMjEtNjA2ZQ/MjcxYzQ3ZGEzMDYtMWU0ZQ.jpg",
-            "houseIntroduction": "",
-            "houseName": "USA MLS  Philadelphia Union  vs San Jose Earthquakes",
-            "liveStatus": 2,
-            "matchId": "jr7owip1olycgq0",
-            "nickName": "BLV RỒNG ĐỎ",
-            "playStreamAddress": "https://live5.msrktz.app/live/88508431.flv",
-            "playStreamAddress2": "https://live5.msrktz.app/live/88508431.m3u8",
-            "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/YTMxY2ZmY2JhYzAtZjFjZQ/NTA1ZDM4ZTc3M2EtYWFiYQ.jpg",
-            "visitHistory": 2134602
-          }
-        ],
-        "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4460030",
-        "animation_url": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4460030",
-        "awayScore": [
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0
-        ],
-        "awayTeamId": "0m2q15i3gnbm76x",
-        "awayTeamLogo": "https://img.colatv88xd.cc/football/team/7079d708b4e391c0c26b20da7b2fb32c.png!w80",
-        "awayTeamName": "San Jose Earthquakes",
-        "away_team": {
-          "id": "0m2q15i3gnbm76x",
-          "logo": "https://img.colatv88xd.cc/football/team/7079d708b4e391c0c26b20da7b2fb32c.png!w80",
-          "name": "San Jose Earthquakes"
-        },
-        "competition": {
-          "id": "w34kgmi82i1ko92",
-          "logo": "https://img.colatv88xd.cc/football/competition/d2fe5be131ad888084f50d6af533570c.png!w80",
-          "name": "Major League Soccer"
-        },
-        "competitionId": "w34kgmi82i1ko92",
-        "competitionLogo": "https://img.colatv88xd.cc/football/competition/d2fe5be131ad888084f50d6af533570c.png!w80",
-        "competitionName": "Major League Soccer",
-        "custom_key": "85cf6bcda513d16673c44badbcd70b8a",
-        "homeScore": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "homeTeamId": "2ezk96i9lecwkn5",
-        "homeTeamLogo": "https://img.colatv88xd.cc/football/team/574f1ee560e8835e605176cac36a87db.png!w80",
-        "homeTeamName": "Philadelphia Union",
-        "home_team": {
-          "id": "2ezk96i9lecwkn5",
-          "logo": "https://img.colatv88xd.cc/football/team/574f1ee560e8835e605176cac36a87db.png!w80",
-          "name": "Philadelphia Union"
-        },
-        "house_id": null,
-        "matchId": "jr7owip1olycgq0",
-        "matchStatus": 2,
-        "matchTime": 1772930400,
-        "match_id": "jr7owip1olycgq0",
-        "match_status": "live",
-        "match_time": 1772930400,
-        "node_api_data": {
-          "_id": "69ab70dc07c7bc72a506b11b",
-          "away_scores": [
-            0,
-            0,
-            0,
-            1,
-            0,
-            0,
-            0
-          ],
-          "away_team": {
-            "id": "yl5ergph6ver8k0",
-            "logo": "https://img.thesports.com/football/team/7079d708b4e391c0c26b20da7b2fb32c.png",
-            "name": "San Jose Earthquakes"
-          },
-          "away_team_id": "yl5ergph6ver8k0",
-          "competition": {
-            "id": "kn54qllhg2qvy9d",
-            "logo": "https://img.thesports.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",
-            "name": "United States Major League Soccer"
-          },
-          "competition_id": "kn54qllhg2qvy9d",
-          "custom_key": "85cf6bcda513d16673c44badbcd70b8a",
-          "environment": {
-            "humidity": "94%",
-            "pressure": "762mmHg",
-            "temperature": "8°C",
-            "weather": 3,
-            "wind": "0.9m/s"
-          },
-          "home_scores": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-          ],
-          "home_team": {
-            "id": "z318q66hyj7qo9j",
-            "logo": "https://img.thesports.com/football/team/574f1ee560e8835e605176cac36a87db.png",
-            "name": "Philadelphia Union"
-          },
-          "home_team_id": "z318q66hyj7qo9j",
-          "match_date_vn": "20260308",
-          "match_id": "pxwrxlhy3n1lryk",
-          "match_time": 1772930400,
-          "raw": {
-            "away_position": "2",
-            "away_scores": [
-              0,
-              0,
-              0,
-              1,
-              0,
-              0,
-              0
-            ],
-            "away_team_id": "yl5ergph6ver8k0",
-            "competition_id": "kn54qllhg2qvy9d",
-            "coverage": {
-              "gif": 0,
-              "lineup": 1,
-              "mlive": 1
-            },
-            "environment": {
-              "humidity": "94%",
-              "pressure": "762mmHg",
-              "temperature": "8°C",
-              "weather": 3,
-              "wind": "0.9m/s"
-            },
-            "home_position": "10",
-            "home_scores": [
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0
-            ],
-            "home_team_id": "z318q66hyj7qo9j",
-            "id": "pxwrxlhy3n1lryk",
-            "match_time": 1772930400,
-            "neutral": 0,
-            "note": "",
-            "referee_id": "9k82rekh977repz",
-            "round": {
-              "group_num": 0,
-              "round_num": 3,
-              "stage_id": "ednm9whpnxnryox"
-            },
-            "season_id": "gy0or5jh77nqwzv",
-            "status_id": 2,
-            "updated_at": 1772931367,
-            "venue_id": "kjw2r09hx4prz84"
-          },
-          "referee_id": "9k82rekh977repz",
-          "season_id": "gy0or5jh77nqwzv",
-          "status_id": 2,
-          "venue_id": "kjw2r09hx4prz84"
-        },
-        "node_api_updated_at": "2026-03-08T00:57:34.056Z",
-        "sportId": 1,
-        "sport_id": 1,
-        "videoUrl": "https://live3.trendgallary.com/live/13360662_61f17395d8227a29916a64eea31eff8d_autoChange.m3u8?auth_key=1772945842-0-0-0a239925e5d7b0cd6fba591131cc802b",
-        "video_url": "https://live3.trendgallary.com/live/13360662_61f17395d8227a29916a64eea31eff8d_autoChange.m3u8?auth_key=1772945842-0-0-0a239925e5d7b0cd6fba591131cc802b",
-        "zalo_enabled": true,
-        "zalo_phone": "0383.848.175"
       },
       "phoenix-suns-vs-charlotte-hornets-luc-0900-ngay-09-03-2026-zrknxs5pwnxtwql": {
         "anchorAppointmentVoList": [
@@ -6392,13 +5705,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NWE0OTdhYWE1NGYtMjdkZg/MTVkZDcyNjEyM2MtNDRjMA.png",
             "houseIntroduction": "",
             "houseName": "   \t AUS D1 Auckland FC vs Perth Glory",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "zrknxs5pwnxtwql",
             "nickName": "BLV SODA",
             "playStreamAddress": "https://live5.msrktz.app/live/02456966.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/02456966.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/NjBlZWE2MDY4ZTEtMjNjNw/OWUzMmZkYjk2ZjAtODI3NQ.png",
-            "visitHistory": 217528
+            "visitHistory": 217734
           }
         ],
         "animation_url": null,
@@ -6548,7 +5861,7 @@
           "competition_id": "56ypq3nhz53md7o",
           "custom_key": "0d69956ea84a930426f636a9a6b62a91",
           "environment": {
-            "humidity": "95%",
+            "humidity": "94%",
             "pressure": "760mmHg",
             "temperature": "25°C",
             "weather": 7,
@@ -6591,7 +5904,7 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "95%",
+              "humidity": "94%",
               "pressure": "760mmHg",
               "temperature": "25°C",
               "weather": 7,
@@ -6620,7 +5933,7 @@
             },
             "season_id": "4zp5rzgh80yq82w",
             "status_id": 1,
-            "updated_at": 1772929224,
+            "updated_at": 1772937024,
             "venue_id": "l7oqdehn47vr510"
           },
           "referee_id": "",
@@ -6628,7 +5941,7 @@
           "status_id": 1,
           "venue_id": "l7oqdehn47vr510"
         },
-        "node_api_updated_at": "2026-03-08T00:57:33.778Z",
+        "node_api_updated_at": "2026-03-08T03:29:33.831Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -6795,7 +6108,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-08T00:57:33.778Z",
+        "node_api_updated_at": "2026-03-08T03:29:33.831Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -6976,7 +6289,7 @@
           "status_id": 1,
           "venue_id": "965mkyh7loor1ge"
         },
-        "node_api_updated_at": "2026-03-08T00:57:33.775Z",
+        "node_api_updated_at": "2026-03-08T03:29:33.828Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -6997,7 +6310,7 @@
             "playStreamAddress": "https://live5.msrktz.app/live/14707124.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/14707124.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/Mjk2OGQ3OGU0ZDktYTE1OQ/OTcxNDQ0MjdhMmItNzllNQ.jpg",
-            "visitHistory": 2000255
+            "visitHistory": 2000256
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4502994",
@@ -7076,7 +6389,13 @@
           },
           "competition_id": "vl7oqdehx3r510j",
           "custom_key": "0926d8c1b044a2d3656a3fc393c7f23f",
-          "environment": {},
+          "environment": {
+            "humidity": "37%",
+            "pressure": "770mmHg",
+            "temperature": "6°C",
+            "weather": 1,
+            "wind": "3.2m/s"
+          },
           "home_scores": [
             0,
             0,
@@ -7113,6 +6432,13 @@
               "lineup": 0,
               "mlive": 1
             },
+            "environment": {
+              "humidity": "37%",
+              "pressure": "770mmHg",
+              "temperature": "6°C",
+              "weather": 1,
+              "wind": "3.2m/s"
+            },
             "home_position": "4",
             "home_scores": [
               0,
@@ -7136,7 +6462,7 @@
             },
             "season_id": "yl5ergphg28r8k0",
             "status_id": 1,
-            "updated_at": 1772900949,
+            "updated_at": 1772938224,
             "venue_id": "kdj2ryohyn5q1zp"
           },
           "referee_id": "",
@@ -7144,7 +6470,7 @@
           "status_id": 1,
           "venue_id": "kdj2ryohyn5q1zp"
         },
-        "node_api_updated_at": "2026-03-08T00:57:33.776Z",
+        "node_api_updated_at": "2026-03-08T03:29:33.829Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -7245,9 +6571,9 @@
           "competition_id": "yl5ergphnzr8k0o",
           "custom_key": "881baaecb8596ecf8bff768725b56647",
           "environment": {
-            "humidity": "81%",
+            "humidity": "77%",
             "pressure": "768mmHg",
-            "temperature": "12°C",
+            "temperature": "13°C",
             "weather": 5,
             "wind": "1.8m/s"
           },
@@ -7288,9 +6614,9 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "81%",
+              "humidity": "77%",
               "pressure": "768mmHg",
-              "temperature": "12°C",
+              "temperature": "13°C",
               "weather": 5,
               "wind": "1.8m/s"
             },
@@ -7317,7 +6643,7 @@
             },
             "season_id": "9dn1m1gh645moep",
             "status_id": 1,
-            "updated_at": 1772928624,
+            "updated_at": 1772937025,
             "venue_id": "l965mkyh44pr1ge"
           },
           "referee_id": "gx7lm7phwyem2wd",
@@ -7325,7 +6651,7 @@
           "status_id": 1,
           "venue_id": "l965mkyh44pr1ge"
         },
-        "node_api_updated_at": "2026-03-08T00:57:34.131Z",
+        "node_api_updated_at": "2026-03-08T03:29:34.147Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -7341,13 +6667,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmJlZTBiMGRkYTgtOTA1Mg/MGU3YTgxNzdmMjktYzk3MA.png",
             "houseIntroduction": "",
             "houseName": "USA MLS Nashville SC vs Minnesota United",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "jr7owipjg6gugq0",
             "nickName": "BLV BÍ ĐAO",
             "playStreamAddress": "https://live5.msrktz.app/live/99121525.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/99121525.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/OGZhNGQ0MzRjZWEtOWUyYg/ZjY1YTRiMmY3NDMtZDI3NA.jpg",
-            "visitHistory": 1553696
+            "visitHistory": 1553943
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4366124",
@@ -7427,10 +6753,10 @@
           "competition_id": "8y39mp1h6jmojxg",
           "custom_key": "7f3d32b88e64d8894fa5140f7e524219",
           "environment": {
-            "humidity": "80%",
+            "humidity": "78%",
             "pressure": "773mmHg",
             "temperature": "5°C",
-            "weather": 9,
+            "weather": 10,
             "wind": "3.2m/s"
           },
           "home_scores": [
@@ -7470,10 +6796,10 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "80%",
+              "humidity": "78%",
               "pressure": "773mmHg",
               "temperature": "5°C",
-              "weather": 9,
+              "weather": 10,
               "wind": "3.2m/s"
             },
             "home_position": "10",
@@ -7499,7 +6825,7 @@
             },
             "season_id": "4zp5rzgh8xvq82w",
             "status_id": 1,
-            "updated_at": 1772927424,
+            "updated_at": 1772939424,
             "venue_id": "p4jwq2ghk3dm0ve"
           },
           "referee_id": "e4wyrn4hv0jq86p",
@@ -7507,7 +6833,7 @@
           "status_id": 1,
           "venue_id": "p4jwq2ghk3dm0ve"
         },
-        "node_api_updated_at": "2026-03-08T00:57:34.054Z",
+        "node_api_updated_at": "2026-03-08T03:29:34.071Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -7524,13 +6850,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjM4ZDcwYzIwZWItNDk4MQ/MzU1MDM1ZWFkZWQtNWMzMg.png",
             "houseIntroduction": "",
             "houseName": "USA MLS\tColorado Rapids  vs Los Angeles Galaxy",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "o17p8sylx95aykj",
             "nickName": "BLV ROCKSTAR",
             "playStreamAddress": "https://live5.msrktz.app/live/82054853.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/82054853.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZTY1M2Y4MzAxZTItZGRhYw/NTA1MTQ5Y2RlOGMtMmQyYg.jpg",
-            "visitHistory": 2778283
+            "visitHistory": 2778346
           }
         ],
         "animation_url": null,
@@ -7680,11 +7006,11 @@
           "competition_id": "9vjxm8ghx2r6odg",
           "custom_key": "f3165bf2102e2dd01fb7daa281fd5565",
           "environment": {
-            "humidity": "87%",
+            "humidity": "86%",
             "pressure": "769mmHg",
-            "temperature": "10°C",
+            "temperature": "11°C",
             "weather": 7,
-            "wind": "1.5m/s"
+            "wind": "1.8m/s"
           },
           "home_scores": [
             0,
@@ -7723,11 +7049,11 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "87%",
+              "humidity": "86%",
               "pressure": "769mmHg",
-              "temperature": "10°C",
+              "temperature": "11°C",
               "weather": 7,
-              "wind": "1.5m/s"
+              "wind": "1.8m/s"
             },
             "home_position": "17",
             "home_scores": [
@@ -7752,7 +7078,7 @@
             },
             "season_id": "kjw2r09h811rz84",
             "status_id": 1,
-            "updated_at": 1772931026,
+            "updated_at": 1772938825,
             "venue_id": "z318q66h4ejqo9j"
           },
           "referee_id": "gpxwrxlh9dlryk0",
@@ -7760,7 +7086,7 @@
           "status_id": 1,
           "venue_id": "z318q66h4ejqo9j"
         },
-        "node_api_updated_at": "2026-03-08T00:57:34.342Z",
+        "node_api_updated_at": "2026-03-08T03:29:34.367Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -7931,7 +7257,7 @@
           "competition_id": "vl7oqdehlyr510j",
           "custom_key": "e8a994e93df0f8a581f25c23cea55855",
           "environment": {
-            "humidity": "68%",
+            "humidity": "69%",
             "pressure": "767mmHg",
             "temperature": "17°C",
             "weather": 1,
@@ -7974,7 +7300,7 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "68%",
+              "humidity": "69%",
               "pressure": "767mmHg",
               "temperature": "17°C",
               "weather": 1,
@@ -8003,7 +7329,7 @@
             },
             "season_id": "56ypq3nhxw7md7o",
             "status_id": 1,
-            "updated_at": 1772930423,
+            "updated_at": 1772936468,
             "venue_id": "p3glrw7hwd0qdyj"
           },
           "referee_id": "kjw2r09hxp2rz84",
@@ -8011,7 +7337,7 @@
           "status_id": 1,
           "venue_id": "p3glrw7hwd0qdyj"
         },
-        "node_api_updated_at": "2026-03-08T00:57:34.292Z",
+        "node_api_updated_at": "2026-03-08T03:29:34.317Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -8187,9 +7513,9 @@
           "competition_id": "gy0or5jhg6qwzv3",
           "custom_key": "09489e7a2e60868268e0d0afd4b584c9",
           "environment": {
-            "humidity": "51%",
+            "humidity": "50%",
             "pressure": "770mmHg",
-            "temperature": "15°C",
+            "temperature": "16°C",
             "weather": 7,
             "wind": "3.7m/s"
           },
@@ -8230,9 +7556,9 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "51%",
+              "humidity": "50%",
               "pressure": "770mmHg",
-              "temperature": "15°C",
+              "temperature": "16°C",
               "weather": 7,
               "wind": "3.7m/s"
             },
@@ -8259,7 +7585,7 @@
             },
             "season_id": "e4wyrn4hg8gq86p",
             "status_id": 1,
-            "updated_at": 1772927425,
+            "updated_at": 1772931026,
             "venue_id": "gy0or5jh4lzqwzv"
           },
           "referee_id": "gx7lm7phky9m2wd",
@@ -8267,7 +7593,7 @@
           "status_id": 1,
           "venue_id": "gy0or5jh4lzqwzv"
         },
-        "node_api_updated_at": "2026-03-08T00:57:33.776Z",
+        "node_api_updated_at": "2026-03-08T03:29:33.830Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -8369,11 +7695,11 @@
           "competition_id": "yl5ergphnzr8k0o",
           "custom_key": "52e13644f41533471bcd046207e8cc9a",
           "environment": {
-            "humidity": "85%",
+            "humidity": "87%",
             "pressure": "766mmHg",
             "temperature": "13°C",
             "weather": 7,
-            "wind": "1.8m/s"
+            "wind": "2.0m/s"
           },
           "home_scores": [
             0,
@@ -8412,11 +7738,11 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "85%",
+              "humidity": "87%",
               "pressure": "766mmHg",
               "temperature": "13°C",
               "weather": 7,
-              "wind": "1.8m/s"
+              "wind": "2.0m/s"
             },
             "home_position": "9",
             "home_scores": [
@@ -8441,7 +7767,7 @@
             },
             "season_id": "9dn1m1gh645moep",
             "status_id": 1,
-            "updated_at": 1772929824,
+            "updated_at": 1772935224,
             "venue_id": "yl5ergph371r8k0"
           },
           "referee_id": "d23xmvkhow7qg8n",
@@ -8449,7 +7775,7 @@
           "status_id": 1,
           "venue_id": "yl5ergph371r8k0"
         },
-        "node_api_updated_at": "2026-03-08T00:57:33.957Z",
+        "node_api_updated_at": "2026-03-08T03:29:33.990Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -8463,14 +7789,14 @@
             "houseId": "88508431",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OGU2MGFkODUxMjEtNjA2ZQ/MjcxYzQ3ZGEzMDYtMWU0ZQ.jpg",
             "houseIntroduction": "",
-            "houseName": "USA MLS  Philadelphia Union  vs San Jose Earthquakes",
-            "liveStatus": 2,
+            "houseName": "CHA SL\tWuhan Three Towns vs Beijing Guoan",
+            "liveStatus": 1,
             "matchId": "527r3i4w5loa47e",
             "nickName": "BLV RỒNG ĐỎ",
             "playStreamAddress": "https://live5.msrktz.app/live/88508431.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/88508431.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/YTMxY2ZmY2JhYzAtZjFjZQ/NTA1ZDM4ZTc3M2EtYWFiYQ.jpg",
-            "visitHistory": 2134602
+            "visitHistory": 2134789
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4474630",
@@ -8550,7 +7876,7 @@
           "competition_id": "9vjxm8ghjj0r6od",
           "custom_key": "52815675d9d0c684c62f35d497cc9242",
           "environment": {
-            "humidity": "47%",
+            "humidity": "48%",
             "pressure": "758mmHg",
             "temperature": "36°C",
             "weather": 5,
@@ -8593,7 +7919,7 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "47%",
+              "humidity": "48%",
               "pressure": "758mmHg",
               "temperature": "36°C",
               "weather": 5,
@@ -8622,7 +7948,7 @@
             },
             "season_id": "kdj2ryoh810q1zp",
             "status_id": 1,
-            "updated_at": 1772928025,
+            "updated_at": 1772933425,
             "venue_id": ""
           },
           "referee_id": "",
@@ -8630,7 +7956,7 @@
           "status_id": 1,
           "venue_id": ""
         },
-        "node_api_updated_at": "2026-03-08T00:57:33.956Z",
+        "node_api_updated_at": "2026-03-08T03:29:33.990Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -8645,13 +7971,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NDk5MTY2MWZiODAtY2QwZQ/MjQwZDI2MzExODMtZTUwMQ.png",
             "houseIntroduction": "",
             "houseName": "   \t MEX D1    Tigres UANL vs   Monterrey",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "ezk96i3p0jxt1kn",
             "nickName": "BLV SPRITE",
             "playStreamAddress": "https://live5.msrktz.app/live/90725470.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/90725470.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MDI1MjY0NzczYTctZGI5MQ/NDQ3NTFjYjlhNjQtNzMwOQ.jpg",
-            "visitHistory": 2220475
+            "visitHistory": 2220562
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465500",
@@ -8661,7 +7987,7 @@
           0,
           0,
           0,
-          0,
+          1,
           0,
           0
         ],
@@ -8701,10 +8027,10 @@
         },
         "house_id": null,
         "matchId": "ezk96i3p0jxt1kn",
-        "matchStatus": 1,
+        "matchStatus": 2,
         "matchTime": 1772938800,
         "match_id": "ezk96i3p0jxt1kn",
-        "match_status": "scheduled",
+        "match_status": "live",
         "match_time": 1772938800,
         "node_api_data": {
           "_id": "69ab70de07c7bc72a506b598",
@@ -8713,7 +8039,7 @@
             0,
             0,
             0,
-            0,
+            1,
             0,
             0
           ],
@@ -8731,11 +8057,11 @@
           "competition_id": "9k82rekhp6repzj",
           "custom_key": "3de864955f8cba202a5a6d752ea636b4",
           "environment": {
-            "humidity": "56%",
-            "pressure": "759mmHg",
+            "humidity": "51%",
+            "pressure": "760mmHg",
             "temperature": "26°C",
             "weather": 1,
-            "wind": "2.9m/s"
+            "wind": "2.6m/s"
           },
           "home_scores": [
             0,
@@ -8756,13 +8082,13 @@
           "match_id": "4wyrn4h6ozyxq86",
           "match_time": 1772938800,
           "raw": {
-            "away_position": "7",
+            "away_position": "8",
             "away_scores": [
               0,
               0,
               0,
               0,
-              0,
+              1,
               0,
               0
             ],
@@ -8770,17 +8096,17 @@
             "competition_id": "9k82rekhp6repzj",
             "coverage": {
               "gif": 0,
-              "lineup": 0,
+              "lineup": 1,
               "mlive": 1
             },
             "environment": {
-              "humidity": "56%",
-              "pressure": "759mmHg",
+              "humidity": "51%",
+              "pressure": "760mmHg",
               "temperature": "26°C",
               "weather": 1,
-              "wind": "2.9m/s"
+              "wind": "2.6m/s"
             },
-            "home_position": "8",
+            "home_position": "9",
             "home_scores": [
               0,
               0,
@@ -8795,26 +8121,27 @@
             "match_time": 1772938800,
             "neutral": 0,
             "note": "",
-            "referee_id": "",
+            "referee_id": "kn54qllhdx7qvy9",
             "round": {
               "group_num": 0,
               "round_num": 10,
               "stage_id": "6ypq3nhpd6lmd7o"
             },
             "season_id": "d23xmvkhe76qg8n",
-            "status_id": 1,
-            "updated_at": 1772931026,
+            "status_id": 2,
+            "updated_at": 1772940024,
             "venue_id": "gpxwrxlh91yryk0"
           },
-          "referee_id": "",
+          "referee_id": "kn54qllhdx7qvy9",
           "season_id": "d23xmvkhe76qg8n",
-          "status_id": 1,
+          "status_id": 2,
           "venue_id": "gpxwrxlh91yryk0"
         },
-        "node_api_updated_at": "2026-03-08T00:57:33.869Z",
+        "node_api_updated_at": "2026-03-08T03:29:33.913Z",
         "sportId": 1,
         "sport_id": 1,
-        "video_url": null,
+        "videoUrl": "https://live.trendgallary.com/live/13376324_fd5544f2d34b746d670fe36ce5f98a78_autoChange.m3u8?auth_key=1772954969-0-0-a4efa062426da611ae87b3d88b7b3401",
+        "video_url": "https://live.trendgallary.com/live/13376324_fd5544f2d34b746d670fe36ce5f98a78_autoChange.m3u8?auth_key=1772954969-0-0-a4efa062426da611ae87b3d88b7b3401",
         "zalo_enabled": true,
         "zalo_phone": "0335.671.283"
       },
@@ -8828,13 +8155,13 @@
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmJlZTBiMGRkYTgtOTA1Mg/MGU3YTgxNzdmMjktYzk3MA.png",
             "houseIntroduction": "",
             "houseName": "USA MLS Nashville SC vs Minnesota United",
-            "liveStatus": 1,
+            "liveStatus": 2,
             "matchId": "69759ignwgvigk2",
             "nickName": "BLV BÍ ĐAO",
             "playStreamAddress": "https://live5.msrktz.app/live/99121525.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/99121525.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/OGZhNGQ0MzRjZWEtOWUyYg/ZjY1YTRiMmY3NDMtZDI3NA.jpg",
-            "visitHistory": 1553696
+            "visitHistory": 1553943
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4465467",
@@ -8918,7 +8245,7 @@
             "pressure": "759mmHg",
             "temperature": "17°C",
             "weather": 7,
-            "wind": "4.0m/s"
+            "wind": "3.7m/s"
           },
           "home_scores": [
             0,
@@ -8939,7 +8266,7 @@
           "match_id": "zp5rzghg6ygzq82",
           "match_time": 1773010800,
           "raw": {
-            "away_position": "12",
+            "away_position": "11",
             "away_scores": [
               0,
               0,
@@ -8961,7 +8288,7 @@
               "pressure": "759mmHg",
               "temperature": "17°C",
               "weather": 7,
-              "wind": "4.0m/s"
+              "wind": "3.7m/s"
             },
             "home_position": "2",
             "home_scores": [
@@ -8986,7 +8313,7 @@
             },
             "season_id": "d23xmvkhe76qg8n",
             "status_id": 1,
-            "updated_at": 1772930649,
+            "updated_at": 1772936603,
             "venue_id": "e4wyrn4h4weq86p"
           },
           "referee_id": "kn54qllhx98qvy9",
@@ -8994,7 +8321,7 @@
           "status_id": 1,
           "venue_id": "e4wyrn4h4weq86p"
         },
-        "node_api_updated_at": "2026-03-08T00:57:33.957Z",
+        "node_api_updated_at": "2026-03-08T03:29:33.991Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -9099,7 +8426,7 @@
             "pressure": "760mmHg",
             "temperature": "22°C",
             "weather": 1,
-            "wind": "3.7m/s"
+            "wind": "3.4m/s"
           },
           "home_scores": [
             0,
@@ -9142,7 +8469,7 @@
               "pressure": "760mmHg",
               "temperature": "22°C",
               "weather": 1,
-              "wind": "3.7m/s"
+              "wind": "3.4m/s"
             },
             "home_position": "9",
             "home_scores": [
@@ -9167,15 +8494,15 @@
             },
             "season_id": "9vjxm8ghny8r6od",
             "status_id": 1,
-            "updated_at": 1772929224,
-            "venue_id": ""
+            "updated_at": 1772939425,
+            "venue_id": "p3glrw7h21nqdyj"
           },
           "referee_id": "",
           "season_id": "9vjxm8ghny8r6od",
           "status_id": 1,
-          "venue_id": ""
+          "venue_id": "p3glrw7h21nqdyj"
         },
-        "node_api_updated_at": "2026-03-08T00:57:33.963Z",
+        "node_api_updated_at": "2026-03-08T03:29:33.997Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -9279,8 +8606,8 @@
             "humidity": "82%",
             "pressure": "761mmHg",
             "temperature": "21°C",
-            "weather": 10,
-            "wind": "6.5m/s"
+            "weather": 9,
+            "wind": "6.8m/s"
           },
           "home_scores": [
             0,
@@ -9322,8 +8649,8 @@
               "humidity": "82%",
               "pressure": "761mmHg",
               "temperature": "21°C",
-              "weather": 10,
-              "wind": "6.5m/s"
+              "weather": 9,
+              "wind": "6.8m/s"
             },
             "home_position": "15",
             "home_scores": [
@@ -9348,15 +8675,15 @@
             },
             "season_id": "9vjxm8ghny8r6od",
             "status_id": 1,
-            "updated_at": 1772928025,
-            "venue_id": ""
+            "updated_at": 1772937624,
+            "venue_id": "vl7oqdeh9g2r510"
           },
           "referee_id": "",
           "season_id": "9vjxm8ghny8r6od",
           "status_id": 1,
-          "venue_id": ""
+          "venue_id": "vl7oqdeh9g2r510"
         },
-        "node_api_updated_at": "2026-03-08T00:57:34.293Z",
+        "node_api_updated_at": "2026-03-08T03:29:34.318Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null,
@@ -9372,14 +8699,14 @@
             "houseId": "18812304",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YzAwMDlmMmZhNDItZjkwOA/NmRkMWE1YTljZTEtYWRmMg.jpg",
             "houseIntroduction": "",
-            "houseName": "   \t MEX D1 Atlas vs Guadalajara Chivas",
-            "liveStatus": 2,
+            "houseName": "ITA D1\tLecce  vs  Cremonese",
+            "liveStatus": 1,
             "matchId": "o07dni5dxm2cmkn",
             "nickName": "BLV CHANH MUỐI",
             "playStreamAddress": "https://live5.msrktz.app/live/18812304.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/18812304.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/MDE0ZTNlOWM5NzgtN2EyZg/NDAxMTlhNWRiN2ItZmRhYg.jpg",
-            "visitHistory": 1745828
+            "visitHistory": 1745830
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4339851",
@@ -9459,7 +8786,7 @@
           "competition_id": "4zp5rzghp5q82w1",
           "custom_key": "59fcada339c29c5c58ea5cb8ab7243ba",
           "environment": {
-            "humidity": "85%",
+            "humidity": "83%",
             "pressure": "769mmHg",
             "temperature": "14°C",
             "weather": 9,
@@ -9502,7 +8829,7 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "85%",
+              "humidity": "83%",
               "pressure": "769mmHg",
               "temperature": "14°C",
               "weather": 9,
@@ -9531,7 +8858,7 @@
             },
             "season_id": "4zp5rzghn83q82w",
             "status_id": 1,
-            "updated_at": 1772926824,
+            "updated_at": 1772938826,
             "venue_id": "gx7lm7pho76m2wd"
           },
           "referee_id": "gpxwrxlh93dryk0",
@@ -9539,7 +8866,7 @@
           "status_id": 1,
           "venue_id": "gx7lm7pho76m2wd"
         },
-        "node_api_updated_at": "2026-03-08T00:57:33.959Z",
+        "node_api_updated_at": "2026-03-08T03:29:33.993Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -9644,7 +8971,7 @@
             "humidity": "85%",
             "pressure": "768mmHg",
             "temperature": "13°C",
-            "weather": 10,
+            "weather": 9,
             "wind": "1.5m/s"
           },
           "home_scores": [
@@ -9687,7 +9014,7 @@
               "humidity": "85%",
               "pressure": "768mmHg",
               "temperature": "13°C",
-              "weather": 10,
+              "weather": 9,
               "wind": "1.5m/s"
             },
             "home_position": "15",
@@ -9713,7 +9040,7 @@
             },
             "season_id": "56ypq3nhxw7md7o",
             "status_id": 1,
-            "updated_at": 1772929824,
+            "updated_at": 1772933423,
             "venue_id": "9vjxm8gh4n3r6od"
           },
           "referee_id": "e4wyrn4h9w2q86p",
@@ -9721,7 +9048,7 @@
           "status_id": 1,
           "venue_id": "9vjxm8gh4n3r6od"
         },
-        "node_api_updated_at": "2026-03-08T00:57:34.050Z",
+        "node_api_updated_at": "2026-03-08T03:29:34.067Z",
         "sportId": 1,
         "sport_id": 1,
         "video_url": null
@@ -9886,7 +9213,7 @@
             "match_time": 1772974800,
             "neutral": 0,
             "note": "",
-            "referee_id": "",
+            "referee_id": "8y39mp1h1nymojx",
             "round": {
               "group_num": 0,
               "round_num": 27,
@@ -9894,15 +9221,15 @@
             },
             "season_id": "56ypq3nhxw7md7o",
             "status_id": 1,
-            "updated_at": 1772929824,
+            "updated_at": 1772940009,
             "venue_id": "p3glrw7hw8jqdyj"
           },
-          "referee_id": "",
+          "referee_id": "8y39mp1h1nymojx",
           "season_id": "56ypq3nhxw7md7o",
           "status_id": 1,
           "venue_id": "p3glrw7hw8jqdyj"
         },
-        "node_api_updated_at": "2026-03-08T00:57:33.861Z",
+        "node_api_updated_at": "2026-03-08T03:29:33.907Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -9919,14 +9246,14 @@
             "houseId": "88508431",
             "houseImage": "https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OGU2MGFkODUxMjEtNjA2ZQ/MjcxYzQ3ZGEzMDYtMWU0ZQ.jpg",
             "houseIntroduction": "",
-            "houseName": "USA MLS  Philadelphia Union  vs San Jose Earthquakes",
-            "liveStatus": 2,
+            "houseName": "CHA SL\tWuhan Three Towns vs Beijing Guoan",
+            "liveStatus": 1,
             "matchId": "zrkn6i44edoawql",
             "nickName": "BLV RỒNG ĐỎ",
             "playStreamAddress": "https://live5.msrktz.app/live/88508431.flv",
             "playStreamAddress2": "https://live5.msrktz.app/live/88508431.m3u8",
             "userImage": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/YTMxY2ZmY2JhYzAtZjFjZQ/NTA1ZDM4ZTc3M2EtYWFiYQ.jpg",
-            "visitHistory": 2134602
+            "visitHistory": 2134789
           }
         ],
         "animationUrl": "https://donghua.jmsec.app/anime/animation/#/vi/3d/football?profile=74rekh26eseunr0&showTrend=false&id=4498709",
@@ -10006,11 +9333,11 @@
           "competition_id": "9k82rekh52repzj",
           "custom_key": "8ab193deb5d9fbd733b5725dc68d32f1",
           "environment": {
-            "humidity": "78%",
+            "humidity": "77%",
             "pressure": "770mmHg",
             "temperature": "12°C",
             "weather": 7,
-            "wind": "1.2m/s"
+            "wind": "0.9m/s"
           },
           "home_scores": [
             0,
@@ -10049,11 +9376,11 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "78%",
+              "humidity": "77%",
               "pressure": "770mmHg",
               "temperature": "12°C",
               "weather": 7,
-              "wind": "1.2m/s"
+              "wind": "0.9m/s"
             },
             "home_position": "12",
             "home_scores": [
@@ -10078,7 +9405,7 @@
             },
             "season_id": "2y8m4zh30z7ql07",
             "status_id": 1,
-            "updated_at": 1772930890,
+            "updated_at": 1772939425,
             "venue_id": "gpxwrxlhkk4ryk0"
           },
           "referee_id": "kjw2r09hplnrz84",
@@ -10086,7 +9413,7 @@
           "status_id": 1,
           "venue_id": "gpxwrxlhkk4ryk0"
         },
-        "node_api_updated_at": "2026-03-08T00:57:34.132Z",
+        "node_api_updated_at": "2026-03-08T03:29:34.148Z",
         "sportId": 1,
         "sport_id": 1,
         "videoUrl": "https",
@@ -10188,7 +9515,7 @@
           "competition_id": "9k82rekh52repzj",
           "custom_key": "08ab75d5b2b2846f1a832b0968ad24e0",
           "environment": {
-            "humidity": "54%",
+            "humidity": "53%",
             "pressure": "770mmHg",
             "temperature": "13°C",
             "weather": 1,
@@ -10231,7 +9558,7 @@
               "mlive": 1
             },
             "environment": {
-              "humidity": "54%",
+              "humidity": "53%",
               "pressure": "770mmHg",
               "temperature": "13°C",
               "weather": 1,
@@ -10260,7 +9587,7 @@
             },
             "season_id": "2y8m4zh30z7ql07",
             "status_id": 1,
-            "updated_at": 1772931026,
+            "updated_at": 1772934624,
             "venue_id": "gx7lm7phowvm2wd"
           },
           "referee_id": "e4wyrn4hdx3q86p",
@@ -10268,10 +9595,11 @@
           "status_id": 1,
           "venue_id": "gx7lm7phowvm2wd"
         },
-        "node_api_updated_at": "2026-03-08T00:57:33.776Z",
+        "node_api_updated_at": "2026-03-08T03:29:33.829Z",
         "sportId": 1,
         "sport_id": 1,
-        "video_url": null,
+        "videoUrl": "https",
+        "video_url": "https",
         "zalo_enabled": true,
         "zalo_phone": "0383.848.175"
       }
