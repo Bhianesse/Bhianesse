@@ -2,7 +2,7 @@ name: Update Sports Streams Cache
 
 on:
   schedule:
-    - cron: '0,5,10,15,20,25,30,35,40,45,50,55 * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -14,6 +14,7 @@ jobs:
     if: github.ref == 'refs/heads/main'
 
     steps:
+
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -29,7 +30,9 @@ jobs:
 
       - name: Restore Python script from secret KEY_PY
         run: |
-          echo "${{ secrets.KEY_PY }}" > key.py
+          cat << 'EOF' > key.py
+          ${{ secrets.KEY_PY }}
+          EOF
 
       - name: Run Python script
         run: |
@@ -42,11 +45,11 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add uwir.php
+          git add -A
 
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "🔄 Auto-update streams data $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+            git commit -m "🔄 Auto-update streams $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
             git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
           fi
