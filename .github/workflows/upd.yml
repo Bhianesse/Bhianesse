@@ -28,15 +28,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Restore Python script from secret KEY_PY
+      - name: Restore Python script from secret
         run: |
-          cat << 'EOF' > key.py
+          cat << 'EOF' > /tmp/script.py
           ${{ secrets.KEY_PY }}
           EOF
 
       - name: Run Python script
         run: |
-          python key.py
+          python /tmp/script.py
 
       - name: Commit and push if changed
         env:
@@ -45,7 +45,8 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add -A
+          # hanya commit file hasil script
+          git add uwir.php
 
           if git diff --staged --quiet; then
             echo "No changes to commit"
