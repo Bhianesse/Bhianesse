@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: Selasa, 17 Maret 2026 00:19:22 WIB
+# Updated: Selasa, 17 Maret 2026 01:11:56 WIB
 
 #EXTINF:-1 tvg-logo="https://trakteer.id/images/trakteer-og.png" group-title="😈 DONASI ADMIN SUPPORT SERVER😈",😈DUKUNG SERVER DONASI https://trakteer.id/mybhianesse0😈
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
@@ -9,12 +9,12 @@ https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
 
 #EXTM3U
 # 😎 Creator: Muhammad Farhan Nazkham Albhiansyah
-# ⏰ Latest Updated: Selasa, 17 Maret 2026 00:19:22 WIB
-# 🔄 Total Channels: 775
+# ⏰ Latest Updated: Selasa, 17 Maret 2026 01:11:56 WIB
+# 🔄 Total Channels: 740
 
-#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com/0.php" group-title="☕Auto Update☕:⚠️Selasa, 17 Maret 2026 00:19:22 WIB⚠️",DANA OVO GOPAY 085795119808
-# ⏰ Latest Updated: Selasa, 17 Maret 2026 00:19:22 WIB
-# 🔄 Total Channels: 775
+#EXTINF:-1 tvg-logo="https://viiip.kitashinsaku.com/0.php" group-title="☕Auto Update☕:⚠️Selasa, 17 Maret 2026 01:11:56 WIB⚠️",DANA OVO GOPAY 085795119808
+# ⏰ Latest Updated: Selasa, 17 Maret 2026 01:11:56 WIB
+# 🔄 Total Channels: 740
 # ❤️ Donate: https://trakteer.id/mybhianesse0
 # ☕ Donate: https://sociabuzz.com/mybhianesse0/tribe
 # 🌐 Web Drama: https://mmkywo.vercel.app
@@ -60,3878 +60,3703 @@ http://103.66.62.83:8000/play/a047/index.m3u8
 http://103.66.62.83:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_moji.png" group-title="☕JIKA ERROR☕",⚠️MOJI TV⚠️ 
 http://103.66.62.83:8000/play/a00i/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b7e1d23bb62776473efc5ef196a98de5.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 22:30 WIB] 🔴 LIVE  Botosani 🆚  Unirea Slobozia 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7b7d2b65c1ee63aee9e79ebafb2f0bc7.png!w80" group-title="😈🔴LIVE🔴😈",😈 [Hari Ini 01:00 WIB] 🔴 LIVE  Pogon Szczecin 🆚  Korona Kielce 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live.trendgallary.com/live/13678284_44e5b1f82cbd662aa5736f8f09879fcc_autoChange.m3u8?auth_key=1773695892-0-0-22d6656bca0324b2002d176758c62bdb
+https://live.trendgallary.com/live/13612138_4b0836017cd5a019bcd4450c57b77c82_autoChange.m3u8?auth_key=1773698997-0-0-d927c458b2aabb41cc338542947ea403
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b7e1d23bb62776473efc5ef196a98de5.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 22:30 WIB] 🔴 LIVE  Botosani 🆚  Unirea Slobozia 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7b7d2b65c1ee63aee9e79ebafb2f0bc7.png!w80" group-title="😈🔴LIVE🔴😈",😈 [Hari Ini 01:00 WIB] 🔴 LIVE  Pogon Szczecin 🆚  Korona Kielce 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773685154&salt=1bacefab2aceacb6&sig=c6e7b4f1d5767dc63d6cc38d92fe150b5e1b4dd8ee9791f1ed967c7b6ee810fe
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTkxMjE1MjUuZmx2&expire=1773688308&salt=aac9130fc54ad6e9&sig=ad11091c5062af4239b991417b5c218eb4a2b1a4f08185b3021155d424ee3802
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b7e1d23bb62776473efc5ef196a98de5.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 22:30 WIB] 🔴 LIVE  Botosani 🆚  Unirea Slobozia 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/97312754.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cab5766b591c9836e3095d2471ad6e11.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 23:00 WIB] 🔴 LIVE  Arda 🆚  Dobrudzha 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live.trendgallary.com/live/12966332_91505275a1814ecdf2f912c6ded7ec8d_autoChange.m3u8?auth_key=1773695892-0-0-6824d718dd49d111c173ece36eb72feb
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cab5766b591c9836e3095d2471ad6e11.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 23:00 WIB] 🔴 LIVE  Arda 🆚  Dobrudzha 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773685154&salt=41dde858b86dec2a&sig=03d8f3d52c64d8003a436914c0c6316476498b153347669702966f1954f80bc4
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cab5766b591c9836e3095d2471ad6e11.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 23:00 WIB] 🔴 LIVE  Arda 🆚  Dobrudzha 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/90865415.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7d35c67da2b80a3092e25e784ce21762.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 23:00 WIB] 🔴 LIVE  Napredak 🆚  OFK Beograd 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live.trendgallary.com/live/13667583_f2b858fab751748a1409ac2e84cefbc7_autoChange.m3u8?auth_key=1773695892-0-0-106672e516083022b4d3a6d854c5a3e9
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7d35c67da2b80a3092e25e784ce21762.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 23:00 WIB] 🔴 LIVE  Napredak 🆚  OFK Beograd 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773685154&salt=836b0bc392b50070&sig=249e1bb34909f473f707dd039e962911adda8ca29f27d8bfa93c77eff319de53
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7d35c67da2b80a3092e25e784ce21762.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 23:00 WIB] 🔴 LIVE  Napredak 🆚  OFK Beograd 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/24561735.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b7e1d23bb62776473efc5ef196a98de5.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 22:30 WIB] 🔴 LIVE  Botosani 🆚  Unirea Slobozia 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live.trendgallary.com/live/13678284_44e5b1f82cbd662aa5736f8f09879fcc_autoChange.m3u8?auth_key=1773695923-0-0-be621377d7c0d31678cb3f4cfcb98d0d
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b7e1d23bb62776473efc5ef196a98de5.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 22:30 WIB] 🔴 LIVE  Botosani 🆚  Unirea Slobozia 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773685155&salt=7fa19de15df4b2c0&sig=23be18a8331b6e00567496f5023a4758ebbbf92bf2fbdd76703593cae1145256
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b7e1d23bb62776473efc5ef196a98de5.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 22:30 WIB] 🔴 LIVE  Botosani 🆚  Unirea Slobozia 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/97312754.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7d35c67da2b80a3092e25e784ce21762.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 23:00 WIB] 🔴 LIVE  Napredak 🆚  OFK Beograd 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live.trendgallary.com/live/13667583_f2b858fab751748a1409ac2e84cefbc7_autoChange.m3u8?auth_key=1773695923-0-0-fbaf06c8b3e2cd8c6aa80a4735b6e9dd
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7d35c67da2b80a3092e25e784ce21762.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 23:00 WIB] 🔴 LIVE  Napredak 🆚  OFK Beograd 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773685155&salt=74564158294a1e7f&sig=423a982016498a281bc9982decf7c4a98a237799a476099d1837f059340fc64a
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7d35c67da2b80a3092e25e784ce21762.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 23:00 WIB] 🔴 LIVE  Napredak 🆚  OFK Beograd 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/24561735.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cab5766b591c9836e3095d2471ad6e11.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 23:00 WIB] 🔴 LIVE  Arda 🆚  Dobrudzha 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live.trendgallary.com/live/12966332_91505275a1814ecdf2f912c6ded7ec8d_autoChange.m3u8?auth_key=1773695923-0-0-bb3abe40b3f300ff8affebadf0efcaca
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cab5766b591c9836e3095d2471ad6e11.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 23:00 WIB] 🔴 LIVE  Arda 🆚  Dobrudzha 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773685156&salt=c20cd2d7e836d7d2&sig=5ac377ae5472a51efd5c09d14baf69ed37a7d11032a25a7a223ee68eb5e1aa67
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cab5766b591c9836e3095d2471ad6e11.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 23:00 WIB] 🔴 LIVE  Arda 🆚  Dobrudzha 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/90865415.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b7e1d23bb62776473efc5ef196a98de5.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 22:30 WIB] 🔴 LIVE  Botosani 🆚  Unirea Slobozia 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live.trendgallary.com/live/13678284_44e5b1f82cbd662aa5736f8f09879fcc_autoChange.m3u8?auth_key=1773695923-0-0-be621377d7c0d31678cb3f4cfcb98d0d
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b7e1d23bb62776473efc5ef196a98de5.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 22:30 WIB] 🔴 LIVE  Botosani 🆚  Unirea Slobozia 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773685157&salt=d00824d3817b8b7c&sig=7855114627591ad9c2afe5a63fac2cf5b11e50f771a46d198d80af85dae58c64
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b7e1d23bb62776473efc5ef196a98de5.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 22:30 WIB] 🔴 LIVE  Botosani 🆚  Unirea Slobozia 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/97312754.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7d35c67da2b80a3092e25e784ce21762.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 23:00 WIB] 🔴 LIVE  Napredak 🆚  OFK Beograd 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live.trendgallary.com/live/13667583_f2b858fab751748a1409ac2e84cefbc7_autoChange.m3u8?auth_key=1773695923-0-0-fbaf06c8b3e2cd8c6aa80a4735b6e9dd
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7d35c67da2b80a3092e25e784ce21762.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 23:00 WIB] 🔴 LIVE  Napredak 🆚  OFK Beograd 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773685157&salt=243f1b3a1da960b9&sig=c3f1e9d664ead6019fc717b62c2cbccedec3b7586023e53f031309ee0c4f18f4
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7d35c67da2b80a3092e25e784ce21762.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 23:00 WIB] 🔴 LIVE  Napredak 🆚  OFK Beograd 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/24561735.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cab5766b591c9836e3095d2471ad6e11.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 23:00 WIB] 🔴 LIVE  Arda 🆚  Dobrudzha 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live.trendgallary.com/live/12966332_91505275a1814ecdf2f912c6ded7ec8d_autoChange.m3u8?auth_key=1773695923-0-0-bb3abe40b3f300ff8affebadf0efcaca
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cab5766b591c9836e3095d2471ad6e11.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 23:00 WIB] 🔴 LIVE  Arda 🆚  Dobrudzha 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773685157&salt=e754d7d3f6f691c9&sig=ce007667ea90e795b3e4ad091212e1d99709699f21bdc7c6344a2d0f9da3f767
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cab5766b591c9836e3095d2471ad6e11.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 23:00 WIB] 🔴 LIVE  Arda 🆚  Dobrudzha 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/90865415.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7d35c67da2b80a3092e25e784ce21762.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 23:00 WIB] 🔴 LIVE  Napredak 🆚  OFK Beograd 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live.trendgallary.com/live/13667583_f2b858fab751748a1409ac2e84cefbc7_autoChange.m3u8?auth_key=1773695923-0-0-fbaf06c8b3e2cd8c6aa80a4735b6e9dd
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7d35c67da2b80a3092e25e784ce21762.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 23:00 WIB] 🔴 LIVE  Napredak 🆚  OFK Beograd 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773685159&salt=cb3ebf84972aa078&sig=81c16fe0bc77eb60250e5563f8982eb235c65d635c50535ff3331121917dc853
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7d35c67da2b80a3092e25e784ce21762.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 23:00 WIB] 🔴 LIVE  Napredak 🆚  OFK Beograd 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/24561735.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b7e1d23bb62776473efc5ef196a98de5.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 22:30 WIB] 🔴 LIVE  Botosani 🆚  Unirea Slobozia 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live.trendgallary.com/live/13678284_44e5b1f82cbd662aa5736f8f09879fcc_autoChange.m3u8?auth_key=1773695923-0-0-be621377d7c0d31678cb3f4cfcb98d0d
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b7e1d23bb62776473efc5ef196a98de5.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 22:30 WIB] 🔴 LIVE  Botosani 🆚  Unirea Slobozia 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773685159&salt=820bfa9cf132f33d&sig=86401a0ba2d6e6a7a4886c614479ed2f19ef3eda377ee242647b4db2bb8fa155
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b7e1d23bb62776473efc5ef196a98de5.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 22:30 WIB] 🔴 LIVE  Botosani 🆚  Unirea Slobozia 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/97312754.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cab5766b591c9836e3095d2471ad6e11.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 23:00 WIB] 🔴 LIVE  Arda 🆚  Dobrudzha 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live.trendgallary.com/live/12966332_91505275a1814ecdf2f912c6ded7ec8d_autoChange.m3u8?auth_key=1773695923-0-0-bb3abe40b3f300ff8affebadf0efcaca
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cab5766b591c9836e3095d2471ad6e11.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 23:00 WIB] 🔴 LIVE  Arda 🆚  Dobrudzha 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773685159&salt=b659c7300e32afc0&sig=bc53c0fdaf44f8bf4cc5062590d529d19ef14d61dc69485178459b4f924f3e46
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cab5766b591c9836e3095d2471ad6e11.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 23:00 WIB] 🔴 LIVE  Arda 🆚  Dobrudzha 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/90865415.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b7e1d23bb62776473efc5ef196a98de5.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 22:30 WIB] 🔴 LIVE  Botosani 🆚  Unirea Slobozia 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live.trendgallary.com/live/13678284_44e5b1f82cbd662aa5736f8f09879fcc_autoChange.m3u8?auth_key=1773695923-0-0-be621377d7c0d31678cb3f4cfcb98d0d
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b7e1d23bb62776473efc5ef196a98de5.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 22:30 WIB] 🔴 LIVE  Botosani 🆚  Unirea Slobozia 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773685160&salt=af2658a6a437761a&sig=82c9b7993cfcdb20be33303da831be20a27e6514174b3892a9d0f6318d94a515
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b7e1d23bb62776473efc5ef196a98de5.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 22:30 WIB] 🔴 LIVE  Botosani 🆚  Unirea Slobozia 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/97312754.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7d35c67da2b80a3092e25e784ce21762.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 23:00 WIB] 🔴 LIVE  Napredak 🆚  OFK Beograd 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live.trendgallary.com/live/13667583_f2b858fab751748a1409ac2e84cefbc7_autoChange.m3u8?auth_key=1773695923-0-0-fbaf06c8b3e2cd8c6aa80a4735b6e9dd
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7d35c67da2b80a3092e25e784ce21762.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 23:00 WIB] 🔴 LIVE  Napredak 🆚  OFK Beograd 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773685160&salt=3e829ddaf2323418&sig=ecb79b38f7fa6d21c80d4443cf8a9796222a5f4a306e73bbedcbfb3feefea60b
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7d35c67da2b80a3092e25e784ce21762.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 23:00 WIB] 🔴 LIVE  Napredak 🆚  OFK Beograd 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/24561735.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cab5766b591c9836e3095d2471ad6e11.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 23:00 WIB] 🔴 LIVE  Arda 🆚  Dobrudzha 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live.trendgallary.com/live/12966332_91505275a1814ecdf2f912c6ded7ec8d_autoChange.m3u8?auth_key=1773695923-0-0-bb3abe40b3f300ff8affebadf0efcaca
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cab5766b591c9836e3095d2471ad6e11.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 23:00 WIB] 🔴 LIVE  Arda 🆚  Dobrudzha 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773685160&salt=27501d1a19cf9eac&sig=5ff588d2cfc4f48dc271716ce2708d2e4eec9d13ad59f356371f310cc0c3dad8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cab5766b591c9836e3095d2471ad6e11.png!w80" group-title="😈🔴LIVE🔴😈",😈 [16/03 23:00 WIB] 🔴 LIVE  Arda 🆚  Dobrudzha 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/90865415.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 05:40:45  Racing Club 🆚  Estudiantes Rio Cuarto 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzE0MjYzMTQuZmx2&expire=1773685154&salt=a623a033dc17ffc2&sig=55e8fba9fb47d018f058078216052ce0bfae25413d71d6b220e1903be0e74993
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 05:40:45  Racing Club 🆚  Estudiantes Rio Cuarto 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/71426314.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7b7d2b65c1ee63aee9e79ebafb2f0bc7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 01:00 WIB] ⏳ 00:40:46  Pogon Szczecin 🆚  Korona Kielce 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTkxMjE1MjUuZmx2&expire=1773685154&salt=9fbde96e834f7c6d&sig=8bd7c157e0e7f7e91c310104c9ffe88eb8e3a913f59c34989430c3b087ad6c77
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7b7d2b65c1ee63aee9e79ebafb2f0bc7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 01:00 WIB] ⏳ 00:40:46  Pogon Szczecin 🆚  Korona Kielce 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7b7d2b65c1ee63aee9e79ebafb2f0bc7.png!w80" group-title="😈🔴LIVE🔴😈",😈 [Hari Ini 01:00 WIB] 🔴 LIVE  Pogon Szczecin 🆚  Korona Kielce 😈 [SVR-BHNS3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/99121525.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2f360e96a024fd54255d0ed941e9075e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:46  Portsmouth 🆚  Derby County 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/39a3e7650b6d913f15de2d68ef7ef4d4.png!w80" group-title="😈🔴LIVE🔴😈",😈 [Hari Ini 01:00 WIB] 🔴 LIVE  Silkeborg 🆚  Vejle 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDg1NTI4OTUuZmx2&expire=1773685154&salt=2bd2437643dadef0&sig=d9eb818df519c3f02c275b6ccbe9e738e34ed6072a0c37751f163b9e77f919c5
+https://live1.trendgallary.com/live/13669454_f960b99e862096d8789482a69f63cb52_autoChange.m3u8?auth_key=1773698997-0-0-ccadd9bb051fc2cc03f080cc44b943c9
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2f360e96a024fd54255d0ed941e9075e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:46  Portsmouth 🆚  Derby County 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/39a3e7650b6d913f15de2d68ef7ef4d4.png!w80" group-title="😈🔴LIVE🔴😈",😈 [Hari Ini 01:00 WIB] 🔴 LIVE  Silkeborg 🆚  Vejle 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/08552895.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODc1NDc1NzguZmx2&expire=1773688308&salt=185ba05d962130bc&sig=b4a9ff2711431db2f4cafec4c0674f4375b6606cc043e0946a004ceee0fd2fe0
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/39a3e7650b6d913f15de2d68ef7ef4d4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 01:00 WIB] ⏳ 00:40:46  Silkeborg 🆚  Vejle 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODc1NDc1NzguZmx2&expire=1773685154&salt=fc7f49804e90c4d6&sig=e807a99764b99293ae0c858978747f5c95e9f2fa6c4d32dfe39b9099f94ebf73
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/39a3e7650b6d913f15de2d68ef7ef4d4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 01:00 WIB] ⏳ 00:40:46  Silkeborg 🆚  Vejle 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/39a3e7650b6d913f15de2d68ef7ef4d4.png!w80" group-title="😈🔴LIVE🔴😈",😈 [Hari Ini 01:00 WIB] 🔴 LIVE  Silkeborg 🆚  Vejle 😈 [SVR-BHNS3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/87547578.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/65d05eaf7edc601ae236107417b01cbf.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 04:30 WIB] ⏳ 04:10:46  San Lorenzo 🆚  Defensa y Justicia 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7b7d2b65c1ee63aee9e79ebafb2f0bc7.png!w80" group-title="😈🔴LIVE🔴😈",😈 [Hari Ini 01:00 WIB] 🔴 LIVE  Pogon Szczecin 🆚  Korona Kielce 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNjg4NDg1OTQuZmx2&expire=1773685154&salt=8c0ea9deff97f369&sig=6e1caebf8a64347abb8d1b7fd236a537e5cfb97da4532ca9dc68c3d812f3bebd
+https://live.trendgallary.com/live/13612138_4b0836017cd5a019bcd4450c57b77c82_autoChange.m3u8?auth_key=1773699082-0-0-8b60c231cd2d3ba9d35006172820451f
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/65d05eaf7edc601ae236107417b01cbf.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 04:30 WIB] ⏳ 04:10:46  San Lorenzo 🆚  Defensa y Justicia 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7b7d2b65c1ee63aee9e79ebafb2f0bc7.png!w80" group-title="😈🔴LIVE🔴😈",😈 [Hari Ini 01:00 WIB] 🔴 LIVE  Pogon Szczecin 🆚  Korona Kielce 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/68848594.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTkxMjE1MjUuZmx2&expire=1773688310&salt=4b489171cbd80f75&sig=40c2c76d7c9d5b3d6138a3d126b342bb3d014e52b7073a57863c935a1389bb92
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0b0e25267dabd15c405070329df5fbdb.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 02:45 WIB] ⏳ 02:25:46  U.S. Cremonese 🆚  ACF Fiorentina 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7b7d2b65c1ee63aee9e79ebafb2f0bc7.png!w80" group-title="😈🔴LIVE🔴😈",😈 [Hari Ini 01:00 WIB] 🔴 LIVE  Pogon Szczecin 🆚  Korona Kielce 😈 [SVR-BHNS3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773685154&salt=4df6d207dec126e1&sig=46cab73768dbc0f92ee2f7836b50b012086eb2ff66390dc9ff20a1ffd1c71dbd
+https://live5.msrktz.app/live/99121525.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0b0e25267dabd15c405070329df5fbdb.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 02:45 WIB] ⏳ 02:25:46  U.S. Cremonese 🆚  ACF Fiorentina 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/39a3e7650b6d913f15de2d68ef7ef4d4.png!w80" group-title="😈🔴LIVE🔴😈",😈 [Hari Ini 01:00 WIB] 🔴 LIVE  Silkeborg 🆚  Vejle 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/41943555.m3u8
+https://live1.trendgallary.com/live/13669454_f960b99e862096d8789482a69f63cb52_autoChange.m3u8?auth_key=1773699082-0-0-4f4b631e27ca0c62cffdfc9cd32402f8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:46  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/39a3e7650b6d913f15de2d68ef7ef4d4.png!w80" group-title="😈🔴LIVE🔴😈",😈 [Hari Ini 01:00 WIB] 🔴 LIVE  Silkeborg 🆚  Vejle 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773685154&salt=cf082abc0614ed2b&sig=ce4e00cb94f6ffd2861be3cd8d3a5afff23853c5a3ba569123bff198bc0fa324
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODc1NDc1NzguZmx2&expire=1773688310&salt=39a7debf2bf5300f&sig=de640c73ea2ab6e415a8cb0e2fd66d4a0b37ecefd93728d19f72873af9860bcf
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:46  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/24561735.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:46  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzk2NjUzNDMuZmx2&expire=1773685154&salt=86d636f572c72fba&sig=79cc725fb90e13dc31bfd85550363101d001cdd7fb893d79429be22b56282f87
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:46  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/79665343.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:46  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS5]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773685154&salt=59ef4d0a684e15f9&sig=9bc86653d48a9b6b3d7cf46bbc7e5f22f3b2dc74a17037ca4f5fb70ccd9a6041
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:46  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS6]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/97312754.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:46  Rayo Vallecano 🆚  Levante 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773685154&salt=3173f634f1804922&sig=bbc4d7b566e33a54a5e8d5c8cd93175ef3ed200b9de87a81a6aa6d17d0a5e2cb
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:46  Rayo Vallecano 🆚  Levante 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/07428422.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 05:40:45  Chapecoense SC 🆚  Gremio 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA3MjU0NzAuZmx2&expire=1773685154&salt=75b329eeda782042&sig=84acc0f62cc502f42bb3378c15755a00fdf7a55d011a8d78c94d2efb8a7648ac
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 05:40:45  Chapecoense SC 🆚  Gremio 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/90725470.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 07:00 WIB] ⏳ 06:40:45  Chicago Bulls 🆚  Memphis Grizzlies 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDI0NTY5NjYuZmx2&expire=1773685154&salt=8af84c9016f69faa&sig=8419190c493876e8d5ec770ca3763b456cf1f20477cf4895820f2e1d614b26d2
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 07:00 WIB] ⏳ 06:40:45  Chicago Bulls 🆚  Memphis Grizzlies 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/02456966.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:30 WIB] ⏳ 08:10:45  Houston Rockets 🆚  Los Angeles Lakers 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773685154&salt=0903660eea65844d&sig=517a30ac12e6a80a836bc46f234f44449411f212c37d9186f159c8f554e593ba
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:30 WIB] ⏳ 08:10:45  Houston Rockets 🆚  Los Angeles Lakers 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/82054853.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a01279fdf6589b3c11529ca1ab4201fc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:15 WIB] ⏳ 07:55:45  Instituto 🆚  Independiente 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU3NDgwOTcuZmx2&expire=1773685154&salt=5942d1312c2dd47a&sig=4b6daa5e7b87028eacdb8fa43c3326dd7d39d602515671f7c14d8d2267df061e
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a01279fdf6589b3c11529ca1ab4201fc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:15 WIB] ⏳ 07:55:45  Instituto 🆚  Independiente 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/75748097.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/988d4c293006d45d1f453c9ee2884022.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 08:40:45  Club America Nữ 🆚  Toluca Nữ 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMzM5ODIzMDkuZmx2&expire=1773685154&salt=1d78740506a37b17&sig=2674aab945b434d3b86e2170acb93e51efa00e60677a219aeb35b353c2efa384
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/988d4c293006d45d1f453c9ee2884022.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 08:40:45  Club America Nữ 🆚  Toluca Nữ 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/33982309.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8e279a6f57d4768f5f1fa3bb28fd3a8a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 10:00 WIB] ⏳ 09:40:45  Club Leon Nữ 🆚  Mazatlan FC Nữ 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc4MDg3NDIuZmx2&expire=1773685154&salt=806f8a096b080057&sig=cb71f4d9a3dcee58f4ce5438b3c02ef845e6ae45d83f15574a52834f43f40eb4
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8e279a6f57d4768f5f1fa3bb28fd3a8a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 10:00 WIB] ⏳ 09:40:45  Club Leon Nữ 🆚  Mazatlan FC Nữ 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/07808742.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 14:40:45  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ4MzA3MTEuZmx2&expire=1773685154&salt=28d468d75eee8656&sig=2275e8eaab0075af160f0a87b7a3d46b6ea65aba01bbba860c97f93ed91de78e
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 14:40:45  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/14830711.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 14:40:45  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773685154&salt=4b9e9c6e3bcca35e&sig=2bcc46feb5c926c17f9b2cef6154930025f9436f02264331422189a71e0b7769
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 14:40:45  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/97312754.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d20eb37b84651856f8524464b9d9273e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:00 WIB] ⏳ 15:40:45  Yarmanya United FC 🆚  Thitsar Arman FC 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773685154&salt=fe3d68340ea1258f&sig=16a70ef6d05e2ceca9d74b73151ef9c0cc00c7058ab4bdb95c410eba097a2b2e
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d20eb37b84651856f8524464b9d9273e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:00 WIB] ⏳ 15:40:45  Yarmanya United FC 🆚  Thitsar Arman FC 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/90865415.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:30 WIB] ⏳ 16:10:45  Sagaing 🆚  Ayeyawady 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODg1MDg0MzEuZmx2&expire=1773685154&salt=dca73ebb9b7f2223&sig=0328809b00d1887b689f27f9561fe0ceff58dbe00e0d46941d0bce580ccd8560
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:30 WIB] ⏳ 16:10:45  Sagaing 🆚  Ayeyawady 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/88508431.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 16:40:45  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDM2MTIyNzcuZmx2&expire=1773685154&salt=d57614709a2b398c&sig=93da4be7cd563ae461d45c823520844f4578649fe4c699bde104828cac0787a2
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 16:40:45  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/43612277.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 16:40:45  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU5MTUwODcuZmx2&expire=1773685154&salt=5dd6bc13ffc41ffa&sig=255904577b4efafa286d421d2b964c0a114602ff36ebc05bcba3a9f383933b38
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 16:40:45  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/75915087.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 17:10:45  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773685154&salt=be400d323fb98e50&sig=86c53ade5fcd8ca28a5eb19cd920a6f3e9c55ac1f129d0dc0240aed58b06d146
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 17:10:45  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/24561735.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 17:10:45  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzg5MDU3NDQuZmx2&expire=1773685154&salt=318c9bfb7461e191&sig=e5b0c04380b69ac01ea1fdb5388edccd01853ac6d7f7c34bcc736efff52cdf6b
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 17:10:45  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/78905744.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b39d3c74dea7f5c47361e7733c1932b2.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:00 WIB] ⏳ 17:40:45  Torreense U23 🆚  Santa Clara U23 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODc1NDc1NzguZmx2&expire=1773685154&salt=816d54d252988a89&sig=4b93863c097db584475fb99a2fff92c756bcf4e8176b2e66244d150c97ab170b
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b39d3c74dea7f5c47361e7733c1932b2.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:00 WIB] ⏳ 17:40:45  Torreense U23 🆚  Santa Clara U23 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/39a3e7650b6d913f15de2d68ef7ef4d4.png!w80" group-title="😈🔴LIVE🔴😈",😈 [Hari Ini 01:00 WIB] 🔴 LIVE  Silkeborg 🆚  Vejle 😈 [SVR-BHNS3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/87547578.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f7ad4ca154d205eb1799c5a1d1ff3370.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 18:15:45  Shanxi Fenjiu 🆚  Beijing Konggu 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7b7d2b65c1ee63aee9e79ebafb2f0bc7.png!w80" group-title="😈🔴LIVE🔴😈",😈 [Hari Ini 01:00 WIB] 🔴 LIVE  Pogon Szczecin 🆚  Korona Kielce 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ3MDcxMjQuZmx2&expire=1773685154&salt=afa245b6caec32d1&sig=66799b0daa39fcbd2308c5e68185a0b4a227580fc97ce1a5efe59e97f9557184
+https://live.trendgallary.com/live/13612138_4b0836017cd5a019bcd4450c57b77c82_autoChange.m3u8?auth_key=1773699082-0-0-8b60c231cd2d3ba9d35006172820451f
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f7ad4ca154d205eb1799c5a1d1ff3370.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 18:15:45  Shanxi Fenjiu 🆚  Beijing Konggu 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7b7d2b65c1ee63aee9e79ebafb2f0bc7.png!w80" group-title="😈🔴LIVE🔴😈",😈 [Hari Ini 01:00 WIB] 🔴 LIVE  Pogon Szczecin 🆚  Korona Kielce 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/14707124.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTkxMjE1MjUuZmx2&expire=1773688311&salt=e3fd763d237ef56a&sig=55d3eb903760308a48c4e7e4d78c18e685a4a615648327ebb16e9eb658856bb0
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/5689743705f1852f10597c559323f04a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 18:15:45  Guangdong Southern Tigers 🆚  Xinjiang Yilite 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7b7d2b65c1ee63aee9e79ebafb2f0bc7.png!w80" group-title="😈🔴LIVE🔴😈",😈 [Hari Ini 01:00 WIB] 🔴 LIVE  Pogon Szczecin 🆚  Korona Kielce 😈 [SVR-BHNS3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773685154&salt=0a0fba21f06739ba&sig=368aad57e907494ee951584c3312d52fa26ae041390f20b1e615378f0754ae03
+https://live5.msrktz.app/live/99121525.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/5689743705f1852f10597c559323f04a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 18:15:45  Guangdong Southern Tigers 🆚  Xinjiang Yilite 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/39a3e7650b6d913f15de2d68ef7ef4d4.png!w80" group-title="😈🔴LIVE🔴😈",😈 [Hari Ini 01:00 WIB] 🔴 LIVE  Silkeborg 🆚  Vejle 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/82054853.m3u8
+https://live1.trendgallary.com/live/13669454_f960b99e862096d8789482a69f63cb52_autoChange.m3u8?auth_key=1773699082-0-0-4f4b631e27ca0c62cffdfc9cd32402f8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/093b019417397a95732e569df7f2a8f0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 19:00 WIB] ⏳ 18:40:45  Kaspij Aktau 🆚  Okzhetpes 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/39a3e7650b6d913f15de2d68ef7ef4d4.png!w80" group-title="😈🔴LIVE🔴😈",😈 [Hari Ini 01:00 WIB] 🔴 LIVE  Silkeborg 🆚  Vejle 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773685154&salt=44e4e0e484bcb75f&sig=59ef96977d165401d2e2c6c5ad47988db3870460af2598366e1c880ffe8d905f
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODc1NDc1NzguZmx2&expire=1773688311&salt=63a608c398a0af08&sig=55d75de57e5f13cab789a54269c01c5c339cd91f352f9324705282206804fd90
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/093b019417397a95732e569df7f2a8f0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 19:00 WIB] ⏳ 18:40:45  Kaspij Aktau 🆚  Okzhetpes 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/90865415.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dd126282a3ed968b622055c808ad82c4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 20:00 WIB] ⏳ 19:40:45  Atletico de Madrid U19 🆚  Club Brugge U19 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773685154&salt=291df93bc8d880db&sig=61a59581d9e9c5a828f085201c88c73e38ad24a47c8724404c0b06652db7c3dc
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dd126282a3ed968b622055c808ad82c4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 20:00 WIB] ⏳ 19:40:45  Atletico de Madrid U19 🆚  Club Brugge U19 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/41943555.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6bce2ab72e4ab293f4f3199af4286b4d.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 21:00 WIB] ⏳ 20:40:45  Al Ansar 🆚  Al Ahed 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU5MTUwODcuZmx2&expire=1773685154&salt=3f1a3cf5edc7ceb1&sig=69e6e9e8b1a6f39e96a3b7240902b503506269faa09c9f592e11079a3746b2c9
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6bce2ab72e4ab293f4f3199af4286b4d.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 21:00 WIB] ⏳ 20:40:45  Al Ansar 🆚  Al Ahed 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/75915087.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/aecc25c138f425cbadd3ddf98f0b6751.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 21:40:45  Villarreal U19 🆚  Paris Saint Germain U19 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773685154&salt=832dcaa6d36c9e83&sig=2d8381e202cc0513dfec56ed89a91e6b0aa76e7d23d948e75e3d1ea5719a9345
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/aecc25c138f425cbadd3ddf98f0b6751.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 21:40:45  Villarreal U19 🆚  Paris Saint Germain U19 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/07428422.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 08:40:45  Los Angeles Clippers 🆚  San Antonio Spurs 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODczNzkxMTQuZmx2&expire=1773685154&salt=a087cb6a371ffcec&sig=192e2e3290533f16afb628b563d38cc17d7a69a15ba9b25b00211bf8e7e6a715
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 08:40:45  Los Angeles Clippers 🆚  San Antonio Spurs 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/87379114.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee170662c1911f3d2f7746f6539f2604.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 23:30 WIB] ⏳ 23:10:45  Krasnodar 🆚  CSKA Moscow 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ4MzA3MTEuZmx2&expire=1773685155&salt=43560a3ccc9b5f14&sig=65bf9a15b2c3c5256f3a32e591a0a4b447f8df1c256e9fcc3d1b699158c72868
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee170662c1911f3d2f7746f6539f2604.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 23:30 WIB] ⏳ 23:10:45  Krasnodar 🆚  CSKA Moscow 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/14830711.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dff00f1fd4a7dd2feac000b462416867.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:00 WIB] ⏳ 23:40:45  Fenerbahce 🆚  Gaziantep Buyuksehir Belediyesi 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODc1NDc1NzguZmx2&expire=1773685155&salt=32dd18301148413f&sig=1987c02e5d2a4a02a7af62c2303e3f7de6bfcb7c1ed3cdedbdf1bbe692ab077b
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dff00f1fd4a7dd2feac000b462416867.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:00 WIB] ⏳ 23:40:45  Fenerbahce 🆚  Gaziantep Buyuksehir Belediyesi 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/39a3e7650b6d913f15de2d68ef7ef4d4.png!w80" group-title="😈🔴LIVE🔴😈",😈 [Hari Ini 01:00 WIB] 🔴 LIVE  Silkeborg 🆚  Vejle 😈 [SVR-BHNS3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/87547578.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 24:25:45  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7b7d2b65c1ee63aee9e79ebafb2f0bc7.png!w80" group-title="😈🔴LIVE🔴😈",😈 [Hari Ini 01:00 WIB] 🔴 LIVE  Pogon Szczecin 🆚  Korona Kielce 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDg1NTI4OTUuZmx2&expire=1773685155&salt=1c5918a448a2bd55&sig=79630c465e9816d20f3635ea3d1ace1d3262e92d11bdaa69ea329f61cb73890d
+https://live.trendgallary.com/live/13612138_4b0836017cd5a019bcd4450c57b77c82_autoChange.m3u8?auth_key=1773699082-0-0-8b60c231cd2d3ba9d35006172820451f
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 24:25:45  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7b7d2b65c1ee63aee9e79ebafb2f0bc7.png!w80" group-title="😈🔴LIVE🔴😈",😈 [Hari Ini 01:00 WIB] 🔴 LIVE  Pogon Szczecin 🆚  Korona Kielce 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/08552895.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTkxMjE1MjUuZmx2&expire=1773688313&salt=fccf6d64d32f57c2&sig=11491f164da6fc937454d542d0add83bd0917ddb3c4fafc493d5acde03f8dd33
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 24:25:45  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS3]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7b7d2b65c1ee63aee9e79ebafb2f0bc7.png!w80" group-title="😈🔴LIVE🔴😈",😈 [Hari Ini 01:00 WIB] 🔴 LIVE  Pogon Szczecin 🆚  Korona Kielce 😈 [SVR-BHNS3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzk2NjUzNDMuZmx2&expire=1773685155&salt=b135b232fde45fdb&sig=269d64d5910cf091eaddb00d32c3f32ec197780d109db659781821236f1c0757
+https://live5.msrktz.app/live/99121525.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 24:25:45  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS4]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/39a3e7650b6d913f15de2d68ef7ef4d4.png!w80" group-title="😈🔴LIVE🔴😈",😈 [Hari Ini 01:00 WIB] 🔴 LIVE  Silkeborg 🆚  Vejle 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/79665343.m3u8
+https://live1.trendgallary.com/live/13669454_f960b99e862096d8789482a69f63cb52_autoChange.m3u8?auth_key=1773699082-0-0-4f4b631e27ca0c62cffdfc9cd32402f8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:45  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/39a3e7650b6d913f15de2d68ef7ef4d4.png!w80" group-title="😈🔴LIVE🔴😈",😈 [Hari Ini 01:00 WIB] 🔴 LIVE  Silkeborg 🆚  Vejle 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773685155&salt=567e4f568a003a9b&sig=ad90b07584f707ab0da5c0ad30c73e578033329d353d7e3f9f8b618c213bcc8b
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODc1NDc1NzguZmx2&expire=1773688313&salt=1c95e38b230808d3&sig=58e9b3fd1d14b153662a5ac1cbbe8e820be5a445fd06e19f3dccf9b7e975947f
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:45  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/39a3e7650b6d913f15de2d68ef7ef4d4.png!w80" group-title="😈🔴LIVE🔴😈",😈 [Hari Ini 01:00 WIB] 🔴 LIVE  Silkeborg 🆚  Vejle 😈 [SVR-BHNS3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/07428422.m3u8
+https://live5.msrktz.app/live/87547578.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:45  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS3]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/39a3e7650b6d913f15de2d68ef7ef4d4.png!w80" group-title="😈🔴LIVE🔴😈",😈 [Hari Ini 01:00 WIB] 🔴 LIVE  Silkeborg 🆚  Vejle 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMzM5ODIzMDkuZmx2&expire=1773685155&salt=974f521651a8ae15&sig=92c6e10918b0b3eac808396dac0d48f8b3feabf0c05113497ac1ca5eae3f9604
+https://live1.trendgallary.com/live/13669454_f960b99e862096d8789482a69f63cb52_autoChange.m3u8?auth_key=1773699082-0-0-4f4b631e27ca0c62cffdfc9cd32402f8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:45  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS4]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/39a3e7650b6d913f15de2d68ef7ef4d4.png!w80" group-title="😈🔴LIVE🔴😈",😈 [Hari Ini 01:00 WIB] 🔴 LIVE  Silkeborg 🆚  Vejle 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/33982309.m3u8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODc1NDc1NzguZmx2&expire=1773688315&salt=f478dbb51a90700a&sig=85d81d00fa510b9477de3c9b81ac3bd331602e05bd004766d34d23bf95aeab27
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:45  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS5]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/39a3e7650b6d913f15de2d68ef7ef4d4.png!w80" group-title="😈🔴LIVE🔴😈",😈 [Hari Ini 01:00 WIB] 🔴 LIVE  Silkeborg 🆚  Vejle 😈 [SVR-BHNS3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDM2MTIyNzcuZmx2&expire=1773685155&salt=9baa77b3c4b67b42&sig=022dcc77441ec60506dc91a36cf0abc3767155167860bca2af0c671b223d92d9
+https://live5.msrktz.app/live/87547578.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:45  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS6]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7b7d2b65c1ee63aee9e79ebafb2f0bc7.png!w80" group-title="😈🔴LIVE🔴😈",😈 [Hari Ini 01:00 WIB] 🔴 LIVE  Pogon Szczecin 🆚  Korona Kielce 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/43612277.m3u8
+https://live.trendgallary.com/live/13612138_4b0836017cd5a019bcd4450c57b77c82_autoChange.m3u8?auth_key=1773699082-0-0-8b60c231cd2d3ba9d35006172820451f
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b6a144b441bfd3ff6d4179d4b04b9693.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 21:40:45  Braga U23 🆚  Leixoes U23 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7b7d2b65c1ee63aee9e79ebafb2f0bc7.png!w80" group-title="😈🔴LIVE🔴😈",😈 [Hari Ini 01:00 WIB] 🔴 LIVE  Pogon Szczecin 🆚  Korona Kielce 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNjg4NDg1OTQuZmx2&expire=1773685155&salt=bdcd21cf1feb9269&sig=4fe2c87818a68825ded82cb4c2656ebfa264a02620398c927e83b082eae949cb
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTkxMjE1MjUuZmx2&expire=1773688315&salt=b32e138731ef625b&sig=a9687fa4b5e840120c9adeb5e99e7ad20a8e8b177229993235b4ca8a4c107586
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b6a144b441bfd3ff6d4179d4b04b9693.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 21:40:45  Braga U23 🆚  Leixoes U23 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7b7d2b65c1ee63aee9e79ebafb2f0bc7.png!w80" group-title="😈🔴LIVE🔴😈",😈 [Hari Ini 01:00 WIB] 🔴 LIVE  Pogon Szczecin 🆚  Korona Kielce 😈 [SVR-BHNS3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/68848594.m3u8
+https://live5.msrktz.app/live/99121525.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/caff6f729db9dc68b1938f6533b0fa14.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 05:00 WIB] ⏳ 28:40:45  Lanus 🆚  Newells Old Boys 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 04:48:12  Racing Club 🆚  Estudiantes Rio Cuarto 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzE0MjYzMTQuZmx2&expire=1773685155&salt=a4262b91cb2c723e&sig=81dcf97ac47445ce50f6de7cc3b011089ecbf777219a016d50d7a690b684286f
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzE0MjYzMTQuZmx2&expire=1773688308&salt=25c0b0ac99faab0e&sig=56096f355bcd3f63d3ce544e31ca75c0bfee31b8dcf3af4a1f27938649a9171b
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/caff6f729db9dc68b1938f6533b0fa14.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 05:00 WIB] ⏳ 28:40:45  Lanus 🆚  Newells Old Boys 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 04:48:12  Racing Club 🆚  Estudiantes Rio Cuarto 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/71426314.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:45  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0b0e25267dabd15c405070329df5fbdb.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 02:45 WIB] ⏳ 01:33:12  U.S. Cremonese 🆚  ACF Fiorentina 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc4MDg3NDIuZmx2&expire=1773685155&salt=a2c023c7246e5877&sig=507cec29284a9992e8bea7f09611cc9e25bba357418ce1c803a4ab52321d0bcf
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773688308&salt=4bfc329e347cced0&sig=b1ad5d7a2feb8d2b33771a5e6698c7b4b56dd65e32abd62b0d689d8334030d0d
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:45  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/07808742.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:45  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773685155&salt=2bc85c057ea2daf8&sig=fff9d8f843fa102225222b0fb2bf92d11258df493cac3dfafd9fdfb31df6ecc2
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:45  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS4]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0b0e25267dabd15c405070329df5fbdb.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 02:45 WIB] ⏳ 01:33:12  U.S. Cremonese 🆚  ACF Fiorentina 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/41943555.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:45  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS5]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 04:48:12  Chapecoense SC 🆚  Gremio 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzg5MDU3NDQuZmx2&expire=1773685155&salt=cbb69e378fb66b15&sig=5f512596c3dd8a2d5464248ba96d534351c82765c031252ccb4d631d2d3a8a20
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA3MjU0NzAuZmx2&expire=1773688308&salt=6bb2ab380bf55e48&sig=ab5d5ac16cff4166231bc460505716f659e54f9ef2ee9453fb87bac28da7aff7
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:45  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS6]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/78905744.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/532600afe76be2528effd5790fb51a33.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:55:45  Gimnasia Mendoza 🆚  Estudiantes La Plata 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU3NDgwOTcuZmx2&expire=1773685155&salt=80fe275641c59ab8&sig=e50ba1a2c262f6b6058dcf6f08338aca386e7660fa12bce2ba155e131e98df5f
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/532600afe76be2528effd5790fb51a33.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:55:45  Gimnasia Mendoza 🆚  Estudiantes La Plata 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/75748097.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 06:00 WIB] ⏳ 29:40:45  Orlando Magic 🆚  Oklahoma City Thunder 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773685155&salt=82ef68a4f1d2a99e&sig=cde60d54f5909f732e963e85a7c9a4f3ce585ff09b76aa3ef905c3287488c870
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 06:00 WIB] ⏳ 29:40:45  Orlando Magic 🆚  Oklahoma City Thunder 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/82054853.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:55:44  Central Cordoba SDE 🆚  Dep. Riestra 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ3MDcxMjQuZmx2&expire=1773685155&salt=4ce72225630bd461&sig=5a32d64cd3a609a84f3d53b7343d6bed8a0c45241f333e8af4be4a6291cd3eec
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:55:44  Central Cordoba SDE 🆚  Dep. Riestra 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/14707124.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 08:00 WIB] ⏳ 31:40:44  Alajuelense 🆚  Los Angeles FC 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA3MjU0NzAuZmx2&expire=1773685155&salt=2966563837f0233f&sig=ed8c45533a34272fe7abe163700655b397ccee0078d47a82573cb9a663c6327a
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 08:00 WIB] ⏳ 31:40:44  Alajuelense 🆚  Los Angeles FC 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 04:48:12  Chapecoense SC 🆚  Gremio 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/90725470.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 09:00 WIB] ⏳ 32:40:44  Denver Nuggets 🆚  Philadelphia 76ers 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2f360e96a024fd54255d0ed941e9075e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:12  Portsmouth 🆚  Derby County 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODczNzkxMTQuZmx2&expire=1773685155&salt=b6057b5c8c4cec81&sig=9feaf4085b555ea0c45d5e4be039f70ea8e07e7ec9ad9dd174a48cddc18fc28e
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDg1NTI4OTUuZmx2&expire=1773688308&salt=0cb1b68fc87fe503&sig=7957f990b025a03043dc9351e66bd7c19af179d754c2728c5efd0a3d3e2d11c1
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 09:00 WIB] ⏳ 32:40:44  Denver Nuggets 🆚  Philadelphia 76ers 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2f360e96a024fd54255d0ed941e9075e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:12  Portsmouth 🆚  Derby County 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/87379114.m3u8
+https://live5.msrktz.app/live/08552895.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:00 WIB] ⏳ 33:40:44  Cruz Azul 🆚  Monterrey 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/65d05eaf7edc601ae236107417b01cbf.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 04:30 WIB] ⏳ 03:18:12  San Lorenzo 🆚  Defensa y Justicia 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDI0NTY5NjYuZmx2&expire=1773685155&salt=e612f5c2a39adbc0&sig=dc28abde6fa6cb232649828beeb17b8b503dbfa0a3c4521c744748f50e0825f4
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNjg4NDg1OTQuZmx2&expire=1773688308&salt=b49a1624d7c7716d&sig=b7b3395cbdcfd944d3d73c9365647ebcb367c09ec7977095c1bfe7efd06f7459
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:00 WIB] ⏳ 33:40:44  Cruz Azul 🆚  Monterrey 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/02456966.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d69f7b4e5781756f141810f0716bcbe6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:06 WIB] ⏳ 33:46:44  Club Tijuana Nữ 🆚  U.N.A.M.- Pumas Nữ 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNjg4NDg1OTQuZmx2&expire=1773685155&salt=f8351f3a099e9de0&sig=0989c9b2151ca6cc1ef58d9d7abda95e862b414b85341ca13d98447cab758498
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d69f7b4e5781756f141810f0716bcbe6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:06 WIB] ⏳ 33:46:44  Club Tijuana Nữ 🆚  U.N.A.M.- Pumas Nữ 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/65d05eaf7edc601ae236107417b01cbf.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 04:30 WIB] ⏳ 03:18:12  San Lorenzo 🆚  Defensa y Justicia 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/68848594.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 39:40:44  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a01279fdf6589b3c11529ca1ab4201fc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:15 WIB] ⏳ 07:03:11  Instituto 🆚  Independiente 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTg4MTIzMDQuZmx2&expire=1773685155&salt=989d529a511f7bcb&sig=afe17d649477cc6f9c3de1233301ee32f9a30870ee36cf2b814a0825f2fb6e96
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU3NDgwOTcuZmx2&expire=1773688308&salt=492e7bece8bc467c&sig=fe8183595296773d796abbcd34cb15786d647045f6e976a58898ae722f6297ef
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 39:40:44  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a01279fdf6589b3c11529ca1ab4201fc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:15 WIB] ⏳ 07:03:11  Instituto 🆚  Independiente 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/75748097.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:12  Rayo Vallecano 🆚  Levante 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773688308&salt=228b16f818dd3231&sig=ce26d402b7a403fdfdf430536074200cfb236578952d2c3dda749b2461b89ada
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:12  Rayo Vallecano 🆚  Levante 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/07428422.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 07:00 WIB] ⏳ 05:48:12  Chicago Bulls 🆚  Memphis Grizzlies 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDI0NTY5NjYuZmx2&expire=1773688308&salt=234bbc4c26993e22&sig=23d4869433d9bfaf15db2d6694ac99669548169c0947b9d8d32fe9f1750e94f6
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 07:00 WIB] ⏳ 05:48:12  Chicago Bulls 🆚  Memphis Grizzlies 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/02456966.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:12  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773688308&salt=1acbb041132e28bd&sig=fccc6a12aefe581277940e28551391a4e188d95b67b94a89eb162b27693c1644
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:12  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/24561735.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:12  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzk2NjUzNDMuZmx2&expire=1773688308&salt=2e75a759584f64db&sig=91699f9fa291ad8dbd8ad201d77f037845f514d547b9015c980dd5dab76744c1
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:12  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/79665343.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:12  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS5]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773688308&salt=64b06ab14cf241a7&sig=c2423c79a8f18b71de4d257bca605318f685d92c724646195aabf0bd5272c68f
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:12  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS6]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/97312754.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/988d4c293006d45d1f453c9ee2884022.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 07:48:11  Club America Nữ 🆚  Toluca Nữ 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMzM5ODIzMDkuZmx2&expire=1773688308&salt=e9f8e98f3717f741&sig=dcd5cf8e1b7d8b49115f2905129812f34442ab87794e2932a8d19b7cabd97116
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/988d4c293006d45d1f453c9ee2884022.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 07:48:11  Club America Nữ 🆚  Toluca Nữ 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/33982309.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 07:48:11  Los Angeles Clippers 🆚  San Antonio Spurs 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODczNzkxMTQuZmx2&expire=1773688308&salt=3044cc21cee03bd4&sig=e27b36d50ca928fecb88aa18b6781d742b4822cc630bb645fbf3ad77b3ea7a65
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 07:48:11  Los Angeles Clippers 🆚  San Antonio Spurs 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/87379114.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:30 WIB] ⏳ 07:18:11  Houston Rockets 🆚  Los Angeles Lakers 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773688308&salt=0cb9df6266294977&sig=1a4316ac911464236203e51c516411bb9108f106425b8547bf92344753ed5645
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:30 WIB] ⏳ 07:18:11  Houston Rockets 🆚  Los Angeles Lakers 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/82054853.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8e279a6f57d4768f5f1fa3bb28fd3a8a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 10:00 WIB] ⏳ 08:48:11  Club Leon Nữ 🆚  Mazatlan FC Nữ 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc4MDg3NDIuZmx2&expire=1773688308&salt=400d249dbd15872d&sig=89290c89696f694709981b8fe6ce165ad90a8505daaf0a10d245de466be9d7c4
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8e279a6f57d4768f5f1fa3bb28fd3a8a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 10:00 WIB] ⏳ 08:48:11  Club Leon Nữ 🆚  Mazatlan FC Nữ 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/07808742.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 13:48:11  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ4MzA3MTEuZmx2&expire=1773688308&salt=61ccaf507dd5fd12&sig=7e45a8523ca9e39ec14be01b77dce4ae51ec71ef8be1806dafd7350eceff7255
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 13:48:11  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/14830711.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 13:48:11  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773688308&salt=98f5236005c1943f&sig=60802de46d7607689efa51d7ed8a84ab9ce4d623a746fcccb3a3e0288b21a8c5
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 13:48:11  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/97312754.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d20eb37b84651856f8524464b9d9273e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:00 WIB] ⏳ 14:48:11  Yarmanya United FC 🆚  Thitsar Arman FC 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773688308&salt=d3b3884c38e303a6&sig=57c74e2f357c0ead65ef0b9370295cb474606201e9f9e1142dc53b965962d01f
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d20eb37b84651856f8524464b9d9273e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:00 WIB] ⏳ 14:48:11  Yarmanya United FC 🆚  Thitsar Arman FC 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/90865415.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 15:48:11  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDM2MTIyNzcuZmx2&expire=1773688308&salt=bfdb62223e4b2325&sig=4076cd29bb1f2603ad28bd001e9d2c80d2dd027501075f11615e7d91ced939d7
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 15:48:11  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/43612277.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 15:48:11  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU5MTUwODcuZmx2&expire=1773688308&salt=10936a8f49b4fc32&sig=d12b1f289b1fba66845ef433b0e339edb682264e343dd20820344f2953b6a281
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 15:48:11  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/75915087.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:30 WIB] ⏳ 15:18:11  Sagaing 🆚  Ayeyawady 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODg1MDg0MzEuZmx2&expire=1773688308&salt=c3c8da8466af9305&sig=7d3c56e07b0d2e1ac6e4584e260257a3677c8624877c2c169eaa2a266de81b16
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:30 WIB] ⏳ 15:18:11  Sagaing 🆚  Ayeyawady 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/88508431.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/5689743705f1852f10597c559323f04a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 17:23:11  Guangdong Southern Tigers 🆚  Xinjiang Yilite 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773688308&salt=fabb2f0bb3398d67&sig=5542f974186b958607afdec678b243f4d8f58ca6dca5750c7bdf9cb00ae9c108
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/5689743705f1852f10597c559323f04a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 17:23:11  Guangdong Southern Tigers 🆚  Xinjiang Yilite 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/82054853.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f7ad4ca154d205eb1799c5a1d1ff3370.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 17:23:11  Shanxi Fenjiu 🆚  Beijing Konggu 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ3MDcxMjQuZmx2&expire=1773688308&salt=0fed3c2437ca3939&sig=20a8239e422fa37e0679279943ac8bbcb74e65a3bcda334590a03ab59cdc5ef3
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f7ad4ca154d205eb1799c5a1d1ff3370.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 17:23:11  Shanxi Fenjiu 🆚  Beijing Konggu 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/14707124.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6bce2ab72e4ab293f4f3199af4286b4d.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 21:00 WIB] ⏳ 19:48:11  Al Ansar 🆚  Al Ahed 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU5MTUwODcuZmx2&expire=1773688308&salt=8f031496cd83e4d9&sig=3ac6ede45fac9dc19594dd19ae49d263f35801065adf7f4487c9bb8d32d3158f
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6bce2ab72e4ab293f4f3199af4286b4d.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 21:00 WIB] ⏳ 19:48:11  Al Ansar 🆚  Al Ahed 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/75915087.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b6a144b441bfd3ff6d4179d4b04b9693.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 20:48:11  Braga U23 🆚  Leixoes U23 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNjg4NDg1OTQuZmx2&expire=1773688309&salt=7ad909b050338c7a&sig=b3ed1446af295e2dae3912edc1997262bba55d94a87a10eeb1278aa2119c9b78
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b6a144b441bfd3ff6d4179d4b04b9693.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 20:48:11  Braga U23 🆚  Leixoes U23 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/68848594.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 16:18:11  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773688309&salt=38f5aab5925d03ab&sig=3cadfbe12cb2f66a92fa8bf2fb7c926176e32f6a411921b07a00a1a7de12aed2
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 16:18:11  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/24561735.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 16:18:11  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzg5MDU3NDQuZmx2&expire=1773688309&salt=f2b05331b583248c&sig=91a5c350c0e5c1d109ea9881ab2e181c5092f532142a039ce453d1b5412c91c0
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 16:18:11  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/78905744.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b39d3c74dea7f5c47361e7733c1932b2.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:00 WIB] ⏳ 16:48:11  Torreense U23 🆚  Santa Clara U23 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODc1NDc1NzguZmx2&expire=1773688309&salt=558efd630519b006&sig=f0a99081cbfddaa9ef9ae6363046d5e55d7e41a9232874dd56dde5360cecc9a7
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b39d3c74dea7f5c47361e7733c1932b2.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:00 WIB] ⏳ 16:48:11  Torreense U23 🆚  Santa Clara U23 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/87547578.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee170662c1911f3d2f7746f6539f2604.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 23:30 WIB] ⏳ 22:18:11  Krasnodar 🆚  CSKA Moscow 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ4MzA3MTEuZmx2&expire=1773688309&salt=6f5a9f736723007c&sig=344c265d5e061eb01146a2fc41d6b1aa2353e8ad38ad025159fa31ebae1c3fe5
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee170662c1911f3d2f7746f6539f2604.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 23:30 WIB] ⏳ 22:18:11  Krasnodar 🆚  CSKA Moscow 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/14830711.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dff00f1fd4a7dd2feac000b462416867.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:00 WIB] ⏳ 22:48:11  Fenerbahce 🆚  Gaziantep Buyuksehir Belediyesi 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODc1NDc1NzguZmx2&expire=1773688309&salt=0c90a8e0f8f9644e&sig=97788ebaebbf40b656c5b936fa1b8cc2e9b6259e26d4ba16657642b326bc98f6
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dff00f1fd4a7dd2feac000b462416867.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:00 WIB] ⏳ 22:48:11  Fenerbahce 🆚  Gaziantep Buyuksehir Belediyesi 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/87547578.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/093b019417397a95732e569df7f2a8f0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 19:00 WIB] ⏳ 17:48:11  Kaspij Aktau 🆚  Okzhetpes 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773688309&salt=eee267eedb079998&sig=d77614f78bf6869366a3decec01d0baf2f1675e068670dcbe7a5bee3baed3af2
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/093b019417397a95732e569df7f2a8f0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 19:00 WIB] ⏳ 17:48:11  Kaspij Aktau 🆚  Okzhetpes 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/90865415.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dd126282a3ed968b622055c808ad82c4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 20:00 WIB] ⏳ 18:48:11  Atletico de Madrid U19 🆚  Club Brugge U19 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773688309&salt=8efdcb6fcf6040de&sig=ce8ff74fe886b2ad38c654892f749e8bdad762c0fc56d83350743dc96509db05
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dd126282a3ed968b622055c808ad82c4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 20:00 WIB] ⏳ 18:48:11  Atletico de Madrid U19 🆚  Club Brugge U19 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/41943555.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:11  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773688309&salt=40ecbca016f26d3a&sig=ddb51a383cb66beef151e62055f20232eeb49d1502e3a62ec79f0d7e5abeab5c
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:11  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/07428422.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:11  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMzM5ODIzMDkuZmx2&expire=1773688309&salt=050d66ffc8a8c792&sig=bd7b0a532e4c04671d0a98cbb6ca11d2b513de634c92e54f58debb896808100a
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:11  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/33982309.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:11  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS5]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDM2MTIyNzcuZmx2&expire=1773688309&salt=2f3d0c6c54e59e40&sig=55028bfa7148e08000010f8b8b9463e9e44a410d2faf4bd750fcd6cff69a1120
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:11  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS6]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/43612277.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/aecc25c138f425cbadd3ddf98f0b6751.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 20:48:11  Villarreal U19 🆚  Paris Saint Germain U19 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773688309&salt=b5d2b41a4a5c7017&sig=0e3b49f37c9fe75962c14076629192fb1846c12ba4ce150e8a03a7ff9e72567f
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/aecc25c138f425cbadd3ddf98f0b6751.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 20:48:11  Villarreal U19 🆚  Paris Saint Germain U19 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/07428422.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:10  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ4MzA3MTEuZmx2&expire=1773688309&salt=ca25193ddd709b7e&sig=215b6591ab8839940d3d70d2e78b601021d3fa4b1934f42f124289179ec388e2
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:10  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/14830711.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:10  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773688309&salt=686fcf5beb685b43&sig=4cd6c3b11b7d397f76f0bce411c175ad9a62bda4bf50bc1f15e680f9f5c787fb
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:10  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/24561735.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:10  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS5]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773688309&salt=aa31278ab8aa66e5&sig=3d0935e42220d1b11513e2d092d5e33e3d309a392dacd88fe0d9f37f94fd8a98
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:10  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS6]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/97312754.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:10  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc4MDg3NDIuZmx2&expire=1773688309&salt=71362f2909d6e053&sig=fe410eaf5c515e47204c0c2bc79240df7971e105bb70e4705f818fce779e02e1
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:10  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/07808742.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:10  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773688309&salt=fd27f84c4fc1882b&sig=397978931ee6680b0a5d59fd6b3c6fede39bf6f3277683e759269f8a3bf6e636
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:10  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/41943555.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:10  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS5]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzg5MDU3NDQuZmx2&expire=1773688309&salt=c4d464b2434fdef0&sig=c7ac6fb901e2d16e2a99fc30fb5ff2aa6c7754a63e0617c787616ac97b6094f3
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:10  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS6]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/78905744.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 06:00 WIB] ⏳ 28:48:10  Orlando Magic 🆚  Oklahoma City Thunder 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773688309&salt=8dada3059ab2eab5&sig=9169b9edac5f663f067ca82ab89a217433f0db54eb7cbbfd5d5579b8973d9329
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 06:00 WIB] ⏳ 28:48:10  Orlando Magic 🆚  Oklahoma City Thunder 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/82054853.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/caff6f729db9dc68b1938f6533b0fa14.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 05:00 WIB] ⏳ 27:48:10  Lanus 🆚  Newells Old Boys 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzE0MjYzMTQuZmx2&expire=1773688309&salt=c2bfda4fe4ebe54d&sig=cd518ed21011c2e75df020269b6f14e901043b4e9453e3aa6af5f8c3c0fac542
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/caff6f729db9dc68b1938f6533b0fa14.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 05:00 WIB] ⏳ 27:48:10  Lanus 🆚  Newells Old Boys 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/71426314.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/532600afe76be2528effd5790fb51a33.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:03:10  Gimnasia Mendoza 🆚  Estudiantes La Plata 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU3NDgwOTcuZmx2&expire=1773688309&salt=1e9b5fe24bbb86ea&sig=e0b72d49df7608ab32fd0659ff132d807ee0a089a8d22f5496855067b4833f99
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/532600afe76be2528effd5790fb51a33.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:03:10  Gimnasia Mendoza 🆚  Estudiantes La Plata 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/75748097.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:03:10  Central Cordoba SDE 🆚  Dep. Riestra 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ3MDcxMjQuZmx2&expire=1773688309&salt=8d1ebb92a64ee96d&sig=aa62373fe198291a2ac9254cdd07352bc549ee7cc773439d5e98290a8a7fb6fb
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:03:10  Central Cordoba SDE 🆚  Dep. Riestra 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/14707124.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 23:33:11  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDg1NTI4OTUuZmx2&expire=1773688309&salt=f663ca0734dc3bcc&sig=a0f73341414bdfe0c3986d4c68dc27d067900d940c83cce2dddc8b831e93e69a
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 23:33:11  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/08552895.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 23:33:11  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzk2NjUzNDMuZmx2&expire=1773688309&salt=2c4261d12ea05373&sig=81866c82cb80ca614c5183298fcf63dbbae5136d3f7382c2ef9c936604330f4a
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 23:33:11  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/79665343.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 09:00 WIB] ⏳ 31:48:10  Denver Nuggets 🆚  Philadelphia 76ers 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODczNzkxMTQuZmx2&expire=1773688309&salt=e432329fabd15d05&sig=a32f16804aba1c5230c9859ff32fe2b7cbff13e9950f965568e2b89f5aa25979
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 09:00 WIB] ⏳ 31:48:10  Denver Nuggets 🆚  Philadelphia 76ers 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/87379114.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:00 WIB] ⏳ 32:48:10  Cruz Azul 🆚  Monterrey 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDI0NTY5NjYuZmx2&expire=1773688309&salt=ace9c7ace57640ff&sig=23644bd8fcc006239bf104f331700ad3e8b888cf20fb06ba28878183f9422213
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:00 WIB] ⏳ 32:48:10  Cruz Azul 🆚  Monterrey 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/02456966.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6d2cab607ba1b908c2c71225581b06ee.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 12:30 WIB] ⏳ 35:18:10  Melbourne City Nữ 🆚  Adelaide Nữ 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTkxMjE1MjUuZmx2&expire=1773688309&salt=645dc5ebd9c5e695&sig=7d9f82dd636d6df779d030499a3ee651f40d59fd79f43a0a45898efe4bf1e0a7
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6d2cab607ba1b908c2c71225581b06ee.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 12:30 WIB] ⏳ 35:18:10  Melbourne City Nữ 🆚  Adelaide Nữ 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/99121525.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d69f7b4e5781756f141810f0716bcbe6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:06 WIB] ⏳ 32:54:10  Club Tijuana Nữ 🆚  U.N.A.M.- Pumas Nữ 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNjg4NDg1OTQuZmx2&expire=1773688309&salt=ee12a860d99bad26&sig=3a88ddf73a3f51219e2c6e97f79ce490c534f7391cd9c7062aa3b7963b677a83
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d69f7b4e5781756f141810f0716bcbe6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:06 WIB] ⏳ 32:54:10  Club Tijuana Nữ 🆚  U.N.A.M.- Pumas Nữ 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/68848594.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 38:48:10  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTg4MTIzMDQuZmx2&expire=1773688309&salt=bbd458a8fb99ddd5&sig=479abdf03cf1dc26553903bced816024d2c94d1b75d36e07ea88c93d1d1f2fae
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 38:48:10  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/18812304.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 39:40:44  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS3]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 38:48:10  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODczNzkxMTQuZmx2&expire=1773685155&salt=20ef3b19efcaa898&sig=389ac33d2f900fe80d54c0fe4d5c4a00daee7d1038cd1945add9c0f6a3826749
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODczNzkxMTQuZmx2&expire=1773688309&salt=622f31fce58b74ed&sig=462dd50716eaa5b1a5ae91b68d4dfccc3461d570506421f64598208ac4725901
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 39:40:44  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS4]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 38:48:10  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/87379114.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6d2cab607ba1b908c2c71225581b06ee.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 12:30 WIB] ⏳ 36:10:44  Melbourne City Nữ 🆚  Adelaide Nữ 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 39:48:10  Chiba 🆚  Tokyo 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTkxMjE1MjUuZmx2&expire=1773685155&salt=86c5a77616998acb&sig=5ba836e8ebb394515558ce2f4da56005db1d2f8a126125c60b165d2287d34019
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzk2NjUzNDMuZmx2&expire=1773688309&salt=ac772234d5ac2163&sig=570bea364dc59796cc19b5881a9b3c309b8dab86b5a87ec3d7157c87da244adf
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6d2cab607ba1b908c2c71225581b06ee.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 12:30 WIB] ⏳ 36:10:44  Melbourne City Nữ 🆚  Adelaide Nữ 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 39:48:10  Chiba 🆚  Tokyo 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/99121525.m3u8
+https://live5.msrktz.app/live/79665343.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:30 WIB] ⏳ 40:10:44  Cerezo Osaka 🆚  Fagiano Okayama 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:30 WIB] ⏳ 39:18:10  Cerezo Osaka 🆚  Fagiano Okayama 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDM2MTIyNzcuZmx2&expire=1773685155&salt=39690cbf44c04b3e&sig=6eb5e31e2ffcafaf8229cf6e05737bf4c2508a09354b3f552d4eb47c8d8ee61d
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDM2MTIyNzcuZmx2&expire=1773688309&salt=92b326c82b448c7c&sig=6ad9b62abb897992d5e8b246147556f8c9bdf26e73d7009a8e7d8d0a805c4f2e
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:30 WIB] ⏳ 40:10:44  Cerezo Osaka 🆚  Fagiano Okayama 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:30 WIB] ⏳ 39:18:10  Cerezo Osaka 🆚  Fagiano Okayama 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/43612277.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:45  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 39:48:10  Nagoya Grampus 🆚  Sanfrecce Hiroshima 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ4MzA3MTEuZmx2&expire=1773685155&salt=76030c8940949fa3&sig=c2decf909eb848f22f285cd948fa9bc8d512160cdf8674ae28e425a7e8976f0d
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc4MDg3NDIuZmx2&expire=1773688309&salt=640bb3658286d124&sig=ddb708b56775ecf9970592c2b22f65421dd3b9412238c27a55375ebdcb3cc2df
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:45  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/14830711.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:45  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773685155&salt=7f3ebb65ec967e75&sig=98ca4a2e1c791d9268f1d5449ac3c1f7719c691bf7bace966ff0a10451dd17b0
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:45  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/24561735.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:45  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS5]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773685155&salt=3bfa2f5a4c369737&sig=d6a5c1d4cafa5d3552f02d49b3a1ef6391a99601e1b5eb9abc597543459e7ae9
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:45  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS6]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/97312754.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 40:40:44  Nagoya Grampus 🆚  Sanfrecce Hiroshima 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc4MDg3NDIuZmx2&expire=1773685155&salt=0221845712a821e7&sig=5bead82582b142bf03b7f233e36bece41ba3a337dceb80f0803906868de161a8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 40:40:44  Nagoya Grampus 🆚  Sanfrecce Hiroshima 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 39:48:10  Nagoya Grampus 🆚  Sanfrecce Hiroshima 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/07808742.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d85cce27ab583e5b3cead155f02b098a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 40:40:44  Vissel Kobe 🆚  Gamba Osaka 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 08:00 WIB] ⏳ 30:48:10  Alajuelense 🆚  Los Angeles FC 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU5MTUwODcuZmx2&expire=1773685155&salt=d8719e9479d90602&sig=c841c0249218dcac9e5c28f3a01d7f4912335542556f711020a85a01053d79c0
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA3MjU0NzAuZmx2&expire=1773688309&salt=251287f593c54005&sig=b7d8fabd33a889e87cc74e2a25c25181cb3553c7bb0e0dca1d9825d41a02b5f9
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d85cce27ab583e5b3cead155f02b098a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 40:40:44  Vissel Kobe 🆚  Gamba Osaka 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 08:00 WIB] ⏳ 30:48:10  Alajuelense 🆚  Los Angeles FC 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/90725470.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d85cce27ab583e5b3cead155f02b098a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 39:48:10  Vissel Kobe 🆚  Gamba Osaka 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU5MTUwODcuZmx2&expire=1773688309&salt=56e943b900ac10ec&sig=9c2a9a3b49c24aafce6d7c40c892332bc7ba13d6efeeacd3950d9859cab6d2c0
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d85cce27ab583e5b3cead155f02b098a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 39:48:10  Vissel Kobe 🆚  Gamba Osaka 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/75915087.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 41:10:44  Jeonbuk Hyundai Motors 🆚  FC Anyang 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 40:18:10  Jeonbuk Hyundai Motors 🆚  FC Anyang 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU3NDgwOTcuZmx2&expire=1773685155&salt=bfd8eebe943c4753&sig=1081b4350cfee5b7962068d3a9a866202d9d5aa4bf56813509b5bba80e3a66e2
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU3NDgwOTcuZmx2&expire=1773688309&salt=db80d35c3f103798&sig=f6dd3f4a71198d2ea9f75a22d05c6b1792bfecfeb1f1a484d6f52e8dfb02e972
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 41:10:44  Jeonbuk Hyundai Motors 🆚  FC Anyang 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 40:18:10  Jeonbuk Hyundai Motors 🆚  FC Anyang 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/75748097.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 41:10:44  Machida 🆚  Kashima Antlers 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 40:18:10  Machida 🆚  Kashima Antlers 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773685155&salt=b8f3c2442c9bb00e&sig=365f86e55163e66d48016f711d4f6c7a9f53f84b7f51aef2aa769fb0932c6b74
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773688309&salt=b5c8f3237553382f&sig=a162dc471a1708faec19d03400d169bd3e57c689f7f666f8b6276c4aff0b8f25
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 41:10:44  Machida 🆚  Kashima Antlers 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 40:18:10  Machida 🆚  Kashima Antlers 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/90865415.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 41:10:44  Bucheon FC 1995 🆚  Gangwon 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 40:18:10  Bucheon FC 1995 🆚  Gangwon 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDg1NTI4OTUuZmx2&expire=1773685155&salt=26d106f60335acf1&sig=6a333c7e81ffc321b726091ff07f9ddc30b103cde636b5c0753a6f77e21c9ab8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDg1NTI4OTUuZmx2&expire=1773688309&salt=0be5729a88d2018b&sig=79826e1cc609141d8cfb41e4cb52b71bb8e0753f72288ec1d96ef7d45acbd74f
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 41:10:44  Bucheon FC 1995 🆚  Gangwon 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 40:18:10  Bucheon FC 1995 🆚  Gangwon 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/08552895.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/12fe4d3ee5c01134d48584015c4646f3.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 41:40:44  Pathum United 🆚  Mahasarakham United FC 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/12fe4d3ee5c01134d48584015c4646f3.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 40:48:10  Pathum United 🆚  Mahasarakham United FC 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODg1MDg0MzEuZmx2&expire=1773685155&salt=76c44e8078d1ea7c&sig=40670ec40bfbeb3e7f9a6cdcfa71dc29a92b4509465ef773c515f943fd0e4391
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODg1MDg0MzEuZmx2&expire=1773688309&salt=ac76f81f519fb622&sig=8b72da4fba941289f7af70017b247fe640e89537fbc6e983c3a9879d3dd7b8fa
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/12fe4d3ee5c01134d48584015c4646f3.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 41:40:44  Pathum United 🆚  Mahasarakham United FC 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/12fe4d3ee5c01134d48584015c4646f3.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 40:48:10  Pathum United 🆚  Mahasarakham United FC 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/88508431.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/46a4867487152e47c4dc61984d0c58aa.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 41:40:44  SHB Đà Nẵng 🆚  Nam Định 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/1125281dafbf06dad029825221e83d5a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:35 WIB] ⏳ 41:23:10  Shanghai 🆚  Shandong Hi-Speed 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA3MjU0NzAuZmx2&expire=1773685155&salt=cccec3ee6011c978&sig=bf60ea46e7a34ce324f598d0ec20921904e8fc557a6b90552df6cf1b4f26b74d
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773688309&salt=85a30914f2859f87&sig=59d29fb72e53ef2ae5a501fd087035369f53a9311e9bf04e3f790fa6ee7f6216
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/46a4867487152e47c4dc61984d0c58aa.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 41:40:44  SHB Đà Nẵng 🆚  Nam Định 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/90725470.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/1125281dafbf06dad029825221e83d5a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:35 WIB] ⏳ 42:15:44  Shanghai 🆚  Shandong Hi-Speed 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773685155&salt=6ef37bb530ee14b8&sig=3da5840ab57dbd8b18bfa6670b0156b55d895cebaf54be5dd199f5b0dec53e30
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/1125281dafbf06dad029825221e83d5a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:35 WIB] ⏳ 42:15:44  Shanghai 🆚  Shandong Hi-Speed 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/1125281dafbf06dad029825221e83d5a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:35 WIB] ⏳ 41:23:10  Shanghai 🆚  Shandong Hi-Speed 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/82054853.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 40:40:44  Chiba 🆚  Tokyo 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/46a4867487152e47c4dc61984d0c58aa.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 40:48:10  SHB Đà Nẵng 🆚  Nam Định 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzk2NjUzNDMuZmx2&expire=1773685155&salt=57ac39317d9d2ba8&sig=732a4f203fff31a5a32b77018bc23926a0ed72dd1c302efad0cd81a7c7b5c132
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA3MjU0NzAuZmx2&expire=1773688309&salt=59e2bb65cfedc744&sig=0cd1e3130902a6ef89fc2579ae71e45da93ee5600544fb26a01a66914ba3649b
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 40:40:44  Chiba 🆚  Tokyo 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/46a4867487152e47c4dc61984d0c58aa.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 40:48:10  SHB Đà Nẵng 🆚  Nam Định 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/79665343.m3u8
+https://live5.msrktz.app/live/90725470.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4fe4cf906ee7b1399a1b0468432c74cd.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 19:00 WIB] ⏳ 42:40:44  Pattani 🆚  Buriram 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5e754f0f66a62ae8806a63677b45caa4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 42:48:10  Real Madrid U19 🆚  Sporting CP U19 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773685155&salt=ec89ddbb61e84a68&sig=0f7b610265feeb9b1f1e8564949aaec61806b87fb2af9c0edae956ae123df163
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773688309&salt=fe0530eee74c1542&sig=a1ee1d531df3540c00a8b00f8232aa41e2340c0f8f312d442aec822cb9e1ec24
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4fe4cf906ee7b1399a1b0468432c74cd.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 19:00 WIB] ⏳ 42:40:44  Pattani 🆚  Buriram 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/41943555.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5e754f0f66a62ae8806a63677b45caa4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 43:40:44  Real Madrid U19 🆚  Sporting CP U19 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773685155&salt=2a602f19c4bc9611&sig=0c8fb0ef6e356231e18d5583e485b1447dc39c5ee7d7821c83f38388ecbce0a4
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5e754f0f66a62ae8806a63677b45caa4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 43:40:44  Real Madrid U19 🆚  Sporting CP U19 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5e754f0f66a62ae8806a63677b45caa4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 42:48:10  Real Madrid U19 🆚  Sporting CP U19 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/90865415.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0688ed133dadf5f09bb94c8414ec5565.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 43:40:44  Alanyaspor 🆚  Kocaelispor 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4fe4cf906ee7b1399a1b0468432c74cd.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 19:00 WIB] ⏳ 41:48:10  Pattani 🆚  Buriram 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773685155&salt=c6cbd406e317f143&sig=444056369bdaa57dabb42d508f8bfb06d38012b6c55a2868599c71e2662fa0ad
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773688309&salt=77e4bcbc2e2908a0&sig=ca370097e4fb96e450b2796b95303815325755968ab0c464cbff704190685a38
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0688ed133dadf5f09bb94c8414ec5565.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 43:40:44  Alanyaspor 🆚  Kocaelispor 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4fe4cf906ee7b1399a1b0468432c74cd.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 19:00 WIB] ⏳ 41:48:10  Pattani 🆚  Buriram 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/41943555.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0688ed133dadf5f09bb94c8414ec5565.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 42:48:10  Alanyaspor 🆚  Kocaelispor 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773688309&salt=9649a4a41adb562b&sig=dff6ad2ea236f235dcd62173c6eac0f82c9bce2e1569abcf4b5614efd240dbf2
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0688ed133dadf5f09bb94c8414ec5565.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 42:48:10  Alanyaspor 🆚  Kocaelispor 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/07428422.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 21:00 WIB] ⏳ 44:40:44  Johor Darul Takzim 🆚  PDRM FC 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 21:00 WIB] ⏳ 43:48:10  Johor Darul Takzim 🆚  PDRM FC 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDI0NTY5NjYuZmx2&expire=1773685155&salt=a45a764e71e93149&sig=124d1c2454722c18f42f239de19ae1ae705ba47e70224be2d7fac0afb40657f9
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDI0NTY5NjYuZmx2&expire=1773688310&salt=5096fdcb779fc504&sig=7f693dd1a6e54711d98f89040071151ad207a47ef89df55f9ef7f5330be28642
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 21:00 WIB] ⏳ 44:40:44  Johor Darul Takzim 🆚  PDRM FC 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 21:00 WIB] ⏳ 43:48:10  Johor Darul Takzim 🆚  PDRM FC 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/02456966.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 46:10:44  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 45:18:10  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773685155&salt=7226badf48005d5e&sig=9f4a33c915a9f2109f1790be121b524a97ddccb4d65d9e2fff1fdc704b757a01
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773688310&salt=3474fcb494d375e7&sig=69c64d42ad4253e82e2541d86ad9dab12640f17edb7c3c8a0b920a75ec6816c6
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 46:10:44  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 45:18:10  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/24561735.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 46:10:44  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS3]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 45:18:10  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773685155&salt=fe2422c113468908&sig=69df7ee5db4b8fe4cbcb8407cb85cbfd9e96730f2c802e0e49498539794be41b
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773688310&salt=63cf7d14d23f4235&sig=fba8e61c3a4d924966e6d58b2eb0df01d8f2ccf641a0d21efa1c37062cad4a03
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 46:10:44  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS4]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 45:18:10  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/97312754.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/39a3e7650b6d913f15de2d68ef7ef4d4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 01:00 WIB] ⏳ 00:40:44  Silkeborg 🆚  Vejle 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0b0e25267dabd15c405070329df5fbdb.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 02:45 WIB] ⏳ 01:33:10  U.S. Cremonese 🆚  ACF Fiorentina 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODc1NDc1NzguZmx2&expire=1773685155&salt=dba71d231faefdc7&sig=3adb641fe23b0d0d2465bdf2293a2f80c9091fea7788168b312dab68705cde15
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773688310&salt=46217fc30b81a1d2&sig=804cf0ad7bd5efc50470f60b9e47d5615eea80fef8f9d588d665256459f51c85
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/39a3e7650b6d913f15de2d68ef7ef4d4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 01:00 WIB] ⏳ 00:40:44  Silkeborg 🆚  Vejle 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/87547578.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0b0e25267dabd15c405070329df5fbdb.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 02:45 WIB] ⏳ 02:25:44  U.S. Cremonese 🆚  ACF Fiorentina 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773685155&salt=0fcd843fe1a37418&sig=a3eef76b406ba610a5b3cdfe1dd81a38e2c6e67cde3e8ed3eaa137c3c1c187c1
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0b0e25267dabd15c405070329df5fbdb.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 02:45 WIB] ⏳ 02:25:44  U.S. Cremonese 🆚  ACF Fiorentina 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0b0e25267dabd15c405070329df5fbdb.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 02:45 WIB] ⏳ 01:33:10  U.S. Cremonese 🆚  ACF Fiorentina 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/41943555.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7b7d2b65c1ee63aee9e79ebafb2f0bc7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 01:00 WIB] ⏳ 00:40:44  Pogon Szczecin 🆚  Korona Kielce 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:10  Rayo Vallecano 🆚  Levante 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTkxMjE1MjUuZmx2&expire=1773685155&salt=334a5a9fe25999e4&sig=2e72419c786518679c93cc648fa237db4e74161f68fec96e3f5c9a61a0e81c7e
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773688310&salt=3888937461d6673b&sig=87be763f0333e7c9a6a9fd75b492a54e37e094bbb325cc437dea8cd310c575c3
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7b7d2b65c1ee63aee9e79ebafb2f0bc7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 01:00 WIB] ⏳ 00:40:44  Pogon Szczecin 🆚  Korona Kielce 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/99121525.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:44  Rayo Vallecano 🆚  Levante 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773685156&salt=ac64a1a3f7ee2db3&sig=09d448aae8b83813bfb810ffcbe23c698cbc8ecdaffaaa1f103102d9bba6c714
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:44  Rayo Vallecano 🆚  Levante 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:10  Rayo Vallecano 🆚  Levante 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/07428422.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2f360e96a024fd54255d0ed941e9075e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:44  Portsmouth 🆚  Derby County 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:10  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDg1NTI4OTUuZmx2&expire=1773685156&salt=3322aca2a3a16fc9&sig=242a9d4b9a2cda2e56849731a15955bea57c6dc7a3123eb673149eae19ada353
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773688310&salt=b6ad7566571a0ebe&sig=d398811587a9be24974c2ac6beeadb404ae909385837c8b0d141146d3d7f5566
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2f360e96a024fd54255d0ed941e9075e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:44  Portsmouth 🆚  Derby County 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/08552895.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:44  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773685156&salt=6a4996e16326aaa2&sig=50786c1178026dce29f72e8f201162e40641144d08c7dfd3e462616e684620a6
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:44  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:10  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/24561735.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:44  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS3]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:10  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzk2NjUzNDMuZmx2&expire=1773685156&salt=c8701d8cf3bb1223&sig=dd2b6b431b9a4c2d30cfc871911a5e666fbf277a518698edd3957f1580c23aa7
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzk2NjUzNDMuZmx2&expire=1773688310&salt=ec7bfca95b773935&sig=76508e5b5a2d56932b5f26849be6ed09ed275dceb933ed72da1123c3bbf81b13
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:44  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS4]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:10  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/79665343.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:44  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS5]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:10  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS5]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773685156&salt=4f00ad42f3abc8d6&sig=64a800916fad13253a4dc0cff459eb1930eff8e4fc29e56f53db2c5be0d9a1a9
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773688310&salt=9773fe9d16fe057e&sig=1e03733ec252dc8e99dd8b3956e1bd9dea18d73b0db4061bdbe8134f5fe1d085
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:44  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS6]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:10  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS6]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/97312754.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 05:40:44  Racing Club 🆚  Estudiantes Rio Cuarto 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2f360e96a024fd54255d0ed941e9075e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:10  Portsmouth 🆚  Derby County 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzE0MjYzMTQuZmx2&expire=1773685156&salt=d6b2556dd5ab665e&sig=e9d6bc5a8087a1236ad93c4da767a0215df7b1ed7eabb4c1282e0ac6aab7d986
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDg1NTI4OTUuZmx2&expire=1773688310&salt=61ba24d193f3ce02&sig=d8f65fadb6b03202273075e77788b3dcbc6c7d2ec69539d43414914733050dd0
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 05:40:44  Racing Club 🆚  Estudiantes Rio Cuarto 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2f360e96a024fd54255d0ed941e9075e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:10  Portsmouth 🆚  Derby County 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/08552895.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 04:48:10  Racing Club 🆚  Estudiantes Rio Cuarto 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzE0MjYzMTQuZmx2&expire=1773688310&salt=02577d4244046b91&sig=b649350332d8df4c9139e5d85d11cc0861967a11452409892a5358d647950aaf
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 04:48:10  Racing Club 🆚  Estudiantes Rio Cuarto 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/71426314.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 05:40:44  Chapecoense SC 🆚  Gremio 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/65d05eaf7edc601ae236107417b01cbf.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 04:30 WIB] ⏳ 03:18:10  San Lorenzo 🆚  Defensa y Justicia 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA3MjU0NzAuZmx2&expire=1773685156&salt=df42fd8409d3f1ef&sig=03c430a1e9dfec53a86d5f3fa8b9c8c36285b41517bc6135579ff18537c83eb3
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNjg4NDg1OTQuZmx2&expire=1773688310&salt=734e3afe59809ac2&sig=f1c9a04b28c6c2402696fa319bd32e9e866d3789bc20392f67b313f6101c2578
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 05:40:44  Chapecoense SC 🆚  Gremio 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/90725470.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a01279fdf6589b3c11529ca1ab4201fc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:15 WIB] ⏳ 07:55:44  Instituto 🆚  Independiente 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU3NDgwOTcuZmx2&expire=1773685156&salt=f934f594af65de11&sig=1c063124afb0421a3e54512185526dfd313029418838e0d8b72b077f43838b97
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a01279fdf6589b3c11529ca1ab4201fc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:15 WIB] ⏳ 07:55:44  Instituto 🆚  Independiente 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/75748097.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:30 WIB] ⏳ 08:10:44  Houston Rockets 🆚  Los Angeles Lakers 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773685156&salt=ba8d6189ae81735e&sig=93debb4c708f3963031e94d8631be56148c0c71d3f129cb0751b218ac6406c1f
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:30 WIB] ⏳ 08:10:44  Houston Rockets 🆚  Los Angeles Lakers 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/82054853.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/988d4c293006d45d1f453c9ee2884022.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 08:40:43  Club America Nữ 🆚  Toluca Nữ 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMzM5ODIzMDkuZmx2&expire=1773685156&salt=b5a48e7437567414&sig=866045807635008032a1f0342875eee874aafa6dde9f6122a171c5ad5f813799
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/988d4c293006d45d1f453c9ee2884022.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 08:40:43  Club America Nữ 🆚  Toluca Nữ 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/33982309.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 08:40:43  Los Angeles Clippers 🆚  San Antonio Spurs 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODczNzkxMTQuZmx2&expire=1773685156&salt=0d716153635ab3a1&sig=1a84ca9b59306bdd7f48caf808e46196e369747c2911244a3d8a736b7354a111
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 08:40:43  Los Angeles Clippers 🆚  San Antonio Spurs 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/87379114.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/65d05eaf7edc601ae236107417b01cbf.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 04:30 WIB] ⏳ 04:10:44  San Lorenzo 🆚  Defensa y Justicia 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNjg4NDg1OTQuZmx2&expire=1773685156&salt=26dff6e8626fa865&sig=9ba543d45e3f9ccc67d883cf6eac93c2d0c976c58b48845f148e53beb70779b3
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/65d05eaf7edc601ae236107417b01cbf.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 04:30 WIB] ⏳ 04:10:44  San Lorenzo 🆚  Defensa y Justicia 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/65d05eaf7edc601ae236107417b01cbf.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 04:30 WIB] ⏳ 03:18:10  San Lorenzo 🆚  Defensa y Justicia 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/68848594.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 14:40:43  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 04:48:09  Chapecoense SC 🆚  Gremio 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ4MzA3MTEuZmx2&expire=1773685156&salt=4d4dc8f1f04e7fd6&sig=90c94639aa9cb877eb9e454f45f5e6be4821795a634192bf5affc405034f4076
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA3MjU0NzAuZmx2&expire=1773688310&salt=cf411ebb72711d55&sig=90554ea20f6063738b45518d3a3cd75de17e582e3735f01ccbff09272e28b30e
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 14:40:43  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 04:48:09  Chapecoense SC 🆚  Gremio 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/14830711.m3u8
+https://live5.msrktz.app/live/90725470.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 14:40:43  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS3]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a01279fdf6589b3c11529ca1ab4201fc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:15 WIB] ⏳ 07:03:09  Instituto 🆚  Independiente 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773685156&salt=d4890d4bb723113f&sig=aa10eda7ab860f70fb08ab42b09453687135189229f7e9251c5c3134a22b1ab0
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU3NDgwOTcuZmx2&expire=1773688310&salt=fe715b8d8eee28ad&sig=bec3a71d36d57bfcf935a76b4a816b5341462051675d6cf8e6ea24a259a2d879
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 14:40:43  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS4]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a01279fdf6589b3c11529ca1ab4201fc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:15 WIB] ⏳ 07:03:09  Instituto 🆚  Independiente 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/97312754.m3u8
+https://live5.msrktz.app/live/75748097.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d20eb37b84651856f8524464b9d9273e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:00 WIB] ⏳ 15:40:43  Yarmanya United FC 🆚  Thitsar Arman FC 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:30 WIB] ⏳ 07:18:09  Houston Rockets 🆚  Los Angeles Lakers 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773685156&salt=8d7d26cf0cb22035&sig=3497d66cdd3deeafb9f1bdf6f9051daccabffc7700647953b82bc69450c334bb
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773688310&salt=766ceac2206221a9&sig=89d3d02cd64e5bd9e9e5bc4ecafdd33bf1252d4479228c8ac0b4b25de1c20995
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d20eb37b84651856f8524464b9d9273e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:00 WIB] ⏳ 15:40:43  Yarmanya United FC 🆚  Thitsar Arman FC 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:30 WIB] ⏳ 07:18:09  Houston Rockets 🆚  Los Angeles Lakers 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/82054853.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8e279a6f57d4768f5f1fa3bb28fd3a8a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 10:00 WIB] ⏳ 08:48:09  Club Leon Nữ 🆚  Mazatlan FC Nữ 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc4MDg3NDIuZmx2&expire=1773688310&salt=97332433dd088ea7&sig=be122336453f801008032ebc746559fe811807d4bdb68f2f92dae0c43997a254
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8e279a6f57d4768f5f1fa3bb28fd3a8a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 10:00 WIB] ⏳ 08:48:09  Club Leon Nữ 🆚  Mazatlan FC Nữ 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/07808742.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d20eb37b84651856f8524464b9d9273e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:00 WIB] ⏳ 14:48:09  Yarmanya United FC 🆚  Thitsar Arman FC 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773688310&salt=f47dd66cb2bc2e2f&sig=81077edd1498882c5f87bf81b92d4cffca4b368a1d74c6463a6d0a17116e3706
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d20eb37b84651856f8524464b9d9273e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:00 WIB] ⏳ 14:48:09  Yarmanya United FC 🆚  Thitsar Arman FC 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/90865415.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:30 WIB] ⏳ 16:10:43  Sagaing 🆚  Ayeyawady 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 07:48:09  Los Angeles Clippers 🆚  San Antonio Spurs 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODg1MDg0MzEuZmx2&expire=1773685156&salt=c9342ee04718648a&sig=1b296cc6fbb366c2dce2722c4995fa8f9463a6ffae0f9af703ed6be549e67e8b
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODczNzkxMTQuZmx2&expire=1773688310&salt=ccb52b39876016e8&sig=223cc2573aba3719d992e8d3ab629f540ba1a926d031784fa1a77e81f57d2180
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:30 WIB] ⏳ 16:10:43  Sagaing 🆚  Ayeyawady 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 07:48:09  Los Angeles Clippers 🆚  San Antonio Spurs 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/87379114.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:30 WIB] ⏳ 15:18:09  Sagaing 🆚  Ayeyawady 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODg1MDg0MzEuZmx2&expire=1773688310&salt=191f5d316c1b83c9&sig=63b7263197d3a4c389577a1e58ad772e9e467c36ab49c08bb43aad40a358726e
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:30 WIB] ⏳ 15:18:09  Sagaing 🆚  Ayeyawady 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/88508431.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 16:40:43  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 15:48:09  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDM2MTIyNzcuZmx2&expire=1773685156&salt=cf1cb750ad34c511&sig=789eb280da2bd550411f2ce8d3f295e1b89082dc2825b23edbf0cbf907967db0
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDM2MTIyNzcuZmx2&expire=1773688310&salt=5c3eadd1d20a541b&sig=f4d5ed1495dfa3c6e4dbd42c03a03dd3f958e2479955afadfcd02804b8c68375
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 16:40:43  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 15:48:09  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/43612277.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 16:40:43  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS3]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 15:48:09  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU5MTUwODcuZmx2&expire=1773685156&salt=f70e2b3d07e1526a&sig=998e342eda59af5b414512f2e98ec694b072d06635ac6ebc8cf94a71e3d8c606
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU5MTUwODcuZmx2&expire=1773688310&salt=03efb64d933c9683&sig=f9508ae7ceb83bdc6b40b4402a72ca3d8d1a2343986b7bac923f248bf2ef30df
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 16:40:43  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS4]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 15:48:09  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/75915087.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 07:00 WIB] ⏳ 06:40:44  Chicago Bulls 🆚  Memphis Grizzlies 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 16:18:09  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDI0NTY5NjYuZmx2&expire=1773685156&salt=80e179cf475bbe79&sig=3a5612ac52a7c219a2042f668ac0ff8c036c3743656a1da78c2408a846082068
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773688310&salt=78639426a7b82635&sig=7cd7c95385366ec9f3c767baacf5d48eb7ba0c8a4d7db6468382669ebb8a3786
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 07:00 WIB] ⏳ 06:40:44  Chicago Bulls 🆚  Memphis Grizzlies 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/02456966.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 17:10:43  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773685156&salt=f3719105208f981a&sig=8da2c074c1fdb784065775758ed30683dc3e75e318c2794c1da86cb65345d072
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 17:10:43  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 16:18:09  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/24561735.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 17:10:43  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS3]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 16:18:09  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzg5MDU3NDQuZmx2&expire=1773685156&salt=4bce47b77141dd90&sig=f1d4af082309cc959606c3e695701841eeeebbb3cf8eb451848cf7046c4dd52e
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzg5MDU3NDQuZmx2&expire=1773688310&salt=79586e92e643346c&sig=e75f2905f3c00dbd4d00bb1f0bd4c77c4162b97b9115be2af6fc59cb700109d7
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 17:10:43  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS4]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 16:18:09  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/78905744.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b39d3c74dea7f5c47361e7733c1932b2.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:00 WIB] ⏳ 17:40:43  Torreense U23 🆚  Santa Clara U23 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b39d3c74dea7f5c47361e7733c1932b2.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:00 WIB] ⏳ 16:48:09  Torreense U23 🆚  Santa Clara U23 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODc1NDc1NzguZmx2&expire=1773685156&salt=762fc3e21e56a0a0&sig=69e03b0af6f56c3c681869d0af16a1db54bc0c8e77cb7885007d4baa98f6c368
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODc1NDc1NzguZmx2&expire=1773688310&salt=ec8ea9fcfab3cb3f&sig=c35dbb2a404639001a0b03170dc7d37812d7ab44dde4c6396700b9b1e69f1c22
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b39d3c74dea7f5c47361e7733c1932b2.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:00 WIB] ⏳ 17:40:43  Torreense U23 🆚  Santa Clara U23 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b39d3c74dea7f5c47361e7733c1932b2.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:00 WIB] ⏳ 16:48:09  Torreense U23 🆚  Santa Clara U23 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/87547578.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/5689743705f1852f10597c559323f04a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 18:15:43  Guangdong Southern Tigers 🆚  Xinjiang Yilite 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 07:00 WIB] ⏳ 05:48:09  Chicago Bulls 🆚  Memphis Grizzlies 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773685156&salt=d2980406d0838d3f&sig=ec12e876a60519c97cbffdfa35397c38e58ef3b628ee6c3f5614d5c35e99140e
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDI0NTY5NjYuZmx2&expire=1773688310&salt=5ad5e9cb0e5b737c&sig=ca2d2ba34ebca92cdd7a9622149c260b7b2e2a70e1bb73af66d20c251d0fbf4e
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/5689743705f1852f10597c559323f04a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 18:15:43  Guangdong Southern Tigers 🆚  Xinjiang Yilite 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 07:00 WIB] ⏳ 05:48:09  Chicago Bulls 🆚  Memphis Grizzlies 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/02456966.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/5689743705f1852f10597c559323f04a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 17:23:09  Guangdong Southern Tigers 🆚  Xinjiang Yilite 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773688310&salt=6ea3afa439d28f6c&sig=714101fd062cbfe7d088d82fc57c7dab2d9550d74e80038e71cedd997f07a0c6
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/5689743705f1852f10597c559323f04a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 17:23:09  Guangdong Southern Tigers 🆚  Xinjiang Yilite 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/82054853.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8e279a6f57d4768f5f1fa3bb28fd3a8a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 10:00 WIB] ⏳ 09:40:43  Club Leon Nữ 🆚  Mazatlan FC Nữ 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/988d4c293006d45d1f453c9ee2884022.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 07:48:09  Club America Nữ 🆚  Toluca Nữ 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc4MDg3NDIuZmx2&expire=1773685156&salt=32931627b7891081&sig=cc85a8d62e21a45aa446cf5c4002f49a21c6a7247552d2c7d97e9309ab97f518
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMzM5ODIzMDkuZmx2&expire=1773688310&salt=3fbca199881f1dcb&sig=98a19fad62f0c7bb029169b5ef5a7d80d8c372c7cd66816d424d50842b8886e8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8e279a6f57d4768f5f1fa3bb28fd3a8a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 10:00 WIB] ⏳ 09:40:43  Club Leon Nữ 🆚  Mazatlan FC Nữ 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/07808742.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f7ad4ca154d205eb1799c5a1d1ff3370.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 18:15:43  Shanxi Fenjiu 🆚  Beijing Konggu 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ3MDcxMjQuZmx2&expire=1773685156&salt=217c381c5481a898&sig=87f0c5f721e1baf37904f1290565dcb2baf81c65c6cca3c4c5267861e23043bc
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f7ad4ca154d205eb1799c5a1d1ff3370.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 18:15:43  Shanxi Fenjiu 🆚  Beijing Konggu 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/14707124.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/093b019417397a95732e569df7f2a8f0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 19:00 WIB] ⏳ 18:40:43  Kaspij Aktau 🆚  Okzhetpes 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773685156&salt=e35b4b207b75c187&sig=b976523e91e9026d4b5dae0e57dd0159f8d528d7011488ea5104d519a69b2e25
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/093b019417397a95732e569df7f2a8f0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 19:00 WIB] ⏳ 18:40:43  Kaspij Aktau 🆚  Okzhetpes 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/90865415.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dd126282a3ed968b622055c808ad82c4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 20:00 WIB] ⏳ 19:40:43  Atletico de Madrid U19 🆚  Club Brugge U19 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773685156&salt=d4fc3d22fe1955b6&sig=5536ba3f9af8ca8b48da43483e6dbf07d230f2b38e4e5a98c00e51b425201039
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dd126282a3ed968b622055c808ad82c4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 20:00 WIB] ⏳ 19:40:43  Atletico de Madrid U19 🆚  Club Brugge U19 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/41943555.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6bce2ab72e4ab293f4f3199af4286b4d.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 21:00 WIB] ⏳ 20:40:43  Al Ansar 🆚  Al Ahed 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU5MTUwODcuZmx2&expire=1773685156&salt=259b383c40c5f788&sig=68ac3216bca414992d7606288595668b36f5039ca324add27335188ccb48904b
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6bce2ab72e4ab293f4f3199af4286b4d.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 21:00 WIB] ⏳ 20:40:43  Al Ansar 🆚  Al Ahed 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/75915087.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/aecc25c138f425cbadd3ddf98f0b6751.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 21:40:43  Villarreal U19 🆚  Paris Saint Germain U19 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773685156&salt=799fe1a5af2e75ea&sig=1d4a73fcc729d8dd9f3d11dbe87c743fee0b1995df23a44c1146fafb7ed1eebc
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/aecc25c138f425cbadd3ddf98f0b6751.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 21:40:43  Villarreal U19 🆚  Paris Saint Germain U19 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/07428422.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b6a144b441bfd3ff6d4179d4b04b9693.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 21:40:43  Braga U23 🆚  Leixoes U23 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNjg4NDg1OTQuZmx2&expire=1773685156&salt=5025cf54d46794ff&sig=ec75d8b98cc2ad2371d3685895951c5ea1f94566c5e38778553c5c6f12713632
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b6a144b441bfd3ff6d4179d4b04b9693.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 21:40:43  Braga U23 🆚  Leixoes U23 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/68848594.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee170662c1911f3d2f7746f6539f2604.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 23:30 WIB] ⏳ 23:10:43  Krasnodar 🆚  CSKA Moscow 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ4MzA3MTEuZmx2&expire=1773685156&salt=2357f680b18060c2&sig=eb0fc5922f3da6a4dac6cb83566405a74eea438050522c274a90a9c0a70ee705
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee170662c1911f3d2f7746f6539f2604.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 23:30 WIB] ⏳ 23:10:43  Krasnodar 🆚  CSKA Moscow 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/14830711.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dff00f1fd4a7dd2feac000b462416867.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:00 WIB] ⏳ 23:40:43  Fenerbahce 🆚  Gaziantep Buyuksehir Belediyesi 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODc1NDc1NzguZmx2&expire=1773685156&salt=141b22089a3b063f&sig=0f77c9082d069bbdb4b2075fb238ec3e35313b85ee91880ee520a7f321be2b6d
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dff00f1fd4a7dd2feac000b462416867.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:00 WIB] ⏳ 23:40:43  Fenerbahce 🆚  Gaziantep Buyuksehir Belediyesi 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/87547578.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 24:25:43  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDg1NTI4OTUuZmx2&expire=1773685156&salt=ec5df68f0cc1be2e&sig=3d9e40f28750be9ef77bdcde138c10b57d1c5302bf0b5b85abec9fca41a02d8e
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 24:25:43  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/08552895.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 24:25:43  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzk2NjUzNDMuZmx2&expire=1773685156&salt=a9c5e55340eb48c2&sig=36ff242833731376dffa3782cde83ad85a424435b8c49371c1ef615d1018b0e2
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 24:25:43  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/79665343.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:43  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773685156&salt=b9210a724a28fc3a&sig=e08740eb6654583c0f659d97c7eefade6ebc806f8b0d7adc538749f81e64d6f6
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:43  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/07428422.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:43  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMzM5ODIzMDkuZmx2&expire=1773685156&salt=3ad6e17a8030928b&sig=c72550003cf4798548246b5869529f5fbccede05e87f3a12594004e8e097b305
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:43  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS4]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/988d4c293006d45d1f453c9ee2884022.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 07:48:09  Club America Nữ 🆚  Toluca Nữ 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/33982309.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:43  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS5]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f7ad4ca154d205eb1799c5a1d1ff3370.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 17:23:09  Shanxi Fenjiu 🆚  Beijing Konggu 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDM2MTIyNzcuZmx2&expire=1773685156&salt=fb2179c081a4312c&sig=7503a522374f940386e6571534f13d46d38d9497af1c5ca852a15f9222c792e1
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ3MDcxMjQuZmx2&expire=1773688310&salt=56e9ef400bca8428&sig=011d9601c5aeaad66220b095f6456285b325ba5882f53952203ab4fa67a0614e
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:43  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS6]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/43612277.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:43  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ4MzA3MTEuZmx2&expire=1773685156&salt=6bc2f83c42c437a3&sig=ba859afad0783d7fd788bbe97ff530a63fff482e979955acb42a796689fa5625
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:43  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/14830711.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:43  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773685156&salt=578e1871ded0a1b8&sig=32373e550b2cdcda819140b95a855820283b1aa60cdb73e87cf5ef907fb9d16b
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:43  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/24561735.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:43  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS5]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773685156&salt=6396b37ad19843c3&sig=c3b4be5b6e4e72d81a77c5a397287fa5e554a0999ed1e1d9502a5b9f648e0504
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:43  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS6]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/97312754.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:43  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc4MDg3NDIuZmx2&expire=1773685156&salt=072c8f77c9b185c1&sig=7461e06b89fb0a1687b5b0531c88d03aa82acff7364c34c3f551237d8663af45
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:43  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/07808742.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:43  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773685156&salt=31b97ab27a67c5a8&sig=085a586e6cce2353c1aba65cd20b5c005858353e95a533c6d18c698d1502201e
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:43  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/41943555.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:43  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS5]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzg5MDU3NDQuZmx2&expire=1773685156&salt=9f6b1e745f613776&sig=d4ecf9b8b59fd2bf891d637c782574972ae715a669ea5140c4ba801cd7fd24ff
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:43  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS6]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/78905744.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/caff6f729db9dc68b1938f6533b0fa14.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 05:00 WIB] ⏳ 28:40:43  Lanus 🆚  Newells Old Boys 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzE0MjYzMTQuZmx2&expire=1773685156&salt=8efcffdb2c84b0ff&sig=2d87bcc1bdd1819606e1acce37a4b990da9fa45af4f16fc4a67d40468ab12965
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/caff6f729db9dc68b1938f6533b0fa14.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 05:00 WIB] ⏳ 28:40:43  Lanus 🆚  Newells Old Boys 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/71426314.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 06:00 WIB] ⏳ 29:40:43  Orlando Magic 🆚  Oklahoma City Thunder 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773685156&salt=5d20b01e00f59e2c&sig=46fdc4dc77289b883108709416cbfc26efa6a1b72685a6abd82475926d0a2d56
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 06:00 WIB] ⏳ 29:40:43  Orlando Magic 🆚  Oklahoma City Thunder 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/82054853.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/532600afe76be2528effd5790fb51a33.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:55:43  Gimnasia Mendoza 🆚  Estudiantes La Plata 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU3NDgwOTcuZmx2&expire=1773685156&salt=0d61422780c14bd7&sig=782eb101965a7c021185c9ec63310bc016a45672a49116dfa51ee24bc2ea7b39
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/532600afe76be2528effd5790fb51a33.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:55:43  Gimnasia Mendoza 🆚  Estudiantes La Plata 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/75748097.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:55:43  Central Cordoba SDE 🆚  Dep. Riestra 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ3MDcxMjQuZmx2&expire=1773685156&salt=26d0323072534b4f&sig=194b14e3f4b531062191be21d8fbfb807ddb801a60a04e8f9020dc906ebb77b5
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:55:43  Central Cordoba SDE 🆚  Dep. Riestra 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f7ad4ca154d205eb1799c5a1d1ff3370.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 17:23:09  Shanxi Fenjiu 🆚  Beijing Konggu 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/14707124.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 08:00 WIB] ⏳ 31:40:43  Alajuelense 🆚  Los Angeles FC 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 13:48:09  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA3MjU0NzAuZmx2&expire=1773685156&salt=d9108884dc3ea77c&sig=3d0afca7cc5c02c699cae25dc930cab543cf55fa9d80604bd78ff8b229423d12
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ4MzA3MTEuZmx2&expire=1773688310&salt=d3071d258639b357&sig=169333c0ad7158d9b2e4f0f8050b87011bd056bb113d3c1f40bb8d270955fabc
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 08:00 WIB] ⏳ 31:40:43  Alajuelense 🆚  Los Angeles FC 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 13:48:09  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/90725470.m3u8
+https://live5.msrktz.app/live/14830711.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 09:00 WIB] ⏳ 32:40:43  Denver Nuggets 🆚  Philadelphia 76ers 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 13:48:09  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODczNzkxMTQuZmx2&expire=1773685157&salt=ec9c6ca5f9669aa3&sig=7f25c4ae2a9fc33fce90944bc9b0c1d3f77fdaba13f8a4683ac1ccd93cf45553
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773688310&salt=59959d59fc73ce18&sig=c719b51e95a0128d15108b0718ff1914939e41f99b9e64a511ad3fcec2b4e7b2
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 09:00 WIB] ⏳ 32:40:43  Denver Nuggets 🆚  Philadelphia 76ers 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 13:48:09  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/87379114.m3u8
+https://live5.msrktz.app/live/97312754.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:00 WIB] ⏳ 33:40:43  Cruz Azul 🆚  Monterrey 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/093b019417397a95732e569df7f2a8f0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 19:00 WIB] ⏳ 17:48:09  Kaspij Aktau 🆚  Okzhetpes 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDI0NTY5NjYuZmx2&expire=1773685157&salt=180c00ee3484297f&sig=67591d9886877473fe95a416a6dc6b93d4eaf1d50d3009d461bbc8e944ee7eed
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773688310&salt=9fe02fb2ad71756c&sig=a4e716f7f90669dd2c0543c3ed88da912d8538e748e10d95bfe7b515a8eed5d2
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:00 WIB] ⏳ 33:40:43  Cruz Azul 🆚  Monterrey 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/093b019417397a95732e569df7f2a8f0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 19:00 WIB] ⏳ 17:48:09  Kaspij Aktau 🆚  Okzhetpes 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/02456966.m3u8
+https://live5.msrktz.app/live/90865415.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d69f7b4e5781756f141810f0716bcbe6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:06 WIB] ⏳ 33:46:43  Club Tijuana Nữ 🆚  U.N.A.M.- Pumas Nữ 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dd126282a3ed968b622055c808ad82c4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 20:00 WIB] ⏳ 18:48:09  Atletico de Madrid U19 🆚  Club Brugge U19 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNjg4NDg1OTQuZmx2&expire=1773685157&salt=521eab74231de408&sig=6b66899f1aa6474071f3b7f923c79ac91811fadb3d8a74aa708d4e9da50127f3
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773688310&salt=eb8969ea41837238&sig=4db3700daa312f2dcecd7f72cd013b7b47c8357793724d31a38602e8bf3254a4
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d69f7b4e5781756f141810f0716bcbe6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:06 WIB] ⏳ 33:46:43  Club Tijuana Nữ 🆚  U.N.A.M.- Pumas Nữ 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dd126282a3ed968b622055c808ad82c4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 20:00 WIB] ⏳ 18:48:09  Atletico de Madrid U19 🆚  Club Brugge U19 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/41943555.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6bce2ab72e4ab293f4f3199af4286b4d.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 21:00 WIB] ⏳ 19:48:09  Al Ansar 🆚  Al Ahed 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU5MTUwODcuZmx2&expire=1773688310&salt=9d5e5420de61908e&sig=2e62d1d14184bf3d113e2914e50c834e16b88da1fcc2022424c919a0cc29a550
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6bce2ab72e4ab293f4f3199af4286b4d.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 21:00 WIB] ⏳ 19:48:09  Al Ansar 🆚  Al Ahed 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/75915087.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/aecc25c138f425cbadd3ddf98f0b6751.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 20:48:09  Villarreal U19 🆚  Paris Saint Germain U19 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773688310&salt=7471b69de4538c56&sig=fc731ad918662e57361df103c094280fa057fd91a31762b15b8b34370d7dc9e8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/aecc25c138f425cbadd3ddf98f0b6751.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 20:48:09  Villarreal U19 🆚  Paris Saint Germain U19 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/07428422.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee170662c1911f3d2f7746f6539f2604.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 23:30 WIB] ⏳ 22:18:09  Krasnodar 🆚  CSKA Moscow 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ4MzA3MTEuZmx2&expire=1773688310&salt=5b92d270bb56039c&sig=c76c5ca10489dd2b3c9f1b532ab402a2ab78a266e86a78658c83448fb8ba01b4
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee170662c1911f3d2f7746f6539f2604.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 23:30 WIB] ⏳ 22:18:09  Krasnodar 🆚  CSKA Moscow 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/14830711.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:09  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773688310&salt=f29dc9461c72204f&sig=e230decd9ce42165f75c2346d5eeeca26dbb458e50c285396f7306160a041eab
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:09  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/07428422.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:09  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMzM5ODIzMDkuZmx2&expire=1773688310&salt=4f3d7c2fb04d6921&sig=6dd0dc232ece649f14128e17f598c2b39c4aad9a48de5c1d6505e7e66e326f66
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:09  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/33982309.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:09  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS5]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDM2MTIyNzcuZmx2&expire=1773688310&salt=8e984702a93bd4ad&sig=ed6a51b5b0849fc7df84b14477b7b0e9f1cc2083ce08c083ad9d5f1e6fc49242
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:09  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS6]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/43612277.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dff00f1fd4a7dd2feac000b462416867.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:00 WIB] ⏳ 22:48:09  Fenerbahce 🆚  Gaziantep Buyuksehir Belediyesi 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODc1NDc1NzguZmx2&expire=1773688310&salt=ea450a7bda1445be&sig=6c8839be118d1c0e9ab2060052a26913a1f90170afbc059c04fca1924568cdfd
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dff00f1fd4a7dd2feac000b462416867.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:00 WIB] ⏳ 22:48:09  Fenerbahce 🆚  Gaziantep Buyuksehir Belediyesi 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/87547578.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 23:33:09  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDg1NTI4OTUuZmx2&expire=1773688310&salt=d66255e4cab54b72&sig=7a022d66c6e3f91fa5f2c5bd8608497453885c0a6a0432e767cd7a410670de85
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 23:33:09  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/08552895.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 23:33:09  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzk2NjUzNDMuZmx2&expire=1773688310&salt=142d4e556abca2df&sig=d60721dcf58863268a66c08f587f1efc393eaaf0e9134bacbf6e63b66f40664c
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 23:33:09  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/79665343.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:09  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc4MDg3NDIuZmx2&expire=1773688311&salt=3a23ba983b3f4200&sig=8a9695d54379650fbe60327de310cdf7f07b77f060bf0d513ae06bb966d44a55
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:09  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/07808742.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:09  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773688311&salt=9ef1c53aa784fec6&sig=b29ce088ea74d451fa5e55a81b83f5333a6b60dfde36e7c9ba46f874e080b939
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:09  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/41943555.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:09  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS5]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzg5MDU3NDQuZmx2&expire=1773688311&salt=58cb86bcc1ccbb4e&sig=66e51cb31cc5b7cbb8afee300b148b2dd4f53cf4515160e9b1a1e297ad2d408f
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:09  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS6]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/78905744.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/caff6f729db9dc68b1938f6533b0fa14.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 05:00 WIB] ⏳ 27:48:09  Lanus 🆚  Newells Old Boys 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzE0MjYzMTQuZmx2&expire=1773688311&salt=0e3a2a1f57778d7d&sig=bf951ae9f0968168281851669145cbfecc1ede437901ef9cb6469e80ab251eb5
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/caff6f729db9dc68b1938f6533b0fa14.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 05:00 WIB] ⏳ 27:48:09  Lanus 🆚  Newells Old Boys 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/71426314.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 06:00 WIB] ⏳ 28:48:09  Orlando Magic 🆚  Oklahoma City Thunder 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773688311&salt=560520d498449e29&sig=b0d91e20f8c585f7ee224e943aa6d38066c68437450525f68c6831573759949d
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 06:00 WIB] ⏳ 28:48:09  Orlando Magic 🆚  Oklahoma City Thunder 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/82054853.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/532600afe76be2528effd5790fb51a33.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:03:09  Gimnasia Mendoza 🆚  Estudiantes La Plata 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU3NDgwOTcuZmx2&expire=1773688311&salt=becb9bdb1f60903b&sig=ce376f2db1f043cd26e329a573ab72bcfe78ae9e45751d02fc321380d6e1ff7e
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/532600afe76be2528effd5790fb51a33.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:03:09  Gimnasia Mendoza 🆚  Estudiantes La Plata 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/75748097.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b6a144b441bfd3ff6d4179d4b04b9693.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 20:48:09  Braga U23 🆚  Leixoes U23 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNjg4NDg1OTQuZmx2&expire=1773688311&salt=d57416028ffaf0f7&sig=35fb25958b0899b329f5dd801bd21910dbce698c2d7cd150f1376dcf27e1855f
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b6a144b441bfd3ff6d4179d4b04b9693.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 20:48:09  Braga U23 🆚  Leixoes U23 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/68848594.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 39:40:43  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:03:09  Central Cordoba SDE 🆚  Dep. Riestra 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTg4MTIzMDQuZmx2&expire=1773685157&salt=1e62bb5e026070f0&sig=e7d9319a9618715ae9de1ec0978c2ebafcb7dcdd5db54192bfeb7bf335453e9e
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ3MDcxMjQuZmx2&expire=1773688311&salt=4a6f5964b7216a2c&sig=1b3584305f38ab3f5896b12819526cac6e107828f658790e61a6eee264740a77
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 39:40:43  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:03:09  Central Cordoba SDE 🆚  Dep. Riestra 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/14707124.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 08:00 WIB] ⏳ 30:48:09  Alajuelense 🆚  Los Angeles FC 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA3MjU0NzAuZmx2&expire=1773688311&salt=4725efea03bf6a54&sig=3a8fcb82411ddd4ea6c47379980def209e1ccf7ebc8a7d795f69f3d1173985fa
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 08:00 WIB] ⏳ 30:48:09  Alajuelense 🆚  Los Angeles FC 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/90725470.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 09:00 WIB] ⏳ 31:48:09  Denver Nuggets 🆚  Philadelphia 76ers 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODczNzkxMTQuZmx2&expire=1773688311&salt=471ad5d7e3aff5e9&sig=6a723685dd2d377192beb01c3037e5016229ff244e8a62b56aa07728bdef7735
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 09:00 WIB] ⏳ 31:48:09  Denver Nuggets 🆚  Philadelphia 76ers 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/87379114.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:00 WIB] ⏳ 32:48:09  Cruz Azul 🆚  Monterrey 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDI0NTY5NjYuZmx2&expire=1773688311&salt=4d599276f86102be&sig=cfb892845dfe590005cfccf74f8835a0199cf752b620a77449bbae2aeadc6e0c
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:00 WIB] ⏳ 32:48:09  Cruz Azul 🆚  Monterrey 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/02456966.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:09  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ4MzA3MTEuZmx2&expire=1773688311&salt=be5ac07d8c191774&sig=8b8b7a49e7058006877def54ed644eb0401ea7df91c48cd394a8c1d12bde9a09
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:09  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/14830711.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:09  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773688311&salt=8d5f1f8bcf6d7c81&sig=d041a2e1e3b2c2d052e2474f06dcc30feeb7075ae9cd6048cd1447a7f86f1c54
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:09  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/24561735.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:09  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS5]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773688311&salt=7b443dd40f262346&sig=ce282dbc39ebeb7116f5b1bc20f33f3d8218515afbdf8845dc6ffadcd1640656
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:09  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS6]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/97312754.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d69f7b4e5781756f141810f0716bcbe6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:06 WIB] ⏳ 32:54:08  Club Tijuana Nữ 🆚  U.N.A.M.- Pumas Nữ 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNjg4NDg1OTQuZmx2&expire=1773688311&salt=b59d7e7299881ec7&sig=54bf8da0c63928bcc56fbeab31e5abac527b0b2b53bd82e92c349c5b91cba617
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d69f7b4e5781756f141810f0716bcbe6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:06 WIB] ⏳ 32:54:08  Club Tijuana Nữ 🆚  U.N.A.M.- Pumas Nữ 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/68848594.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 38:48:08  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTg4MTIzMDQuZmx2&expire=1773688311&salt=0976304c26dced2a&sig=c24213ea958080ab59ce5ead90117f67257064faf1f29a24dd5f7abc2bf19c0d
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 38:48:08  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/18812304.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 39:40:43  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS3]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 38:48:08  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODczNzkxMTQuZmx2&expire=1773685157&salt=8a7882dee897e54d&sig=320fcbc23580f3ab94cb4e370d4424b35e908268638fa1ea39f79998cbed1b7d
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODczNzkxMTQuZmx2&expire=1773688311&salt=b6fe707b768b679c&sig=52a6fc7195b39438c8cb67405d6dfeb704a1fbb98611f333c145bac8909915b9
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 39:40:43  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS4]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 38:48:08  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/87379114.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:30 WIB] ⏳ 40:10:43  Cerezo Osaka 🆚  Fagiano Okayama 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6d2cab607ba1b908c2c71225581b06ee.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 12:30 WIB] ⏳ 35:18:08  Melbourne City Nữ 🆚  Adelaide Nữ 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDM2MTIyNzcuZmx2&expire=1773685157&salt=b4f110d91a9cf85e&sig=bbf0785f5862ae48f24196ad826c0349e01d33a756693ec9aba113010d4b0adf
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTkxMjE1MjUuZmx2&expire=1773688311&salt=89758074ad4b27a6&sig=11616c59d13e791d7db318f920109b4ea0a919f2a5bcdef97931e27ee227190c
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:30 WIB] ⏳ 40:10:43  Cerezo Osaka 🆚  Fagiano Okayama 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6d2cab607ba1b908c2c71225581b06ee.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 12:30 WIB] ⏳ 35:18:08  Melbourne City Nữ 🆚  Adelaide Nữ 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/99121525.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:30 WIB] ⏳ 39:18:08  Cerezo Osaka 🆚  Fagiano Okayama 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDM2MTIyNzcuZmx2&expire=1773688311&salt=7e89c1d77a114b5b&sig=b3179e4765a52e9b3639fcfd7bda89e1f5fb23eecc89a7adb98278551bb513f5
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:30 WIB] ⏳ 39:18:08  Cerezo Osaka 🆚  Fagiano Okayama 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/43612277.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 40:40:43  Chiba 🆚  Tokyo 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 39:48:08  Chiba 🆚  Tokyo 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzk2NjUzNDMuZmx2&expire=1773685157&salt=32581d696fd4f17d&sig=f304fb4bb4f5c6793d95c9deadba529ad82ff7030265e6b92b7518ffcad9722f
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzk2NjUzNDMuZmx2&expire=1773688311&salt=028d14ae21c335bb&sig=e8da8bd40b7c2b7de77c91fc09b90bcebdd6f2be15212562bdd42926389e657c
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 40:40:43  Chiba 🆚  Tokyo 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 39:48:08  Chiba 🆚  Tokyo 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/79665343.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 41:10:43  Machida 🆚  Kashima Antlers 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d85cce27ab583e5b3cead155f02b098a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 39:48:08  Vissel Kobe 🆚  Gamba Osaka 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773685157&salt=348933be4c5ca83a&sig=44c63c08652aaabb7fca19210db8feda5a9e51ce435459be03ab9a5247b57bc6
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU5MTUwODcuZmx2&expire=1773688311&salt=c46c50f74880874a&sig=e463c43c8af39800cccaa50a0916057f4eb5b48ea4b41963be193353a3920afe
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 41:10:43  Machida 🆚  Kashima Antlers 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/90865415.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 40:40:43  Nagoya Grampus 🆚  Sanfrecce Hiroshima 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc4MDg3NDIuZmx2&expire=1773685157&salt=0026663464578747&sig=4c2318f09524786b15518cee271b62006d19dfdccafa58ca8a659465d41c8f49
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 40:40:43  Nagoya Grampus 🆚  Sanfrecce Hiroshima 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/07808742.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d85cce27ab583e5b3cead155f02b098a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 40:40:43  Vissel Kobe 🆚  Gamba Osaka 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU5MTUwODcuZmx2&expire=1773685157&salt=f911013d8ef7df00&sig=212c8be8fec95b1f5ca671251a7e09da015e587a8a9a623b28c3f479a2c897fe
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d85cce27ab583e5b3cead155f02b098a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 40:40:43  Vissel Kobe 🆚  Gamba Osaka 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d85cce27ab583e5b3cead155f02b098a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 39:48:08  Vissel Kobe 🆚  Gamba Osaka 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/75915087.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 41:10:42  Bucheon FC 1995 🆚  Gangwon 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 39:48:08  Nagoya Grampus 🆚  Sanfrecce Hiroshima 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDg1NTI4OTUuZmx2&expire=1773685157&salt=17bef90ea7d0a341&sig=efff79c0a1de04cf400f47bad9f24f79270d6f9e11fa35e47084691b3a4abb31
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc4MDg3NDIuZmx2&expire=1773688311&salt=6aeed7d5c9df948c&sig=c04c75c94acedc74b2f1823b08314c20431f2486a54a00f880301a51474beda8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 41:10:42  Bucheon FC 1995 🆚  Gangwon 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 39:48:08  Nagoya Grampus 🆚  Sanfrecce Hiroshima 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/08552895.m3u8
+https://live5.msrktz.app/live/07808742.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/46a4867487152e47c4dc61984d0c58aa.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 41:40:42  SHB Đà Nẵng 🆚  Nam Định 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 40:18:08  Jeonbuk Hyundai Motors 🆚  FC Anyang 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA3MjU0NzAuZmx2&expire=1773685157&salt=bd62e0ba7ef708d2&sig=e6d8afb75d3a9206cb4974e62ac717662cce6922a8af79e224762ba903e6a7ba
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU3NDgwOTcuZmx2&expire=1773688311&salt=22c58109b44f5c90&sig=bca8bd563a7717f611740bb79b269d24d9b9e3cdb067e46b760702874a71c727
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/46a4867487152e47c4dc61984d0c58aa.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 41:40:42  SHB Đà Nẵng 🆚  Nam Định 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 40:18:08  Jeonbuk Hyundai Motors 🆚  FC Anyang 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/90725470.m3u8
+https://live5.msrktz.app/live/75748097.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/12fe4d3ee5c01134d48584015c4646f3.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 41:40:42  Pathum United 🆚  Mahasarakham United FC 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/12fe4d3ee5c01134d48584015c4646f3.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 40:48:08  Pathum United 🆚  Mahasarakham United FC 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODg1MDg0MzEuZmx2&expire=1773685157&salt=0403998d56c095ed&sig=e5cd26d19ecc11a10c6d0617fdbd228aebc6e199d5578176ea436aa273e34ed9
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODg1MDg0MzEuZmx2&expire=1773688311&salt=558bc7d391c8526e&sig=a27497f20dc419b8dd63b3e56b9ee7fa78cc09e482ccf55217506b33accde120
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/12fe4d3ee5c01134d48584015c4646f3.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 41:40:42  Pathum United 🆚  Mahasarakham United FC 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/12fe4d3ee5c01134d48584015c4646f3.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 40:48:08  Pathum United 🆚  Mahasarakham United FC 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/88508431.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6d2cab607ba1b908c2c71225581b06ee.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 12:30 WIB] ⏳ 36:10:43  Melbourne City Nữ 🆚  Adelaide Nữ 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 40:18:08  Machida 🆚  Kashima Antlers 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTkxMjE1MjUuZmx2&expire=1773685157&salt=94534c8bc3993d3c&sig=a649d9b19bfd570a8ee178933a788df7f6f161bec64aa9e17cde80bfcc5bc6ab
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773688311&salt=4eeccd49e1effa06&sig=49ba46c0fb450f6ab76ae2a508b76f04f230070afc0c8b86b286efd78e80c66e
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6d2cab607ba1b908c2c71225581b06ee.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 12:30 WIB] ⏳ 36:10:43  Melbourne City Nữ 🆚  Adelaide Nữ 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/99121525.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 41:10:42  Jeonbuk Hyundai Motors 🆚  FC Anyang 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU3NDgwOTcuZmx2&expire=1773685157&salt=6e97073b66c9b482&sig=83fc3e86ccdbaa77c0e20d3db6319169a6c6d6e07299c190949fe8c115e936df
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 41:10:42  Jeonbuk Hyundai Motors 🆚  FC Anyang 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/75748097.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/1125281dafbf06dad029825221e83d5a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:35 WIB] ⏳ 42:15:42  Shanghai 🆚  Shandong Hi-Speed 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773685157&salt=b3d5fdc84affe72c&sig=63c42f71f486fdabb1e98f58bd8c8035171dee7759aaa96fba69107e7ed2a4fc
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/1125281dafbf06dad029825221e83d5a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:35 WIB] ⏳ 42:15:42  Shanghai 🆚  Shandong Hi-Speed 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/82054853.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4fe4cf906ee7b1399a1b0468432c74cd.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 19:00 WIB] ⏳ 42:40:42  Pattani 🆚  Buriram 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773685157&salt=c172f8a6ef88ffc1&sig=62a7460e0fd829cc95d72c78a8007af3d84e472d56785f4399c88f54ee8e8fec
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4fe4cf906ee7b1399a1b0468432c74cd.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 19:00 WIB] ⏳ 42:40:42  Pattani 🆚  Buriram 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/41943555.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5e754f0f66a62ae8806a63677b45caa4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 43:40:42  Real Madrid U19 🆚  Sporting CP U19 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773685157&salt=c461a895350da088&sig=dbe2e6af504c93d18ca46a0fa58aaf86716c48a53e09681c1f4578d6bc39b461
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5e754f0f66a62ae8806a63677b45caa4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 43:40:42  Real Madrid U19 🆚  Sporting CP U19 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 40:18:08  Machida 🆚  Kashima Antlers 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/90865415.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0688ed133dadf5f09bb94c8414ec5565.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 43:40:42  Alanyaspor 🆚  Kocaelispor 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 40:18:08  Bucheon FC 1995 🆚  Gangwon 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773685157&salt=6c41207bcf0dfb8c&sig=6ea262a90d4e055fed57e807aa63bb1be7a36cdcc9f6d06845634166f702a972
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDg1NTI4OTUuZmx2&expire=1773688311&salt=2987e80f02555baf&sig=1a57986eeef3834c4ccd946d5dfa099bd1c70c01f58a8bab52a269a2399b986e
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0688ed133dadf5f09bb94c8414ec5565.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 43:40:42  Alanyaspor 🆚  Kocaelispor 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/07428422.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 21:00 WIB] ⏳ 44:40:42  Johor Darul Takzim 🆚  PDRM FC 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDI0NTY5NjYuZmx2&expire=1773685157&salt=cf172d6ccdc8a737&sig=6ee9aeacf24e225c111a72f3270020502c43c567ae7df44e7dbe669e3491b09a
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 21:00 WIB] ⏳ 44:40:42  Johor Darul Takzim 🆚  PDRM FC 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/02456966.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 46:10:42  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773685157&salt=c9fa4ab62785a831&sig=6b940ae4e0f2c0433c60406adb3c096c8bc628af28ce4148c95a269283407c86
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 46:10:42  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/24561735.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 46:10:42  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773685157&salt=8b0922e1936d8660&sig=de595a3c9c55faab1d3546863c95d553943914da445acba12716a684613677bb
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 46:10:42  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/97312754.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/39a3e7650b6d913f15de2d68ef7ef4d4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 01:00 WIB] ⏳ 00:40:42  Silkeborg 🆚  Vejle 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODc1NDc1NzguZmx2&expire=1773685157&salt=abe4183f864ea3b0&sig=3b9beb8f4d2786cdc987243d88c48ea00466b15024101302fedb43e281f56fea
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/39a3e7650b6d913f15de2d68ef7ef4d4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 01:00 WIB] ⏳ 00:40:42  Silkeborg 🆚  Vejle 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/87547578.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7b7d2b65c1ee63aee9e79ebafb2f0bc7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 01:00 WIB] ⏳ 00:40:42  Pogon Szczecin 🆚  Korona Kielce 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTkxMjE1MjUuZmx2&expire=1773685157&salt=a04a1dc6ac00c4db&sig=5ccdcfe4770df721852b5f251523b3e1f77ffaa57af0a2f4ce842ac924cad4bf
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7b7d2b65c1ee63aee9e79ebafb2f0bc7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 01:00 WIB] ⏳ 00:40:42  Pogon Szczecin 🆚  Korona Kielce 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/99121525.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0b0e25267dabd15c405070329df5fbdb.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 02:45 WIB] ⏳ 02:25:42  U.S. Cremonese 🆚  ACF Fiorentina 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773685157&salt=8f66958b676b2611&sig=67da80f22bdf51ea46991339183cd2d0ec537d85601d962c5cd8c805b31ee2fd
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0b0e25267dabd15c405070329df5fbdb.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 02:45 WIB] ⏳ 02:25:42  U.S. Cremonese 🆚  ACF Fiorentina 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/41943555.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:42  Rayo Vallecano 🆚  Levante 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773685157&salt=6a45ecfcecc9c5e3&sig=8e603075843b2776da2d24438df7553a2e5910703cb761f4a5890e504b2802c1
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:42  Rayo Vallecano 🆚  Levante 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/07428422.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:42  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773685157&salt=ba45216c6004ee8e&sig=d0228c725f5143f6ac9c4d1c2ca70ad08135f1d179db0b115c0a04652f1bfd3d
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:42  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/24561735.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:42  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzk2NjUzNDMuZmx2&expire=1773685157&salt=88475c87a2feef80&sig=ba1bab7bedcdb2e9bf9852e6745046535ef4712a4c3a668f091d08473f679bfb
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:42  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/79665343.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:42  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS5]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773685157&salt=e06467f921bdfd20&sig=8f077085f560727c99b798eaa50fd8126cc549eaeac9b2ec5d93391629699904
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:42  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS6]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/97312754.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/65d05eaf7edc601ae236107417b01cbf.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 04:30 WIB] ⏳ 04:10:42  San Lorenzo 🆚  Defensa y Justicia 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNjg4NDg1OTQuZmx2&expire=1773685157&salt=935474b374bb0b6c&sig=3fece143cf2d97b158ecc3f8dd09d88baadbbb6bb1dda9161f9415846827fcf4
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/65d05eaf7edc601ae236107417b01cbf.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 04:30 WIB] ⏳ 04:10:42  San Lorenzo 🆚  Defensa y Justicia 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/68848594.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 05:40:42  Racing Club 🆚  Estudiantes Rio Cuarto 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzE0MjYzMTQuZmx2&expire=1773685157&salt=339792185a006eb8&sig=69f69ab29198ee1fd8c643181e9191853af3391cc58ded5b71e26ea0bfb046de
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 05:40:42  Racing Club 🆚  Estudiantes Rio Cuarto 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/71426314.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 05:40:42  Chapecoense SC 🆚  Gremio 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA3MjU0NzAuZmx2&expire=1773685157&salt=974324030a5c0656&sig=2d8693010bbed01c35e2eb8e3687df75de9af1b91ee81f22536563c2e7743175
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 05:40:42  Chapecoense SC 🆚  Gremio 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/90725470.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 07:00 WIB] ⏳ 06:40:42  Chicago Bulls 🆚  Memphis Grizzlies 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDI0NTY5NjYuZmx2&expire=1773685157&salt=5bd309a8af58f3e4&sig=4e762406c685ef1a9a19f777cf1e322630cbf25da072f6234fab7fc022ddb552
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 07:00 WIB] ⏳ 06:40:42  Chicago Bulls 🆚  Memphis Grizzlies 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/02456966.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a01279fdf6589b3c11529ca1ab4201fc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:15 WIB] ⏳ 07:55:42  Instituto 🆚  Independiente 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU3NDgwOTcuZmx2&expire=1773685157&salt=d3c06c5b0ce38341&sig=804d4b05e6e30202c2a31c8945ae508eea71fd1c2b7df41f5805149cdd18bbd4
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a01279fdf6589b3c11529ca1ab4201fc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:15 WIB] ⏳ 07:55:42  Instituto 🆚  Independiente 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/75748097.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 08:40:42  Los Angeles Clippers 🆚  San Antonio Spurs 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODczNzkxMTQuZmx2&expire=1773685157&salt=265e7ba5c9536d5e&sig=fc4220a8d63a5f71ad29a7c32322774cdb5464832af29f051d2f9e34a7b2b84b
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 08:40:42  Los Angeles Clippers 🆚  San Antonio Spurs 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/87379114.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:30 WIB] ⏳ 08:10:42  Houston Rockets 🆚  Los Angeles Lakers 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773685157&salt=2970a0dc271d5840&sig=fefd9d03d8f62c91898232c4047129705850f3d501e029308de8f027f47f670f
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:30 WIB] ⏳ 08:10:42  Houston Rockets 🆚  Los Angeles Lakers 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/82054853.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/988d4c293006d45d1f453c9ee2884022.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 08:40:42  Club America Nữ 🆚  Toluca Nữ 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMzM5ODIzMDkuZmx2&expire=1773685157&salt=28679a1a14392844&sig=df7ab7370f8ce63b4ff9b1973db17d091ff465b793a31488777c1907bf60c23b
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/988d4c293006d45d1f453c9ee2884022.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 08:40:42  Club America Nữ 🆚  Toluca Nữ 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/33982309.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8e279a6f57d4768f5f1fa3bb28fd3a8a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 10:00 WIB] ⏳ 09:40:42  Club Leon Nữ 🆚  Mazatlan FC Nữ 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc4MDg3NDIuZmx2&expire=1773685157&salt=a605b0bd05fa7753&sig=1f4c8c7c6bf280efc71e32099a85627a55c5ec516715b927f28c79ad8f126e89
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8e279a6f57d4768f5f1fa3bb28fd3a8a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 10:00 WIB] ⏳ 09:40:42  Club Leon Nữ 🆚  Mazatlan FC Nữ 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/07808742.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2f360e96a024fd54255d0ed941e9075e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:42  Portsmouth 🆚  Derby County 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDg1NTI4OTUuZmx2&expire=1773685158&salt=7e37eb84a4f22a53&sig=dfe7d508f317d301c56e1d5511982be1734ee2b5a7902cd5f87d46a3adcc9eba
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2f360e96a024fd54255d0ed941e9075e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:42  Portsmouth 🆚  Derby County 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 40:18:08  Bucheon FC 1995 🆚  Gangwon 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/08552895.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 14:40:42  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4fe4cf906ee7b1399a1b0468432c74cd.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 19:00 WIB] ⏳ 41:48:08  Pattani 🆚  Buriram 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ4MzA3MTEuZmx2&expire=1773685158&salt=8cfdf6728eb32caf&sig=b1f1948b917735dbd0d8791b4717123032cd164edfa1827a4d0541a2b2128983
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773688311&salt=e57424b9fcc5205e&sig=cb34df7771f4f88c36c629aa27ef08d9a3c553b19103130c62bfb2d19f6eb2c2
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 14:40:42  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4fe4cf906ee7b1399a1b0468432c74cd.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 19:00 WIB] ⏳ 41:48:08  Pattani 🆚  Buriram 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/14830711.m3u8
+https://live5.msrktz.app/live/41943555.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 14:40:42  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS3]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/1125281dafbf06dad029825221e83d5a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:35 WIB] ⏳ 41:23:08  Shanghai 🆚  Shandong Hi-Speed 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773685158&salt=fa07e11523b75fbe&sig=f90c504d1f20bdd1d6d6da550f9396b5d04a5d77005f50e0be12a38e1bfc2677
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773688311&salt=5b9cd7fcfe07bd0c&sig=96dce46b23bb1edf2a7ce5cb545feaa72ab96d6c766292dae3dd48c57c085e87
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 14:40:42  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS4]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/1125281dafbf06dad029825221e83d5a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:35 WIB] ⏳ 41:23:08  Shanghai 🆚  Shandong Hi-Speed 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/97312754.m3u8
+https://live5.msrktz.app/live/82054853.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d20eb37b84651856f8524464b9d9273e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:00 WIB] ⏳ 15:40:42  Yarmanya United FC 🆚  Thitsar Arman FC 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5e754f0f66a62ae8806a63677b45caa4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 42:48:08  Real Madrid U19 🆚  Sporting CP U19 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773685158&salt=b27bda28d1384f4c&sig=e0ee72721c7a2f9885d991e6f48715ebe94e812abc1117a96522ee1f4a52b75a
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773688311&salt=1c732c5171ccae9f&sig=0c6ba3a99881a251c743af32b4596c11686ea2110097eb7336edbc858677eacc
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d20eb37b84651856f8524464b9d9273e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:00 WIB] ⏳ 15:40:42  Yarmanya United FC 🆚  Thitsar Arman FC 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5e754f0f66a62ae8806a63677b45caa4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 42:48:08  Real Madrid U19 🆚  Sporting CP U19 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/90865415.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:30 WIB] ⏳ 16:10:42  Sagaing 🆚  Ayeyawady 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/46a4867487152e47c4dc61984d0c58aa.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 40:48:08  SHB Đà Nẵng 🆚  Nam Định 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODg1MDg0MzEuZmx2&expire=1773685158&salt=f7be98953b12b412&sig=7e0a159bc8638f3bfc4b02a2e846340168d14d1a29dc0ee1b04fdfa4204447ae
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA3MjU0NzAuZmx2&expire=1773688311&salt=471d18a9c0b36c41&sig=b5a4c151897fb0b676af298cc65a30c55a9c5e47f09a6046b48ee856e04af361
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:30 WIB] ⏳ 16:10:42  Sagaing 🆚  Ayeyawady 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/46a4867487152e47c4dc61984d0c58aa.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 40:48:08  SHB Đà Nẵng 🆚  Nam Định 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/90725470.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0688ed133dadf5f09bb94c8414ec5565.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 42:48:08  Alanyaspor 🆚  Kocaelispor 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773688311&salt=368f1523c33aa1db&sig=921c97f4cf6487c9a7f13e626be361f5e2a10116a31f859618e923dba7635f14
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0688ed133dadf5f09bb94c8414ec5565.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 42:48:08  Alanyaspor 🆚  Kocaelispor 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/07428422.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 45:18:08  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773688311&salt=4a06bd5957d36ccd&sig=6700c50ebb0070c4f1aa111f2ae4a7b66416ce54d5409b0ea8b0a32890e8e694
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 45:18:08  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/24561735.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 45:18:08  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773688311&salt=7e3db439d8d901f5&sig=b8310f175068f2d42c82377b76820cab25655d1a2ea393c3e4af8c574ab6688a
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 45:18:08  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/97312754.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 21:00 WIB] ⏳ 43:48:08  Johor Darul Takzim 🆚  PDRM FC 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDI0NTY5NjYuZmx2&expire=1773688311&salt=efaae753cb8bf88a&sig=17994ea8695cf7b6e6e7506a00ef04e9a4869fd2db57cb170d99af7082832e78
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 21:00 WIB] ⏳ 43:48:08  Johor Darul Takzim 🆚  PDRM FC 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/02456966.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0b0e25267dabd15c405070329df5fbdb.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 02:45 WIB] ⏳ 01:33:08  U.S. Cremonese 🆚  ACF Fiorentina 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773688311&salt=0f237b16d630336b&sig=b52b0f968e7f40bf12df187c77ebb205bf3194fee198ba0802cf47a6f90d118d
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0b0e25267dabd15c405070329df5fbdb.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 02:45 WIB] ⏳ 01:33:08  U.S. Cremonese 🆚  ACF Fiorentina 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/41943555.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:08  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773688311&salt=9834a0d9d419fb64&sig=326183f28c17ccfbf391b1afa45786942ee9bb634ede54b2044aa141f1e70065
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:08  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/24561735.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:08  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzk2NjUzNDMuZmx2&expire=1773688311&salt=905d176d0afe49fb&sig=6077f55d3c57111e991e511da94a8e7bbb73f44a3ca74854a48890a6ab31c4f6
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:08  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/79665343.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:08  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS5]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773688311&salt=f5be2233cea33d39&sig=d31b68361cfdc0f7988441cb0dbc59acc7bbc2887e0a43a4bf9658f0c9417d62
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:08  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS6]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/97312754.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2f360e96a024fd54255d0ed941e9075e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:08  Portsmouth 🆚  Derby County 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDg1NTI4OTUuZmx2&expire=1773688311&salt=fbed7c10d35a4e5f&sig=45185b7025e8b9afaa5ae04941c7505198e4c2103d7279b6b712737e21643f40
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2f360e96a024fd54255d0ed941e9075e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:08  Portsmouth 🆚  Derby County 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/08552895.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 04:48:08  Racing Club 🆚  Estudiantes Rio Cuarto 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzE0MjYzMTQuZmx2&expire=1773688311&salt=42a42af35caf5303&sig=7b6b872691fab345a006abdbc1580df11b74392500d2b6aa1d42d54da5f0321f
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 04:48:08  Racing Club 🆚  Estudiantes Rio Cuarto 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/71426314.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/65d05eaf7edc601ae236107417b01cbf.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 04:30 WIB] ⏳ 03:18:08  San Lorenzo 🆚  Defensa y Justicia 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNjg4NDg1OTQuZmx2&expire=1773688311&salt=8375715536f9e97e&sig=a1a4585f731167643cadc4813d6e411af0ef4cd24a0aa4b0cd82a2b51b8bd62a
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/65d05eaf7edc601ae236107417b01cbf.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 04:30 WIB] ⏳ 03:18:08  San Lorenzo 🆚  Defensa y Justicia 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/68848594.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:08  Rayo Vallecano 🆚  Levante 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773688311&salt=3f5884b2f84f9a0a&sig=e469888a938d4f983c2f4bc37bc4bd96efe24b9268a64c0ebcc2cc47612ceff7
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:08  Rayo Vallecano 🆚  Levante 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/07428422.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 04:48:08  Chapecoense SC 🆚  Gremio 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA3MjU0NzAuZmx2&expire=1773688311&salt=d6d86607d04f9b6f&sig=8e8bf89f6e5b7f40c4158626fad27e5e0d88edfdc4b23cda789e371194545bee
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 04:48:08  Chapecoense SC 🆚  Gremio 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/90725470.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a01279fdf6589b3c11529ca1ab4201fc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:15 WIB] ⏳ 07:03:08  Instituto 🆚  Independiente 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU3NDgwOTcuZmx2&expire=1773688312&salt=95756378846fe4ca&sig=02ba5cf858795b3780c2b469171f763a191f779335afab88ff8046d12950eaf0
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a01279fdf6589b3c11529ca1ab4201fc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:15 WIB] ⏳ 07:03:08  Instituto 🆚  Independiente 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/75748097.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:30 WIB] ⏳ 07:18:08  Houston Rockets 🆚  Los Angeles Lakers 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773688312&salt=84679cf2d2535065&sig=72e53f4adfe309e41b4e5348b916820f8f2c161e31da7e0fc72f7791a6e27942
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:30 WIB] ⏳ 07:18:08  Houston Rockets 🆚  Los Angeles Lakers 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/82054853.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 07:48:08  Los Angeles Clippers 🆚  San Antonio Spurs 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODczNzkxMTQuZmx2&expire=1773688312&salt=2ea63bf642e05a83&sig=c291336a37938b6298468fd521cd29903c266e88c2be8431698acf9422fb4c87
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 07:48:08  Los Angeles Clippers 🆚  San Antonio Spurs 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/87379114.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/988d4c293006d45d1f453c9ee2884022.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 07:48:08  Club America Nữ 🆚  Toluca Nữ 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMzM5ODIzMDkuZmx2&expire=1773688312&salt=1ce65aa7366a6cc9&sig=fbd94c6c4451b362efc9bb01889bec786049576c1a62ccf00bb948cff7702f5c
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/988d4c293006d45d1f453c9ee2884022.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 07:48:08  Club America Nữ 🆚  Toluca Nữ 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/33982309.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8e279a6f57d4768f5f1fa3bb28fd3a8a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 10:00 WIB] ⏳ 08:48:08  Club Leon Nữ 🆚  Mazatlan FC Nữ 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc4MDg3NDIuZmx2&expire=1773688312&salt=87aa2a213591de91&sig=689b9807aff7d1c6d20831b17c949b64101c5b2de8490ae1cb65b3e2595f1d4a
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8e279a6f57d4768f5f1fa3bb28fd3a8a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 10:00 WIB] ⏳ 08:48:08  Club Leon Nữ 🆚  Mazatlan FC Nữ 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/07808742.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 13:48:08  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ4MzA3MTEuZmx2&expire=1773688312&salt=0bac91c0dc3a2358&sig=39d6daf2e889931f2e27ea7a75e87aa5cc1868a5457270baada169b49eb47192
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 13:48:08  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/14830711.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 13:48:08  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773688312&salt=d92be76018745e4d&sig=158388fb82fac6997b4664b49a3b5bf354ef2ed997dec6641d02262d2bf0d235
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 13:48:08  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/97312754.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 15:48:08  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDM2MTIyNzcuZmx2&expire=1773688312&salt=af1844c2c49f971c&sig=c192bb36ae5856ab46d6911412344d1e7fb5919143f5ae083d0de42a1b5cbf6f
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 15:48:08  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/43612277.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 15:48:08  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU5MTUwODcuZmx2&expire=1773688312&salt=9bbd798ed9f6973b&sig=00626d77c26b62d51c94e4fd0c346c58764c7469ce9385f78aee0f4d7ade6838
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 15:48:08  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/75915087.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d20eb37b84651856f8524464b9d9273e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:00 WIB] ⏳ 14:48:08  Yarmanya United FC 🆚  Thitsar Arman FC 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773688312&salt=a4edfb982370dc4d&sig=d09faebf1f78973dc5e78d694b4f72fb9002d21f12026ad5b08f2740fa8c6697
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d20eb37b84651856f8524464b9d9273e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:00 WIB] ⏳ 14:48:08  Yarmanya United FC 🆚  Thitsar Arman FC 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/90865415.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:30 WIB] ⏳ 15:18:08  Sagaing 🆚  Ayeyawady 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODg1MDg0MzEuZmx2&expire=1773688312&salt=ced44b47965576d6&sig=ff6bfb29d2c5d3a0fab463c17dd6fba66b826e554c90aea8542daf6629e6cb76
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:30 WIB] ⏳ 15:18:08  Sagaing 🆚  Ayeyawady 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/88508431.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 17:10:42  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 07:00 WIB] ⏳ 05:48:08  Chicago Bulls 🆚  Memphis Grizzlies 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773685158&salt=68e23b89b8894c5c&sig=06abda407fb5b3064a1a381331082c62ba65fa52e5914ff08a7dfaeb35eb661a
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDI0NTY5NjYuZmx2&expire=1773688312&salt=d5fd49482a7ffd38&sig=4b848a9dd7911fc4c30de7b18e4b3a88acf9b4a11a2d3f9f9cb9c5ba3af58b52
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 17:10:42  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/24561735.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 17:10:42  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzg5MDU3NDQuZmx2&expire=1773685158&salt=de958f0898bebb8c&sig=3824e051bb890d9ad1b427c6142981ecb3e547a5ddca6c1f926a86239c80bb96
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 17:10:42  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/78905744.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b39d3c74dea7f5c47361e7733c1932b2.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:00 WIB] ⏳ 17:40:42  Torreense U23 🆚  Santa Clara U23 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODc1NDc1NzguZmx2&expire=1773685158&salt=49d2802ef756c7d8&sig=d724e453f5fc16966c4b9d318ed2a339c8a3896eec88c78d68607d697a52d0f5
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b39d3c74dea7f5c47361e7733c1932b2.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:00 WIB] ⏳ 17:40:42  Torreense U23 🆚  Santa Clara U23 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/87547578.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f7ad4ca154d205eb1799c5a1d1ff3370.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 18:15:42  Shanxi Fenjiu 🆚  Beijing Konggu 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ3MDcxMjQuZmx2&expire=1773685158&salt=8b9bebb991912d51&sig=67d28be4ec5df000d1fa32d58ec6820b69fca0d07972ce8cb04e827fab4a72b4
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f7ad4ca154d205eb1799c5a1d1ff3370.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 18:15:42  Shanxi Fenjiu 🆚  Beijing Konggu 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/14707124.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/093b019417397a95732e569df7f2a8f0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 19:00 WIB] ⏳ 18:40:42  Kaspij Aktau 🆚  Okzhetpes 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773685158&salt=bcef95c11be8678d&sig=56bbe7f6a7ba613591c994b967dfbb2db5b74357f543d92ec076b38e1e6cb431
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/093b019417397a95732e569df7f2a8f0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 19:00 WIB] ⏳ 18:40:42  Kaspij Aktau 🆚  Okzhetpes 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/90865415.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/5689743705f1852f10597c559323f04a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 18:15:42  Guangdong Southern Tigers 🆚  Xinjiang Yilite 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773685158&salt=a3aa05afefa09e27&sig=3d738473360f04ab7afa6e6cf9504dfb86e8ff1bfc3a1e3ca108ab01b0ac7302
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/5689743705f1852f10597c559323f04a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 18:15:42  Guangdong Southern Tigers 🆚  Xinjiang Yilite 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/82054853.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dd126282a3ed968b622055c808ad82c4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 20:00 WIB] ⏳ 19:40:41  Atletico de Madrid U19 🆚  Club Brugge U19 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773685158&salt=28fd568965a0c7cc&sig=e37a88a0ae56c27e4d70da7943c05abfaabc70e65952ef5629ff097d7ab03b74
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dd126282a3ed968b622055c808ad82c4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 20:00 WIB] ⏳ 19:40:41  Atletico de Madrid U19 🆚  Club Brugge U19 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/41943555.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6bce2ab72e4ab293f4f3199af4286b4d.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 21:00 WIB] ⏳ 20:40:41  Al Ansar 🆚  Al Ahed 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU5MTUwODcuZmx2&expire=1773685158&salt=276999524da87226&sig=7bce72f93bd76b134340c605efb5f4f186951710bdd69e5f7c09175a39743332
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6bce2ab72e4ab293f4f3199af4286b4d.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 21:00 WIB] ⏳ 20:40:41  Al Ansar 🆚  Al Ahed 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/75915087.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b6a144b441bfd3ff6d4179d4b04b9693.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 21:40:41  Braga U23 🆚  Leixoes U23 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNjg4NDg1OTQuZmx2&expire=1773685158&salt=6e18d8ae3b78c812&sig=c6eb5d9300b6b12a3fbd7ec252bef067b644693aa4dd034934452b2718c77ef5
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b6a144b441bfd3ff6d4179d4b04b9693.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 21:40:41  Braga U23 🆚  Leixoes U23 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/68848594.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/aecc25c138f425cbadd3ddf98f0b6751.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 21:40:41  Villarreal U19 🆚  Paris Saint Germain U19 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773685158&salt=89e6a21edc2ec0af&sig=f8db97be41589663fb05697e1089604697991046ae72ac62f14bcc207e32c623
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/aecc25c138f425cbadd3ddf98f0b6751.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 21:40:41  Villarreal U19 🆚  Paris Saint Germain U19 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/07428422.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 16:40:42  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDM2MTIyNzcuZmx2&expire=1773685158&salt=a603b400568225e6&sig=96afa800ff228f0970dd2245624a5dbef1d525304456beb59b0774878599b6dd
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 16:40:42  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/43612277.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 16:40:42  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU5MTUwODcuZmx2&expire=1773685158&salt=31a64841009b7d1b&sig=d88a8e23a098148b376a07eca381997a5016ee795aaeafdeb96ce5b9269e9be3
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 16:40:42  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/75915087.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 24:25:41  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDg1NTI4OTUuZmx2&expire=1773685158&salt=217dbf078856e7bc&sig=acd6a216611bbdf7a315ccb18e46ff3727339ffaa39d91d42acbc89db4860fde
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 24:25:41  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/08552895.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 24:25:41  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzk2NjUzNDMuZmx2&expire=1773685158&salt=15d47aa352477a2e&sig=75ad8aa9ebeeed5d8f05d6d00eb68f1085c359944b393842a7852438dc2dab35
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 24:25:41  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/79665343.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:41  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773685158&salt=d606c9c397e557fa&sig=73b79e346bf3126b79384fe0f8cf7101527298cde894626f5e1ccfb4498b121d
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:41  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/07428422.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:41  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMzM5ODIzMDkuZmx2&expire=1773685158&salt=0f1d9331b3c20d53&sig=0f8300b1544dd5469a26910a26eddf5805606a6ac0be0ccad57192ec39301760
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:41  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/33982309.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:41  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS5]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDM2MTIyNzcuZmx2&expire=1773685158&salt=7a9b5cc2089e2166&sig=1811410d921a71195c4b97a4437552f60e03557d76344c5be8a834ca3335e31f
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:41  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS6]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/43612277.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:41  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ4MzA3MTEuZmx2&expire=1773685158&salt=d3179af9f254a83e&sig=3628e158d855f114291d3ea918e4c2ad66759f1f12c5975ef4d76e8fb2a30e96
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:41  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/14830711.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:41  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773685158&salt=266b71c0ac0cfdd5&sig=84aef5a64f0abe8958270b599f4cc644fcfbc313fd5b531a88324ac42a4ad563
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:41  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/24561735.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:41  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS5]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773685158&salt=8df8b51094c87c8e&sig=ade21dd363c382277c21780ed4542e599e0f5c738681d82fd81dbc5f696c659c
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:41  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS6]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/97312754.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:41  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc4MDg3NDIuZmx2&expire=1773685158&salt=dac00276f086ebbd&sig=0781d561c9b712cea0b1b3c9da8b4f16d69b9b9dd7f62acaa1b02a3d81fdfe9c
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:41  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/07808742.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:41  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773685158&salt=6a4700a87b698b67&sig=8936faf91d7153b107941b2bdd4aa4a6a763e247d4df279fdac18ddd63c3a170
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:41  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/41943555.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:41  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS5]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzg5MDU3NDQuZmx2&expire=1773685158&salt=4fd88755db7475df&sig=bae90b16525cf7ac82da4234fbde001c15a81bbd1b73a6d33b41f773f7003b65
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:41  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS6]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/78905744.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 06:00 WIB] ⏳ 29:40:41  Orlando Magic 🆚  Oklahoma City Thunder 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773685158&salt=281c0a16a38711fe&sig=5bdd9e121708d0da7e59568c768c042981a0f913675640befd30cd54ec36a25d
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 06:00 WIB] ⏳ 29:40:41  Orlando Magic 🆚  Oklahoma City Thunder 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/82054853.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/caff6f729db9dc68b1938f6533b0fa14.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 05:00 WIB] ⏳ 28:40:41  Lanus 🆚  Newells Old Boys 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzE0MjYzMTQuZmx2&expire=1773685158&salt=e2eae79c5ab027de&sig=e443410ec3d5b9cdf278617f58b1613cb6f31068ac79b7f173396b009f57697d
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/caff6f729db9dc68b1938f6533b0fa14.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 05:00 WIB] ⏳ 28:40:41  Lanus 🆚  Newells Old Boys 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/71426314.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/532600afe76be2528effd5790fb51a33.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:55:41  Gimnasia Mendoza 🆚  Estudiantes La Plata 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU3NDgwOTcuZmx2&expire=1773685158&salt=e206cb977c42b38d&sig=5388748c9f3782e76ddb5c724eab7b825a6c7e3f2ae97367d34600e20d0e10a6
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/532600afe76be2528effd5790fb51a33.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:55:41  Gimnasia Mendoza 🆚  Estudiantes La Plata 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/75748097.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:55:41  Central Cordoba SDE 🆚  Dep. Riestra 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ3MDcxMjQuZmx2&expire=1773685158&salt=c7a68be6ad046a45&sig=e0b1d1e7d1c9acd780e6c85a671cb876f62cc39415a002850cfc688ab7c7ec6e
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:55:41  Central Cordoba SDE 🆚  Dep. Riestra 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/14707124.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dff00f1fd4a7dd2feac000b462416867.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:00 WIB] ⏳ 23:40:41  Fenerbahce 🆚  Gaziantep Buyuksehir Belediyesi 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODc1NDc1NzguZmx2&expire=1773685158&salt=0278ac8cb3d9550b&sig=80f36d696b79ae418a9342e3fc58e027a2adf80c6207113b2344e4daebabe470
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dff00f1fd4a7dd2feac000b462416867.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:00 WIB] ⏳ 23:40:41  Fenerbahce 🆚  Gaziantep Buyuksehir Belediyesi 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/87547578.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 08:00 WIB] ⏳ 31:40:41  Alajuelense 🆚  Los Angeles FC 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA3MjU0NzAuZmx2&expire=1773685158&salt=be6814c8ff1eb093&sig=312a7bf5be8edf0e6d2f90bfdf8f7bb17141b0266a9e6446f39b9857a69ca680
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 08:00 WIB] ⏳ 31:40:41  Alajuelense 🆚  Los Angeles FC 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/90725470.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee170662c1911f3d2f7746f6539f2604.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 23:30 WIB] ⏳ 23:10:41  Krasnodar 🆚  CSKA Moscow 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ4MzA3MTEuZmx2&expire=1773685158&salt=e46d03860531ed31&sig=754462de9935f53c2024e5c2035e4b7c9b2c5d8ceec65d036751c4b1f6b53221
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee170662c1911f3d2f7746f6539f2604.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 23:30 WIB] ⏳ 23:10:41  Krasnodar 🆚  CSKA Moscow 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/14830711.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 09:00 WIB] ⏳ 32:40:41  Denver Nuggets 🆚  Philadelphia 76ers 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODczNzkxMTQuZmx2&expire=1773685158&salt=6ccd3fd08588c886&sig=c2cd0b05cb30d21244d9c9f33ad4cc215ed23fe1bd595ba847e00fe6caf971a4
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 09:00 WIB] ⏳ 32:40:41  Denver Nuggets 🆚  Philadelphia 76ers 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/87379114.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:00 WIB] ⏳ 33:40:41  Cruz Azul 🆚  Monterrey 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDI0NTY5NjYuZmx2&expire=1773685158&salt=f8596cf29f991893&sig=33c9e5ea432a3316091ab9436c172e211736e0f19e475c228aa3a43f9f2a9aa0
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:00 WIB] ⏳ 33:40:41  Cruz Azul 🆚  Monterrey 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 07:00 WIB] ⏳ 05:48:08  Chicago Bulls 🆚  Memphis Grizzlies 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/02456966.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d69f7b4e5781756f141810f0716bcbe6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:06 WIB] ⏳ 33:46:41  Club Tijuana Nữ 🆚  U.N.A.M.- Pumas Nữ 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 16:18:07  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNjg4NDg1OTQuZmx2&expire=1773685158&salt=d0e3c89bcc27e679&sig=c6d29b08d839100c28f1dac0e619c669c2d937a3b4aa6d0c4dbe2d91e07afcf1
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773688312&salt=747e69852aa91860&sig=44d0874f902d9096ada7ba0aea022a89de4799e95ef3dc29ab3fa31e2d05cba2
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d69f7b4e5781756f141810f0716bcbe6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:06 WIB] ⏳ 33:46:41  Club Tijuana Nữ 🆚  U.N.A.M.- Pumas Nữ 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 16:18:07  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/24561735.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 16:18:07  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzg5MDU3NDQuZmx2&expire=1773688312&salt=365ae5b018708fb8&sig=bdf0290cbf565aaff8360c0122c27a54bbd96a8c41593399de77ea90e9af8762
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 16:18:07  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/78905744.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b39d3c74dea7f5c47361e7733c1932b2.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:00 WIB] ⏳ 16:48:07  Torreense U23 🆚  Santa Clara U23 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODc1NDc1NzguZmx2&expire=1773688312&salt=574381c97a3f8c54&sig=4c5cff131659480bfde4261c8cfd3c7311cd59f9c214b65bda86a188f294b5fb
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b39d3c74dea7f5c47361e7733c1932b2.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:00 WIB] ⏳ 16:48:07  Torreense U23 🆚  Santa Clara U23 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/87547578.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/5689743705f1852f10597c559323f04a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 17:23:07  Guangdong Southern Tigers 🆚  Xinjiang Yilite 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773688312&salt=28db28a3feda04e0&sig=02e33573cce8627b012b2a7eadb4d13f148e0bccd9f3efbc92c0a7aa60a4e9b3
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/5689743705f1852f10597c559323f04a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 17:23:07  Guangdong Southern Tigers 🆚  Xinjiang Yilite 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/82054853.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dd126282a3ed968b622055c808ad82c4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 20:00 WIB] ⏳ 18:48:07  Atletico de Madrid U19 🆚  Club Brugge U19 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773688312&salt=f99d97e8618f829f&sig=f33870d58f6daaddb32de2daa98eec801cfa3ab2eb6d7b93b6a888ea598dc79f
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dd126282a3ed968b622055c808ad82c4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 20:00 WIB] ⏳ 18:48:07  Atletico de Madrid U19 🆚  Club Brugge U19 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/41943555.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/093b019417397a95732e569df7f2a8f0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 19:00 WIB] ⏳ 17:48:07  Kaspij Aktau 🆚  Okzhetpes 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773688312&salt=e54aca5e9b8e7e8b&sig=3dc45063c539db99af7cae3af02b3aa7b514529152bc81e5f69521253b7a6eb9
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/093b019417397a95732e569df7f2a8f0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 19:00 WIB] ⏳ 17:48:07  Kaspij Aktau 🆚  Okzhetpes 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/90865415.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6bce2ab72e4ab293f4f3199af4286b4d.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 21:00 WIB] ⏳ 19:48:07  Al Ansar 🆚  Al Ahed 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU5MTUwODcuZmx2&expire=1773688312&salt=b1e9969176788b21&sig=a71f189b73d9a8455e5cb782ef2c2e2943c8cefb862fb9f337a6d082265880a6
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6bce2ab72e4ab293f4f3199af4286b4d.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 21:00 WIB] ⏳ 19:48:07  Al Ansar 🆚  Al Ahed 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/75915087.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/aecc25c138f425cbadd3ddf98f0b6751.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 20:48:07  Villarreal U19 🆚  Paris Saint Germain U19 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773688312&salt=004e6d4b772e6a58&sig=1a760604a3882b71a54c903352e0c42755d3485f65d5a2ee39682c481ff402ac
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/aecc25c138f425cbadd3ddf98f0b6751.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 20:48:07  Villarreal U19 🆚  Paris Saint Germain U19 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/07428422.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b6a144b441bfd3ff6d4179d4b04b9693.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 20:48:07  Braga U23 🆚  Leixoes U23 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNjg4NDg1OTQuZmx2&expire=1773688312&salt=602d7e6fd58ec148&sig=5eb800b57ed885a8c80e7230a6bace5899e0c4e5a82f4d062da5414aab68b17f
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b6a144b441bfd3ff6d4179d4b04b9693.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 20:48:07  Braga U23 🆚  Leixoes U23 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/68848594.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6d2cab607ba1b908c2c71225581b06ee.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 12:30 WIB] ⏳ 36:10:41  Melbourne City Nữ 🆚  Adelaide Nữ 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dff00f1fd4a7dd2feac000b462416867.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:00 WIB] ⏳ 22:48:07  Fenerbahce 🆚  Gaziantep Buyuksehir Belediyesi 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTkxMjE1MjUuZmx2&expire=1773685158&salt=11e80be348258725&sig=0c891c1157354b777dd4d40042d599abca38aee75e8b94c78046e7895158ba50
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODc1NDc1NzguZmx2&expire=1773688312&salt=a4fd8783f9bd6bad&sig=8fbe2b511fc7b94325ca997dadb8ed4ff516f3576b36a0ec77690f0f5954fed9
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6d2cab607ba1b908c2c71225581b06ee.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 12:30 WIB] ⏳ 36:10:41  Melbourne City Nữ 🆚  Adelaide Nữ 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dff00f1fd4a7dd2feac000b462416867.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:00 WIB] ⏳ 22:48:07  Fenerbahce 🆚  Gaziantep Buyuksehir Belediyesi 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/99121525.m3u8
+https://live5.msrktz.app/live/87547578.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:30 WIB] ⏳ 40:10:41  Cerezo Osaka 🆚  Fagiano Okayama 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 23:33:07  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDM2MTIyNzcuZmx2&expire=1773685158&salt=1630b1b9c20f8ab1&sig=3ba0e406d8bebaa60fe14637788ed703cf1d5124cc0381e6b9144ce83da0207a
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDg1NTI4OTUuZmx2&expire=1773688312&salt=e25a62878e9f077a&sig=3664459c13c1a84d0568ddb237eebb7b1c50f8a797b963fb8d339994b7a1da03
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:30 WIB] ⏳ 40:10:41  Cerezo Osaka 🆚  Fagiano Okayama 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 23:33:07  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/08552895.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 23:33:07  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzk2NjUzNDMuZmx2&expire=1773688312&salt=f5144aebf03965fb&sig=94cfbcc5f87e1658f1c88a77a506edb8ffbe9696ce9988ae42cd0545c45b19ff
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 23:33:07  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/79665343.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:07  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773688312&salt=d4df7eac5d5212c8&sig=aecaeefd117318317527b46c4129cfd941c43e36485b0b6799c6bb619294219c
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:07  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/07428422.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:07  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMzM5ODIzMDkuZmx2&expire=1773688312&salt=0ce887750d54f3c5&sig=790282b05818c0ab7f5e4ef3c26ccd0d8f23318e90cb3727b15ad722b3ee52ab
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:07  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/33982309.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:07  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS5]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDM2MTIyNzcuZmx2&expire=1773688312&salt=aaf1717d9c742188&sig=dc5bf6aad8ad324ad73dcf82348babb0e420766f37309bcd0e69d6e7e8d410f5
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:07  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS6]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/43612277.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 39:40:41  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:07  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTg4MTIzMDQuZmx2&expire=1773685158&salt=a53870f8580ad6ad&sig=83248eff84de968b3d54e2f69b8bb60e97196b6c848693835311bd706269bc41
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ4MzA3MTEuZmx2&expire=1773688312&salt=f3093d358a052123&sig=1666bf65df17964b34a87eec56d3a9d4002736e082a8b5c6cc8a900084410c5b
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 39:40:41  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:07  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/14830711.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:07  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773688312&salt=2c7ce6fd0f73d2e3&sig=9be537460be6ba0c46ce50cda974ade7a879e370ea422c29c175e2215779f1d0
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:07  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/24561735.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:07  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS5]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773688312&salt=1c28cfbb44a9bff2&sig=4369984507e5292607becc327da0e312675636bc1b83172a295a4f4951d7d7b9
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:07  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS6]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/97312754.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f7ad4ca154d205eb1799c5a1d1ff3370.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 17:23:07  Shanxi Fenjiu 🆚  Beijing Konggu 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ3MDcxMjQuZmx2&expire=1773688312&salt=a7f6e77b35ee073e&sig=b93018b17558e01480799156564b58df3248a1969613bf58481988994e420b9b
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f7ad4ca154d205eb1799c5a1d1ff3370.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 17:23:07  Shanxi Fenjiu 🆚  Beijing Konggu 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/14707124.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:07  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc4MDg3NDIuZmx2&expire=1773688312&salt=a90fd8e92a229cad&sig=5f6b186a551bfb1eb4247f0f4bee40f39b51a3bc3dded2e00ba02f8f4306c498
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:07  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/07808742.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:07  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773688312&salt=9c1c60fa9553a8a9&sig=28a19f4b55e9ca4a9b90d65150deff295ca83536bfa220e543c4b5905d9777b7
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:07  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/41943555.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:07  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS5]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzg5MDU3NDQuZmx2&expire=1773688312&salt=9b2afebec2b82798&sig=3b4d10a746466e5e1880b09ddc4702236bc94caa5e8a709c9321677ebca0b767
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:07  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS6]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/78905744.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/caff6f729db9dc68b1938f6533b0fa14.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 05:00 WIB] ⏳ 27:48:07  Lanus 🆚  Newells Old Boys 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzE0MjYzMTQuZmx2&expire=1773688312&salt=e5bd03e5ca278c7b&sig=b3e2781dcb3f13858f5db6d4f0877af35cf36e7eaaad09868f41300f41a86fa5
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/caff6f729db9dc68b1938f6533b0fa14.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 05:00 WIB] ⏳ 27:48:07  Lanus 🆚  Newells Old Boys 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/71426314.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 06:00 WIB] ⏳ 28:48:07  Orlando Magic 🆚  Oklahoma City Thunder 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773688312&salt=3dd662e0d0f96ab6&sig=f6b8755c83ef07ebce647bda18c0e59c34f9f8044732d3a43ae9f66b4a9de8b3
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 06:00 WIB] ⏳ 28:48:07  Orlando Magic 🆚  Oklahoma City Thunder 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/82054853.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee170662c1911f3d2f7746f6539f2604.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 23:30 WIB] ⏳ 22:18:07  Krasnodar 🆚  CSKA Moscow 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ4MzA3MTEuZmx2&expire=1773688312&salt=f619678a687a2b58&sig=47b2f671e7164aad8ceca16c0ec9477dbe46f5c4bd618acd9bec068ff2b56f95
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee170662c1911f3d2f7746f6539f2604.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 23:30 WIB] ⏳ 22:18:07  Krasnodar 🆚  CSKA Moscow 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/14830711.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/532600afe76be2528effd5790fb51a33.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:03:07  Gimnasia Mendoza 🆚  Estudiantes La Plata 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU3NDgwOTcuZmx2&expire=1773688312&salt=4741e2d2dad0df70&sig=82df88eab16c7ad1d5deb97aa9dd8bcf39b0bc7b9f3796df80286f8cc42f5a96
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/532600afe76be2528effd5790fb51a33.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:03:07  Gimnasia Mendoza 🆚  Estudiantes La Plata 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/75748097.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:03:07  Central Cordoba SDE 🆚  Dep. Riestra 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ3MDcxMjQuZmx2&expire=1773688312&salt=e3d5b2cfc06af914&sig=767cae2e38a95109d57af8eacad70fccd0d372f78989deb4ff91ef65a96553c5
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:03:07  Central Cordoba SDE 🆚  Dep. Riestra 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/14707124.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 08:00 WIB] ⏳ 30:48:07  Alajuelense 🆚  Los Angeles FC 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA3MjU0NzAuZmx2&expire=1773688312&salt=ff7bb98e1001a8ab&sig=37333d7ce361ee46a1f417867d15220d1f090ffe9cf1a8f16454db679fd39124
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 08:00 WIB] ⏳ 30:48:07  Alajuelense 🆚  Los Angeles FC 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/90725470.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 09:00 WIB] ⏳ 31:48:07  Denver Nuggets 🆚  Philadelphia 76ers 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODczNzkxMTQuZmx2&expire=1773688312&salt=f7d9bfb55b78e434&sig=2a6dbd9b329ff05ff05882600a58304d392368f959a66df103f8a81f71e31ad5
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 09:00 WIB] ⏳ 31:48:07  Denver Nuggets 🆚  Philadelphia 76ers 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/87379114.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:00 WIB] ⏳ 32:48:07  Cruz Azul 🆚  Monterrey 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDI0NTY5NjYuZmx2&expire=1773688312&salt=9d2346e4bf21ae4a&sig=cd6d35230966b069117f6c333c14aeab75372007bed72d9a0e6a81fff63d849a
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:00 WIB] ⏳ 32:48:07  Cruz Azul 🆚  Monterrey 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/02456966.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6d2cab607ba1b908c2c71225581b06ee.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 12:30 WIB] ⏳ 35:18:07  Melbourne City Nữ 🆚  Adelaide Nữ 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTkxMjE1MjUuZmx2&expire=1773688312&salt=3ed1962847bab7ce&sig=a73cb32cb8bed96edbca77b0a54dc0aefb36ada5ca3e3d8d7aa8d0e93bb97fb7
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6d2cab607ba1b908c2c71225581b06ee.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 12:30 WIB] ⏳ 35:18:07  Melbourne City Nữ 🆚  Adelaide Nữ 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/99121525.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 38:48:07  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTg4MTIzMDQuZmx2&expire=1773688312&salt=73ae372e12330ece&sig=267790430c596f67a0003f6938a7dffaa6471b8c07148c684b4f20639e377db0
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 38:48:07  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/18812304.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 39:40:41  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS3]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 38:48:07  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODczNzkxMTQuZmx2&expire=1773685158&salt=376af3067c3ae93b&sig=fc572c89155d291c8c0bc11e3e90a92681f2f7fcad7d08eebb77056efa01b17f
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODczNzkxMTQuZmx2&expire=1773688312&salt=bd32a59e0446eea2&sig=280ccba3a2cf59239ed2d1867161dccbc36646cbdfdd05fcaff79ae3ef89355c
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 39:40:41  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS4]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 38:48:07  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/87379114.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 40:40:41  Chiba 🆚  Tokyo 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 39:48:07  Chiba 🆚  Tokyo 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzk2NjUzNDMuZmx2&expire=1773685158&salt=0344975b2216304a&sig=768dec6cd0da8c8592ca18511e7e5ba3d99a5755bc5f855a8525f13f05caa7c2
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzk2NjUzNDMuZmx2&expire=1773688313&salt=b4bdc7739b5396c8&sig=95d5dc500c0336d40c3275b81516366551a710c749fdedd4830c3dfdd3d9361c
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 40:40:41  Chiba 🆚  Tokyo 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/79665343.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 40:40:41  Nagoya Grampus 🆚  Sanfrecce Hiroshima 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc4MDg3NDIuZmx2&expire=1773685158&salt=881698547c4fb1a1&sig=ae1580eba39bfaf011de2b95c823f7e04cd502e3124aa2326f7e4533bd394e84
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 40:40:41  Nagoya Grampus 🆚  Sanfrecce Hiroshima 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/07808742.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d85cce27ab583e5b3cead155f02b098a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 40:40:41  Vissel Kobe 🆚  Gamba Osaka 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU5MTUwODcuZmx2&expire=1773685158&salt=c45d3e74d1af964e&sig=971f3fe9b87ca943979b7c25f1f98da2b5dce40f1f0a6590f78934cbf6acffec
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d85cce27ab583e5b3cead155f02b098a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 40:40:41  Vissel Kobe 🆚  Gamba Osaka 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/75915087.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 41:10:41  Machida 🆚  Kashima Antlers 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773685158&salt=09461bf9c3da23fa&sig=01cf5d1fd2b0a47d2860bf7f3fe6248237a7c32419bc87a76f9e5d64377c5fd5
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 41:10:41  Machida 🆚  Kashima Antlers 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/90865415.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 41:10:41  Bucheon FC 1995 🆚  Gangwon 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDg1NTI4OTUuZmx2&expire=1773685158&salt=e844fc10696899fb&sig=c34ee408d66eb8a823f9a91acbd0d7a5d7b591727e2ae0c9b2edd59ec7e40c0e
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 41:10:41  Bucheon FC 1995 🆚  Gangwon 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/08552895.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/12fe4d3ee5c01134d48584015c4646f3.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 41:40:41  Pathum United 🆚  Mahasarakham United FC 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODg1MDg0MzEuZmx2&expire=1773685159&salt=6391536447e56d74&sig=1fc929baaab2e52678144d205cd0e521e2b5e406869e12b0fee8114e1f0bab7c
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/12fe4d3ee5c01134d48584015c4646f3.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 41:40:41  Pathum United 🆚  Mahasarakham United FC 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/88508431.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/46a4867487152e47c4dc61984d0c58aa.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 41:40:41  SHB Đà Nẵng 🆚  Nam Định 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA3MjU0NzAuZmx2&expire=1773685159&salt=044d1074371e8674&sig=44714d6775ca13b4ce80635185cecc3d3f636dbc2cee271d89a9b7a2c032b191
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/46a4867487152e47c4dc61984d0c58aa.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 41:40:41  SHB Đà Nẵng 🆚  Nam Định 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/90725470.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 41:10:41  Jeonbuk Hyundai Motors 🆚  FC Anyang 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU3NDgwOTcuZmx2&expire=1773685159&salt=1d55dc5710c78838&sig=7dbeabae0db4c6b6ed099166ec760f7b456193590b1d0dbdc9fbd33e8f027958
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 41:10:41  Jeonbuk Hyundai Motors 🆚  FC Anyang 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/75748097.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/1125281dafbf06dad029825221e83d5a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:35 WIB] ⏳ 42:15:41  Shanghai 🆚  Shandong Hi-Speed 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773685159&salt=4cf870f092b6cbc7&sig=7c6c5ee86bc532c16757d7f71d3b6fb8b8443375b04541c9e6c1cab0494ec930
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/1125281dafbf06dad029825221e83d5a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:35 WIB] ⏳ 42:15:41  Shanghai 🆚  Shandong Hi-Speed 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/82054853.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4fe4cf906ee7b1399a1b0468432c74cd.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 19:00 WIB] ⏳ 42:40:41  Pattani 🆚  Buriram 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773685159&salt=8efe907883f2cdde&sig=60d7b415b327a0b79399e1603414bd37b5186b089d084f1a51415ff9903fa36b
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4fe4cf906ee7b1399a1b0468432c74cd.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 19:00 WIB] ⏳ 42:40:41  Pattani 🆚  Buriram 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/41943555.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5e754f0f66a62ae8806a63677b45caa4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 43:40:41  Real Madrid U19 🆚  Sporting CP U19 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773685159&salt=af6eb8fe20e03002&sig=00fb2a0540f02da631ce3584470b8f4dab4b95326102bef15eec5ff100dbf1c3
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5e754f0f66a62ae8806a63677b45caa4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 43:40:41  Real Madrid U19 🆚  Sporting CP U19 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/90865415.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 21:00 WIB] ⏳ 44:40:41  Johor Darul Takzim 🆚  PDRM FC 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDI0NTY5NjYuZmx2&expire=1773685159&salt=11f452c190a7c915&sig=290f2738b13567bc08142d50b39ab4356126ee26629fdae0335c2fb1e8818aa2
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 21:00 WIB] ⏳ 44:40:41  Johor Darul Takzim 🆚  PDRM FC 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/02456966.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0688ed133dadf5f09bb94c8414ec5565.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 43:40:41  Alanyaspor 🆚  Kocaelispor 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773685159&salt=2e62f7171e4accec&sig=0561300d77eb42929217bf4312ab88f2be6cef6d76d2dae93372d3e13beb3c37
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0688ed133dadf5f09bb94c8414ec5565.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 43:40:41  Alanyaspor 🆚  Kocaelispor 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/07428422.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 46:10:41  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773685159&salt=8391a009620d7324&sig=5f2d50acc17d6820bdd03ac8374d09740d40826594d8cca45c81a71155e36845
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 46:10:41  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/24561735.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 46:10:41  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773685159&salt=c47a2bdec0e61cbe&sig=e1dcb251ea0d56dd8adebb805f3078bfc532767520c75bb18bac971baae6be2f
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 46:10:41  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/97312754.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/39a3e7650b6d913f15de2d68ef7ef4d4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 01:00 WIB] ⏳ 00:40:40  Silkeborg 🆚  Vejle 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODc1NDc1NzguZmx2&expire=1773685159&salt=88b402781c644b0d&sig=6c9cc7fda08ffbcae50b67a2313cb97ca2180cd99bc51aedc1838ddf0de3aa2d
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/39a3e7650b6d913f15de2d68ef7ef4d4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 01:00 WIB] ⏳ 00:40:40  Silkeborg 🆚  Vejle 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/87547578.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7b7d2b65c1ee63aee9e79ebafb2f0bc7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 01:00 WIB] ⏳ 00:40:40  Pogon Szczecin 🆚  Korona Kielce 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTkxMjE1MjUuZmx2&expire=1773685159&salt=841cec7c90b46c27&sig=306a68b17a5c5110f68705eb5e6fb78ef315ba3021be0a2af66d77ef1d722ebd
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7b7d2b65c1ee63aee9e79ebafb2f0bc7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 01:00 WIB] ⏳ 00:40:40  Pogon Szczecin 🆚  Korona Kielce 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/99121525.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:40  Rayo Vallecano 🆚  Levante 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773685159&salt=080835c3a2c6a278&sig=de2876d53139bd9e6b3e2d145be0619149a317d7fb74784de5a1daee1af300d7
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:40  Rayo Vallecano 🆚  Levante 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/07428422.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0b0e25267dabd15c405070329df5fbdb.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 02:45 WIB] ⏳ 02:25:40  U.S. Cremonese 🆚  ACF Fiorentina 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773685159&salt=807128a7ac9cb066&sig=c14749bdda236f611a5d7e18bbf1617721ff674b008667193a770a863b2cfd8c
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0b0e25267dabd15c405070329df5fbdb.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 02:45 WIB] ⏳ 02:25:40  U.S. Cremonese 🆚  ACF Fiorentina 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/41943555.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:40  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773685159&salt=7f4b1b2f318cd18a&sig=35708b0a4b6c174ad10c060bd0690a8a21f9101657a85a67624cca529cbdde19
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:40  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/24561735.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:40  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzk2NjUzNDMuZmx2&expire=1773685159&salt=ea3e39a483fb2621&sig=b4a915a0f2daa9538c1f5686b82d4efd3c808ae6be0e717ac8c6b511455a2988
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:40  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS4]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 39:48:07  Chiba 🆚  Tokyo 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/79665343.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:40  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS5]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d69f7b4e5781756f141810f0716bcbe6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:06 WIB] ⏳ 32:54:07  Club Tijuana Nữ 🆚  U.N.A.M.- Pumas Nữ 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773685159&salt=d7d6a2372df4a5d9&sig=60f65df7a7568678b44e52e15862c736495a1b327befc6b950e2ec70ce6b5a2e
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNjg4NDg1OTQuZmx2&expire=1773688313&salt=416591670cca1516&sig=ff04519f6729d95b6ff8e00868bb8871a355d18ca5543138b9f29c9bace37830
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:40  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS6]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/97312754.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2f360e96a024fd54255d0ed941e9075e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:40  Portsmouth 🆚  Derby County 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDg1NTI4OTUuZmx2&expire=1773685159&salt=e9a6d14052f54dc3&sig=0c925452b422c5dbe3e91fe4356b59641477e765ec3f67074f820061d64a5402
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2f360e96a024fd54255d0ed941e9075e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:40  Portsmouth 🆚  Derby County 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/08552895.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/65d05eaf7edc601ae236107417b01cbf.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 04:30 WIB] ⏳ 04:10:40  San Lorenzo 🆚  Defensa y Justicia 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNjg4NDg1OTQuZmx2&expire=1773685159&salt=bbac121051a9fad9&sig=10eac942a76ea9a59eca3971909e8dcf88fd2f8618edf0981d23a891bce0b0ea
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/65d05eaf7edc601ae236107417b01cbf.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 04:30 WIB] ⏳ 04:10:40  San Lorenzo 🆚  Defensa y Justicia 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d69f7b4e5781756f141810f0716bcbe6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:06 WIB] ⏳ 32:54:07  Club Tijuana Nữ 🆚  U.N.A.M.- Pumas Nữ 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/68848594.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 07:00 WIB] ⏳ 06:40:40  Chicago Bulls 🆚  Memphis Grizzlies 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:30 WIB] ⏳ 39:18:07  Cerezo Osaka 🆚  Fagiano Okayama 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDI0NTY5NjYuZmx2&expire=1773685159&salt=889d39db98a7394a&sig=42b9a51909f103ca828c0be339ab979ef1076a15da139cfab1d2611440269ed7
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDM2MTIyNzcuZmx2&expire=1773688313&salt=212c805bc1c59181&sig=95f00c5b4f46fd907f7e8cdca3753f7fd5a352f9c0a788a1e085e75038916cc0
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 07:00 WIB] ⏳ 06:40:40  Chicago Bulls 🆚  Memphis Grizzlies 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/02456966.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 05:40:40  Chapecoense SC 🆚  Gremio 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA3MjU0NzAuZmx2&expire=1773685159&salt=510dfd4750b69b98&sig=c94c4c3ca6c13aca4618ce18afdb832fea1a6d8c6075e6b07c9a494a0fb1c7d3
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 05:40:40  Chapecoense SC 🆚  Gremio 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/90725470.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a01279fdf6589b3c11529ca1ab4201fc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:15 WIB] ⏳ 07:55:40  Instituto 🆚  Independiente 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU3NDgwOTcuZmx2&expire=1773685159&salt=aa6ea61345ee9c7d&sig=0fd66b0fae96bebd7d736c08fc44c1b30c324504d3c2a72dff7e47060548b688
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a01279fdf6589b3c11529ca1ab4201fc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:15 WIB] ⏳ 07:55:40  Instituto 🆚  Independiente 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/75748097.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 08:40:40  Los Angeles Clippers 🆚  San Antonio Spurs 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODczNzkxMTQuZmx2&expire=1773685159&salt=d8498cddbc56a323&sig=89278d3608f0315691b8cbf482d202e664750ffcaab0cbfb5cf4e61981d5e929
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 08:40:40  Los Angeles Clippers 🆚  San Antonio Spurs 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/87379114.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:30 WIB] ⏳ 08:10:40  Houston Rockets 🆚  Los Angeles Lakers 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773685159&salt=684af47a685c3513&sig=d06ac1b94ce8b6a380161d587ff51827f0dde4809982321d12d5d270ce37f8af
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:30 WIB] ⏳ 08:10:40  Houston Rockets 🆚  Los Angeles Lakers 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/82054853.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/988d4c293006d45d1f453c9ee2884022.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 08:40:40  Club America Nữ 🆚  Toluca Nữ 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMzM5ODIzMDkuZmx2&expire=1773685159&salt=76a8387a3ebe4e31&sig=a4a64036085e430135c8ea7765f8f09a7ec4b589eca67c5d91375d7a0e9a778b
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/988d4c293006d45d1f453c9ee2884022.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 08:40:40  Club America Nữ 🆚  Toluca Nữ 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/33982309.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8e279a6f57d4768f5f1fa3bb28fd3a8a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 10:00 WIB] ⏳ 09:40:40  Club Leon Nữ 🆚  Mazatlan FC Nữ 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc4MDg3NDIuZmx2&expire=1773685159&salt=493821f269861aa2&sig=27b9fe06127fed3c024f972ef6efe21b6c30961907da216235df221e8bd2abfb
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8e279a6f57d4768f5f1fa3bb28fd3a8a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 10:00 WIB] ⏳ 09:40:40  Club Leon Nữ 🆚  Mazatlan FC Nữ 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/07808742.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 14:40:40  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ4MzA3MTEuZmx2&expire=1773685159&salt=037e6fa5c478c7e4&sig=484d2ad18260a6731dc6709b4f5e6a59f8903ba4306f0cbba5ccf77bdc480fda
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 14:40:40  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/14830711.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 14:40:40  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773685159&salt=bca952b18a497abf&sig=76c7719179ba702c19b67da36e02a0027248b4e3266a3f881d23c8af99056f62
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 14:40:40  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/97312754.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d20eb37b84651856f8524464b9d9273e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:00 WIB] ⏳ 15:40:40  Yarmanya United FC 🆚  Thitsar Arman FC 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773685159&salt=88f06eeec75f8f7d&sig=750f245f65c993ea7c339b9c3921376dfd4dadc388e97de62d525736ac4cf2a6
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d20eb37b84651856f8524464b9d9273e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:00 WIB] ⏳ 15:40:40  Yarmanya United FC 🆚  Thitsar Arman FC 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/90865415.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 05:40:40  Racing Club 🆚  Estudiantes Rio Cuarto 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzE0MjYzMTQuZmx2&expire=1773685159&salt=af9da71f9d7bf725&sig=95884c09cd2eaccf958a91a6682dcee0f69b764c8a92c9a46f022e4a753cd009
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 05:40:40  Racing Club 🆚  Estudiantes Rio Cuarto 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/71426314.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:30 WIB] ⏳ 16:10:40  Sagaing 🆚  Ayeyawady 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODg1MDg0MzEuZmx2&expire=1773685159&salt=039fef104964dbb7&sig=2f0ace4d862575ab59089b052895b072cfc591d92a8c215bf1fa2c766a8288c0
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:30 WIB] ⏳ 16:10:40  Sagaing 🆚  Ayeyawady 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/88508431.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 16:40:40  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDM2MTIyNzcuZmx2&expire=1773685159&salt=ad1d4aa305458a05&sig=b7b2e5d5343465dfa0f5da85e9e2d47c02c08d45256c8072e0d90cb2b3e83663
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 16:40:40  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:30 WIB] ⏳ 39:18:07  Cerezo Osaka 🆚  Fagiano Okayama 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/43612277.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 16:40:40  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS3]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d85cce27ab583e5b3cead155f02b098a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 39:48:07  Vissel Kobe 🆚  Gamba Osaka 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU5MTUwODcuZmx2&expire=1773685159&salt=c9e7cc1e7e71606b&sig=9f88e7541f2c9968552705781c6ec685aca8e16ecc7c85ae2bb6eb73cbedf514
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU5MTUwODcuZmx2&expire=1773688313&salt=d14b3731d60bb6dc&sig=299724688cf6c7e5d6feddfaff69a40f60e2ccfe3cd9ee092d8a93963b57772e
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 16:40:40  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/75915087.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b39d3c74dea7f5c47361e7733c1932b2.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:00 WIB] ⏳ 17:40:40  Torreense U23 🆚  Santa Clara U23 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODc1NDc1NzguZmx2&expire=1773685159&salt=9f7046f05be83b8f&sig=a905826b1ce6a24360c555d7eedf3ca456dab51eb845b43a33cc61b7e62dc435
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b39d3c74dea7f5c47361e7733c1932b2.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:00 WIB] ⏳ 17:40:40  Torreense U23 🆚  Santa Clara U23 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/87547578.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/5689743705f1852f10597c559323f04a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 18:15:40  Guangdong Southern Tigers 🆚  Xinjiang Yilite 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773685159&salt=776b3f6cbff83475&sig=854cad9206e77029b9a175c6bfd57d205614a9b4fb54e087f28cc17e85177229
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/5689743705f1852f10597c559323f04a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 18:15:40  Guangdong Southern Tigers 🆚  Xinjiang Yilite 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/82054853.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 17:10:40  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773685159&salt=3f9c8904a731b073&sig=16a346f821d7e6c3cebd3ff348cd4a0b627bbe952a8ce7a52785ad18c6841026
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 17:10:40  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/24561735.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 17:10:40  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzg5MDU3NDQuZmx2&expire=1773685159&salt=4c2c8ce14c971029&sig=45f6ed4a50a76f9d5dec6792ef55b50f77890dab4b7a56b322a8de8f1deaf5e3
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 17:10:40  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/78905744.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f7ad4ca154d205eb1799c5a1d1ff3370.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 18:15:40  Shanxi Fenjiu 🆚  Beijing Konggu 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ3MDcxMjQuZmx2&expire=1773685159&salt=6d478d3607cbe5e0&sig=c2dce3492dc0cdcdbb5ec6dcb30129c73b1bd0e2fee7eb53bc4436541056a6e8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f7ad4ca154d205eb1799c5a1d1ff3370.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 18:15:40  Shanxi Fenjiu 🆚  Beijing Konggu 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/14707124.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/093b019417397a95732e569df7f2a8f0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 19:00 WIB] ⏳ 18:40:40  Kaspij Aktau 🆚  Okzhetpes 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773685159&salt=24b21d4bebaa6ad0&sig=941649e8ce8a734a1e8201afd92c0878f12a633ccda1a7cac8b232cb871a8995
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/093b019417397a95732e569df7f2a8f0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 19:00 WIB] ⏳ 18:40:40  Kaspij Aktau 🆚  Okzhetpes 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/90865415.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dd126282a3ed968b622055c808ad82c4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 20:00 WIB] ⏳ 19:40:40  Atletico de Madrid U19 🆚  Club Brugge U19 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773685159&salt=20dd0eae4f686a98&sig=51f99749ef41645c84fd8083839bac62d38dc2bd0b856febe04c8d3a28d46a98
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dd126282a3ed968b622055c808ad82c4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 20:00 WIB] ⏳ 19:40:40  Atletico de Madrid U19 🆚  Club Brugge U19 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/41943555.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/aecc25c138f425cbadd3ddf98f0b6751.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 21:40:40  Villarreal U19 🆚  Paris Saint Germain U19 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773685160&salt=9d1c2a25359be465&sig=b78d7e94cca73302c23c72b646906b977c3fed3cf9b9c634fb4f353d1df61b20
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/aecc25c138f425cbadd3ddf98f0b6751.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 21:40:40  Villarreal U19 🆚  Paris Saint Germain U19 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/07428422.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b6a144b441bfd3ff6d4179d4b04b9693.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 21:40:40  Braga U23 🆚  Leixoes U23 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNjg4NDg1OTQuZmx2&expire=1773685160&salt=983daccb036cf626&sig=0d37586009a21b84acbbb017301199b8c8d548526e6bfa4b59290fa2e62a2544
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b6a144b441bfd3ff6d4179d4b04b9693.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 21:40:40  Braga U23 🆚  Leixoes U23 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/68848594.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6bce2ab72e4ab293f4f3199af4286b4d.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 21:00 WIB] ⏳ 20:40:40  Al Ansar 🆚  Al Ahed 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU5MTUwODcuZmx2&expire=1773685160&salt=f74648ff3aca3fb6&sig=0476940f61953161166df338e001202c0676c35e734da1ce7bf45b3bde1ea122
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6bce2ab72e4ab293f4f3199af4286b4d.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 21:00 WIB] ⏳ 20:40:40  Al Ansar 🆚  Al Ahed 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d85cce27ab583e5b3cead155f02b098a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 39:48:07  Vissel Kobe 🆚  Gamba Osaka 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/75915087.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee170662c1911f3d2f7746f6539f2604.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 23:30 WIB] ⏳ 23:10:40  Krasnodar 🆚  CSKA Moscow 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 39:48:07  Nagoya Grampus 🆚  Sanfrecce Hiroshima 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ4MzA3MTEuZmx2&expire=1773685160&salt=4849216d29d0a9bc&sig=5e2c0ca65c03d66c0bb6bcdb6c5ae6d577b57b16ac0af0b0f6dcef461a6de1d3
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc4MDg3NDIuZmx2&expire=1773688313&salt=2652e1a9ffc93d73&sig=2e1bfb879fcaa60823705a17dcbe0801856cd50bd12d6f3c6ebbb8b8687c2655
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee170662c1911f3d2f7746f6539f2604.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 23:30 WIB] ⏳ 23:10:40  Krasnodar 🆚  CSKA Moscow 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/14830711.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dff00f1fd4a7dd2feac000b462416867.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:00 WIB] ⏳ 23:40:40  Fenerbahce 🆚  Gaziantep Buyuksehir Belediyesi 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODc1NDc1NzguZmx2&expire=1773685160&salt=5edc6fd74f81529a&sig=56af37ed51b01c28b9914ffd5c7e2cd918f51ea1834f63e15766047650cac6ba
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dff00f1fd4a7dd2feac000b462416867.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:00 WIB] ⏳ 23:40:40  Fenerbahce 🆚  Gaziantep Buyuksehir Belediyesi 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/87547578.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 24:25:40  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDg1NTI4OTUuZmx2&expire=1773685160&salt=9bd9b8b395eba738&sig=bbcb996fe03b21f4a851cf1b8f21bea375c4319f52c60534184d90610714cf13
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 24:25:40  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/08552895.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 24:25:40  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzk2NjUzNDMuZmx2&expire=1773685160&salt=aad7889df5fcdddb&sig=45950e4a5e779e9148001f6b50a45a9dd9b9462ab062c435a7dfe42c4aef37c3
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 24:25:40  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/79665343.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:40  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773685160&salt=f838d5a08ef8ad22&sig=b638c5b56c9fd41ace6b216001757143eda4b0ee4244a38d76f5e94d693035ad
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:40  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/07428422.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:40  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMzM5ODIzMDkuZmx2&expire=1773685160&salt=bab74bc2fde09b73&sig=1e7efbdf3f4642aabad08898da23050bfc6fbc28889c40940a8f4fc36f375681
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:40  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/33982309.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:40  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS5]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDM2MTIyNzcuZmx2&expire=1773685160&salt=f6ab9b54e0832c24&sig=8bf6b3500f96951375fa23584b38d05566ccf28a2321a83c38e239bb4f6b4e11
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:40  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS6]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/43612277.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:40  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc4MDg3NDIuZmx2&expire=1773685160&salt=a7d5b1fa98043090&sig=063c19fbbea6f497411f253f1003416e80c5bc78cb09dc926466e80b4b812363
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:40  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 39:48:07  Nagoya Grampus 🆚  Sanfrecce Hiroshima 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/07808742.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:40  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS3]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 40:18:07  Machida 🆚  Kashima Antlers 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773685160&salt=c0a619d4b314f8ff&sig=73ce655b48598f0e48a25c3e635d2b8f451ab44a51e6ccdbd0990276244a3c6f
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773688313&salt=2bc6271f44b59e43&sig=36974c695590c48460a963c71a2e79336df78ef47f0e63731869d8316dd62701
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:40  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS4]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 40:18:07  Machida 🆚  Kashima Antlers 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/41943555.m3u8
+https://live5.msrktz.app/live/90865415.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:40  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS5]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 40:18:07  Bucheon FC 1995 🆚  Gangwon 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzg5MDU3NDQuZmx2&expire=1773685160&salt=b1438b4c8c237a15&sig=4e9e5008d7fbd1b4f27cf61b5063b41613394ec905dc2256d99b2ebc4d5c7fc3
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDg1NTI4OTUuZmx2&expire=1773688313&salt=34fb8a3084e4ff8f&sig=675854f982b8061914570e773b8ff71e46af68756b30a8cc81882438992915d6
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:40  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS6]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 40:18:07  Bucheon FC 1995 🆚  Gangwon 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/78905744.m3u8
+https://live5.msrktz.app/live/08552895.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:40  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/12fe4d3ee5c01134d48584015c4646f3.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 40:48:07  Pathum United 🆚  Mahasarakham United FC 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ4MzA3MTEuZmx2&expire=1773685160&salt=145ed73e9c58570a&sig=ccd2d4d42adfb98c2644e912bcfc05c43868559546b666469cce34e9491ae324
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODg1MDg0MzEuZmx2&expire=1773688313&salt=de9fde6d34d5779b&sig=5ce7a52e1ca928be9c1b98bf2d00c7b9a1d95ab70f3065ec59d8df88bcbeea10
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:40  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/12fe4d3ee5c01134d48584015c4646f3.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 40:48:07  Pathum United 🆚  Mahasarakham United FC 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/14830711.m3u8
+https://live5.msrktz.app/live/88508431.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:40  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS3]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 40:18:07  Jeonbuk Hyundai Motors 🆚  FC Anyang 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773685160&salt=d1297cce0eb01342&sig=d4e3006ada346feaf97e23d58c20006ef5ede1089d5ede07da8965b4e74090a3
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU3NDgwOTcuZmx2&expire=1773688313&salt=578c2348606e02cc&sig=1f4efaaf9d00c596ab4b11775835bf0a99a3b6d9d139ba434a44f0d94c5ae10b
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:40  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/24561735.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:40  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS5]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773685160&salt=7b937fa43b51fa51&sig=d87122ae698c184a20660589e3a0b7aafd7e5d9a6694f5abcdea87fc04fa3fd3
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:40  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS6]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/97312754.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/caff6f729db9dc68b1938f6533b0fa14.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 05:00 WIB] ⏳ 28:40:40  Lanus 🆚  Newells Old Boys 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzE0MjYzMTQuZmx2&expire=1773685160&salt=e0a31726b16f4e3b&sig=99a100d20b17938b650f5a19e8d4de3712211c98bf9026487804a313d1c5ff1d
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/caff6f729db9dc68b1938f6533b0fa14.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 05:00 WIB] ⏳ 28:40:40  Lanus 🆚  Newells Old Boys 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/71426314.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 06:00 WIB] ⏳ 29:40:39  Orlando Magic 🆚  Oklahoma City Thunder 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773685160&salt=5266ad9a32a5099c&sig=4f4f4ccbcc92a71cf91c36d61b72f3883e957b66f92d215c44be13b506bd2e62
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 06:00 WIB] ⏳ 29:40:39  Orlando Magic 🆚  Oklahoma City Thunder 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/82054853.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/532600afe76be2528effd5790fb51a33.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:55:39  Gimnasia Mendoza 🆚  Estudiantes La Plata 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU3NDgwOTcuZmx2&expire=1773685160&salt=580a2168eb085ed5&sig=b520e549d2bdcb46d31057ead1807f4e42a575c8b14dfc3b49a8a51c9d524824
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/532600afe76be2528effd5790fb51a33.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:55:39  Gimnasia Mendoza 🆚  Estudiantes La Plata 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 40:18:07  Jeonbuk Hyundai Motors 🆚  FC Anyang 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/75748097.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:55:39  Central Cordoba SDE 🆚  Dep. Riestra 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/46a4867487152e47c4dc61984d0c58aa.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 40:48:07  SHB Đà Nẵng 🆚  Nam Định 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ3MDcxMjQuZmx2&expire=1773685160&salt=0ddd4520ca73b03e&sig=ae43bc0b832bc40c68fb1fa6bd3e432dedd45e1bb24560efd42872c59fdebb0b
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA3MjU0NzAuZmx2&expire=1773688313&salt=68738c872ed2db47&sig=57b0b5866de2aabb3c57765940d3723b290270cb05bdedcd0131aa8b439b822e
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:55:39  Central Cordoba SDE 🆚  Dep. Riestra 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/14707124.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 08:00 WIB] ⏳ 31:40:39  Alajuelense 🆚  Los Angeles FC 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA3MjU0NzAuZmx2&expire=1773685160&salt=15ca6ba21c0a164e&sig=fdce75ee8de08e4bc4c34721917efc5ae64f8a58df3bc2fd67d35f41a34b09ea
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 08:00 WIB] ⏳ 31:40:39  Alajuelense 🆚  Los Angeles FC 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/46a4867487152e47c4dc61984d0c58aa.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 40:48:07  SHB Đà Nẵng 🆚  Nam Định 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/90725470.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 09:00 WIB] ⏳ 32:40:39  Denver Nuggets 🆚  Philadelphia 76ers 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/1125281dafbf06dad029825221e83d5a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:35 WIB] ⏳ 41:23:06  Shanghai 🆚  Shandong Hi-Speed 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODczNzkxMTQuZmx2&expire=1773685160&salt=80261c62fda77d5a&sig=67a2c97ad8537876f2875fdfd04f99ac37d29bd9e413adfa3c4d2ff43aca5880
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773688313&salt=97b02e1a40b9abea&sig=08be5952dd53c38e6b9df5e58a80b815bfe3175ca1f18da7863de5c3bee9ceaa
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 09:00 WIB] ⏳ 32:40:39  Denver Nuggets 🆚  Philadelphia 76ers 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/1125281dafbf06dad029825221e83d5a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:35 WIB] ⏳ 41:23:06  Shanghai 🆚  Shandong Hi-Speed 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/87379114.m3u8
+https://live5.msrktz.app/live/82054853.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:00 WIB] ⏳ 33:40:39  Cruz Azul 🆚  Monterrey 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4fe4cf906ee7b1399a1b0468432c74cd.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 19:00 WIB] ⏳ 41:48:06  Pattani 🆚  Buriram 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDI0NTY5NjYuZmx2&expire=1773685160&salt=86dbbafd1bee47d6&sig=544fb09de8b2929fcaaa9a795cfb1a2726d19240d8278eeb5a4d66c347340de5
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773688313&salt=01bcc08b0d26ab16&sig=66a96155ce9a68baceb1ea846dfa1dfa8a02cea68ec321a8236571bdcd1f9905
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:00 WIB] ⏳ 33:40:39  Cruz Azul 🆚  Monterrey 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4fe4cf906ee7b1399a1b0468432c74cd.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 19:00 WIB] ⏳ 41:48:06  Pattani 🆚  Buriram 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/41943555.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5e754f0f66a62ae8806a63677b45caa4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 42:48:06  Real Madrid U19 🆚  Sporting CP U19 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773688313&salt=22695bd0d6d2b7b0&sig=211b101d49f9341729698d38b368ea530eb19234e708d2c6c4de1ec631de12a2
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5e754f0f66a62ae8806a63677b45caa4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 42:48:06  Real Madrid U19 🆚  Sporting CP U19 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/90865415.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0688ed133dadf5f09bb94c8414ec5565.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 42:48:06  Alanyaspor 🆚  Kocaelispor 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773688313&salt=a2e22a7a765bee9d&sig=6b96bc2bfab778590136c03d7fe4e3cd139bf4fc7127b4e1da0441846f33b6e2
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0688ed133dadf5f09bb94c8414ec5565.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 42:48:06  Alanyaspor 🆚  Kocaelispor 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/07428422.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 21:00 WIB] ⏳ 43:48:06  Johor Darul Takzim 🆚  PDRM FC 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDI0NTY5NjYuZmx2&expire=1773688313&salt=19f426418ff8b057&sig=bebd2e86e6766c893004b546095b04b7ba1e5eb82b78e0da1b4613beae5c28eb
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 21:00 WIB] ⏳ 43:48:06  Johor Darul Takzim 🆚  PDRM FC 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/02456966.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d69f7b4e5781756f141810f0716bcbe6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:06 WIB] ⏳ 33:46:39  Club Tijuana Nữ 🆚  U.N.A.M.- Pumas Nữ 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 45:18:06  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNjg4NDg1OTQuZmx2&expire=1773685160&salt=78ac46eb533b2e7f&sig=7eca92f86c5f5df7f68cd5eb8a0ff40e5bbe9143f64dabf8ca35b38a71e697b8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773688313&salt=d06bc6d6030a6987&sig=dfef0e178a913eb6caab430d575eaed3a8337fe48d16ba3937214df5ef8830fe
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d69f7b4e5781756f141810f0716bcbe6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:06 WIB] ⏳ 33:46:39  Club Tijuana Nữ 🆚  U.N.A.M.- Pumas Nữ 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 45:18:06  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/24561735.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 45:18:06  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773688313&salt=095efc9143a86752&sig=a1f30f47efc46cd5ee41693ecbcdc8c061ab48c3efe23494a7027b0593ee9502
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 45:18:06  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/97312754.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:06  Rayo Vallecano 🆚  Levante 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773688313&salt=9d439ca19f280d37&sig=c291cc4b76c78a094f7b1310e84c07bcb7f6d324b09b8d6cea6de89a295a1262
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:06  Rayo Vallecano 🆚  Levante 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/07428422.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0b0e25267dabd15c405070329df5fbdb.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 02:45 WIB] ⏳ 01:33:06  U.S. Cremonese 🆚  ACF Fiorentina 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773688313&salt=f7654869b136cbb6&sig=e3d6de61073f6d6f8f072781c902e1515c48c01556c136e7367f1f0886285702
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0b0e25267dabd15c405070329df5fbdb.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 02:45 WIB] ⏳ 01:33:06  U.S. Cremonese 🆚  ACF Fiorentina 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/41943555.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:06  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773688313&salt=e3fa8407770a2a71&sig=f3219df6b3b032ba32cf13bd00b42cad0623f2136407be7b8bdc34179fe9a60e
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:06  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/24561735.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:06  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzk2NjUzNDMuZmx2&expire=1773688313&salt=a005cb77a7ca696f&sig=ef14af52799a68d0d1e24585f5a796c75f54a19c3b516e7f605d0c3ad5b957e6
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:06  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/79665343.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:06  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS5]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773688313&salt=f02c21a70b3f32bb&sig=888be4b57dedc4dc22e37026ad1f440dc3e96bc046b085f9f98236ca4da920cb
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:06  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS6]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/97312754.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2f360e96a024fd54255d0ed941e9075e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:06  Portsmouth 🆚  Derby County 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDg1NTI4OTUuZmx2&expire=1773688313&salt=674d111fe297ce0a&sig=9cdd108da9ecaca8fcd7c5fa475e3db3054fc4858cd06ee2a4bdc7eb2322b612
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2f360e96a024fd54255d0ed941e9075e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:06  Portsmouth 🆚  Derby County 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/08552895.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/65d05eaf7edc601ae236107417b01cbf.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 04:30 WIB] ⏳ 03:18:06  San Lorenzo 🆚  Defensa y Justicia 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNjg4NDg1OTQuZmx2&expire=1773688313&salt=f40d9d0c1f7806dd&sig=b9e73f881f8ecf1f92483f6aacd064dd462ea1e4ddb24e2d25d925e420dc8463
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/65d05eaf7edc601ae236107417b01cbf.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 04:30 WIB] ⏳ 03:18:06  San Lorenzo 🆚  Defensa y Justicia 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/68848594.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6d2cab607ba1b908c2c71225581b06ee.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 12:30 WIB] ⏳ 36:10:39  Melbourne City Nữ 🆚  Adelaide Nữ 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 04:48:06  Racing Club 🆚  Estudiantes Rio Cuarto 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTkxMjE1MjUuZmx2&expire=1773685160&salt=026183c33267269b&sig=7efb0928b21d127eb88ff74cc4d25c8d39041b7e0e4bea24eb35155fc14f558a
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzE0MjYzMTQuZmx2&expire=1773688313&salt=c0c66af517607825&sig=e75a3b3d84e7405b61c7cc5677b1590a4eb788d42e3ee2019193b12adadc9977
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6d2cab607ba1b908c2c71225581b06ee.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 12:30 WIB] ⏳ 36:10:39  Melbourne City Nữ 🆚  Adelaide Nữ 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 04:48:06  Racing Club 🆚  Estudiantes Rio Cuarto 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/71426314.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 04:48:06  Chapecoense SC 🆚  Gremio 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA3MjU0NzAuZmx2&expire=1773688313&salt=cd29fe4723cb8275&sig=ff6eccb2907ee50f5d070dedd099ca83a9bf5622825aa63342f85cc295f8f6b9
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 04:48:06  Chapecoense SC 🆚  Gremio 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/90725470.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 07:00 WIB] ⏳ 05:48:06  Chicago Bulls 🆚  Memphis Grizzlies 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDI0NTY5NjYuZmx2&expire=1773688313&salt=f65ce256226c3e1b&sig=1cbc357d014e86aff0bf01f097feb376cb18bb447ea61fe832903974bbda05d4
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 07:00 WIB] ⏳ 05:48:06  Chicago Bulls 🆚  Memphis Grizzlies 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/02456966.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 07:48:06  Los Angeles Clippers 🆚  San Antonio Spurs 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODczNzkxMTQuZmx2&expire=1773688313&salt=a60f683d3e08d1c8&sig=2f1b3307c746a1c6ac8934d6eebc4e229900cea93f5beedd641e13c69f8d4d3e
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 07:48:06  Los Angeles Clippers 🆚  San Antonio Spurs 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/87379114.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a01279fdf6589b3c11529ca1ab4201fc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:15 WIB] ⏳ 07:03:06  Instituto 🆚  Independiente 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU3NDgwOTcuZmx2&expire=1773688313&salt=9f924189ef221be0&sig=1a8666db9839c11313f0af7be731614e08839b6e153773ee2ab9aeedd1386f19
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a01279fdf6589b3c11529ca1ab4201fc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:15 WIB] ⏳ 07:03:06  Instituto 🆚  Independiente 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/75748097.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:30 WIB] ⏳ 07:18:06  Houston Rockets 🆚  Los Angeles Lakers 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773688313&salt=78b50edb11747c10&sig=a47a68b1b75351390709ccc708dc15c1cd7a533107a9072c60ce100b16feca54
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:30 WIB] ⏳ 07:18:06  Houston Rockets 🆚  Los Angeles Lakers 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/82054853.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/988d4c293006d45d1f453c9ee2884022.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 07:48:06  Club America Nữ 🆚  Toluca Nữ 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMzM5ODIzMDkuZmx2&expire=1773688313&salt=ce26eb3d3eadb920&sig=7953c7123557c1c8feeb43a80bb5366a431906a5d6d60f12d89ca015498f3e4c
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/988d4c293006d45d1f453c9ee2884022.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 07:48:06  Club America Nữ 🆚  Toluca Nữ 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/33982309.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8e279a6f57d4768f5f1fa3bb28fd3a8a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 10:00 WIB] ⏳ 08:48:06  Club Leon Nữ 🆚  Mazatlan FC Nữ 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc4MDg3NDIuZmx2&expire=1773688313&salt=0faa7a9767bd9325&sig=1fccd937350e602756ad1fc2d377c7e1ecd5e929dbb42bc4db84fa6c0bce63ca
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8e279a6f57d4768f5f1fa3bb28fd3a8a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 10:00 WIB] ⏳ 08:48:06  Club Leon Nữ 🆚  Mazatlan FC Nữ 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/07808742.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d20eb37b84651856f8524464b9d9273e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:00 WIB] ⏳ 14:48:06  Yarmanya United FC 🆚  Thitsar Arman FC 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773688313&salt=13996b78750eb788&sig=18df32d89063350e039b73d078c6bf8cd3f5e1f620343906b4e532105d6795c6
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d20eb37b84651856f8524464b9d9273e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:00 WIB] ⏳ 14:48:06  Yarmanya United FC 🆚  Thitsar Arman FC 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/90865415.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:30 WIB] ⏳ 15:18:06  Sagaing 🆚  Ayeyawady 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODg1MDg0MzEuZmx2&expire=1773688313&salt=5f91e4b0b2c86e1a&sig=f008d418b4f4961b28d32107e6728743e592bc6b85e7b1f4a0ba1a7bc164c43f
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:30 WIB] ⏳ 15:18:06  Sagaing 🆚  Ayeyawady 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/88508431.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 13:48:06  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ4MzA3MTEuZmx2&expire=1773688313&salt=700e2bf4d89c1463&sig=ec73f4e3f700ac10521fe014a1c9ed3637e0d17dc640e74f6d335212587ca6b0
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 13:48:06  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/14830711.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 13:48:06  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773688313&salt=c366de183626c6e0&sig=6a5cd2ca359a626616446a5d4706ad1b5cf13b39209ebef3547dce5beffa0739
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 13:48:06  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/97312754.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 15:48:06  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDM2MTIyNzcuZmx2&expire=1773688313&salt=28e2decb8e084a36&sig=b55927fd133d45c695ccf216e27e37b1ba6b886b5af74909a335ca35b277434b
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 15:48:06  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/43612277.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 15:48:06  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU5MTUwODcuZmx2&expire=1773688313&salt=baf30975231b8438&sig=f3dd34a2d719a711938a7254b9ede51dedc74efb77d23274c4083a5db76d992e
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 15:48:06  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/75915087.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b39d3c74dea7f5c47361e7733c1932b2.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:00 WIB] ⏳ 16:48:06  Torreense U23 🆚  Santa Clara U23 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODc1NDc1NzguZmx2&expire=1773688313&salt=f737b5f7621992a9&sig=e29f006badc5eda832720e11c7559265b29cc072c79f9d34c1d09c252d51271c
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b39d3c74dea7f5c47361e7733c1932b2.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:00 WIB] ⏳ 16:48:06  Torreense U23 🆚  Santa Clara U23 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/87547578.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 16:18:06  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773688314&salt=7f1a4ce8cfbceea6&sig=2008602745172cd31eddc24ea0a2e35662c56ffd64d8e7d4b8a98144272a3699
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 16:18:06  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/24561735.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 16:18:06  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzg5MDU3NDQuZmx2&expire=1773688314&salt=4fe51cdc85ac5b3c&sig=8657cece78af4e2fde147031358f0862e1981e4c4a64282418ebb55f62877b77
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 16:18:06  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/78905744.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f7ad4ca154d205eb1799c5a1d1ff3370.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 17:23:06  Shanxi Fenjiu 🆚  Beijing Konggu 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ3MDcxMjQuZmx2&expire=1773688314&salt=6a6390413e3fe470&sig=512c4327af44d72ecde087c440e5d80cdec3f96c118389e1234088c842331950
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f7ad4ca154d205eb1799c5a1d1ff3370.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 17:23:06  Shanxi Fenjiu 🆚  Beijing Konggu 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/14707124.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/5689743705f1852f10597c559323f04a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 17:23:06  Guangdong Southern Tigers 🆚  Xinjiang Yilite 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773688314&salt=4e72f77c0542907e&sig=254c4731c379a035f71c2e90163e15708a60e96c30451cb8cda3a0f136c4c454
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/5689743705f1852f10597c559323f04a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 17:23:06  Guangdong Southern Tigers 🆚  Xinjiang Yilite 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/82054853.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/093b019417397a95732e569df7f2a8f0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 19:00 WIB] ⏳ 17:48:06  Kaspij Aktau 🆚  Okzhetpes 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773688314&salt=b85c20765b56a15e&sig=a65a444ea60ba60de8fd9610d6a93c353153569177cd007fe5ff5ed18bd7ac5d
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/093b019417397a95732e569df7f2a8f0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 19:00 WIB] ⏳ 17:48:06  Kaspij Aktau 🆚  Okzhetpes 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/90865415.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dd126282a3ed968b622055c808ad82c4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 20:00 WIB] ⏳ 18:48:06  Atletico de Madrid U19 🆚  Club Brugge U19 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773688314&salt=2be8d15a6fd84bbd&sig=6a81e0dc291df8d1e2efb3acd3510e78ebbb37166ac522b87b5bad8e56d17e25
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dd126282a3ed968b622055c808ad82c4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 20:00 WIB] ⏳ 18:48:06  Atletico de Madrid U19 🆚  Club Brugge U19 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/41943555.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6bce2ab72e4ab293f4f3199af4286b4d.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 21:00 WIB] ⏳ 19:48:06  Al Ansar 🆚  Al Ahed 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU5MTUwODcuZmx2&expire=1773688314&salt=c7e22f2e7ddf59d6&sig=3736e21d9aaaa300c23f4ddec7d50ccc311682c983d275b7b7be7e7a4bbbce8d
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6bce2ab72e4ab293f4f3199af4286b4d.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 21:00 WIB] ⏳ 19:48:06  Al Ansar 🆚  Al Ahed 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/75915087.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/aecc25c138f425cbadd3ddf98f0b6751.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 20:48:06  Villarreal U19 🆚  Paris Saint Germain U19 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773688314&salt=96e82bdbf8082bee&sig=77a5aff8c5b9245daf7af7758918401977bd4568352974ebe016236c82bb8288
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/aecc25c138f425cbadd3ddf98f0b6751.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 20:48:06  Villarreal U19 🆚  Paris Saint Germain U19 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/07428422.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b6a144b441bfd3ff6d4179d4b04b9693.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 20:48:06  Braga U23 🆚  Leixoes U23 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNjg4NDg1OTQuZmx2&expire=1773688314&salt=8fac019434a9a4a6&sig=dcdf5cd66be7183d1855b3f3bf650e119214c1e699f96d7ee8942b5f7577e878
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b6a144b441bfd3ff6d4179d4b04b9693.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 20:48:06  Braga U23 🆚  Leixoes U23 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/68848594.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee170662c1911f3d2f7746f6539f2604.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 23:30 WIB] ⏳ 22:18:06  Krasnodar 🆚  CSKA Moscow 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ4MzA3MTEuZmx2&expire=1773688314&salt=0aad82160f749807&sig=684d5b14d89a70e3bb464294b78cc071c546c7212420c36743ad9232c1dcc745
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee170662c1911f3d2f7746f6539f2604.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 23:30 WIB] ⏳ 22:18:06  Krasnodar 🆚  CSKA Moscow 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/14830711.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:05  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773688314&salt=79f69a28a3a3992a&sig=7e6a3aefff8f2f0474798963f0d233b3d0b703c66f5d8d21e95ea352eac8341d
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:05  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/07428422.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:05  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMzM5ODIzMDkuZmx2&expire=1773688314&salt=c8f49ef847c91def&sig=c1b6e06cba149324e208345888de940961828ad0ec67675f56b9c808c24354a9
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:05  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/33982309.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:05  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS5]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDM2MTIyNzcuZmx2&expire=1773688314&salt=8fb34836c20c551d&sig=95f0d7dade4e6e3cf521564fc3f715b912c47927f2350daa8af388f0b6ef7246
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:05  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS6]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/43612277.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:05  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ4MzA3MTEuZmx2&expire=1773688314&salt=76a2527b583c8a94&sig=a77eb658c17286f77e0f93b07cf9ed09f83c2e0b5805ca06591d084bc0abd017
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:05  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/14830711.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:05  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773688314&salt=5425c499d25ba9af&sig=eb25d1f2962b6f50f1acccf4eada7aa210f78d783b9d94aea14365810542792c
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:05  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/24561735.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:05  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS5]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773688314&salt=e262d8a03c0635e2&sig=58d35b11c30298f430fea78319f7eb83cbc009613a5664773f27d2b339f081da
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:05  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS6]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/97312754.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 23:33:05  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDg1NTI4OTUuZmx2&expire=1773688314&salt=d4230dd89b954c03&sig=3f34912451f6a9ce7195f387f5c01a0f06412cf645185e25e47b68eb25f29b3b
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 23:33:05  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/08552895.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 23:33:05  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzk2NjUzNDMuZmx2&expire=1773688314&salt=919978abbf40c7e4&sig=da950ecf5b5872d2c7b8c09b00a459384c1ec0c57f2cd9aa6e0017d0224566be
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 23:33:05  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/79665343.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:05  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc4MDg3NDIuZmx2&expire=1773688314&salt=8677091eacee17f0&sig=70efd6e108277724099b2e3e1418d740dd5d340e25f67de68cc2d86648882cf5
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:05  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/07808742.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:05  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773688314&salt=c5c940f7c5349ff5&sig=c8ca5b99819faf2d3a9d3b889a55520009847a4815fc6428cc10bb84a234b4f9
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:05  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/41943555.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:05  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS5]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzg5MDU3NDQuZmx2&expire=1773688314&salt=313dbb2b03c5138d&sig=b8202907b7eba648875e43c4e730db2a5f7f479a2ec059453704e58f8ce4fb24
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:05  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS6]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/78905744.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/caff6f729db9dc68b1938f6533b0fa14.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 05:00 WIB] ⏳ 27:48:05  Lanus 🆚  Newells Old Boys 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzE0MjYzMTQuZmx2&expire=1773688314&salt=31266d6709d73bbc&sig=5dd1b910dfa1a9f963e60e4bd2d230ba687895dfb299a520fce4d14691bc4c3b
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/caff6f729db9dc68b1938f6533b0fa14.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 05:00 WIB] ⏳ 27:48:05  Lanus 🆚  Newells Old Boys 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/71426314.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 06:00 WIB] ⏳ 28:48:05  Orlando Magic 🆚  Oklahoma City Thunder 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773688314&salt=e40dc9f271b7f776&sig=4d3ccc54ff4845f4898e856c8a2c22acc3815580c2880833fe603fb67f3ec53f
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 06:00 WIB] ⏳ 28:48:05  Orlando Magic 🆚  Oklahoma City Thunder 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/82054853.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:03:05  Central Cordoba SDE 🆚  Dep. Riestra 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ3MDcxMjQuZmx2&expire=1773688314&salt=04c6281ec3b3cfa6&sig=77db145887dd0c0fadb89ec0dde448868c2168123f6380934a3261b2aebb4335
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:03:05  Central Cordoba SDE 🆚  Dep. Riestra 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/14707124.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 08:00 WIB] ⏳ 30:48:05  Alajuelense 🆚  Los Angeles FC 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA3MjU0NzAuZmx2&expire=1773688314&salt=1410d47a0f180a66&sig=e5ccdccbb114e4573128d0927905adeac205c047375247fd31c9031247d3e3a1
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 08:00 WIB] ⏳ 30:48:05  Alajuelense 🆚  Los Angeles FC 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/90725470.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dff00f1fd4a7dd2feac000b462416867.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:00 WIB] ⏳ 22:48:06  Fenerbahce 🆚  Gaziantep Buyuksehir Belediyesi 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODc1NDc1NzguZmx2&expire=1773688314&salt=f0542ce8b7401fb7&sig=1f745104ced361cc496d3ef531d5302b02b8c9cee0684f0ad947b5f3930a8575
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dff00f1fd4a7dd2feac000b462416867.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:00 WIB] ⏳ 22:48:06  Fenerbahce 🆚  Gaziantep Buyuksehir Belediyesi 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/87547578.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 09:00 WIB] ⏳ 31:48:05  Denver Nuggets 🆚  Philadelphia 76ers 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODczNzkxMTQuZmx2&expire=1773688314&salt=153fa171ade3ddc8&sig=4836f413f0c6b4d8027ac239bd081ddce69d797253134915c55ca37c8d682ae8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 09:00 WIB] ⏳ 31:48:05  Denver Nuggets 🆚  Philadelphia 76ers 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/87379114.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:00 WIB] ⏳ 32:48:05  Cruz Azul 🆚  Monterrey 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDI0NTY5NjYuZmx2&expire=1773688314&salt=4800aac7c83f101a&sig=da19af61ffcbf84cb6527cb30eec08700afb7fa566c7b5ef23658a170dd4a923
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:00 WIB] ⏳ 32:48:05  Cruz Azul 🆚  Monterrey 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/02456966.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d69f7b4e5781756f141810f0716bcbe6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:06 WIB] ⏳ 32:54:05  Club Tijuana Nữ 🆚  U.N.A.M.- Pumas Nữ 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNjg4NDg1OTQuZmx2&expire=1773688314&salt=59ff46d42bf22218&sig=08d6755fe7e30b1dfc2c7cc26a8da354721af258f170c29f44817693ef9cd9e8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d69f7b4e5781756f141810f0716bcbe6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:06 WIB] ⏳ 32:54:05  Club Tijuana Nữ 🆚  U.N.A.M.- Pumas Nữ 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/68848594.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6d2cab607ba1b908c2c71225581b06ee.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 12:30 WIB] ⏳ 35:18:05  Melbourne City Nữ 🆚  Adelaide Nữ 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTkxMjE1MjUuZmx2&expire=1773688314&salt=19f57dca8ced43ce&sig=29d7302db5bd7c0708ae5fa8c6969d95d247f24fe19ba71f0d70b5fab37fb882
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6d2cab607ba1b908c2c71225581b06ee.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 12:30 WIB] ⏳ 35:18:05  Melbourne City Nữ 🆚  Adelaide Nữ 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/99121525.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 39:40:39  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 38:48:05  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTg4MTIzMDQuZmx2&expire=1773685160&salt=b25b670c995673f3&sig=909df9cc22fbe4134607f6f20e858e946ca3fbedb93f521960e66bb2bb0cd523
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTg4MTIzMDQuZmx2&expire=1773688314&salt=c4a58ebbd945a8e4&sig=1467183f548e5addfb40ddfee89691310a0b0e3bb6cc016d407c8594463a0827
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 39:40:39  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 38:48:05  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/18812304.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 39:40:39  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS3]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 38:48:05  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODczNzkxMTQuZmx2&expire=1773685160&salt=056d5e5eeb6c1fcb&sig=0efcb5739bc1c590c644cbb2cd46d5c5dec926ca1e60258f78ada8fe805297ab
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODczNzkxMTQuZmx2&expire=1773688314&salt=de7c67643365dc05&sig=8821c86fc61d01bf82a032dad1b6c591824aee84dfb5bc6efa8af7d91e02c1d4
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 39:40:39  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS4]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 38:48:05  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/87379114.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 40:40:39  Nagoya Grampus 🆚  Sanfrecce Hiroshima 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/532600afe76be2528effd5790fb51a33.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:03:05  Gimnasia Mendoza 🆚  Estudiantes La Plata 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc4MDg3NDIuZmx2&expire=1773685160&salt=83444001e88e4f4f&sig=298a342789deb88a87af9434913ef367636034a22c0ee454e94df3d365376152
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU3NDgwOTcuZmx2&expire=1773688314&salt=6acc3db5ebd1bf25&sig=7137c420c636b4d6e0f01dc401616000243868c8cb2a602bb0caa7db9e0a43b3
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 40:40:39  Nagoya Grampus 🆚  Sanfrecce Hiroshima 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/07808742.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 40:40:39  Chiba 🆚  Tokyo 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzk2NjUzNDMuZmx2&expire=1773685160&salt=810439a8053e97a5&sig=33367063f77b288f60b399bea09055681c584f42ae1e2180d7c31506e1d8a274
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 40:40:39  Chiba 🆚  Tokyo 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/79665343.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d85cce27ab583e5b3cead155f02b098a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 40:40:39  Vissel Kobe 🆚  Gamba Osaka 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU5MTUwODcuZmx2&expire=1773685160&salt=1069a503711b637f&sig=7370ea6399d44c6b4d5fc1a7b783c0bf06057b57b5a4375c7008cac832c89aac
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d85cce27ab583e5b3cead155f02b098a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 40:40:39  Vissel Kobe 🆚  Gamba Osaka 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/75915087.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 41:10:39  Bucheon FC 1995 🆚  Gangwon 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDg1NTI4OTUuZmx2&expire=1773685160&salt=e4288edb25f43540&sig=aa8f20d0602100206afb60162afd519eddd82b2165add5c492f79eff8b7e44e6
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 41:10:39  Bucheon FC 1995 🆚  Gangwon 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/08552895.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 41:10:39  Machida 🆚  Kashima Antlers 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773685160&salt=1787d20ab37d6e05&sig=9ce6d9f975575322bd2a959f9b8941122e46f55d5c057768176f2ae6940f040d
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 41:10:39  Machida 🆚  Kashima Antlers 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/90865415.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:30 WIB] ⏳ 40:10:39  Cerezo Osaka 🆚  Fagiano Okayama 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDM2MTIyNzcuZmx2&expire=1773685160&salt=ee5ce126bce0fd7d&sig=e7eacccccb228c737c9d79e491a5112649420f690156a73c53db1294768aefd3
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:30 WIB] ⏳ 40:10:39  Cerezo Osaka 🆚  Fagiano Okayama 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/43612277.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 41:10:39  Jeonbuk Hyundai Motors 🆚  FC Anyang 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU3NDgwOTcuZmx2&expire=1773685160&salt=f608fc3707983658&sig=f8572c9dc864da82695eb2ec41a0c7cc3f3b4a63da4f923c3bc228ecbb11d18f
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 41:10:39  Jeonbuk Hyundai Motors 🆚  FC Anyang 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/532600afe76be2528effd5790fb51a33.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:03:05  Gimnasia Mendoza 🆚  Estudiantes La Plata 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/75748097.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/46a4867487152e47c4dc61984d0c58aa.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 41:40:39  SHB Đà Nẵng 🆚  Nam Định 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:30 WIB] ⏳ 39:18:05  Cerezo Osaka 🆚  Fagiano Okayama 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA3MjU0NzAuZmx2&expire=1773685160&salt=16035eb23fe69378&sig=7e2ceee0ff51a0d799b2657ddc46576f349228e62d63553d5c804eb8430c02ba
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDM2MTIyNzcuZmx2&expire=1773688314&salt=951c9a2b100a3318&sig=eeb101585531d6408130afb1c9fe893067d908a29f6b449bcd6c1632c53b6b74
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/46a4867487152e47c4dc61984d0c58aa.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 41:40:39  SHB Đà Nẵng 🆚  Nam Định 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:30 WIB] ⏳ 39:18:05  Cerezo Osaka 🆚  Fagiano Okayama 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/90725470.m3u8
+https://live5.msrktz.app/live/43612277.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/12fe4d3ee5c01134d48584015c4646f3.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 41:40:39  Pathum United 🆚  Mahasarakham United FC 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 39:48:05  Chiba 🆚  Tokyo 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODg1MDg0MzEuZmx2&expire=1773685160&salt=e1ff7258593d3985&sig=9fe01bcc202058969c95b14e11250a94ae51657921a5909a441b0ee07797ef73
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzk2NjUzNDMuZmx2&expire=1773688314&salt=704073ca4a82a947&sig=e1de2833ecd6d1f685cff67c6f8a923bd3166af7d762f1f1813b84e62a3274a1
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/12fe4d3ee5c01134d48584015c4646f3.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 41:40:39  Pathum United 🆚  Mahasarakham United FC 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 39:48:05  Chiba 🆚  Tokyo 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/79665343.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 39:48:05  Nagoya Grampus 🆚  Sanfrecce Hiroshima 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc4MDg3NDIuZmx2&expire=1773688314&salt=1bf86ae007f7e30a&sig=863d52b9bcfb1dc4814c4370ca23c2cf76a84393b1d8aed4fafbc76e8c7a098a
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 39:48:05  Nagoya Grampus 🆚  Sanfrecce Hiroshima 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/07808742.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 40:18:05  Machida 🆚  Kashima Antlers 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773688314&salt=34a43533264be7bc&sig=908277bbc3bf9febeaed43d6375e6a5e419af825789dd693c037bdae11c7af23
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 40:18:05  Machida 🆚  Kashima Antlers 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/90865415.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 40:18:05  Bucheon FC 1995 🆚  Gangwon 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDg1NTI4OTUuZmx2&expire=1773688314&salt=21337a465ab8bcae&sig=c78db76fc9d267e10fae1b98665c244d687658df3552b29f7d0a4360edd9747b
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 40:18:05  Bucheon FC 1995 🆚  Gangwon 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/08552895.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 40:18:05  Jeonbuk Hyundai Motors 🆚  FC Anyang 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU3NDgwOTcuZmx2&expire=1773688314&salt=b7c41fdb06f7218a&sig=09a606b06cbabba6887396c5f9d8fbf4c1d4cd8fe116364a2d2a7bc2bd96b481
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 40:18:05  Jeonbuk Hyundai Motors 🆚  FC Anyang 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/75748097.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/12fe4d3ee5c01134d48584015c4646f3.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 40:48:05  Pathum United 🆚  Mahasarakham United FC 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODg1MDg0MzEuZmx2&expire=1773688314&salt=c345598062353ede&sig=c6cb67ab44756f80c5f94d60721c2aa3161fa4343be196d3a66e60eb41d14db1
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/12fe4d3ee5c01134d48584015c4646f3.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 40:48:05  Pathum United 🆚  Mahasarakham United FC 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/88508431.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4fe4cf906ee7b1399a1b0468432c74cd.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 19:00 WIB] ⏳ 42:40:39  Pattani 🆚  Buriram 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/46a4867487152e47c4dc61984d0c58aa.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 40:48:05  SHB Đà Nẵng 🆚  Nam Định 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773685160&salt=3413cfc90e9abe05&sig=58d120c71d4450acdc329a08b3653c8fb515a1f4f8385fa41f9dcc24790a9683
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA3MjU0NzAuZmx2&expire=1773688314&salt=715c749e16b304ff&sig=a8485b7b4f60932fc45b5e9122f8c6f172826bf413cdfa8094b9e45cc4a835f6
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4fe4cf906ee7b1399a1b0468432c74cd.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 19:00 WIB] ⏳ 42:40:39  Pattani 🆚  Buriram 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/41943555.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/1125281dafbf06dad029825221e83d5a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:35 WIB] ⏳ 42:15:39  Shanghai 🆚  Shandong Hi-Speed 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773685160&salt=4043e7bf7ec78208&sig=208e4abc14f5c1f7af116c35446410c73677ce5fdf853937816ed689f18e0ab4
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/1125281dafbf06dad029825221e83d5a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:35 WIB] ⏳ 42:15:39  Shanghai 🆚  Shandong Hi-Speed 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/82054853.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5e754f0f66a62ae8806a63677b45caa4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 43:40:39  Real Madrid U19 🆚  Sporting CP U19 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773685160&salt=9fd8207bb5ec3210&sig=32778395cab340dd062fcaa8b3a4d6fa64ffccede56d7030e58978aac551f5ab
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5e754f0f66a62ae8806a63677b45caa4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 43:40:39  Real Madrid U19 🆚  Sporting CP U19 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/90865415.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0688ed133dadf5f09bb94c8414ec5565.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 43:40:39  Alanyaspor 🆚  Kocaelispor 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773685160&salt=6dc9c30b78fe74f8&sig=fd31aa90b254477fea87ec18dec594083a597cc2a6640ec7a39dd49fce673d9f
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0688ed133dadf5f09bb94c8414ec5565.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 43:40:39  Alanyaspor 🆚  Kocaelispor 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/07428422.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 21:00 WIB] ⏳ 44:40:39  Johor Darul Takzim 🆚  PDRM FC 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDI0NTY5NjYuZmx2&expire=1773685160&salt=5e392c640a986272&sig=64c96d2f7985fa93ba3818e8697dd47efd3fb72ec983f777ba1bc07e89d8c7e1
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 21:00 WIB] ⏳ 44:40:39  Johor Darul Takzim 🆚  PDRM FC 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/02456966.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 46:10:39  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773685160&salt=3b24dc2adabe6723&sig=4fe3db461114c34388c08f2c5a1558a8df1cb85b5031cf28e2494bece78508c0
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 46:10:39  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/24561735.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 46:10:39  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773685160&salt=fc9eda5bef7064a0&sig=3f74593fe2ae106281d78fd1fa6a9a93dee2c95eec6d4aa2a73ce4cf6a82084d
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 46:10:39  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/97312754.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/39a3e7650b6d913f15de2d68ef7ef4d4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 01:00 WIB] ⏳ 00:40:39  Silkeborg 🆚  Vejle 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODc1NDc1NzguZmx2&expire=1773685160&salt=015d7074d16996bd&sig=e20510139947b7cd63eadef97b51b4af80f71df2e7bb9c454aa805fd5f06fb8f
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/39a3e7650b6d913f15de2d68ef7ef4d4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 01:00 WIB] ⏳ 00:40:39  Silkeborg 🆚  Vejle 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/87547578.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7b7d2b65c1ee63aee9e79ebafb2f0bc7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 01:00 WIB] ⏳ 00:40:39  Pogon Szczecin 🆚  Korona Kielce 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTkxMjE1MjUuZmx2&expire=1773685160&salt=e8af6ebcb963c259&sig=7084d188c63e71fc0866ce1fe3dabf2e2e5c5fd528f4b4bfa0b2d85351a11d53
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/7b7d2b65c1ee63aee9e79ebafb2f0bc7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 01:00 WIB] ⏳ 00:40:39  Pogon Szczecin 🆚  Korona Kielce 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/99121525.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:39  Rayo Vallecano 🆚  Levante 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773685160&salt=b8c1107d1185e451&sig=ef27559fa1317ab3e09192e2843cbbd41cc8f24e62cf06ac7749ffc646f44e79
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:39  Rayo Vallecano 🆚  Levante 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/07428422.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0b0e25267dabd15c405070329df5fbdb.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 02:45 WIB] ⏳ 02:25:39  U.S. Cremonese 🆚  ACF Fiorentina 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773685161&salt=327538c3400e7dbd&sig=6db8b0d9be23cb148060e9b98633660adf91749cf9ba28bdb0f3dbe2a0244b3a
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0b0e25267dabd15c405070329df5fbdb.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 02:45 WIB] ⏳ 02:25:39  U.S. Cremonese 🆚  ACF Fiorentina 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/41943555.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:39  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773685161&salt=6d3df2427044ea87&sig=0ef846322be41b528dcfbe3a23f2ce3d8edbc5b8885d16b3721a21b36b3a57a0
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:39  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/24561735.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:39  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzk2NjUzNDMuZmx2&expire=1773685161&salt=17ed0e310ff46614&sig=a6e3108cb1e7e2ce1f7cc66630e2b4e9b0a54ea8e5bfe840b2cbb3cf9405e867
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:39  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/79665343.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:39  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS5]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773685161&salt=80071da6b113005f&sig=a37260a90563df5aa997f6dcd7e6b2342cded15124f0bbcbe6d8dbc30915f0cb
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:39  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS6]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/97312754.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2f360e96a024fd54255d0ed941e9075e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:39  Portsmouth 🆚  Derby County 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDg1NTI4OTUuZmx2&expire=1773685161&salt=5f13bc4e6a9a43a0&sig=36486f7424b9d6d165c8d7a37134a06e393b3e387ce08574279835abd74c1b74
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2f360e96a024fd54255d0ed941e9075e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 02:40:39  Portsmouth 🆚  Derby County 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/08552895.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/65d05eaf7edc601ae236107417b01cbf.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 04:30 WIB] ⏳ 04:10:39  San Lorenzo 🆚  Defensa y Justicia 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNjg4NDg1OTQuZmx2&expire=1773685161&salt=5d7f7c67ce99b769&sig=304b44ab8fa91632d957c89bcb0d50eb6d1b9b8312f1ad40fbea7e234ac91f43
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/65d05eaf7edc601ae236107417b01cbf.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 04:30 WIB] ⏳ 04:10:39  San Lorenzo 🆚  Defensa y Justicia 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/68848594.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 05:40:39  Chapecoense SC 🆚  Gremio 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA3MjU0NzAuZmx2&expire=1773685161&salt=d7bf2d1823f6a43c&sig=5e49af41c37ac51de2c77dfdeafc777143f452b3c2013cc4c5f074ddcdf06ba5
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 05:40:39  Chapecoense SC 🆚  Gremio 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/46a4867487152e47c4dc61984d0c58aa.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 40:48:05  SHB Đà Nẵng 🆚  Nam Định 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/90725470.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 05:40:39  Racing Club 🆚  Estudiantes Rio Cuarto 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/1125281dafbf06dad029825221e83d5a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:35 WIB] ⏳ 41:23:05  Shanghai 🆚  Shandong Hi-Speed 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzE0MjYzMTQuZmx2&expire=1773685161&salt=7c1e9c8c114a664f&sig=63f2a2d1f4c11d8aecd29fb5015f807bf9eeafe28e87f07eb63679e2022e60f7
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773688314&salt=738d267d90e36295&sig=6fbc8926aae7a14968b0b14c902be2121333bcd2a92b5adb63e96b5589807d54
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 05:40:39  Racing Club 🆚  Estudiantes Rio Cuarto 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/71426314.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 07:00 WIB] ⏳ 06:40:39  Chicago Bulls 🆚  Memphis Grizzlies 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDI0NTY5NjYuZmx2&expire=1773685161&salt=ef80d63d1d841b14&sig=97a6c08efc0e4273b50061bba3d20db94bcf4f6e99060a704835084dc22485c2
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 07:00 WIB] ⏳ 06:40:39  Chicago Bulls 🆚  Memphis Grizzlies 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/02456966.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a01279fdf6589b3c11529ca1ab4201fc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:15 WIB] ⏳ 07:55:39  Instituto 🆚  Independiente 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU3NDgwOTcuZmx2&expire=1773685161&salt=e4fecb33e5b3d2ed&sig=2cda79e9c0ff7d96e8e843e60452816b11958b388e09857c08b7e52863f88a69
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a01279fdf6589b3c11529ca1ab4201fc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:15 WIB] ⏳ 07:55:39  Instituto 🆚  Independiente 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/75748097.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:30 WIB] ⏳ 08:10:39  Houston Rockets 🆚  Los Angeles Lakers 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773685161&salt=b0d753fc444ffef0&sig=79592c24f244508bba9de758c6d24f8cfa7718d900ef1cfdb5e68337bc0653ad
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:30 WIB] ⏳ 08:10:39  Houston Rockets 🆚  Los Angeles Lakers 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/1125281dafbf06dad029825221e83d5a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:35 WIB] ⏳ 41:23:05  Shanghai 🆚  Shandong Hi-Speed 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/82054853.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 08:40:39  Los Angeles Clippers 🆚  San Antonio Spurs 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4fe4cf906ee7b1399a1b0468432c74cd.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 19:00 WIB] ⏳ 41:48:05  Pattani 🆚  Buriram 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODczNzkxMTQuZmx2&expire=1773685161&salt=fe458c8ff75c76fc&sig=d6628fa87420d3fcf7c66c67269a4e8e905b63d9ec8a3c050d471cfdb1d7e07c
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773688314&salt=02f0c6be51ec6a4d&sig=faa981007355a6a6cfbd18820b3b17f9eeef3b8808e497068bb98f1e437d7979
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 08:40:39  Los Angeles Clippers 🆚  San Antonio Spurs 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4fe4cf906ee7b1399a1b0468432c74cd.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 19:00 WIB] ⏳ 41:48:05  Pattani 🆚  Buriram 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/87379114.m3u8
+https://live5.msrktz.app/live/41943555.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 14:40:38  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5e754f0f66a62ae8806a63677b45caa4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 42:48:05  Real Madrid U19 🆚  Sporting CP U19 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ4MzA3MTEuZmx2&expire=1773685161&salt=146b9f622ce7ba54&sig=d61eb94f5724cc092d0a099aaa49da455f7f2e066ce7b401aa10929b08a90fb4
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773688315&salt=7ce4bee865aaeabe&sig=2209918ee8d3d19b8958ebce52b57518e5053365b7bb991f23adc1f1b6dc4aa3
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 14:40:38  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/14830711.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 14:40:38  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773685161&salt=c4f169b5847c29a0&sig=1462a5f4bf7dbd1aff24cc254fe90bd1dcdb1e28636e70a0cd7b7d1c07868eed
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 14:40:38  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/97312754.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/988d4c293006d45d1f453c9ee2884022.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 08:40:38  Club America Nữ 🆚  Toluca Nữ 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMzM5ODIzMDkuZmx2&expire=1773685161&salt=eb379cbb5a2463a5&sig=461584c1a92a6007f36eb99ef6c60a50ac790f5bb80b49faad495c4e5a4422de
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/988d4c293006d45d1f453c9ee2884022.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 08:40:38  Club America Nữ 🆚  Toluca Nữ 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/33982309.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8e279a6f57d4768f5f1fa3bb28fd3a8a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 10:00 WIB] ⏳ 09:40:38  Club Leon Nữ 🆚  Mazatlan FC Nữ 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc4MDg3NDIuZmx2&expire=1773685161&salt=5e10fc03e2d42a4d&sig=8da5f2cff3021dcfb3dd6d8832ecf62b432bfe4ce26fca0bb25bb20943403966
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8e279a6f57d4768f5f1fa3bb28fd3a8a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 10:00 WIB] ⏳ 09:40:38  Club Leon Nữ 🆚  Mazatlan FC Nữ 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/07808742.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d20eb37b84651856f8524464b9d9273e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:00 WIB] ⏳ 15:40:38  Yarmanya United FC 🆚  Thitsar Arman FC 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773685161&salt=b6e4495c44455468&sig=9c9de961118dad360ff96c69b7f481b2ed0189c0295cd1b4a4dfa27f4db280dd
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d20eb37b84651856f8524464b9d9273e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:00 WIB] ⏳ 15:40:38  Yarmanya United FC 🆚  Thitsar Arman FC 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5e754f0f66a62ae8806a63677b45caa4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 42:48:05  Real Madrid U19 🆚  Sporting CP U19 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/90865415.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:30 WIB] ⏳ 16:10:38  Sagaing 🆚  Ayeyawady 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d85cce27ab583e5b3cead155f02b098a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 39:48:05  Vissel Kobe 🆚  Gamba Osaka 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODg1MDg0MzEuZmx2&expire=1773685161&salt=a706b8182519950d&sig=238a9abb3a1fa98e5b89c4d98c1861634639c9482b6a4368970c08dd8e65a83c
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU5MTUwODcuZmx2&expire=1773688315&salt=a1ac85fd9d10c8ca&sig=46a75cf371279f6fece20c0ba94037eaaaf7bf503e64831e87b185b3af92d43e
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:30 WIB] ⏳ 16:10:38  Sagaing 🆚  Ayeyawady 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d85cce27ab583e5b3cead155f02b098a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 39:48:05  Vissel Kobe 🆚  Gamba Osaka 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/75915087.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0688ed133dadf5f09bb94c8414ec5565.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 42:48:05  Alanyaspor 🆚  Kocaelispor 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773688315&salt=712ef81baca020ee&sig=3e01520554ee588556b392353c23815a8da45abd87cb4d5720cb9fc99f2f570f
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0688ed133dadf5f09bb94c8414ec5565.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 42:48:05  Alanyaspor 🆚  Kocaelispor 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/07428422.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 21:00 WIB] ⏳ 43:48:05  Johor Darul Takzim 🆚  PDRM FC 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDI0NTY5NjYuZmx2&expire=1773688315&salt=cffb4ff2bb4194fc&sig=707884aa687f9ee16af32a4891216ace415e88886ce41e0c7ed33a22ce3a64d3
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 21:00 WIB] ⏳ 43:48:05  Johor Darul Takzim 🆚  PDRM FC 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/02456966.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 45:18:05  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773688315&salt=a16e0c21684024fc&sig=e9f018167b00227fcd27bca1624894737bb4807184bbb33c002f26088fcf7683
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 45:18:05  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/24561735.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 45:18:05  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773688315&salt=b5e5631d560337fb&sig=40b2a4a89e9164e6c7a73373e1e38093658f4d17d777a1824d9507d4ce86f41f
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 45:18:05  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/97312754.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:05  Rayo Vallecano 🆚  Levante 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773688315&salt=ca592ca5b856bb76&sig=a76a81979183b10b72899fd96f2b97b6d1fb7c65ca8536d379d8c3f591ff89c3
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5005d8feab109ce64e40beb98073cc1f.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:05  Rayo Vallecano 🆚  Levante 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/07428422.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0b0e25267dabd15c405070329df5fbdb.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 02:45 WIB] ⏳ 01:33:05  U.S. Cremonese 🆚  ACF Fiorentina 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773688315&salt=9f10509cfb689a4d&sig=43bed9ca168b1890a49c067a65bebdc41f4a76fa6a615f57fe056e8fd84d5f78
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0b0e25267dabd15c405070329df5fbdb.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 02:45 WIB] ⏳ 01:33:05  U.S. Cremonese 🆚  ACF Fiorentina 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/41943555.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:05  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773688315&salt=c16e849014102097&sig=739f5732a8bdd00bf07804c5f92013484373211775f59a7327b09fc2c8ab671f
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:05  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/24561735.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:05  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzk2NjUzNDMuZmx2&expire=1773688315&salt=39b040be8a507c52&sig=da48cee3d902fc0d7ce6ecbfd5aae0bed5017cb37c40f2a2312d455fe168d5ca
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:05  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/79665343.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:05  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS5]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773688315&salt=0025df9b0796a164&sig=179b3e0a8346196a644d248a83b06c03957ea7b6ffd8f38249a4ec8a8808dafb
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/60f1c7788be3148a370dbf59f914abfe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:05  Brentford 🆚  Wolverhampton Wanderers 😈 [SVR-BHNS6]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/97312754.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/65d05eaf7edc601ae236107417b01cbf.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 04:30 WIB] ⏳ 03:18:04  San Lorenzo 🆚  Defensa y Justicia 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNjg4NDg1OTQuZmx2&expire=1773688315&salt=528ba0077a6bf52c&sig=6191c4b4c53aa3f950dfffad720e42e6247a3145ac55c31426f618430a6c26e2
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/65d05eaf7edc601ae236107417b01cbf.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 04:30 WIB] ⏳ 03:18:04  San Lorenzo 🆚  Defensa y Justicia 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/68848594.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2f360e96a024fd54255d0ed941e9075e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:04  Portsmouth 🆚  Derby County 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDg1NTI4OTUuZmx2&expire=1773688315&salt=592a48899e998719&sig=bc31808fac41d38eb91fe787150df8f4c7e7a8b36472032734d412504fcaa84e
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2f360e96a024fd54255d0ed941e9075e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 03:00 WIB] ⏳ 01:48:04  Portsmouth 🆚  Derby County 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/08552895.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 04:48:04  Racing Club 🆚  Estudiantes Rio Cuarto 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzE0MjYzMTQuZmx2&expire=1773688315&salt=f2d2cda7c81e9aec&sig=9f3151eda5316a7aa70f3b72976969345929017d42ffac535257ac2e1ac3e913
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/cb3c7e99e401d3ff83eeb36c53996d79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 04:48:04  Racing Club 🆚  Estudiantes Rio Cuarto 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/71426314.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 04:48:04  Chapecoense SC 🆚  Gremio 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA3MjU0NzAuZmx2&expire=1773688315&salt=579b9666d51e0611&sig=19ed5ca1ce3a02bbb1500b13d602eaf283067fbc132618b1da5610510a22b4f5
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 06:00 WIB] ⏳ 04:48:04  Chapecoense SC 🆚  Gremio 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/90725470.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 07:00 WIB] ⏳ 05:48:04  Chicago Bulls 🆚  Memphis Grizzlies 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDI0NTY5NjYuZmx2&expire=1773688315&salt=127100dfba916b7e&sig=f14441403a7b795b23c41cc6acec9f6d8397e5511d0cc65c492ed994fe45aa50
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 07:00 WIB] ⏳ 05:48:04  Chicago Bulls 🆚  Memphis Grizzlies 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/02456966.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a01279fdf6589b3c11529ca1ab4201fc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:15 WIB] ⏳ 07:03:04  Instituto 🆚  Independiente 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU3NDgwOTcuZmx2&expire=1773688315&salt=5b06f9619478c296&sig=7d12fa7e30e7fcc0fb39876d0df89e3d3673c7255ef981826553cf621aa96b91
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/a01279fdf6589b3c11529ca1ab4201fc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:15 WIB] ⏳ 07:03:04  Instituto 🆚  Independiente 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/75748097.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 07:48:04  Los Angeles Clippers 🆚  San Antonio Spurs 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODczNzkxMTQuZmx2&expire=1773688315&salt=2877396f0fdccf27&sig=7a2008374db7aa660fabccadeef2a9fa3d7e20c18feb514b41ab55c3e6ac668b
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/848b21021b2a1db7bde95ea52a1e021b.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 07:48:04  Los Angeles Clippers 🆚  San Antonio Spurs 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/87379114.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:30 WIB] ⏳ 07:18:04  Houston Rockets 🆚  Los Angeles Lakers 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773688315&salt=45a5b5b3000f5556&sig=e222ad5f51ff57e95ad217758a0858b78270287bc52caa00808e52b59fb1a629
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 08:30 WIB] ⏳ 07:18:04  Houston Rockets 🆚  Los Angeles Lakers 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/82054853.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/988d4c293006d45d1f453c9ee2884022.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 07:48:04  Club America Nữ 🆚  Toluca Nữ 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMzM5ODIzMDkuZmx2&expire=1773688315&salt=93835571d4b76968&sig=baf74e9427637f63943e1b23c6e9aa2af89c5d7203db3f882317ff8c3fad3d4b
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/988d4c293006d45d1f453c9ee2884022.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 09:00 WIB] ⏳ 07:48:04  Club America Nữ 🆚  Toluca Nữ 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/33982309.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8e279a6f57d4768f5f1fa3bb28fd3a8a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 10:00 WIB] ⏳ 08:48:04  Club Leon Nữ 🆚  Mazatlan FC Nữ 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc4MDg3NDIuZmx2&expire=1773688315&salt=2c9ee5be86f2e040&sig=8fc5df581a10e9e5a15d1d96f1735fb1ec2cacf7f3dbe88aff995bcf26caf2ba
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/8e279a6f57d4768f5f1fa3bb28fd3a8a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 10:00 WIB] ⏳ 08:48:04  Club Leon Nữ 🆚  Mazatlan FC Nữ 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/07808742.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 13:48:04  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ4MzA3MTEuZmx2&expire=1773688315&salt=657c28e34020a8dd&sig=2e18090a032d38daffc0e3653d5ceb3dd3ecf7b2a83988eef4f517548e09bc7d
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 13:48:04  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/14830711.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 13:48:04  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773688315&salt=1ff2280fc4b2a23d&sig=22388c75f1c7a3f9c204dd6e12604b018644816e261df0a87fda2b4691544499
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 15:00 WIB] ⏳ 13:48:04  Sydney FC 🆚  Melbourne city 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/97312754.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d20eb37b84651856f8524464b9d9273e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:00 WIB] ⏳ 14:48:04  Yarmanya United FC 🆚  Thitsar Arman FC 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773688315&salt=71877bbf26ae43f0&sig=8a5d25a3df3e4e777403c3e6f2a70405c9e822f953c8bb1a0b716dd57a7bcf29
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d20eb37b84651856f8524464b9d9273e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:00 WIB] ⏳ 14:48:04  Yarmanya United FC 🆚  Thitsar Arman FC 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/90865415.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 15:48:04  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDM2MTIyNzcuZmx2&expire=1773688315&salt=d4d5d7b3241a7baa&sig=9b82b7ca71b62169fd4cce110e77e2e858bc21938f3f500657bb70d62f65a824
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 15:48:04  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/43612277.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 15:48:04  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU5MTUwODcuZmx2&expire=1773688315&salt=8f5e1bac986057fe&sig=788b0ece1465ef13a950c8cbcd8f3657699e9377c99b92cbad03bf8caf7f3d87
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 15:48:04  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/75915087.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:30 WIB] ⏳ 15:18:04  Sagaing 🆚  Ayeyawady 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODg1MDg0MzEuZmx2&expire=1773688315&salt=5cfb886ab7b3fafe&sig=acd08e4aad434a5bac3cb4b5a4daee1818c8aea856dc8d24e9f2d4eea16aed45
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4ca6cdd74f71a1fa109f29a718683e9a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 16:30 WIB] ⏳ 15:18:04  Sagaing 🆚  Ayeyawady 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/88508431.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 17:10:38  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 16:18:04  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773685161&salt=643406fad01759ca&sig=c0d51be8648b4edcb782c8a839960fc263239f7906496a2bb26881f557368396
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773688315&salt=20f27815cd5aa172&sig=4496f87db2f9d383051db928a56a849224bb6f76afcdeb4a68cc668f22f16c5c
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 17:10:38  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 16:18:04  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/24561735.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 17:10:38  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS3]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 16:18:04  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzg5MDU3NDQuZmx2&expire=1773685161&salt=b95d8a479e284526&sig=17495f4d92d525a9b82553b13cbe25d6f32a7df2ede38a54522c3ec3691185d1
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzg5MDU3NDQuZmx2&expire=1773688315&salt=22bbf6d4cad113df&sig=769d6916302781561c6f94d647e69fbb50d031b6df3fd51aa95ed7658a15c101
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 17:10:38  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS4]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:30 WIB] ⏳ 16:18:04  Gimcheon Sangmu FC 🆚  Gwangju FC 😈 [SVR-BHNS4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/78905744.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 16:40:38  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/5689743705f1852f10597c559323f04a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 17:23:04  Guangdong Southern Tigers 🆚  Xinjiang Yilite 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDM2MTIyNzcuZmx2&expire=1773685161&salt=0c7254bcce2ecbbb&sig=173e5cc15b1229276699fb7d2be5345f065c8904504b38b0fd387eec7491486a
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773688315&salt=2fbd78a2c8c40641&sig=91fff41b91afce6257f00c1eed9784d275cc595a1a93da4e65c8c0b7696755e7
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 16:40:38  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/43612277.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 16:40:38  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU5MTUwODcuZmx2&expire=1773685161&salt=2685278c1d12e692&sig=604e8ea1771fd976d4f3d96add49cdea25254ff68b258fc51b76948dd992fa33
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1a76b0ea4c6619fc72ee50cdae8bd0a9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 17:00 WIB] ⏳ 16:40:38  Trung Quốc Nữ 🆚  Úc Nữ 😈 [SVR-BHNS4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/75915087.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b39d3c74dea7f5c47361e7733c1932b2.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:00 WIB] ⏳ 17:40:38  Torreense U23 🆚  Santa Clara U23 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODc1NDc1NzguZmx2&expire=1773685161&salt=8d2027d75172eb02&sig=669b05f4c0db890065f3173aceaef8e23645538d81d78cfa6e1f1a079196dd44
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b39d3c74dea7f5c47361e7733c1932b2.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:00 WIB] ⏳ 17:40:38  Torreense U23 🆚  Santa Clara U23 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/87547578.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/5689743705f1852f10597c559323f04a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 18:15:38  Guangdong Southern Tigers 🆚  Xinjiang Yilite 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773685161&salt=3e0158f162c5006b&sig=fdb08ee4832d3488eed70f33d28ed055ec54db94e3759fb12f453d09a329823a
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/5689743705f1852f10597c559323f04a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 18:15:38  Guangdong Southern Tigers 🆚  Xinjiang Yilite 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/5689743705f1852f10597c559323f04a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 17:23:04  Guangdong Southern Tigers 🆚  Xinjiang Yilite 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/82054853.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f7ad4ca154d205eb1799c5a1d1ff3370.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 18:15:38  Shanxi Fenjiu 🆚  Beijing Konggu 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b39d3c74dea7f5c47361e7733c1932b2.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:00 WIB] ⏳ 16:48:04  Torreense U23 🆚  Santa Clara U23 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ3MDcxMjQuZmx2&expire=1773685161&salt=d03734418d010c86&sig=c7adb89d667f1ac7fb8fa70c4ee9ad052fec119fa965d2877f2ddc6c35be8680
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODc1NDc1NzguZmx2&expire=1773688315&salt=d4acebe03f06f34b&sig=28e8574a950741b40316112ab53ceba278074176dc9ebc02a70878c7185e7fa6
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f7ad4ca154d205eb1799c5a1d1ff3370.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 18:15:38  Shanxi Fenjiu 🆚  Beijing Konggu 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b39d3c74dea7f5c47361e7733c1932b2.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:00 WIB] ⏳ 16:48:04  Torreense U23 🆚  Santa Clara U23 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/14707124.m3u8
+https://live5.msrktz.app/live/87547578.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/093b019417397a95732e569df7f2a8f0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 19:00 WIB] ⏳ 18:40:38  Kaspij Aktau 🆚  Okzhetpes 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/093b019417397a95732e569df7f2a8f0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 19:00 WIB] ⏳ 17:48:04  Kaspij Aktau 🆚  Okzhetpes 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773685161&salt=c9a3e4286c3ad32f&sig=730e5dfc1586f902022d149604742b0ca2b5d06dd510de1cac2456e17c45dfce
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773688315&salt=614d3c376ed3dc44&sig=5efa10da006de6c40fd82f13d69ba2e89f1ef8ed837af67d6fe0e8610f2cce72
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/093b019417397a95732e569df7f2a8f0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 19:00 WIB] ⏳ 18:40:38  Kaspij Aktau 🆚  Okzhetpes 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/093b019417397a95732e569df7f2a8f0.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 19:00 WIB] ⏳ 17:48:04  Kaspij Aktau 🆚  Okzhetpes 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/90865415.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6bce2ab72e4ab293f4f3199af4286b4d.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 21:00 WIB] ⏳ 20:40:38  Al Ansar 🆚  Al Ahed 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f7ad4ca154d205eb1799c5a1d1ff3370.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 17:23:04  Shanxi Fenjiu 🆚  Beijing Konggu 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU5MTUwODcuZmx2&expire=1773685161&salt=872c1e9d84612761&sig=375e78a13a65f2d4da6d7c808a7f25d1d45e805c877f3b2ccf5d7e9e790bcd5a
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ3MDcxMjQuZmx2&expire=1773688315&salt=d064d9213696890e&sig=70e1f3879399ca5f95fb6aea24dbb3bc7e474c15672d94dd31849bea8970833f
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6bce2ab72e4ab293f4f3199af4286b4d.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 21:00 WIB] ⏳ 20:40:38  Al Ansar 🆚  Al Ahed 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/75915087.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dd126282a3ed968b622055c808ad82c4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 20:00 WIB] ⏳ 19:40:38  Atletico de Madrid U19 🆚  Club Brugge U19 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773685161&salt=884f5f0fc8666224&sig=70b49eb50993243f711e3efbd65dbedab146cd69699cfc1054fc7a83f54b6b54
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dd126282a3ed968b622055c808ad82c4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 20:00 WIB] ⏳ 19:40:38  Atletico de Madrid U19 🆚  Club Brugge U19 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/41943555.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/aecc25c138f425cbadd3ddf98f0b6751.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 21:40:38  Villarreal U19 🆚  Paris Saint Germain U19 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773685161&salt=edc7172d58932f17&sig=214a8fd93f5e321d8e083bc40e930751f57e133f6621b8ec509ecd67ce8d59be
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/aecc25c138f425cbadd3ddf98f0b6751.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 21:40:38  Villarreal U19 🆚  Paris Saint Germain U19 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/07428422.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b6a144b441bfd3ff6d4179d4b04b9693.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 21:40:38  Braga U23 🆚  Leixoes U23 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNjg4NDg1OTQuZmx2&expire=1773685161&salt=cd1e817406a26bd5&sig=d88073e4d2e655f225593148baaf7344a9c10cb086ab9c4079356d411a70df6a
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b6a144b441bfd3ff6d4179d4b04b9693.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 21:40:38  Braga U23 🆚  Leixoes U23 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/68848594.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee170662c1911f3d2f7746f6539f2604.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 23:30 WIB] ⏳ 23:10:38  Krasnodar 🆚  CSKA Moscow 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ4MzA3MTEuZmx2&expire=1773685161&salt=a9dad20831c873b0&sig=28cb166debe6cdec6b1e28c79e6c9f1071a2885cc227986d27d4f570af40e4d6
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee170662c1911f3d2f7746f6539f2604.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 23:30 WIB] ⏳ 23:10:38  Krasnodar 🆚  CSKA Moscow 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/14830711.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dff00f1fd4a7dd2feac000b462416867.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:00 WIB] ⏳ 23:40:38  Fenerbahce 🆚  Gaziantep Buyuksehir Belediyesi 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODc1NDc1NzguZmx2&expire=1773685161&salt=9df6cb6805b43068&sig=0a44602a9bfef01b46f19ea7bdc61ef27720150f93475cdb34c12edffab89a2b
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dff00f1fd4a7dd2feac000b462416867.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:00 WIB] ⏳ 23:40:38  Fenerbahce 🆚  Gaziantep Buyuksehir Belediyesi 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/87547578.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 24:25:38  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDg1NTI4OTUuZmx2&expire=1773685161&salt=99786897ef622e89&sig=8a436f8b5aa879b2592db584eff2fad6f4c9c3ea4230d496bf78b7130e482c25
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 24:25:38  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/08552895.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 24:25:38  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzk2NjUzNDMuZmx2&expire=1773685161&salt=613b10beaf8568cf&sig=412f7cd02a2e75e8134f83f0ae449f2961dccb639f9aa9d5089a6d1ebdfa053b
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 24:25:38  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/79665343.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:38  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773685161&salt=986c188d1e28e522&sig=84a0451e4b46f8ff5d3e02bd13c41f09d608c6dabac3524970856167f3133cc2
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:38  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/07428422.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:38  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMzM5ODIzMDkuZmx2&expire=1773685161&salt=b36605ba07ef09f6&sig=163fb12eaf266e4ee694507759f3e820033ceb9a9bf7ec2afd1d433491342333
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:38  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/33982309.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:38  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS5]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDM2MTIyNzcuZmx2&expire=1773685161&salt=7c0b8bca83e9d58d&sig=9e0d26b0b1c54c59cace6da016f5e096ef669ff19bc93dc5e9f6eb881b20ff8c
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:38  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS6]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/43612277.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:38  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ4MzA3MTEuZmx2&expire=1773685161&salt=704c2dd5b1776673&sig=71f145deff08e92db1cd93561244f527f9d675ae313663fe497f6e6df03388b4
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:38  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/14830711.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:38  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773685161&salt=42996a4334cb5cb2&sig=4249195013c0576df7dcaa94ba66d86677b5cee22ccd3593f729e37be92b3393
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:38  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/24561735.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:38  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS5]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773685161&salt=de285852918280f1&sig=b00c684cc276393fef85d1f689b2ec13f872aa1c64784898e09d4ae5513375d1
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:38  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS6]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/97312754.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:38  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc4MDg3NDIuZmx2&expire=1773685161&salt=8d44c3989d567239&sig=1a38e745442207f8dba03a2add33c2435a884af5af2ac6d226cd5f5c58351f9c
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:38  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/07808742.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:38  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773685161&salt=25c8fa610a7e4a21&sig=213dbec9d061b9cdced13e6c3369a36fa32afee458de87dbc22f3ed92450a94e
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:38  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/41943555.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:38  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS5]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzg5MDU3NDQuZmx2&expire=1773685161&salt=82631b92591484c3&sig=e5884bab6b1eec316e4b2ddfaac1d6307a9b63edee70d911fb4c1475e55b5c03
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 26:40:38  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS6]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/78905744.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/caff6f729db9dc68b1938f6533b0fa14.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 05:00 WIB] ⏳ 28:40:38  Lanus 🆚  Newells Old Boys 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzE0MjYzMTQuZmx2&expire=1773685161&salt=9abd2190f7fcc9f8&sig=aa7c9a9fae6f28ef0e8536d6d6311ddf8db51790964d70ab4964207b799cf39f
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/caff6f729db9dc68b1938f6533b0fa14.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 05:00 WIB] ⏳ 28:40:38  Lanus 🆚  Newells Old Boys 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/71426314.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/532600afe76be2528effd5790fb51a33.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:55:38  Gimnasia Mendoza 🆚  Estudiantes La Plata 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU3NDgwOTcuZmx2&expire=1773685161&salt=9923f9c361db2914&sig=55e6d23c58703c48f877f995a0523daf6dc13a6951ed4f2c2f4433019cab8c98
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/532600afe76be2528effd5790fb51a33.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:55:38  Gimnasia Mendoza 🆚  Estudiantes La Plata 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/75748097.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 06:00 WIB] ⏳ 29:40:38  Orlando Magic 🆚  Oklahoma City Thunder 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773685161&salt=24a74349f97fcf44&sig=72b4d61a7bf208d929256bd5d77929ba8421c2a74ba3d864ecb9cd9c833f094e
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 06:00 WIB] ⏳ 29:40:38  Orlando Magic 🆚  Oklahoma City Thunder 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/82054853.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 08:00 WIB] ⏳ 31:40:38  Alajuelense 🆚  Los Angeles FC 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA3MjU0NzAuZmx2&expire=1773685161&salt=9c5e642788d76fa5&sig=6b52b2a18ef9082763189a27a6a163fe55142b20d96cb722d7a78edba48110e5
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 08:00 WIB] ⏳ 31:40:38  Alajuelense 🆚  Los Angeles FC 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/90725470.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:55:38  Central Cordoba SDE 🆚  Dep. Riestra 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ3MDcxMjQuZmx2&expire=1773685161&salt=33a4e8986f9de867&sig=70b340039b323c66ada7d09414bc99a9bafe6d4ba6963b0d42f1b65f09f19001
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:55:38  Central Cordoba SDE 🆚  Dep. Riestra 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/f7ad4ca154d205eb1799c5a1d1ff3370.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 18:35 WIB] ⏳ 17:23:04  Shanxi Fenjiu 🆚  Beijing Konggu 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/14707124.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 09:00 WIB] ⏳ 32:40:38  Denver Nuggets 🆚  Philadelphia 76ers 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dd126282a3ed968b622055c808ad82c4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 20:00 WIB] ⏳ 18:48:04  Atletico de Madrid U19 🆚  Club Brugge U19 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODczNzkxMTQuZmx2&expire=1773685161&salt=3ef5568123630977&sig=636ed696ea351ce518ca41a63b35d4cc9810bb69ca96ac996bbae651aaa90910
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773688315&salt=79fb725a52f23f09&sig=7e319cdbd842071b62a56a31752dca956a91d4063f0998d64f81251b8eb8f0e1
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 09:00 WIB] ⏳ 32:40:38  Denver Nuggets 🆚  Philadelphia 76ers 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dd126282a3ed968b622055c808ad82c4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 20:00 WIB] ⏳ 18:48:04  Atletico de Madrid U19 🆚  Club Brugge U19 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/87379114.m3u8
+https://live5.msrktz.app/live/41943555.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:00 WIB] ⏳ 33:40:38  Cruz Azul 🆚  Monterrey 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6bce2ab72e4ab293f4f3199af4286b4d.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 21:00 WIB] ⏳ 19:48:04  Al Ansar 🆚  Al Ahed 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDI0NTY5NjYuZmx2&expire=1773685161&salt=5c19f278680ac7b9&sig=e55383e0aee42b0ad9f8ccf7dbf345ba0ea9fc6b9524ecd8e18a248530e08d39
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU5MTUwODcuZmx2&expire=1773688315&salt=45b94cb535ed0487&sig=952d653a018dd18c17556b5cb20ad7f2f9656676f91ee5988ce1a729e612bb8b
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:00 WIB] ⏳ 33:40:38  Cruz Azul 🆚  Monterrey 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6bce2ab72e4ab293f4f3199af4286b4d.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 21:00 WIB] ⏳ 19:48:04  Al Ansar 🆚  Al Ahed 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/02456966.m3u8
+https://live5.msrktz.app/live/75915087.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d69f7b4e5781756f141810f0716bcbe6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:06 WIB] ⏳ 33:46:38  Club Tijuana Nữ 🆚  U.N.A.M.- Pumas Nữ 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/aecc25c138f425cbadd3ddf98f0b6751.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 20:48:04  Villarreal U19 🆚  Paris Saint Germain U19 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNjg4NDg1OTQuZmx2&expire=1773685161&salt=3ded614cba03a5e7&sig=42b847cfe6e3038a754211d5ae2f8528e628db5e36b8cd49714b3bda399c7112
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773688315&salt=2b7288fdf506f345&sig=a4446375c53058c59878365ca9b68c4e38ceb213952c0a96057995379ffa13c8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d69f7b4e5781756f141810f0716bcbe6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:06 WIB] ⏳ 33:46:38  Club Tijuana Nữ 🆚  U.N.A.M.- Pumas Nữ 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/aecc25c138f425cbadd3ddf98f0b6751.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 20:48:04  Villarreal U19 🆚  Paris Saint Germain U19 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/07428422.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b6a144b441bfd3ff6d4179d4b04b9693.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 20:48:04  Braga U23 🆚  Leixoes U23 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNjg4NDg1OTQuZmx2&expire=1773688315&salt=eb159d84303281f5&sig=126f7f67ab8f23c3608b55edec3056d51879e938d1d833cf5d86f54093b546b9
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b6a144b441bfd3ff6d4179d4b04b9693.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 22:00 WIB] ⏳ 20:48:04  Braga U23 🆚  Leixoes U23 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/68848594.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6d2cab607ba1b908c2c71225581b06ee.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 12:30 WIB] ⏳ 36:10:38  Melbourne City Nữ 🆚  Adelaide Nữ 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee170662c1911f3d2f7746f6539f2604.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 23:30 WIB] ⏳ 22:18:04  Krasnodar 🆚  CSKA Moscow 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTkxMjE1MjUuZmx2&expire=1773685161&salt=ed2b0cc95d054abc&sig=9e0d71f5188bdb460c541722a051bb95a1f3825bf7cfe37935b76cfda6086b1b
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ4MzA3MTEuZmx2&expire=1773688315&salt=24b8a2f2525d611d&sig=c075600de447c7122c5f50eb46e63bcf158a5c016555ec86d070f43a3ae0ac19
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6d2cab607ba1b908c2c71225581b06ee.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 12:30 WIB] ⏳ 36:10:38  Melbourne City Nữ 🆚  Adelaide Nữ 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee170662c1911f3d2f7746f6539f2604.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Hari Ini 23:30 WIB] ⏳ 22:18:04  Krasnodar 🆚  CSKA Moscow 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/99121525.m3u8
+https://live5.msrktz.app/live/14830711.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 39:40:38  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 23:33:04  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTg4MTIzMDQuZmx2&expire=1773685161&salt=e8530b5d0407ed90&sig=b1d7d73fe484245b4810baaddc85dcd923c67ab010d612c3e78c5a4ec73531a8
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDg1NTI4OTUuZmx2&expire=1773688315&salt=e1f13131c24f6b25&sig=c7c221230a758ee242ce0e9a5b130a9883b213e842c7ff5774dc2cdb604d8b37
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 39:40:38  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 23:33:04  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/08552895.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 23:33:04  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzk2NjUzNDMuZmx2&expire=1773688315&salt=576de8eb2afdb03b&sig=df40ee8101813955a824c59583db125e8ff91ad7103eecfdf8eedf0eec06de73
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:45 WIB] ⏳ 23:33:04  Sporting 🆚  Bodo Glimt 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/79665343.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:04  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773688315&salt=030f4b726465a985&sig=b56a22387f540b548ab7f286d25240cd82c9cb60a4778e5b0bc71d13138563c7
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:04  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/07428422.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:04  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMzM5ODIzMDkuZmx2&expire=1773688315&salt=259899b81ffe687c&sig=2b53c59966013193bcc6317a64b36982cda7bda6598df2dcb84d34412ceab02b
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:04  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/33982309.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:04  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS5]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDM2MTIyNzcuZmx2&expire=1773688315&salt=7e81bc6301fe577e&sig=9f5f22c2f24a0c264e3ff6a925e586260140f0b587146366f5b4188d2db0da97
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d6f5debc456da1119256ab66462ab510.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:04  Arsenal 🆚  Bayer 04 Leverkusen 😈 [SVR-BHNS6]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/43612277.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dff00f1fd4a7dd2feac000b462416867.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:00 WIB] ⏳ 22:48:04  Fenerbahce 🆚  Gaziantep Buyuksehir Belediyesi 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODc1NDc1NzguZmx2&expire=1773688315&salt=cade13aed31eb866&sig=bcb1502353662bd7b8a415ae57e655d02c2880575056509d01e7070171a44989
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/dff00f1fd4a7dd2feac000b462416867.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 00:00 WIB] ⏳ 22:48:04  Fenerbahce 🆚  Gaziantep Buyuksehir Belediyesi 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/87547578.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:04  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ4MzA3MTEuZmx2&expire=1773688315&salt=f40ea5a1515277b8&sig=ff28680426e06c813f96a86f088d1faa4112d97490d4f301960b28f77ad0b8cd
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:04  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/14830711.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:04  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773688315&salt=527414db1fc5c076&sig=dc844e41fa20097c12a89102bd3fdc1e722494f8e7386bff30c6e82a40ccec28
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:04  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/24561735.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:04  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS5]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773688315&salt=9f1c9b60b4fab0ad&sig=ef6261339358cfdb9550deb5a4c44ee96068c920ee0de20a0847ae08f0b93ab0
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:04  Manchester City 🆚  Real Madrid CF 😈 [SVR-BHNS6]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/97312754.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:04  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc4MDg3NDIuZmx2&expire=1773688315&salt=53590cd0198b1b84&sig=5bd4b572eda057aec93e4d82ef60103d305ea21de967c3653c8b770885d3acce
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:04  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/07808742.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:04  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773688315&salt=c73d3c51f07f4b18&sig=f79385b684520e5dc21867b085f3d4264c122f0b09dada43d2303d7ca4d99fc5
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:04  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/41943555.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:04  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS5]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzg5MDU3NDQuZmx2&expire=1773688315&salt=e5c7f7db2f147888&sig=0431c4b82265104e1706f3cc0cc81b888a33695c3b61fcb7bfa07cc66927a10d
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 03:00 WIB] ⏳ 25:48:04  Chelsea 🆚  Paris Saint-Germain 😈 [SVR-BHNS6]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/78905744.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 06:00 WIB] ⏳ 28:48:04  Orlando Magic 🆚  Oklahoma City Thunder 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773688316&salt=1f686a12fd42b0f1&sig=f0b10530f01b97fb790efb61f313557466862c3d797fb1766c835196472d68e5
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 06:00 WIB] ⏳ 28:48:04  Orlando Magic 🆚  Oklahoma City Thunder 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/82054853.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/caff6f729db9dc68b1938f6533b0fa14.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 05:00 WIB] ⏳ 27:48:04  Lanus 🆚  Newells Old Boys 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzE0MjYzMTQuZmx2&expire=1773688316&salt=b19aaeeca96a4cc0&sig=680f0e4d9a9debc0ab22e302e5e1181167128b1a8da77411dc2b4cde1aeea1cd
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/caff6f729db9dc68b1938f6533b0fa14.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 05:00 WIB] ⏳ 27:48:04  Lanus 🆚  Newells Old Boys 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/71426314.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:03:04  Central Cordoba SDE 🆚  Dep. Riestra 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTQ3MDcxMjQuZmx2&expire=1773688316&salt=dc5bb87f79c06cf1&sig=2ea80bbf269862946f622efbddfccfb541bc34aa0609e5029c22f74796cefdd1
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:03:04  Central Cordoba SDE 🆚  Dep. Riestra 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/14707124.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 08:00 WIB] ⏳ 30:48:04  Alajuelense 🆚  Los Angeles FC 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA3MjU0NzAuZmx2&expire=1773688316&salt=a6a4ee0a769cc59b&sig=ba24d0d338b723a45c59ea34d15e5e27629b52615ca8c3fa8ac58b6b82a01c36
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 08:00 WIB] ⏳ 30:48:04  Alajuelense 🆚  Los Angeles FC 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/90725470.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:00 WIB] ⏳ 32:48:04  Cruz Azul 🆚  Monterrey 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDI0NTY5NjYuZmx2&expire=1773688316&salt=31a0bf68e92bca7a&sig=e05c55ea36e056c6ca28f8d2b86d0d0d2ee1d8f51af163c5b8c84890500bc77d
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:00 WIB] ⏳ 32:48:04  Cruz Azul 🆚  Monterrey 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/02456966.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d69f7b4e5781756f141810f0716bcbe6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:06 WIB] ⏳ 32:54:04  Club Tijuana Nữ 🆚  U.N.A.M.- Pumas Nữ 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNjg4NDg1OTQuZmx2&expire=1773688316&salt=2fdb9aeb25e602a7&sig=8a33cd7c86600cdb851e67281288887d4d2850a44b27605b13cd07dd5c093a25
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d69f7b4e5781756f141810f0716bcbe6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 10:06 WIB] ⏳ 32:54:04  Club Tijuana Nữ 🆚  U.N.A.M.- Pumas Nữ 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/68848594.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 09:00 WIB] ⏳ 31:48:04  Denver Nuggets 🆚  Philadelphia 76ers 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODczNzkxMTQuZmx2&expire=1773688316&salt=515a48e51a711df4&sig=0c9705674ebc23ab37efb5018255021e7b037961e146eba250832fb2b21136da
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 09:00 WIB] ⏳ 31:48:04  Denver Nuggets 🆚  Philadelphia 76ers 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/87379114.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 38:48:04  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMTg4MTIzMDQuZmx2&expire=1773688316&salt=423a2ddeaedf8d30&sig=ce7ff3e181b63fa83c2579acc1cad0588c6fd96f99a9a9d627f89562dda8cd14
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 38:48:04  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/18812304.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 39:40:38  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS3]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 38:48:04  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODczNzkxMTQuZmx2&expire=1773685161&salt=59d8c523ad3c6449&sig=31df67ec2a7d54571365d5e5c717e2adb94ce63dc8ec4ef0ddbf1720d147a3c2
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODczNzkxMTQuZmx2&expire=1773688316&salt=c6ed81b8b96db4d8&sig=1a158baa439357832192563dc1486b0ffda969fe2760df9ef0c15453b7e9ab4c
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 39:40:38  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS4]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:00 WIB] ⏳ 38:48:04  Hàn Quốc Nữ 🆚  Nhật Bản Nữ 😈 [SVR-BHNS4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/87379114.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:30 WIB] ⏳ 40:10:38  Cerezo Osaka 🆚  Fagiano Okayama 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:30 WIB] ⏳ 39:18:03  Cerezo Osaka 🆚  Fagiano Okayama 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDM2MTIyNzcuZmx2&expire=1773685162&salt=70a8f5782c48d0ab&sig=438a5218c3fd9ffeb4121f4a705056553130103c1e02b0d71b3ffcdef9a185ee
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDM2MTIyNzcuZmx2&expire=1773688316&salt=4634139727f9db1f&sig=2e8d3cd0dc801a8c7848c4199bc48707f0dd12b4a896a408e0b9bfaf3b21751e
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:30 WIB] ⏳ 40:10:38  Cerezo Osaka 🆚  Fagiano Okayama 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 16:30 WIB] ⏳ 39:18:03  Cerezo Osaka 🆚  Fagiano Okayama 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/43612277.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 40:40:38  Chiba 🆚  Tokyo 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 39:48:03  Chiba 🆚  Tokyo 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzk2NjUzNDMuZmx2&expire=1773685162&salt=36a533da2d4fd1ba&sig=0ca7e416a0b0617ddb05707f07cb77ddc49f9059ff3f5862675105565b637b45
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzk2NjUzNDMuZmx2&expire=1773688316&salt=503c490129b264ae&sig=8c12aad0b0e937ca6ba3876ac7c237f29541dec8c38870a5649544362502c164
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 40:40:38  Chiba 🆚  Tokyo 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 39:48:03  Chiba 🆚  Tokyo 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/79665343.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 40:40:38  Nagoya Grampus 🆚  Sanfrecce Hiroshima 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/532600afe76be2528effd5790fb51a33.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:03:04  Gimnasia Mendoza 🆚  Estudiantes La Plata 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc4MDg3NDIuZmx2&expire=1773685162&salt=1ccdbd4160ddfdbb&sig=9439f9ce6335aae874778e1878512ce14718d4ce6e6df7282f9c42bffd1fb131
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU3NDgwOTcuZmx2&expire=1773688316&salt=0efc2f272d0a27a3&sig=f531ce221e70f9cd8b46bee01b17bf6f3ec917b96d08374c839105c90800072a
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 40:40:38  Nagoya Grampus 🆚  Sanfrecce Hiroshima 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/07808742.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d85cce27ab583e5b3cead155f02b098a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 40:40:38  Vissel Kobe 🆚  Gamba Osaka 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU5MTUwODcuZmx2&expire=1773685162&salt=26ee8a73cf15ddda&sig=45aec2b29d1976cca92c3dda5e5dcc8f03c181ea3ef7b6667e07206be8b52071
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d85cce27ab583e5b3cead155f02b098a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 40:40:38  Vissel Kobe 🆚  Gamba Osaka 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/75915087.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 41:10:38  Machida 🆚  Kashima Antlers 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773685162&salt=1564f5b2ed858673&sig=da17c6bd036f63f18a0206f35a53c1bda74fdef5961da1f5ee265e48793a62c4
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 41:10:38  Machida 🆚  Kashima Antlers 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/90865415.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 41:10:38  Bucheon FC 1995 🆚  Gangwon 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDg1NTI4OTUuZmx2&expire=1773685162&salt=a9299c18dae843eb&sig=619d1134f72f6eb6d60206c61fe03909dfc0725f424dce767b211811293f20c5
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 41:10:38  Bucheon FC 1995 🆚  Gangwon 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/08552895.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/12fe4d3ee5c01134d48584015c4646f3.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 41:40:38  Pathum United 🆚  Mahasarakham United FC 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODg1MDg0MzEuZmx2&expire=1773685162&salt=b2c519b3024ee90b&sig=927accad1caeb54b0b5266ae96a774d32c811685499e3d3cf1ef120bbc32dcb6
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/12fe4d3ee5c01134d48584015c4646f3.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 41:40:38  Pathum United 🆚  Mahasarakham United FC 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/88508431.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 41:10:38  Jeonbuk Hyundai Motors 🆚  FC Anyang 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU3NDgwOTcuZmx2&expire=1773685162&salt=fc661198a36266f5&sig=a97a7d73a9a6bd6fa4f6c7c420a28fd3d8400a0f0325e626cc0b9f632259267d
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 41:10:38  Jeonbuk Hyundai Motors 🆚  FC Anyang 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/532600afe76be2528effd5790fb51a33.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 07:15 WIB] ⏳ 30:03:04  Gimnasia Mendoza 🆚  Estudiantes La Plata 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/75748097.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/1125281dafbf06dad029825221e83d5a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:35 WIB] ⏳ 42:15:38  Shanghai 🆚  Shandong Hi-Speed 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 39:48:03  Nagoya Grampus 🆚  Sanfrecce Hiroshima 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773685162&salt=b8045f3c68ac6509&sig=8a67248e4295189053d278f5a3a0a9722217ba4d4399d28d3dc7cff1fe52c962
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc4MDg3NDIuZmx2&expire=1773688316&salt=261bf62fa7e22b9e&sig=ab21c23a55af0acedcd5a49aa61ab4f4e183cee16b4ecb83ee5dacabce3ebd8b
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/1125281dafbf06dad029825221e83d5a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:35 WIB] ⏳ 42:15:38  Shanghai 🆚  Shandong Hi-Speed 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 39:48:03  Nagoya Grampus 🆚  Sanfrecce Hiroshima 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/82054853.m3u8
+https://live5.msrktz.app/live/07808742.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/46a4867487152e47c4dc61984d0c58aa.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 41:40:38  SHB Đà Nẵng 🆚  Nam Định 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d85cce27ab583e5b3cead155f02b098a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 39:48:03  Vissel Kobe 🆚  Gamba Osaka 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA3MjU0NzAuZmx2&expire=1773685162&salt=c9ac536682da15a0&sig=a0b7693bd01bee61c14c376caf1a69258cbf5b5319909fbeed8796f044d6bf96
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU5MTUwODcuZmx2&expire=1773688316&salt=bf362f44fc275f86&sig=01920e7f58983444c3c777b60e35ed97cdb1958e123750c8bee1f440ce31720c
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/46a4867487152e47c4dc61984d0c58aa.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 41:40:38  SHB Đà Nẵng 🆚  Nam Định 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/d85cce27ab583e5b3cead155f02b098a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:00 WIB] ⏳ 39:48:03  Vissel Kobe 🆚  Gamba Osaka 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/90725470.m3u8
+https://live5.msrktz.app/live/75915087.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4fe4cf906ee7b1399a1b0468432c74cd.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 19:00 WIB] ⏳ 42:40:37  Pattani 🆚  Buriram 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 40:18:03  Machida 🆚  Kashima Antlers 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773685162&salt=68c59fce1f05ba09&sig=de0c1b6b0f4df210b1094b2d82415be5416534e61de1fdf2f479bcdb42e9dece
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773688316&salt=fcf963995e9d5ca8&sig=a7a4c3d3f5522456d7e8990030fe22bcfa5d9f90af407271e21e44490d453ba8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4fe4cf906ee7b1399a1b0468432c74cd.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 19:00 WIB] ⏳ 42:40:37  Pattani 🆚  Buriram 😈 [SVR-BHNS2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/41943555.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5e754f0f66a62ae8806a63677b45caa4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 43:40:37  Real Madrid U19 🆚  Sporting CP U19 😈 [SVR-BHNS1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773685162&salt=62603d860cf90b82&sig=dbcf154073fc0b10af5904c0ca52bf61eae159c7dae0697724f2ae4b166b1125
-
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5e754f0f66a62ae8806a63677b45caa4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 43:40:37  Real Madrid U19 🆚  Sporting CP U19 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 40:18:03  Machida 🆚  Kashima Antlers 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/90865415.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 21:00 WIB] ⏳ 44:40:37  Johor Darul Takzim 🆚  PDRM FC 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 40:18:03  Jeonbuk Hyundai Motors 🆚  FC Anyang 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDI0NTY5NjYuZmx2&expire=1773685162&salt=f402d85d8e4749f6&sig=9c0c77abb975ba27075a756a9ce02dfe46c868355a26e024ef53dfb90d0575d3
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNzU3NDgwOTcuZmx2&expire=1773688316&salt=102620272df0966f&sig=7b0905a80c6b70dfe71222b7dfc0989185074ff06aba832e39baef3801cf1b74
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 21:00 WIB] ⏳ 44:40:37  Johor Darul Takzim 🆚  PDRM FC 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 40:18:03  Jeonbuk Hyundai Motors 🆚  FC Anyang 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/75748097.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 40:18:03  Bucheon FC 1995 🆚  Gangwon 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDg1NTI4OTUuZmx2&expire=1773688316&salt=339c5b375b2f65d7&sig=b43e71ccd14786127f60375802eae2b36b4c94bf15655e4f5206d02d07e4fc71
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 17:30 WIB] ⏳ 40:18:03  Bucheon FC 1995 🆚  Gangwon 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/08552895.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6d2cab607ba1b908c2c71225581b06ee.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 12:30 WIB] ⏳ 35:18:04  Melbourne City Nữ 🆚  Adelaide Nữ 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTkxMjE1MjUuZmx2&expire=1773688316&salt=0b7f85ef8f80459f&sig=2c7efccb550841fde3a9e09ca2f56192234b026c9d2f016a92d4f524261d9e28
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/6d2cab607ba1b908c2c71225581b06ee.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 12:30 WIB] ⏳ 35:18:04  Melbourne City Nữ 🆚  Adelaide Nữ 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/99121525.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/46a4867487152e47c4dc61984d0c58aa.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 40:48:03  SHB Đà Nẵng 🆚  Nam Định 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA3MjU0NzAuZmx2&expire=1773688316&salt=5bac8aef110168c1&sig=7777c3ca97dde5caf6a86b01eae33bd3a43142bf944548fc29eb8dc7e9139c54
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/46a4867487152e47c4dc61984d0c58aa.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 40:48:03  SHB Đà Nẵng 🆚  Nam Định 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/90725470.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/12fe4d3ee5c01134d48584015c4646f3.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 40:48:03  Pathum United 🆚  Mahasarakham United FC 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODg1MDg0MzEuZmx2&expire=1773688316&salt=a0db8dbc7634a9bb&sig=7a1f3eb7888dde7a191b3192d5e90177de5e5b453c5214720714004a5302f067
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/12fe4d3ee5c01134d48584015c4646f3.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:00 WIB] ⏳ 40:48:03  Pathum United 🆚  Mahasarakham United FC 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/88508431.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/1125281dafbf06dad029825221e83d5a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:35 WIB] ⏳ 41:23:03  Shanghai 🆚  Shandong Hi-Speed 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvODIwNTQ4NTMuZmx2&expire=1773688316&salt=550706e5a43f083c&sig=0dfb25f28437a9fc34165ab8292e8d9c95fb59355a3d0ae72a18fe1917c2c63f
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/basketball/team/1125281dafbf06dad029825221e83d5a.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 18:35 WIB] ⏳ 41:23:03  Shanghai 🆚  Shandong Hi-Speed 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/82054853.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5e754f0f66a62ae8806a63677b45caa4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 42:48:03  Real Madrid U19 🆚  Sporting CP U19 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTA4NjU0MTUuZmx2&expire=1773688316&salt=d8d715ec722baa28&sig=80f265b89f9409b953041e926aef0dbe98a5314100fefc46d323516bdbe40ff9
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/5e754f0f66a62ae8806a63677b45caa4.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 42:48:03  Real Madrid U19 🆚  Sporting CP U19 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/90865415.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0688ed133dadf5f09bb94c8414ec5565.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 42:48:03  Alanyaspor 🆚  Kocaelispor 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773688316&salt=92c38ef61c918042&sig=9f780eeb298a6e2ab99df9ee5783ee9ed306b0300e0bdfb8bae0ccae40a27424
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0688ed133dadf5f09bb94c8414ec5565.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 42:48:03  Alanyaspor 🆚  Kocaelispor 😈 [SVR-BHNS2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://live5.msrktz.app/live/07428422.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 21:00 WIB] ⏳ 43:48:03  Johor Darul Takzim 🆚  PDRM FC 😈 [SVR-BHNS1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://colatv88xd.cc/
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDI0NTY5NjYuZmx2&expire=1773688316&salt=f50beb310d3bef34&sig=5058fa560e9995b09ed70b3ee959e3a5c1c99e78fede1e0f0c0ab74cafc9d70b
+
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/3ab85cf20a3ed001a60a9fcd8ec09afe.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 21:00 WIB] ⏳ 43:48:03  Johor Darul Takzim 🆚  PDRM FC 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/02456966.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 46:10:37  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 45:18:03  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773685162&salt=dd0e3ce8456e3ba3&sig=d54bf041fe9a085fdfd09af933fc8a721f4060d0056598fa9d3c3ede9fe3a2b6
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMjQ1NjE3MzUuZmx2&expire=1773688316&salt=b064223408151286&sig=17789a31e89a1225bf643903d401563b4e926485032ddd0846cf8af86733ff5d
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 46:10:37  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 45:18:03  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/24561735.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 46:10:37  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS3]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 45:18:03  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773685162&salt=739d605febc9d40e&sig=937a7562908fe5c27547328ca019a274205e86c6ddb63bd1e705e76b77352bb0
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvOTczMTI3NTQuZmx2&expire=1773688316&salt=f03b439f700a4337&sig=45cf537aea0163a1c40e48e578e766fbe60ad0f99dc259fdf63dba7026fb3c55
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 46:10:37  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS4]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 22:30 WIB] ⏳ 45:18:03  Braga 🆚  Ferencvarosi TC 😈 [SVR-BHNS4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
 https://live5.msrktz.app/live/97312754.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0688ed133dadf5f09bb94c8414ec5565.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 43:40:37  Alanyaspor 🆚  Kocaelispor 😈 [SVR-BHNS1]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4fe4cf906ee7b1399a1b0468432c74cd.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 19:00 WIB] ⏳ 41:48:03  Pattani 🆚  Buriram 😈 [SVR-BHNS1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvMDc0Mjg0MjIuZmx2&expire=1773685162&salt=a3d3c30fd320ecf9&sig=4ba1642dc7c3499f0f20e64e8d727f806dae7709e7f2551a37a7cce32230788f
+https://viiip.kitashinsaku.com/play.php?data=aHR0cHM6Ly9saXZlNS5tc3JrdHouYXBwL2xpdmUvNDE5NDM1NTUuZmx2&expire=1773688316&salt=d7dc99542b3cdc69&sig=cbfc66a476056b792ac3e767c97b456bd47a892bee69efd43c68719f587651ae
 
-#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/0688ed133dadf5f09bb94c8414ec5565.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 20:00 WIB] ⏳ 43:40:37  Alanyaspor 🆚  Kocaelispor 😈 [SVR-BHNS2]
+#EXTINF:-1 tvg-logo="https://img.colatv88xd.cc/football/team/4fe4cf906ee7b1399a1b0468432c74cd.png!w80" group-title="😈⏳LIVE2⚠️UPCOMING⏳😈",😈 [Besok 19:00 WIB] ⏳ 41:48:03  Pattani 🆚  Buriram 😈 [SVR-BHNS2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://colatv88xd.cc/
-https://live5.msrktz.app/live/07428422.m3u8
+https://live5.msrktz.app/live/41943555.m3u8
 
