@@ -2,8 +2,8 @@ import requests
 import time
 import os
 
-OWNER = "iwoksi"
-REPO = "trucp"
+OWNER = "Bhianesse"
+REPO = "Bhianesse"
 
 TOKEN = os.getenv("GH_TOKEN") or os.getenv("GITHUB_TOKEN")
 
@@ -12,19 +12,17 @@ HEADERS = {
     "Accept": "application/vnd.github+json"
 }
 
-SLEEP_AFTER_ALL = 60  # 5 menit
+SLEEP_AFTER_ALL = 600  # 5 menit
 
 # 👉
-BATCH_SIZE = 12
+BATCH_SIZE = 3
 
 # 👉
 WORKFLOW_LIST = [
-    "imach.yml", "krtalk2.yml",
-    "krtalk3.yml", "krtalk4.yml",
-    "krtalk5.yml", "haodao.yml",
-    "buncha.yml", "buncha2.yml",
-    "bonmua.yml", "pantat.yml",
-    "kautv.yml", "ulangin.yml",
+    "krtalk2.yml", "krtalk3.yml",
+    "krtalk4.yml", "krtalk6.yml",
+    "bonmua.yml", "xolax.yml",
+    "ulangin.yml",
 ]
 
 # 👉
@@ -33,7 +31,7 @@ temp = []
 
 for wf in WORKFLOW_LIST:
 
-    if wf == "imach2.yml":
+    if wf == "ulangin.yml":
         if temp:
             WORKFLOW_GROUPS.append(temp)
             temp = []
