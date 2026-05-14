@@ -12,7 +12,7 @@ HEADERS = {
     "Accept": "application/vnd.github+json"
 }
 
-SLEEP_AFTER_ALL = 600  # 5 menit
+SLEEP_AFTER_ALL = 3600  # 5 menit
 
 # 👉
 BATCH_SIZE = 3
@@ -22,7 +22,7 @@ WORKFLOW_LIST = [
     "krtalk2.yml", "krtalk3.yml",
     "krtalk4.yml", "krtalk6.yml",
     "bonmua.yml", "xolax.yml",
-    "ulangin.yml",
+    "tructip.yml", "ulangin.yml",
 ]
 
 # 👉
