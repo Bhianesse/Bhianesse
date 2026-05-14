@@ -29,19 +29,7 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-dua-hau.flv
 #EXTVLCOPT:http-origin=https://bonmuatv.com
 https://pull.globalcdnnetworksc2031.info/str01/blv-phao.flv
 
-#EXTINF:-1 tvg-logo="https://bonmuatv.com/assets/image/logo.png" group-title="BONMULU TV LIVE", [18:30 14/05] China U17 Women vs North Korea U17 Women - AFC U17 Women's Asian Cup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bonmuatv.com/
-#EXTVLCOPT:http-origin=https://bonmuatv.com
-https://pull.globalcdnnetworksc2031.info/str01/blv-gio-tai.flv
-
 #EXTINF:-1 tvg-logo="https://bonmuatv.com/assets/image/logo.png" group-title="BONMULU TV LIVE", [19:00 14/05] Beijing Guoan vs Qingdao Hainiu - Chinese Football Super League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bonmuatv.com/
-#EXTVLCOPT:http-origin=https://bonmuatv.com
-https://pull.globalcdnnetworksc2031.info/str01/blv-meo-beo.flv
-
-#EXTINF:-1 tvg-logo="https://bonmuatv.com/assets/image/logo.png" group-title="BONMULU TV LIVE", [19:00 14/05] Sirjan (Irn) vs Putra Jakarta Garuda (Ina) - AVC Champions League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bonmuatv.com/
 #EXTVLCOPT:http-origin=https://bonmuatv.com
