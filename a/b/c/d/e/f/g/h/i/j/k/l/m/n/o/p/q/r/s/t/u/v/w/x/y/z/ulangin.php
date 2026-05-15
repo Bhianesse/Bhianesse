@@ -119,12 +119,6 @@ https://vz-f89575e6-005.b-cdn.net/52601891-ba5c-495a-8361-5801c364c7bb/playlist.
 #EXTVLCOPT:http-origin=https://xemlaitrandau.live
 https://vz-740a4c6f-e63.b-cdn.net/ad3c0d2f-dc08-4ddc-8553-4ae6815f0803/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://xemlaitrandau.live/assets/image/logo-removebg.png" group-title="SIAR-YAN ULANG LIVE", [07:00 15/05] Xem Lại Full Match Angers vs PSG | 26.04.2026 | Ligue 1 | BLV Lò A Mập
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xemlaitrandau.live/
-#EXTVLCOPT:http-origin=https://xemlaitrandau.live
-https://vz-fbe7a74e-978.b-cdn.net/e934e3e9-97b9-4db5-9cea-b8c881c70c83/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://xemlaitrandau.live/assets/image/logo-removebg.png" group-title="SIAR-YAN ULANG LIVE", [07:00 15/05] Xem Lại Full Match Vakifbank Nữ vs Eczacibasi Nữ | 04.05.2026 | Champions League Nữ | BLV Chim Nhỏ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xemlaitrandau.live/
@@ -214,18 +208,6 @@ https://vz-3223b512-32e.b-cdn.net/30dddf12-15b1-46c6-831b-36714223e152/playlist.
 #EXTVLCOPT:http-referrer=https://xemlaitrandau.live/
 #EXTVLCOPT:http-origin=https://xemlaitrandau.live
 https://vz-fbe7a74e-978.b-cdn.net/149167f3-adbc-483b-9773-25479cdd4964/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://xemlaitrandau.live/assets/image/logo-removebg.png" group-title="SIAR-YAN ULANG LIVE", [09:05 15/05] Xem Lại Full Match Toulouse vs Monaco | 26.04.2026 | Ligue 1 | BLV Dylan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xemlaitrandau.live/
-#EXTVLCOPT:http-origin=https://xemlaitrandau.live
-https://vz-740a4c6f-e63.b-cdn.net/54234bea-457b-455b-931f-1e193f1bc447/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://xemlaitrandau.live/assets/image/logo-removebg.png" group-title="SIAR-YAN ULANG LIVE", [09:45 15/05] Xem Lại Full Match Nantes vs Strasbourg | 23.03.2026 | Ligue 1 | BLV Lò Gió Tai
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xemlaitrandau.live/
-#EXTVLCOPT:http-origin=https://xemlaitrandau.live
-https://vz-1ac90322-e64.b-cdn.net/39e4665a-8a84-4263-86b8-92e08f585cd7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://xemlaitrandau.live/assets/image/logo-removebg.png" group-title="SIAR-YAN ULANG LIVE", [14:00 15/05] Xem Lại Full Show WWE RAW 07:00 12.05.2026 | BLV Pháo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
