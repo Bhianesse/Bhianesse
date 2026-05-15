@@ -17,12 +17,6 @@ https://vz-620e0d14-828.b-cdn.net/40f5c316-7bb7-440c-9308-34833eeab546/playlist.
 #EXTVLCOPT:http-origin=https://xemlaitrandau.live
 https://vz-740a4c6f-e63.b-cdn.net/b7f1c57c-42ed-42cc-80ed-bce3b9414cea/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://xemlaitrandau.live/assets/image/logo-removebg.png" group-title="SIAR-YAN ULANG LIVE", [03:00 15/05] Xem Lại Full Burnley vs Aston Villa | 10.05.2026 | Premier League | BLV Gió Tai
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xemlaitrandau.live/
-#EXTVLCOPT:http-origin=https://xemlaitrandau.live
-https://vz-f5b4ea82-ebf.b-cdn.net/c946917b-679f-423d-a865-639df819b30d/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://xemlaitrandau.live/assets/image/logo-removebg.png" group-title="SIAR-YAN ULANG LIVE", [03:00 15/05] Xem Lại Full Match Sassuolo vs AC Milan | 03.05.2026 | Serie A | BLV Người Kiến
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xemlaitrandau.live/
@@ -173,6 +167,12 @@ https://vz-23c8dac9-459.b-cdn.net/e0f9450c-74f1-467b-895e-f3d7558d43a7/playlist.
 #EXTVLCOPT:http-origin=https://xemlaitrandau.live
 https://vz-fbe7a74e-978.b-cdn.net/6c9e18b7-ca29-48b8-b80a-060ab3792886/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://xemlaitrandau.live/assets/image/logo-removebg.png" group-title="SIAR-YAN ULANG LIVE", [09:00 15/05] Xem Lại Full Match Tottenham vs Leeds | 12.05.2026 | Premier League | BLV Lò A Mập
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xemlaitrandau.live/
+#EXTVLCOPT:http-origin=https://xemlaitrandau.live
+https://vz-fbe7a74e-978.b-cdn.net/e412b9d5-e314-495e-9be1-7b11f7beb5d8/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://xemlaitrandau.live/assets/image/logo-removebg.png" group-title="SIAR-YAN ULANG LIVE", [09:00 15/05] Xem Lại Full Match Arsenal vs Atl. Madrid | 06.05.2026 | Champions League | BLV Pháo x Mèo Béo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xemlaitrandau.live/
@@ -233,12 +233,6 @@ https://vz-23c8dac9-459.b-cdn.net/139e0409-2c43-4d4e-9ae0-8b4e62da1d3a/playlist.
 #EXTVLCOPT:http-origin=https://xemlaitrandau.live
 https://vz-23c8dac9-459.b-cdn.net/58173864-c860-4a28-8f69-56c91fcb1a2c/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://xemlaitrandau.live/assets/image/logo-removebg.png" group-title="SIAR-YAN ULANG LIVE", [14:00 15/05] Xem Lại Full Show WWE SmackDown 07:00 09.05.2026 | BLV Pháo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xemlaitrandau.live/
-#EXTVLCOPT:http-origin=https://xemlaitrandau.live
-https://vz-23c8dac9-459.b-cdn.net/ed4c9964-0f5d-4c53-9d3f-eca6208aefb8/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://xemlaitrandau.live/assets/image/logo-removebg.png" group-title="SIAR-YAN ULANG LIVE", [14:00 15/05] Xem Lại Full Show WWE RAW 07:00 05.05.2026 | BLV Pháo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xemlaitrandau.live/
@@ -269,17 +263,17 @@ https://vz-f89575e6-005.b-cdn.net/f369e6fb-075b-4acf-9922-2794bf78934e/playlist.
 #EXTVLCOPT:http-origin=https://xemlaitrandau.live
 https://vz-6c5869c4-0eb.b-cdn.net/3859f06c-135f-4ff4-88b4-b6eb5d35a286/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://xemlaitrandau.live/assets/image/logo-removebg.png" group-title="SIAR-YAN ULANG LIVE", [21:00 15/05] Xem Lại Full Match Vietnam U17 W vs Australia U17 W | 11.05.2026 | AFC Asian Cup Women U17 | BLV Gió Tai
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xemlaitrandau.live/
+#EXTVLCOPT:http-origin=https://xemlaitrandau.live
+https://vz-1ac90322-e64.b-cdn.net/9f1605b4-730c-47f1-9570-e7f9dd447d47/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://xemlaitrandau.live/assets/image/logo-removebg.png" group-title="SIAR-YAN ULANG LIVE", [21:05 15/05] Xem Lại Full Match JTEKT vs NEC Tokyo Great Bears | 02.05.2026 | SV.League | BLV Chim Nhỏ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xemlaitrandau.live/
 #EXTVLCOPT:http-origin=https://xemlaitrandau.live
 https://vz-8d7734ea-c74.b-cdn.net/8203e8da-2530-4e70-b0b7-37794e476116/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://xemlaitrandau.live/assets/image/logo-removebg.png" group-title="SIAR-YAN ULANG LIVE", [23:05 15/05] Xem Lại Full Match Nakhon Nagoya vs JT Thunders | 01.05.2026 | SV.League | BLV Mèo Béo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xemlaitrandau.live/
-#EXTVLCOPT:http-origin=https://xemlaitrandau.live
-https://vz-0e83bf19-b37.b-cdn.net/dc9960f5-b252-4a02-b414-3b3fa68c9be8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://xemlaitrandau.live/assets/image/logo-removebg.png" group-title="SIAR-YAN ULANG LIVE", [23:45 15/05] Xem Lại Full Match Osaka Bluteon vs JTEKT | 10.05.2026 | SV.League | BLV Chim Nhỏ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
