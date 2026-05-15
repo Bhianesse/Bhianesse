@@ -1,9 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="MY PACAR LIVE",🐇ayok donasi server playlist IPTV agar server tetap aktif🐇
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260515/2b52b6d2-f017-45cb-9251-465d951419a9-260515185630.jpg" group-title="MY PACAR LIVE",🐇[LIVE 3m | Cila | Karafuru Idol Group | 👁 4] hiii, aku baru balikk kerjaaw🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.1almm84bFIEI.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260515/3b309975-8549-4b7f-a1f4-6a7063beb937-260515181042.jpg" group-title="MY PACAR LIVE",🐇[LIVE 48m | Diana Indomodel | 👁 163] HI DI GORDEN CROPTOP LAGIEH INIH🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.8fc9OXrFfBjk.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260515/05bce64f-0561-40fa-aad6-34df4c24ba11-260515180009.jpg" group-title="MY PACAR LIVE",🐇[LIVE 59m | ࿋ hii.ecaaa | 👁 502] hii sini masuk🐇
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260515/bf407ce5-969a-472a-a727-dadfbcc55112-260515195902.jpg" group-title="MY PACAR LIVE",🐇[LIVE 3m | Piya | Karafuru Idol Group | 👁 12] harii inii udaa sayang piyaa belumm?🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.vEBpCFKQ2tOg.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260515/7ef0ce3a-2d65-4c55-9c43-0df64d2da807-260515194838.jpg" group-title="MY PACAR LIVE",🐇[LIVE 14m | Elaine Hartanto | 👁 34] Yuk ngobrol hehehe🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.QImzelUobDhm.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260515/489d8a2d-487d-4283-8247-b92c7df8a5bb-260515194223.jpg" group-title="MY PACAR LIVE",🐇[LIVE 20m | ࿋Erzet Madara | 👁 36] Hmm🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.H97mrPl3TJDH.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260515/a5c72141-65a3-47be-86ef-1dc1feaab10d-260515193815.jpg" group-title="MY PACAR LIVE",🐇[LIVE 24m | Anindya JKT48 | 👁 2692] hi🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.r1IZpJ0puDJi.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260515/ca182a27-aa04-46a8-bedb-4e53cf0551f0-260515193633.jpg" group-title="MY PACAR LIVE",🐇[LIVE 26m | callysta az | 👁 91] Ayo ngobrol bareng!🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ZEvl7Y5IyFoj.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260515/51f90d9f-5838-4e14-8e8b-e4760efb0993-260515192624.jpg" group-title="MY PACAR LIVE",🐇[LIVE 36m | ࿋Chesya madara | 👁 102] Ayo ngobrol bareng!🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.wpppsVIIsA3z.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260515/05bce64f-0561-40fa-aad6-34df4c24ba11-260515180009.jpg" group-title="MY PACAR LIVE",🐇[LIVE 2h | ࿋ hii.ecaaa | 👁 1116] hii sini masuk🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.gvCrK9PwZz0d.m3u8
