@@ -209,12 +209,6 @@ https://vz-6c5869c4-0eb.b-cdn.net/c564b67f-cc5f-42b0-aaf1-b133571ac355/playlist.
 #EXTVLCOPT:http-origin=https://xemlaitrandau.live
 https://vz-3223b512-32e.b-cdn.net/30dddf12-15b1-46c6-831b-36714223e152/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://xemlaitrandau.live/assets/image/logo-removebg.png" group-title="SIAR-YAN ULANG LIVE", [09:00 16/05] Xem Lại Full Match CA Osasuna vs FC Barcelona | 03.05.2026 | La Liga | BLV Lò A Mập
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xemlaitrandau.live/
-#EXTVLCOPT:http-origin=https://xemlaitrandau.live
-https://vz-fbe7a74e-978.b-cdn.net/149167f3-adbc-483b-9773-25479cdd4964/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://xemlaitrandau.live/assets/image/logo-removebg.png" group-title="SIAR-YAN ULANG LIVE", [09:05 16/05] Xem Lại Full Match Toulouse vs Monaco | 26.04.2026 | Ligue 1 | BLV Dylan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xemlaitrandau.live/
