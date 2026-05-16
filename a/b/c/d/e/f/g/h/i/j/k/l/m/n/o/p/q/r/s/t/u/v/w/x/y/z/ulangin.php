@@ -35,6 +35,12 @@ https://vz-3223b512-32e.b-cdn.net/983e0bab-0cea-4434-b220-81782df02be8/playlist.
 #EXTVLCOPT:http-origin=https://xemlaitrandau.live
 https://vz-f5b4ea82-ebf.b-cdn.net/110e6bc2-d2d4-490f-88c3-2d7d347e827f/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://xemlaitrandau.live/assets/image/logo-removebg.png" group-title="SIAR-YAN ULANG LIVE", [03:30 16/05] Xem Lại Full Match Bayern Munich vs Heidenheim | 02.05.2026 | Bundesliga | BLV Văn Chuẩn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xemlaitrandau.live/
+#EXTVLCOPT:http-origin=https://xemlaitrandau.live
+https://vz-f89575e6-005.b-cdn.net/928b81e5-fb7c-40d9-bf0c-895eea80906f/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://xemlaitrandau.live/assets/image/logo-removebg.png" group-title="SIAR-YAN ULANG LIVE", [03:30 16/05] Xem Lại Full Match Hoffenheim vs Dortmund | 18.04.2026 | Bundesliga | BLV Văn Chuẩn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xemlaitrandau.live/
