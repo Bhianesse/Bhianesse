@@ -4,31 +4,25 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel11/playlist.m3u8?wsSecret=a3fca625bbfb85bdba2e4fc1d4e9760a&wsABSTime=1779010195
+https://live1.pro2cdnlive.com/live/channel11/playlist.m3u8?wsSecret=faa7cf9522c80dda902d2d8130c1e6ef&wsABSTime=1779011418
 
 #EXTINF:-1 tvg-logo="https://static.xoilacct.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Como vs Parma 17:00 ngày 17/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel12/playlist.m3u8?wsSecret=cc29b02151c9c1121157e289d438a864&wsABSTime=1779010195
+https://live1.pro2cdnlive.com/live/channel12/playlist.m3u8?wsSecret=d8e6c5953e6d767a9706cf8a7c9d3e67&wsABSTime=1779011418
 
 #EXTINF:-1 tvg-logo="https://static.xoilacct.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Pisa vs Napoli 17:00 ngày 17/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel18/playlist.m3u8?wsSecret=67ee1163a5a7ca522a8b0fd6b4791a89&wsABSTime=1779010195
+https://live1.pro2cdnlive.com/live/channel18/playlist.m3u8?wsSecret=d6509eea799793e0dacf15b1c9048f28&wsABSTime=1779011418
 
 #EXTINF:-1 tvg-logo="https://static.xoilacct.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Genoa vs AC Milan 17:00 ngày 17/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel6.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacct.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Manchester United vs Nottingham Forest 18:30 ngày 17/05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacct.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Juventus vs Fiorentina 17:00 ngày 17/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -40,25 +34,31 @@ https://live2.pro2cdnlive.com/live/channel15.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel12/playlist.m3u8?wsSecret=e9e45c1b5b2ed87b017d84018014f8d4&wsABSTime=1779010205
+https://live1.pro2cdnlive.com/live/channel12/playlist.m3u8?wsSecret=88741e44fa38be79d478f9a2fabd0239&wsABSTime=1779011429
+
+#EXTINF:-1 tvg-logo="https://static.xoilacct.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Manchester United vs Nottingham Forest 18:30 ngày 17/05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacct.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Brentford vs Crystal Palace 21:00 ngày 17/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel6/playlist.m3u8?wsSecret=87c23197a51c3f38d5ec119d41879ffb&wsABSTime=1779010214
+https://live1.pro2cdnlive.com/live/channel6/playlist.m3u8?wsSecret=ca805707ed76822e6d4868a0e6ea33be&wsABSTime=1779011440
 
 #EXTINF:-1 tvg-logo="https://static.xoilacct.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Wolverhampton vs Fulham 21:00 ngày 17/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel2/playlist.m3u8?wsSecret=3a4fa93f8cb5d2184c42c4b84e5aad9b&wsABSTime=1779010216
+https://live1.pro2cdnlive.com/live/channel2/playlist.m3u8?wsSecret=069ffb05ec77be27f31da611040e040e&wsABSTime=1779011440
 
 #EXTINF:-1 tvg-logo="https://static.xoilacct.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Atalanta vs Bologna 23:00 ngày 17/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel19/playlist.m3u8?wsSecret=511df132f5e0d73752f299a7f8ef0932&wsABSTime=1779010220
+https://live1.pro2cdnlive.com/live/channel19/playlist.m3u8?wsSecret=f389e6501364229036c935e3abc9cb9b&wsABSTime=1779011445
 
 #EXTINF:-1 tvg-logo="https://static.xoilacct.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Levante vs RCD Mallorca 00:00 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -82,49 +82,49 @@ https://live2.pro2cdnlive.com/live/channel4.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel17/playlist.m3u8?wsSecret=83766827f6cf108fff8ab91c75aeba68&wsABSTime=1779010233
+https://live1.pro2cdnlive.com/live/channel17/playlist.m3u8?wsSecret=2ffb1605bf4aa246ec03e1247f30654e&wsABSTime=1779011460
 
 #EXTINF:-1 tvg-logo="https://static.xoilacct.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Athletic Bilbao vs RC Celta 00:00 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel2/playlist.m3u8?wsSecret=bd6e7dffaf0075c9b83813346e42556e&wsABSTime=1779010235
+https://live1.pro2cdnlive.com/live/channel2/playlist.m3u8?wsSecret=0be3e049e761e4b7fef051ec22c4cc5f&wsABSTime=1779011461
 
 #EXTINF:-1 tvg-logo="https://static.xoilacct.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Atletico Madrid vs Girona 00:00 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel5/playlist.m3u8?wsSecret=afd855ba13e90a72f11f568349c2a528&wsABSTime=1779010238
+https://live1.pro2cdnlive.com/live/channel5/playlist.m3u8?wsSecret=7806eddcd8c8ecb04c1b3c5f6e115ab1&wsABSTime=1779011464
 
 #EXTINF:-1 tvg-logo="https://static.xoilacct.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Osasuna vs Espanyol 00:00 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel22/playlist.m3u8?wsSecret=7b28e04afa52c400e06bf26e2f37aff6&wsABSTime=1779010240
+https://live1.pro2cdnlive.com/live/channel22/playlist.m3u8?wsSecret=acf06b6a439ab47a65f315ca7493a874&wsABSTime=1779011467
 
 #EXTINF:-1 tvg-logo="https://static.xoilacct.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Elche vs Getafe 00:00 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel8/playlist.m3u8?wsSecret=72f41f5165eeb3f31a4042197b09eeb7&wsABSTime=1779010241
+https://live1.pro2cdnlive.com/live/channel8/playlist.m3u8?wsSecret=4dda82f0db4743917b5b04255c4cb44e&wsABSTime=1779011470
 
 #EXTINF:-1 tvg-logo="https://static.xoilacct.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Udinese vs Cremonese 01:45 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel12/playlist.m3u8?wsSecret=740aa2a202929431bdd5d3cbeb2644f2&wsABSTime=1779010244
+https://live1.pro2cdnlive.com/live/channel12/playlist.m3u8?wsSecret=140b5761ccd50d7be9bca4a8f9ce35bf&wsABSTime=1779011470
 
 #EXTINF:-1 tvg-logo="https://static.xoilacct.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Cagliari vs Torino 01:45 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel18/playlist.m3u8?wsSecret=577f48b8202fe7b33b11990199f039b1&wsABSTime=1779010247
+https://live1.pro2cdnlive.com/live/channel18/playlist.m3u8?wsSecret=cd364c6374fa835633d936ccce6d8a7a&wsABSTime=1779011473
 
 #EXTINF:-1 tvg-logo="https://static.xoilacct.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Sassuolo vs Lecce 01:45 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel16/playlist.m3u8?wsSecret=c142571114243bcc3c59498a62ecb999&wsABSTime=1779010250
+https://live1.pro2cdnlive.com/live/channel16/playlist.m3u8?wsSecret=1e542a9e3e2d52abd213fe32f82db094&wsABSTime=1779011476
 
 #EXTINF:-1 tvg-logo="https://static.xoilacct.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp OGC Nice vs Metz 02:00 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
