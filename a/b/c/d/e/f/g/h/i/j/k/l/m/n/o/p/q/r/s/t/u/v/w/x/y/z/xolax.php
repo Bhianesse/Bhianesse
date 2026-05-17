@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Arsenal vs Burnley 02:00 ngày 19/05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001779046759-0-0-746b5697e3c97e998005e4d8d48b7298
-
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nashville vs Los Angeles FC 07:00 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -18,11 +12,23 @@ https://live2.pro2cdnlive.com/live/channel13.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel9.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Arsenal vs Burnley 02:00 ngày 19/05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001779047855-0-0-40fd4a691106f6100410046bf68babe8
+
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Independiente Yumbo vs Aguilas Doradas 07:30 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel7.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Vancouver FC vs Cavalry FC 08:00 ngày 18/05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel21.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Pumas U.N.A.M. vs Pachuca 08:00 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -36,101 +42,95 @@ https://live2.pro2cdnlive.com/live/channel11.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel22.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Vancouver FC vs Cavalry FC 08:00 ngày 18/05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel21.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Utah Royals vs Nữ Racing Louisville 07:00 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel58.m3u8?auth_key=3000001779046777-0-0-c8735621d0a80fa598f82c35ff09d884
+https://live3.procdnlive.com/livecdn/channel58.m3u8?auth_key=3000001779047872-0-0-937f07ee18107a3cc077cb4d2d5033cb
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp AHFC Royals vs Hill Country Lobos 07:00 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel59.m3u8?auth_key=3000001779046780-0-0-058dfb95971e0a167314eb3ed3f0b297
+https://live3.procdnlive.com/livecdn/channel59.m3u8?auth_key=3000001779047875-0-0-53ee9d984df3c88d880de18aa88f9a29
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Austin FC II vs Saint Louis City B 07:30 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel60.m3u8?auth_key=3000001779046781-0-0-1d6ee398b416c910b712301859793095
+https://live3.procdnlive.com/livecdn/channel60.m3u8?auth_key=3000001779047876-0-0-9d3b52a138e69b3f0d2add231dc2a9ee
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Beijing Smart Sky vs Ji nan Quansheng United 12:00 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel50.m3u8?auth_key=3000001779046782-0-0-ccdb19ce61fa229865219d4121e342fa
+https://live3.procdnlive.com/livecdn/channel50.m3u8?auth_key=3000001779047877-0-0-3193143c0da9819f37db34d6365a6016
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Xinjiang Spartak vs Shandong Qiutan 14:00 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel51.m3u8?auth_key=3000001779046787-0-0-cdd7553d6b96511266570558e03d8cbc
+https://live3.procdnlive.com/livecdn/channel51.m3u8?auth_key=3000001779047882-0-0-60ff09fb68b1eea3cf6fd71ee896e1e4
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Dalian Tongzhe vs Shaanxi Shaanan 15:00 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel52.m3u8?auth_key=3000001779046790-0-0-67ec12aed82ac37313e9376196a0b2d3
+https://live3.procdnlive.com/livecdn/channel52.m3u8?auth_key=3000001779047885-0-0-20f586f989a76ada70de8b98a418278f
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Slovakia U19 vs Latvia U19 16:00 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel53.m3u8?auth_key=3000001779046792-0-0-24cb0c5b0778d5fa98b4dfc7180c53ee
+https://live3.procdnlive.com/livecdn/channel53.m3u8?auth_key=3000001779047887-0-0-8b52954f80e36afa34ef28e2ffd3f57f
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Belarus U19 vs San Marino U19 16:00 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel54.m3u8?auth_key=3000001779046793-0-0-ad2dd5613d05b2c27eac6ff8495a471e
+https://live3.procdnlive.com/livecdn/channel54.m3u8?auth_key=3000001779047888-0-0-54fd030cdeb7afaf33daecac86f61069
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Krylia Sovetov-2 vs FK Orenburg-2 16:00 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel55.m3u8?auth_key=3000001779046796-0-0-b61ffaa95032f2e79b25f0e6495b96de
+https://live3.procdnlive.com/livecdn/channel55.m3u8?auth_key=3000001779047892-0-0-17b91b8786ef680e83735c4e8054465d
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp South Melbourne vs Caroline Springs 16:30 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001779046800-0-0-a13ea84192ac47b4bf680707c18f359d
+https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001779047895-0-0-8515952db560402002b13b7258662063
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Zorya vs Polissya Zhytomyr 17:00 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel51.m3u8?auth_key=3000001779046803-0-0-13a0c5bcfda232f951a204746f9a718d
+https://live3.procdnlive.com/livecdn/channel51.m3u8?auth_key=3000001779047897-0-0-e67b5ae98672186c74640ec7be90c05a
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kudrivka vs LNZ Cherkasy 17:00 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel50.m3u8?auth_key=3000001779046804-0-0-f7e98bcfc58543e77b88ad3899d10cfe
+https://live3.procdnlive.com/livecdn/channel50.m3u8?auth_key=3000001779047899-0-0-cbf73220e7db7e479d3b28fb6ff7c7f3
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Pantery Uman vs Nữ Zhytomyr 18:00 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel52.m3u8?auth_key=3000001779046807-0-0-8aea4d9d49903541dd0bdb5055dfa70f
+https://live3.procdnlive.com/livecdn/channel52.m3u8?auth_key=3000001779047902-0-0-9bbccd45bcc414a6a6a379aaa6bf705a
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Smorgon vs Nữ Dnepr Mogilev 18:00 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel54.m3u8?auth_key=3000001779046813-0-0-fc177045436e9840d0f3d9961fdb4a5e
+https://live3.procdnlive.com/livecdn/channel54.m3u8?auth_key=3000001779047906-0-0-cdcdebb74a49aee3fc90468cfce94b5a
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tanjong Pagar vs Hougang United 18:30 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001779046813-0-0-f5fee2e09e4665c0a7ed04d4ad16a8d7
+https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001779047909-0-0-d108e9e2f99c6e71d0cdf59b8324baa5
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hayq vs MIKA Ashtarak 19:00 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -142,37 +142,37 @@ https://dbukjxcuzhtk-pull.bpmedialive.com/live/channel55.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel56.m3u8?auth_key=3000001779046818-0-0-ce9ca93b8ce97ed9d7577f54e0df9cb7
+https://live3.procdnlive.com/livecdn/channel56.m3u8?auth_key=3000001779047913-0-0-04cab71d7eb3301c10648d959c0c429d
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kelantan WTS FC vs Johor Darul Ta`zim II 19:45 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel57.m3u8?auth_key=3000001779046822-0-0-9ce7113e2b0fa031df5ceb524525870a
+https://live3.procdnlive.com/livecdn/channel57.m3u8?auth_key=3000001779047916-0-0-03586e43a2995d877b774404341844ba
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Como U19 vs Empoli U20 20:00 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel60.m3u8?auth_key=3000001779046823-0-0-22c869108636f2777115c50abfe7fd6d
+https://live3.procdnlive.com/livecdn/channel60.m3u8?auth_key=3000001779047918-0-0-74f446523cb79973dcc5cd1377f7469c
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Shirak vs Urartu 20:00 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001779046827-0-0-8248309f01993c37b68fd0f3031c3603
+https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001779047921-0-0-640ca63e582a780a22c7ea0556c3a798
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Karakalpakstan FA vs FarDU 20:00 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel59.m3u8?auth_key=3000001779046829-0-0-d63004761fa3a66d36a21f4eef89555f
+https://live3.procdnlive.com/livecdn/channel59.m3u8?auth_key=3000001779047923-0-0-e7e252bbbd95d3be123d0718b6ded4bc
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Yaypan FK vs FC Kattaqo 20:00 ngày 18/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel58.m3u8?auth_key=3000001779046832-0-0-bb581b3ee57664affe1df109d08490f7
+https://live3.procdnlive.com/livecdn/channel58.m3u8?auth_key=3000001779047926-0-0-2a7476733b68972dfe8465e0c733f76f
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Chelsea vs Manchester City ngày 16/05/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
