@@ -131,12 +131,6 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-a-map-fb.flv
 #EXTVLCOPT:http-origin=https://bonmuatv.com
 https://pull.globalcdnnetworksc2031.info/str01/blv-van-chuan-fb.flv
 
-#EXTINF:-1 tvg-logo="https://bonmuatv.com/assets/image/logo.png" group-title="BONMULU TV LIVE", [07:00 18/05] Nashville vs Los Angeles FC - United States Major League Soccer
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bonmuatv.com/
-#EXTVLCOPT:http-origin=https://bonmuatv.com
-https://pull.globalcdnnetworksc2031.info/str01/blv-van-chuan-fb.flv
-
 #EXTINF:-1 tvg-logo="https://bonmuatv.com/assets/image/logo.png" group-title="BONMULU TV LIVE", [07:00 18/05] RAW vs RAW - WWE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bonmuatv.com/
@@ -570,6 +564,12 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-a-map-fb.flv
 https://pull.globalcdnnetworksc2031.info/str01/blv-dylan-fb.flv
 
 #EXTINF:-1 tvg-logo="https://bonmuatv.com/assets/image/logo.png" group-title="BONMULU TV LIVE", [22:00 18/05] Odd vs Ranheim - 1.Divisjon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bonmuatv.com/
+#EXTVLCOPT:http-origin=https://bonmuatv.com
+https://pull.globalcdnnetworksc2031.info/str01/blv-meo-beo-fb.flv
+
+#EXTINF:-1 tvg-logo="https://bonmuatv.com/assets/image/logo.png" group-title="BONMULU TV LIVE", [22:00 18/05] Jelgava vs FK Liepaja - Higher League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bonmuatv.com/
 #EXTVLCOPT:http-origin=https://bonmuatv.com
