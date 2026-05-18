@@ -293,9 +293,3 @@ https://vz-8d7734ea-c74.b-cdn.net/8203e8da-2530-4e70-b0b7-37794e476116/playlist.
 #EXTVLCOPT:http-origin=https://xemlaitrandau.live
 https://vz-0e83bf19-b37.b-cdn.net/dc9960f5-b252-4a02-b414-3b3fa68c9be8/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://xemlaitrandau.live/assets/image/logo-removebg.png" group-title="SIAR-YAN ULANG LIVE", [23:45 18/05] Xem Lại Full Match Osaka Bluteon vs JTEKT | 10.05.2026 | SV.League | BLV Chim Nhỏ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xemlaitrandau.live/
-#EXTVLCOPT:http-origin=https://xemlaitrandau.live
-https://vz-8d7734ea-c74.b-cdn.net/0cc4a38d-1b06-4ff2-ae15-ef94b3356786/playlist.m3u8
-
