@@ -215,12 +215,6 @@ https://vz-3223b512-32e.b-cdn.net/30dddf12-15b1-46c6-831b-36714223e152/playlist.
 #EXTVLCOPT:http-origin=https://xemlaitrandau.live
 https://vz-fbe7a74e-978.b-cdn.net/149167f3-adbc-483b-9773-25479cdd4964/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://xemlaitrandau.live/assets/image/logo-removebg.png" group-title="SIAR-YAN ULANG LIVE", [09:05 19/05] Xem Lại Full Match Toulouse vs Monaco | 26.04.2026 | Ligue 1 | BLV Dylan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xemlaitrandau.live/
-#EXTVLCOPT:http-origin=https://xemlaitrandau.live
-https://vz-740a4c6f-e63.b-cdn.net/54234bea-457b-455b-931f-1e193f1bc447/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://xemlaitrandau.live/assets/image/logo-removebg.png" group-title="SIAR-YAN ULANG LIVE", [09:45 19/05] Xem Lại Full Match Nantes vs Strasbourg | 23.03.2026 | Ligue 1 | BLV Lò Gió Tai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xemlaitrandau.live/
