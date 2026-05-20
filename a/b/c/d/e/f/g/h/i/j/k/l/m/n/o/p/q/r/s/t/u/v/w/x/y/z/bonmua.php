@@ -59,12 +59,6 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-gio-tai-fb.flv
 #EXTVLCOPT:http-origin=https://bonmuatv.com
 https://pull.globalcdnnetworksc2031.info/str01/blv-tao-fb.flv
 
-#EXTINF:-1 tvg-logo="https://bonmuatv.com/assets/image/logo.png" group-title="BONMULU TV LIVE", [01:30 20/05] Inter Kashi vs East Bengal - Super League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bonmuatv.com/
-#EXTVLCOPT:http-origin=https://bonmuatv.com
-https://pull.globalcdnnetworksc2031.info/str01/blv-a-map-fb.flv
-
 #EXTINF:-1 tvg-logo="https://bonmuatv.com/assets/image/logo.png" group-title="BONMULU TV LIVE", [01:30 20/05] KV Mechelen vs Club Brugge - Pro League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bonmuatv.com/
@@ -72,12 +66,6 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-a-map-fb.flv
 https://pull.globalcdnnetworksc2031.info/str01/blv-a-map-fb.flv
 
 #EXTINF:-1 tvg-logo="https://bonmuatv.com/assets/image/logo.png" group-title="BONMULU TV LIVE", [01:45 20/05] Ireland vs Qatar - International Friendly
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bonmuatv.com/
-#EXTVLCOPT:http-origin=https://bonmuatv.com
-https://pull.globalcdnnetworksc2031.info/str01/blv-chao-quay-fb.flv
-
-#EXTINF:-1 tvg-logo="https://bonmuatv.com/assets/image/logo.png" group-title="BONMULU TV LIVE", [02:00 20/05] Freiburg vs Aston Villa - UEFA Europa League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bonmuatv.com/
 #EXTVLCOPT:http-origin=https://bonmuatv.com
@@ -400,6 +388,18 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-a-map-fb.flv
 #EXTVLCOPT:http-referrer=https://bonmuatv.com/
 #EXTVLCOPT:http-origin=https://bonmuatv.com
 https://pull.globalcdnnetworksc2031.info/str01/blv-phao-fb.flv
+
+#EXTINF:-1 tvg-logo="https://bonmuatv.com/assets/image/logo.png" group-title="BONMULU TV LIVE", [18:00 20/05] Thép Xanh Nam Định vs Sông Lam Nghệ An - V.League 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bonmuatv.com/
+#EXTVLCOPT:http-origin=https://bonmuatv.com
+https://pull.globalcdnnetworksc2031.info/str01/blv-gio-tai-fb.flv
+
+#EXTINF:-1 tvg-logo="https://bonmuatv.com/assets/image/logo.png" group-title="BONMULU TV LIVE", [18:00 20/05] Công An TPHCM vs Thể Công Viettel - V.League 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bonmuatv.com/
+#EXTVLCOPT:http-origin=https://bonmuatv.com
+https://pull.globalcdnnetworksc2031.info/str01/blv-chao-quay-fb.flv
 
 #EXTINF:-1 tvg-logo="https://bonmuatv.com/assets/image/logo.png" group-title="BONMULU TV LIVE", [18:30 20/05] U17 Croatia vs U17 Bỉ - UEFA European U17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
