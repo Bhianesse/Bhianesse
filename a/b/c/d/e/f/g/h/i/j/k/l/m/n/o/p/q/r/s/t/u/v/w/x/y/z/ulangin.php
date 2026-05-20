@@ -161,6 +161,12 @@ https://vz-8d7734ea-c74.b-cdn.net/3968cbb8-3130-4542-b677-20e87f9a7d62/playlist.
 #EXTVLCOPT:http-origin=https://xemlaitrandau.live
 https://vz-f5b4ea82-ebf.b-cdn.net/dc337811-6cdf-470b-b022-6a39a4039edc/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://xemlaitrandau.live/assets/image/logo-removebg.png" group-title="SIAR-YAN ULANG LIVE", [08:45 20/05] Xem Lại Full Match Marseille vs Nice | 27.04.2026 | Ligue 1 | BLV Pháo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xemlaitrandau.live/
+#EXTVLCOPT:http-origin=https://xemlaitrandau.live
+https://vz-23c8dac9-459.b-cdn.net/e0f9450c-74f1-467b-895e-f3d7558d43a7/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://xemlaitrandau.live/assets/image/logo-removebg.png" group-title="SIAR-YAN ULANG LIVE", [09:00 20/05] Xem Lại Full Match Barcelona vs Real Madrid | 11.05.2026 | LaLiga | BLV Lò A Mập
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xemlaitrandau.live/
