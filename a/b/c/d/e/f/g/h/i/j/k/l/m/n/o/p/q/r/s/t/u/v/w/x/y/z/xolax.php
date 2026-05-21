@@ -1,16 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Fiorentina vs Atalanta 01:45 ngày 23/05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel16.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp RC Lens vs OGC Nice 02:00 ngày 23/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel5/playlist.m3u8?wsSecret=1a0a1f835e6026a47268dc4929ac0ee9&wsABSTime=1779430133
+https://live1.pro2cdnlive.com/live/channel5/playlist.m3u8?wsSecret=29bd399b091ccd73a1433166153afd18&wsABSTime=1779434271
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Racing Club vs Caracas FC 07:00 ngày 22/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -18,11 +12,23 @@ https://live1.pro2cdnlive.com/live/channel5/playlist.m3u8?wsSecret=1a0a1f835e602
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel13.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Fiorentina vs Atalanta 01:45 ngày 23/05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel16.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Univ Catolica vs Barcelona SC 07:30 ngày 22/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel8.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Blooming vs Carabobo 07:30 ngày 22/05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel10.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp CA Penarol vs Corinthians SP 07:30 ngày 22/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -36,41 +42,35 @@ https://live2.pro2cdnlive.com/live/channel14.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel12.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Blooming vs Carabobo 07:30 ngày 22/05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel10.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Beijing Smart Sky vs Dalian Tongzhe 12:00 ngày 22/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel10/playlist.m3u8?wsSecret=a7427a30706cc0e4168805f8c7b3ff20&wsABSTime=1779430153
-
-#EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Dalian Yingbo B vs Taian Tiankuang 14:00 ngày 22/05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel4/playlist.m3u8?wsSecret=543e01a2789c0af8cbe2211790b0e830&wsABSTime=1779430153
+https://live1.pro2cdnlive.com/live/channel10/playlist.m3u8?wsSecret=0bc395d3558dcd1a74c153568f7a28f8&wsABSTime=1779434291
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Auckland FC (R) vs Eastern Suburbs AFC 14:00 ngày 22/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel23/playlist.m3u8?wsSecret=80480a46266a1c9bad6d07c2bfb9b6a7&wsABSTime=1779430153
+https://live1.pro2cdnlive.com/live/channel23/playlist.m3u8?wsSecret=c7aa0e0a98cff82250882858d18601da&wsABSTime=1779434292
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Dalian Yingbo B vs Taian Tiankuang 14:00 ngày 22/05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.pro2cdnlive.com/live/channel4/playlist.m3u8?wsSecret=53229e2a23daf4f69bebb035688290f7&wsABSTime=1779434293
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Shaanxi United Soaring vs Xinjiang Spartak 15:00 ngày 22/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel14/playlist.m3u8?wsSecret=bdbb19c44617e31c295ffaf4f7ec095c&wsABSTime=1779430158
+https://live1.pro2cdnlive.com/live/channel14/playlist.m3u8?wsSecret=c14747bcde7130904c8735cdaf94b89e&wsABSTime=1779434297
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bà Rịa Vũng Tàu vs Bình Phước 16:00 ngày 22/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel11/playlist.m3u8?wsSecret=766c3ba36b97ca32ab88ed077b241d2d&wsABSTime=1779430161
+https://live1.pro2cdnlive.com/live/channel11/playlist.m3u8?wsSecret=44a4ca52d81d16c2ea375ece1027f546&wsABSTime=1779434300
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Moreton Bay Utd vs Brisbane City 16:30 ngày 22/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -112,25 +112,25 @@ https://live2.pro2cdnlive.com/live/channel15.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel5/playlist.m3u8?wsSecret=1a4f4bc2840e87c272445a6d41f5917a&wsABSTime=1779430182
+https://live1.pro2cdnlive.com/live/channel5/playlist.m3u8?wsSecret=865c8370346926fa8dc46297350bfbbd&wsABSTime=1779434321
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Shandong Taishan FC vs Shanghai Port B 18:00 ngày 22/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel9/playlist.m3u8?wsSecret=03e69a112f2a8a37052fb295260f0a69&wsABSTime=1779430183
+https://live1.pro2cdnlive.com/live/channel9/playlist.m3u8?wsSecret=9ca85dbbe01367aaac2f38af30504455&wsABSTime=1779434323
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp ShangYu FC vs Shenzhen 2028 18:30 ngày 22/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel13/playlist.m3u8?wsSecret=4046609153305dd39517e36a48dc80e9&wsABSTime=1779430186
+https://live1.pro2cdnlive.com/live/channel13/playlist.m3u8?wsSecret=7e61ff41c138168a3aacc9d322ff8bbe&wsABSTime=1779434325
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Dewa United FC vs Bali United 19:00 ngày 22/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel2/playlist.m3u8?wsSecret=a9dd520e9eb9820f3b578aacf4664a3f&wsABSTime=1779430188
+https://live1.pro2cdnlive.com/live/channel2/playlist.m3u8?wsSecret=fc1ce88a1128ec91237874f17a380a97&wsABSTime=1779434328
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccu.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Slavia Sofia vs PFK Montana 19:30 ngày 22/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
