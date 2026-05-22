@@ -203,12 +203,6 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-gio-tai-fb.flv
 #EXTVLCOPT:http-origin=https://bonmuatv.com
 https://pull.globalcdnnetworksc2031.info/str01/blv-dua-hau-fb.flv
 
-#EXTINF:-1 tvg-logo="https://bonmuatv.com/assets/image/logo.png" group-title="BONMULU TV LIVE", [15:00 22/05] DNS vs KRX - LCK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bonmuatv.com/
-#EXTVLCOPT:http-origin=https://bonmuatv.com
-https://pull.globalcdnnetworksc2031.info/str01/blv-dua-hau-fb.flv
-
 #EXTINF:-1 tvg-logo="https://bonmuatv.com/assets/image/logo.png" group-title="BONMULU TV LIVE", [15:00 22/05] DK vs BFX - LCK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bonmuatv.com/
