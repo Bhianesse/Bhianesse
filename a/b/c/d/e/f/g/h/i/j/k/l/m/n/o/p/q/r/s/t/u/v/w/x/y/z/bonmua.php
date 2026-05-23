@@ -29,12 +29,6 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-meo-beo-fb.flv
 #EXTVLCOPT:http-origin=https://bonmuatv.com
 https://pull.globalcdnnetworksc2031.info/str01/blv-a-map-fb.flv
 
-#EXTINF:-1 tvg-logo="https://bonmuatv.com/assets/image/logo.png" group-title="BONMULU TV LIVE", [01:00 23/05] Bayern Munich vs VfB Stuttgart - DFB Pokal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bonmuatv.com/
-#EXTVLCOPT:http-origin=https://bonmuatv.com
-https://pull.globalcdnnetworksc2031.info/str01/blv-phao-fb.flv
-
 #EXTINF:-1 tvg-logo="https://bonmuatv.com/assets/image/logo.png" group-title="BONMULU TV LIVE", [01:00 23/05] Colegiales vs Agropecuario - Division 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bonmuatv.com/
