@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Fulham vs Newcastle United 22:00 ngày 24/05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel13.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Parma vs Sassuolo 20:00 ngày 24/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -18,6 +12,12 @@ https://live2.pro2cdnlive.com/live/channel20.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel10.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Fulham vs Newcastle United 22:00 ngày 24/05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel22.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp West Ham vs Leeds United 22:00 ngày 24/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -28,19 +28,19 @@ https://live2.pro2cdnlive.com/live/channel19.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel22.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Crystal Palace vs Arsenal 22:00 ngày 24/05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel1.m3u8
+https://live2.pro2cdnlive.com/live/channel14.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Brighton vs Manchester United 22:00 ngày 24/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel5.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Crystal Palace vs Arsenal 22:00 ngày 24/05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Manchester City vs Aston Villa 22:00 ngày 24/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -84,12 +84,6 @@ https://live2.pro2cdnlive.com/live/channel18.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel11.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bodo Glimt vs Brann 21:00 ngày 24/05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel25.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Andorra CF vs AD Ceuta 21:15 ngày 24/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -131,6 +125,12 @@ https://live2.pro2cdnlive.com/live/channel12.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel4.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Catanzaro vs Monza 01:00 ngày 25/05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel16.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Girona vs Elche ngày 23/05/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
