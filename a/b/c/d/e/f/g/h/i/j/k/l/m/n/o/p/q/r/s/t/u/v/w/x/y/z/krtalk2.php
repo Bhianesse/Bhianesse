@@ -1,11 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="MY PACAR LIVE",🐇ayok donasi server playlist IPTV agar server tetap aktif🐇
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260524/2d3f9b7f-1116-4ac9-916a-13a5f4f86037-260524190104.jpg" group-title="MY PACAR LIVE",🐇[LIVE 8m | AKM Pucyn 🦋 | 👁 35] Ngobrol yuk!! #MatchaRush 🫶🏼🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Cpg1jU4FT6Rv.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260524/6d028fce-18dd-4e14-8761-45a11a867cdb-260524182911.jpg" group-title="MY PACAR LIVE",🐇[LIVE 40m | Chintya Wirawan | 👁 3295] yukkk🥰🥰🥰🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.CVh8yVVTdtss.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260524/6430dab8-2dd4-47df-ae75-87d50d555e06-260524180140.jpg" group-title="MY PACAR LIVE",🐇[LIVE 1h | Keyi | Karafuru Idol Group | 👁 1246] hi hi sini temenin aku🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.m68n9wA2nMe9.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260524/1f119aa1-3482-44b6-9f68-2ad41c8d6743-260524175558.jpg" group-title="MY PACAR LIVE",🐇[LIVE 1h | Eli JKT48 | 👁 5199] Ayo ngobrol bareng!🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.809zi18MGuB1.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260524/f7fb146f-2cb7-4dbe-8407-1ad4e635b77b-260524195815.jpg" group-title="MY PACAR LIVE",🐇[LIVE 26m | Ame | Karafuru Idol group | 👁 300] Aku Berharap~🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.BQ0HT6EqlZyF.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260524/74e76417-0353-487f-b9b7-7520c0398e87-260524192132.jpg" group-title="MY PACAR LIVE",🐇[LIVE 1h | Alya JKT48 | 👁 9495] Ayo ngobrol bareng!🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.sLZkhRvMutd4.m3u8
