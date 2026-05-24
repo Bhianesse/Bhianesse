@@ -209,18 +209,6 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-dua-hau-fb.flv
 #EXTVLCOPT:http-origin=https://bonmuatv.com
 https://pull.globalcdnnetworksc2031.info/str01/blv-tao-fb.flv
 
-#EXTINF:-1 tvg-logo="https://bonmuatv.com/assets/image/logo.png" group-title="BONMULU TV LIVE", [18:00 24/05] Hà Tĩnh vs Công An Hà Nội - V.League 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bonmuatv.com/
-#EXTVLCOPT:http-origin=https://bonmuatv.com
-https://pull.globalcdnnetworksc2031.info/str01/blv-a-map-fb.flv
-
-#EXTINF:-1 tvg-logo="https://bonmuatv.com/assets/image/logo.png" group-title="BONMULU TV LIVE", [18:00 24/05] Becamex TP.HCM vs Sông Lam Nghệ An - V.League 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://bonmuatv.com/
-#EXTVLCOPT:http-origin=https://bonmuatv.com
-https://pull.globalcdnnetworksc2031.info/str01/blv-chao-quay-fb.flv
-
 #EXTINF:-1 tvg-logo="https://bonmuatv.com/assets/image/logo.png" group-title="BONMULU TV LIVE", [18:00 24/05] Hà Tĩnh vs SHB Đà Nẵng - V.League 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://bonmuatv.com/
