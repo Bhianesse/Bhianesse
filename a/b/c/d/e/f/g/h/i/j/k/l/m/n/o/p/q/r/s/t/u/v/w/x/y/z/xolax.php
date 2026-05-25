@@ -1,22 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kolding FC vs Hillerod Fodbold 18:00 ngày 25/05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel9.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Bhutan vs Nữ Nepal 18:00 ngày 25/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel20.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp South Melbourne vs Avondale FC 16:30 ngày 25/05
+#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kolding FC vs Hillerod Fodbold 18:00 ngày 25/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel18.m3u8
+https://live2.pro2cdnlive.com/live/channel9.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Shaanxi United Soaring vs Beijing Smart Sky 18:00 ngày 25/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -24,17 +18,17 @@ https://live2.pro2cdnlive.com/live/channel18.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel10.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Syunik vs Ararat Yerevan II 19:00 ngày 25/05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel28.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Croatia U17 vs Bỉ U17 18:30 ngày 25/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel14.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Syunik vs Ararat Yerevan II 19:00 ngày 25/05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel28.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Start Kristiansand vs Vålerenga 19:30 ngày 25/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -48,17 +42,17 @@ https://live2.pro2cdnlive.com/live/channel4.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel7.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Ấn Độ vs Nữ Maldives 21:00 ngày 25/05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel8.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Notts County vs Salford City 21:00 ngày 25/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel24.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Ấn Độ vs Nữ Maldives 21:00 ngày 25/05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel8.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Enppi vs Wadi Degla SC 21:00 ngày 25/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -71,6 +65,12 @@ https://live2.pro2cdnlive.com/live/channel12.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel13.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ham-Kam vs Lillestrom 22:00 ngày 25/05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel18.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tromso IL vs Aalesund FK 22:00 ngày 25/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -107,6 +107,12 @@ https://live2.pro2cdnlive.com/live/channel19.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel23.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Paderborn 07 vs VfL Wolfsburg 01:30 ngày 26/05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel6.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Torino vs Juventus ngày 24/05/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
