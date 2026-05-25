@@ -1,9 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="MY PACAR LIVE",🐇ayok donasi server playlist IPTV agar server tetap aktif🐇
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260525/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260525150852.jpg" group-title="MY PACAR LIVE",🐇[LIVE 10m | Greesel JKT48 | 👁 2179] Ayo ngobrol bareng!🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.z3nXSqOvE9Fs.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260525/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260525143118.jpg" group-title="MY PACAR LIVE",🐇[LIVE 48m | Oniel JKT48 | 👁 5787] Ayo ngobrol bareng!🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.KGbEli9xlInK.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260525/c13a612d-5a79-4744-804c-54880bdc7103-260525141830.jpg" group-title="MY PACAR LIVE",🐇[LIVE 1h | ࿋Rahmat Madara | 👁 450] Hai🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.gH8GA60wjZiX.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260525/209c6e49-20ea-4c55-a919-4b99e45af6bb-260525161131.jpg" group-title="MY PACAR LIVE",🐇[LIVE 12m | Koeko Sikepokepo | 👁 33] Roblox skuy🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.g4ButhYeL6O4.m3u8
