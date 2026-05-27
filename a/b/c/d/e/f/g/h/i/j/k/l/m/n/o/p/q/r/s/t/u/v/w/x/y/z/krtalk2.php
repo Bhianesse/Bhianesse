@@ -1,17 +1,27 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="MY PACAR LIVE",🐇ayok donasi server playlist IPTV agar server tetap aktif🐇
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260527/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260527201601.jpg" group-title="MY PACAR LIVE",🐇[LIVE 8m | Oniel JKT48 | 👁 1644] Ayo ngobrol bareng!🐇
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260527/e25cfed0-757c-424a-9b6e-85d4ef5b5192-260527211554.jpg" group-title="MY PACAR LIVE",🐇[LIVE 1m | Lily JKT48 | 👁 253] Review parfumerie 🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4hPWCxNDO8aY.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260527/fe70498c-cb4c-4f98-9ad8-e0bd3fe2c453-260527211519.jpg" group-title="MY PACAR LIVE",🐇[LIVE 2m | Jemima JKT48 | 👁 311] Ayo ngobrol bareng!🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pYGgcUgAi8pI.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260527/dd600237-1d93-43c7-b0a3-6e80e8b02ada-260527210952.jpg" group-title="MY PACAR LIVE",🐇[LIVE 7m | Nana | Karafuru Idol Group | 👁 204] buah, buah apa yang..🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.qAyFRVWNG8bj.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260527/85f369d7-6525-41c0-94b8-9a56686713eb-260527210910.jpg" group-title="MY PACAR LIVE",🐇[LIVE 8m | Ekin JKT48 | 👁 1894] Ayo ngobrol bareng!🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.I9niN5y7NTZF.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260527/728d224e-6ccb-43d2-a029-a0147dc7fdee-260527210731.jpg" group-title="MY PACAR LIVE",🐇[LIVE 10m | Raisha JKT48 | 👁 1286] Ayo ngobrol bareng!🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.rjVZYmbffgGE.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260527/147e83c8-f3ac-4680-9141-2f518b4b7810-260527210647.jpg" group-title="MY PACAR LIVE",🐇[LIVE 10m | Virgi JKT48 | 👁 2494] Ayo ngobrol bareng!🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.9DxiaFf6lSom.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260527/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260527210338.jpg" group-title="MY PACAR LIVE",🐇[LIVE 13m | Intan JKT48 | 👁 3878] hi 🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260527/3d4bf9b5-e28b-492d-8a83-08b376931e43-260527210207.jpg" group-title="MY PACAR LIVE",🐇[LIVE 15m | ࿋ Rinpau Madara | 👁 825] Ayo ngobrol bareng!🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.FgcdeNJgkkf7.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260527/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260527203834.jpg" group-title="MY PACAR LIVE",🐇[LIVE 39m | Ribka JKT48 | 👁 6645] Ayo ngobrol bareng!🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.m6srSRt8fTY6.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260527/35d8f1d5-fd07-4109-9ec5-d202f4baf3c1-260527203623.jpg" group-title="MY PACAR LIVE",🐇[LIVE 41m | Levi JKT48 | 👁 6382] hai🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Lci1odh0sCZU.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260527/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260527201601.jpg" group-title="MY PACAR LIVE",🐇[LIVE 1h | Oniel JKT48 | 👁 10495] Ayo ngobrol bareng!🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.KGbEli9xlInK.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260527/5256d33e-a845-461b-ad6f-ece5f2e12d1e-260527200116.jpg" group-title="MY PACAR LIVE",🐇[LIVE 23m | Rara Lia | 👁 176] MBG kepanjangan apa?🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.C2bR0Dgj503D.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260527/61d965a9-58cc-4d79-8104-0a326b91f731-260527200011.jpg" group-title="MY PACAR LIVE",🐇[LIVE 24m | Sona JKT48 | 👁 5294] haloh semua🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.wb9FCylf9CC6.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260527/489d8a2d-487d-4283-8247-b92c7df8a5bb-260527195444.jpg" group-title="MY PACAR LIVE",🐇[LIVE 30m | ࿋Erzet Madara | 👁 142] Hmm🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.H97mrPl3TJDH.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260527/ca182a27-aa04-46a8-bedb-4e53cf0551f0-260527195114.jpg" group-title="MY PACAR LIVE",🐇[LIVE 33m | callysta az | 👁 578] Ayo ngobrol bareng!🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ZEvl7Y5IyFoj.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260527/05bce64f-0561-40fa-aad6-34df4c24ba11-260527195104.jpg" group-title="MY PACAR LIVE",🐇[LIVE 33m | ࿋ hii.ecaaa | 👁 227] hii sini masuk🐇
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260527/05bce64f-0561-40fa-aad6-34df4c24ba11-260527195104.jpg" group-title="MY PACAR LIVE",🐇[LIVE 1h | ࿋ hii.ecaaa | 👁 2789] hii sini masuk🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.gvCrK9PwZz0d.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260527/f7fb146f-2cb7-4dbe-8407-1ad4e635b77b-260527190428.jpg" group-title="MY PACAR LIVE",🐇[LIVE 1h | Ame | Karafuru Idol group | 👁 2161] Hi!🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.BQ0HT6EqlZyF.m3u8
