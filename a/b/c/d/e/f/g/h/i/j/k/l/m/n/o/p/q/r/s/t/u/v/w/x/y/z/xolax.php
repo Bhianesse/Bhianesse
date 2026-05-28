@@ -6,29 +6,23 @@
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel24.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kyzylzhar vs Zhetysu Taldykorgan 18:00 ngày 28/05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel18.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Okzhetpes vs FK Aktobe Lento 17:00 ngày 28/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel22.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kyzylzhar vs Zhetysu Taldykorgan 18:00 ngày 28/05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel18.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bỉ U17 vs Tây Ban Nha U17 18:30 ngày 28/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel12.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Petrojet vs El Gounah 21:00 ngày 28/05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel5.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FK Atyrau vs Tobol Kostanai 20:00 ngày 28/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -41,6 +35,12 @@ https://live2.pro2cdnlive.com/live/channel8.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel17.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Petrojet vs El Gounah 21:00 ngày 28/05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel5.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kaisar Kyzylorda vs FK Yelimay Semey 21:00 ngày 28/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -102,35 +102,35 @@ https://live2.pro2cdnlive.com/live/channel19.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel7.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hy Lạp U19 vs Anh U18 16:30 ngày 28/05
+#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Paro FC vs Transport United FC 17:00 ngày 28/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel31/playlist.m3u8?wsSecret=c2c5ea8ef0847aa9f76e98a972232ddc&wsABSTime=1780004351
+https://live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSecret=ec53646d9bd4ca26c2b2d780b7ebeb5a&wsABSTime=1780004531
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bắc Macedonia U19 vs Slovenia U18 17:00 ngày 28/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel23/playlist.m3u8?wsSecret=5256f6fd16d18ab00b610b249303c661&wsABSTime=1780004353
+https://live1.pro2cdnlive.com/live/channel23/playlist.m3u8?wsSecret=938833e4f163bfbabe0e048ae1fe9829&wsABSTime=1780004534
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp KF Ferizaj U21 vs KF Llapi U21 17:00 ngày 28/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel24/playlist.m3u8?wsSecret=820a52492df4e1e6d62dbf229d58af01&wsABSTime=1780004355
-
-#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Paro FC vs Transport United FC 17:00 ngày 28/05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSecret=d92bb1f043c8b8121b8ff8026a7f9123&wsABSTime=1780004358
+https://live1.pro2cdnlive.com/live/channel24/playlist.m3u8?wsSecret=c54f7676033d74765f49900ebfaa0b51&wsABSTime=1780004536
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp KF Drita U21 vs FC Prishtina U21 18:00 ngày 28/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel25/playlist.m3u8?wsSecret=3f5e4c0aab853217bb74bd6a09ac2760&wsABSTime=1780004360
+https://live1.pro2cdnlive.com/live/channel25/playlist.m3u8?wsSecret=b505c8d4d59d905af330f054ff6dd853&wsABSTime=1780004538
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hawassa City vs Ethiopia Bunna 19:00 ngày 28/05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.pro2cdnlive.com/live/channel6/playlist.m3u8?wsSecret=683aa7834c592e0de42123704a0abdde&wsABSTime=1780004541
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Crystal Palace vs Rayo Vallecano ngày 27/05/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
