@@ -1,22 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Real Monarchs vs Sporting Kansas (R) 09:00 ngày 30/05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel12.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp PSG vs Arsenal 23:00 ngày 30/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel1.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hume City vs South Melbourne 11:00 ngày 30/05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel22.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Sanfrecce Hiroshima vs Kawasaki Frontale 12:00 ngày 30/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -24,17 +12,23 @@ https://live2.pro2cdnlive.com/live/channel22.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel11.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Vissel Kobe vs Kashima Antlers 12:00 ngày 30/05
+#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hume City vs South Melbourne 11:00 ngày 30/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel15.m3u8
+https://live2.pro2cdnlive.com/live/channel22.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nagoya Grampus vs Machida Zelvia 12:00 ngày 30/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel2.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Vissel Kobe vs Kashima Antlers 12:00 ngày 30/05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel15.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Yokohama FC vs RB Omiya Ardija 12:00 ngày 30/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -48,17 +42,17 @@ https://live2.pro2cdnlive.com/live/channel10.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel20.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Shonan Bellmare vs Iwaki FC 12:00 ngày 30/05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel13.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Albirex Niigata vs Kagoshima Utd 12:00 ngày 30/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel28.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Shonan Bellmare vs Iwaki FC 12:00 ngày 30/05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel13.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Cerezo Osaka vs FC Tokyo 13:00 ngày 30/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -78,17 +72,17 @@ https://live2.pro2cdnlive.com/live/channel24.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel7.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Yongin FC vs Daegu FC 14:30 ngày 30/05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel18.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Busan I Park vs Paju Frontier FC 14:30 ngày 30/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel14.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Yongin FC vs Daegu FC 14:30 ngày 30/05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel18.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp V-Varen Nagasaki vs Mito Hollyhock 15:00 ngày 30/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -114,17 +108,23 @@ https://live2.pro2cdnlive.com/live/channel6.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel17.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Suwon FC vs Seongnam FC 17:00 ngày 30/05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel8.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Qingdao Island vs Shanghai Shenhua 17:00 ngày 30/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kyoto Sanga vs Kashiwa Reysol 17:00 ngày 30/05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel12.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Suwon FC vs Seongnam FC 17:00 ngày 30/05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel8.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Crystal Palace vs Rayo Vallecano ngày 27/05/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
