@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Brisbane Olympic FC vs Brisbane City 15:00 ngày 31/05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel20.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ansan Greeners vs Cheonan City 17:00 ngày 31/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -17,6 +11,12 @@ https://live2.pro2cdnlive.com/live/channel19.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel18.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Brisbane Olympic FC vs Brisbane City 15:00 ngày 31/05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel20.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Real Madrid vs Nữ Granada 17:00 ngày 31/05
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
