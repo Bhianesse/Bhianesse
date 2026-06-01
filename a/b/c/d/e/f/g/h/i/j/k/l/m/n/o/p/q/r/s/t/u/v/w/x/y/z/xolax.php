@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Molodechno vs Dinamo-2 Minsk 22:00 ngày 01/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel23.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bulgaria vs Montenegro 23:00 ngày 01/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -18,11 +12,17 @@ https://live2.pro2cdnlive.com/live/channel11.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel28.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Slovakia vs Malta 23:00 ngày 01/06
+#EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Molodechno vs Dinamo-2 Minsk 22:00 ngày 01/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel20.m3u8
+https://live2.pro2cdnlive.com/live/channel23.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Union Touarga vs KACM Marrakech 23:00 ngày 01/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel10.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Venezuela U20 vs Canada U20 23:30 ngày 01/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -36,11 +36,11 @@ https://live2.pro2cdnlive.com/live/channel13.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel7.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Union Touarga vs KACM Marrakech 23:00 ngày 01/06
+#EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Slovakia vs Malta 23:00 ngày 01/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel10.m3u8
+https://live2.pro2cdnlive.com/live/channel20.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Na Uy vs Thụy Điển 00:00 ngày 02/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -72,12 +72,6 @@ https://live2.pro2cdnlive.com/live/channel12.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel14.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Olympique de Safi vs Maghreb Fez 01:00 ngày 02/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel8.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Áo vs Tunisia 01:45 ngày 02/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -89,6 +83,12 @@ https://live2.pro2cdnlive.com/live/channel21.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel9.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Olympique de Safi vs Maghreb Fez 01:00 ngày 02/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel8.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Colombia vs Costa Rica 06:00 ngày 02/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -102,77 +102,77 @@ https://live2.pro2cdnlive.com/live/channel15.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel22.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp AS Fortuna Mfou vs Canon Yaounde 21:30 ngày 01/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel21/playlist.m3u8?wsSecret=231abf7df8b92e8dbb2c122372bb5883&wsABSTime=1780366969
-
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Diala vs Duhok 22:00 ngày 01/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel6/playlist.m3u8?wsSecret=656411958208256cea8c0b1a27c3a922&wsABSTime=1780366972
+https://live1.pro2cdnlive.com/live/channel6/playlist.m3u8?wsSecret=4114698bbfc18e221cc31a6b13ae8d59&wsABSTime=1780367805
 
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Al-Naft SC vs Newroz SC 22:00 ngày 01/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel7/playlist.m3u8?wsSecret=8c345cb43f12bf8fbe307ecdc4b28d1f&wsABSTime=1780366977
+https://live1.pro2cdnlive.com/live/channel7/playlist.m3u8?wsSecret=f46962bee423c4770e725e5d0ba952f6&wsABSTime=1780367807
 
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Volna Pinsk vs Niva Dolbizno 22:00 ngày 01/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel8/playlist.m3u8?wsSecret=325e20de87bdfee0583b2cb60ea4ce78&wsABSTime=1780366979
+https://live1.pro2cdnlive.com/live/channel8/playlist.m3u8?wsSecret=bda86118ebe05b9f446b669322d9ec94&wsABSTime=1780367810
 
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Elva vs JK Welco Elekter 23:00 ngày 01/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel11/playlist.m3u8?wsSecret=6aa210f3f94a9d4365d112561d303485&wsABSTime=1780366979
+https://live1.pro2cdnlive.com/live/channel11/playlist.m3u8?wsSecret=8455725f6cc0da01c7411782f10438e3&wsABSTime=1780367813
 
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nomme JK Kalju II vs FC Ararat Tallinn 23:00 ngày 01/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel12/playlist.m3u8?wsSecret=ea4f55f6905d7d09cebf07bb7d66529a&wsABSTime=1780366983
+https://live1.pro2cdnlive.com/live/channel12/playlist.m3u8?wsSecret=f0f40270ffb58474e00d932e3365656e&wsABSTime=1780367815
 
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Wurzburger Kickers vs FC Lokomotive Leipzig 23:30 ngày 01/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel14/playlist.m3u8?wsSecret=e06ebc816c1f49289c2ceb90fbe0686c&wsABSTime=1780366986
-
-#EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Al Najaf vs Al Zawraa 00:30 ngày 02/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel16/playlist.m3u8?wsSecret=94a399f1bea1a32d56d6b363212268c0&wsABSTime=1780366989
+https://live1.pro2cdnlive.com/live/channel14/playlist.m3u8?wsSecret=e0258736671c1e762cef25b13de7b4de&wsABSTime=1780367817
 
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Skovde AIK vs Jonkopings Sodra IF 00:00 ngày 02/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel15/playlist.m3u8?wsSecret=5869a5cb3653b5c668cb722716612286&wsABSTime=1780366989
+https://live1.pro2cdnlive.com/live/channel15/playlist.m3u8?wsSecret=e090bccc647f1751b7825da6c2b50d8b&wsABSTime=1780367820
+
+#EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Al Najaf vs Al Zawraa 00:30 ngày 02/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.pro2cdnlive.com/live/channel16/playlist.m3u8?wsSecret=055edd06882ff59dcf31cbf6d84f6be1&wsABSTime=1780367823
 
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Al Talaba vs Al Karkh 00:30 ngày 02/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel17/playlist.m3u8?wsSecret=7ec18c9ab9f751b3449610aebe29a4ca&wsABSTime=1780366992
+https://live1.pro2cdnlive.com/live/channel17/playlist.m3u8?wsSecret=bc71e436317bb7c0ae344bd9e559c056&wsABSTime=1780367825
 
-#EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận USA vs Senegal ngày 31/05/2026 vừa diễn ra
+#EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Jeunesse Canach vs Walferdange 00:30 ngày 02/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://highlight.thuckhuya1.net/2026/06/01/1780294185141/index.m3u8
+https://live1.pro2cdnlive.com/live/channel18/playlist.m3u8?wsSecret=5b0683113cbd0f8bbf3a212d2945529c&wsABSTime=1780367827
 
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Brazil vs Panama ngày 31/05/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://highlight.thuckhuya1.net/2026/06/01/1780294205642/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận USA vs Senegal ngày 31/05/2026 vừa diễn ra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://highlight.thuckhuya1.net/2026/06/01/1780294185141/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Đức vs Phần Lan ngày 31/05/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
