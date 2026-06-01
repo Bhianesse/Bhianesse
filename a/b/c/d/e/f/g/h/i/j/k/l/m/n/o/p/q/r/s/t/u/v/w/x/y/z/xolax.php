@@ -24,17 +24,17 @@ https://live2.pro2cdnlive.com/live/channel28.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel13.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Yunnan Qingqiu vs Zigong Black White 15:00 ngày 02/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel10.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Chongqing Handa vs Guizhou Feiying 12:00 ngày 02/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel20.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Yunnan Qingqiu vs Zigong Black White 15:00 ngày 02/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel10.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Guangzhou Rockgoal vs Chongqing Runqi 15:00 ngày 02/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -78,17 +78,17 @@ https://live2.pro2cdnlive.com/live/channel15.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel22.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Croatia vs Bỉ 23:00 ngày 02/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel12.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Georgia vs Romania 00:00 ngày 03/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Croatia vs Bỉ 23:00 ngày 02/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel12.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tanzania U17 vs Senegal U17 02:00 ngày 03/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -106,7 +106,7 @@ https://live2.pro2cdnlive.com/live/channel9.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel12/playlist.m3u8?wsSecret=2c35d69054e361e24385301ac823b0bf&wsABSTime=1780379497
+https://live1.pro2cdnlive.com/live/channel12/playlist.m3u8?wsSecret=6f1ee13267a14b1090cc32f37c968952&wsABSTime=1780383378
 
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Brazil vs Panama ngày 31/05/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
