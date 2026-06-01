@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Canada vs Uzbekistan 08:00 ngày 02/06
+#EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tecnico Uni. vs Barcelona SC 07:30 ngày 02/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel19.m3u8
+https://live2.pro2cdnlive.com/live/channel28.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp UD Vinto vs Aurora 07:00 ngày 02/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -12,11 +12,17 @@ https://live2.pro2cdnlive.com/live/channel19.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel7.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tecnico Uni. vs Barcelona SC 07:30 ngày 02/06
+#EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Canada vs Uzbekistan 08:00 ngày 02/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel28.m3u8
+https://live2.pro2cdnlive.com/live/channel19.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Stars FC vs Southern California Eagles 09:00 ngày 02/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel13.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Chongqing Handa vs Guizhou Feiying 12:00 ngày 02/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -29,12 +35,6 @@ https://live2.pro2cdnlive.com/live/channel20.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel10.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Stars FC vs Southern California Eagles 09:00 ngày 02/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel13.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Guangzhou Rockgoal vs Chongqing Runqi 15:00 ngày 02/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -60,6 +60,12 @@ https://live2.pro2cdnlive.com/live/channel21.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel5.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Trung Quốc U19 vs DR Congo U23 20:00 ngày 02/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel18.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Malaysia U19 vs Singapore U19 20:00 ngày 02/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -71,12 +77,6 @@ https://live2.pro2cdnlive.com/live/channel15.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel22.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Trung Quốc U19 vs DR Congo U23 20:00 ngày 02/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel18.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Croatia vs Bỉ 23:00 ngày 02/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -106,7 +106,7 @@ https://live2.pro2cdnlive.com/live/channel9.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel12/playlist.m3u8?wsSecret=60bd5572675f5d4a084049ac2689e0f7&wsABSTime=1780389428
+https://live1.pro2cdnlive.com/live/channel12/playlist.m3u8?wsSecret=056a74c45c8352cb0dfd6f4720338f19&wsABSTime=1780389917
 
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Brazil vs Panama ngày 31/05/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
