@@ -6,17 +6,17 @@
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel19.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Sichuan 318 vs Guangzhou Rockgoal 12:00 ngày 04/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel23.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Myanmar U19 vs Việt Nam U19 16:00 ngày 04/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel5.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Sichuan 318 vs Guangzhou Rockgoal 12:00 ngày 04/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel23.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Văn Hiến vs Khánh Hòa 16:00 ngày 04/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -106,37 +106,37 @@ https://live2.pro2cdnlive.com/live/channel28.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel2/playlist.m3u8?wsSecret=fa809b1964703076fb100ead85bba4f8&wsABSTime=1780587845
+https://live1.pro2cdnlive.com/live/channel2/playlist.m3u8?wsSecret=7718f6a8a2ec16615ffecf2b3c41c1e8&wsABSTime=1780591711
 
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Lustenau vs VfB Hohenems 16:00 ngày 04/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel5/playlist.m3u8?wsSecret=a7d84c642da8519bd3d07e8b767a60e9&wsABSTime=1780587847
+https://live1.pro2cdnlive.com/live/channel5/playlist.m3u8?wsSecret=8bf0c5cbf3e8cebce330c0dfc3bb6c64&wsABSTime=1780591713
 
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ceske Budejovice B vs FK Pribram B 16:00 ngày 04/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel4/playlist.m3u8?wsSecret=d5da14676d0aac75a172da0248ef0ebb&wsABSTime=1780587849
+https://live1.pro2cdnlive.com/live/channel4/playlist.m3u8?wsSecret=02da501b82dec3943047a9aa4f8f3453&wsABSTime=1780591715
 
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bỉ U17 vs Pháp U17 18:30 ngày 04/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel30/playlist.m3u8?wsSecret=997933726e36c198ee594b3491a161d7&wsABSTime=1780587852
+https://live1.pro2cdnlive.com/live/channel30/playlist.m3u8?wsSecret=0ddbfd6cd4f0b0f30fb7e6c9b8d0f7ce&wsABSTime=1780591717
 
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp SV Wals-Grunau vs Rheindorf Altach B 19:00 ngày 04/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel2/playlist.m3u8?wsSecret=4a960bd7842b5dfd18288ffbf2f960c6&wsABSTime=1780587854
+https://live1.pro2cdnlive.com/live/channel2/playlist.m3u8?wsSecret=f4399a89aa2f8ba9d5f3ce41dc9f016f&wsABSTime=1780591720
 
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Kitzbuhel vs St. Johann 19:30 ngày 04/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel3/playlist.m3u8?wsSecret=974868afb4c8ed003bb814f08346c34c&wsABSTime=1780587856
+https://live1.pro2cdnlive.com/live/channel3/playlist.m3u8?wsSecret=5ac38b56400da8e23c8906fe00cd0592&wsABSTime=1780591722
 
 #EXTINF:-1 tvg-logo="https://static.xoilacch.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Hà Lan vs Algeria ngày 03/06/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
