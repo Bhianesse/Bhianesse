@@ -30,12 +30,6 @@ https://live2.pro2cdnlive.com/live/channel6.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel23.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Guam vs Nữ Macao 16:15 ngày 05/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel16.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Green Gully Fc vs Avondale FC 16:30 ngày 05/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -72,17 +66,17 @@ https://live2.pro2cdnlive.com/live/channel28.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel19.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Daegu FC vs Paju Frontier FC 17:30 ngày 05/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel15.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Busan I Park vs Chungnam Asan 17:30 ngày 05/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel12.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Daegu FC vs Paju Frontier FC 17:30 ngày 05/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel15.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Colombia U19 vs Trung Quốc U19 20:00 ngày 05/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -96,6 +90,18 @@ https://live2.pro2cdnlive.com/live/channel8.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel17.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Bosnia Herzegovina vs Nữ Lithuania 22:00 ngày 05/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Pháp vs Bờ Biển Ngà ngày 04/06/2026 vừa diễn ra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://highlight.thuckhuya1.net/2026/06/04/1780610878612/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Tây Ban Nha vs Iraq ngày 04/06/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -107,12 +113,6 @@ https://highlight.thuckhuya1.net/2026/06/04/1780609261057/index.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://highlight.thuckhuya1.net/2026/06/04/1780608281325/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Pháp vs Bờ Biển Ngà ngày 04/06/2026 vừa diễn ra
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://highlight.thuckhuya1.net/2026/06/04/1780610878612/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Hà Lan vs Algeria ngày 03/06/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
