@@ -49,18 +49,18 @@ https://worker-nameless-art-1baf.martinsuban63.workers.dev/17:/Copy%20of%20Late.
 https://worker-nameless-art-1baf.martinsuban63.workers.dev/17:/Copy%20of%20Late.Bloomer.2024.480p.zip
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185//9mHpyhizdA7sgk6Xe3GfO3BTQlB.jpg" group-title="BKP MKV LIVE",[LIVE] Late Bloomer (29 Apr 2024) [480p]
 https://worker-nameless-art-1baf.martinsuban63.workers.dev/17:/Copy%20of%20Late.Bloomer.2024.480p.zip
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYxY2I1OGMtN2Y4MS00ZmU1LTgyNDAtODA0MzAyYjI0N2Y2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg" group-title="BKP MKV LIVE",[LIVE] Avatar: Fire and Ash (17 Dec 2025) [1080p]
-https://dl2.zonam.eu.org/19:/Copy%20of%20Salinan%20Avatar.Fire.and.Ash.2025.480p.BluRay.zip
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYxY2I1OGMtN2Y4MS00ZmU1LTgyNDAtODA0MzAyYjI0N2Y2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg" group-title="BKP MKV LIVE",[LIVE] Avatar: Fire and Ash (17 Dec 2025) [720p]
-https://dl2.zonam.eu.org/19:/Copy%20of%20Salinan%20Avatar.Fire.and.Ash.2025.480p.BluRay.zip
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYxY2I1OGMtN2Y4MS00ZmU1LTgyNDAtODA0MzAyYjI0N2Y2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg" group-title="BKP MKV LIVE",[LIVE] Avatar: Fire and Ash (17 Dec 2025) [480p]
-https://dl2.zonam.eu.org/19:/Copy%20of%20Salinan%20Avatar.Fire.and.Ash.2025.480p.BluRay.zip
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE2MjA0OTYxNF5BMl5BanBnXkFtZTcwNTQ1MzMzMQ@@._V1_SX300.jpg" group-title="BKP MKV LIVE",[LIVE] Carmen (16 May 2003) [1080p]
 https://long-firefly-ef19.nengnovicute5035.workers.dev/1:/Salinan%20Carmen.2003.BluRay.H264.AAC-RARBG.mp4.zip
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE2MjA0OTYxNF5BMl5BanBnXkFtZTcwNTQ1MzMzMQ@@._V1_SX300.jpg" group-title="BKP MKV LIVE",[LIVE] Carmen (16 May 2003) [720p]
 https://long-firefly-ef19.nengnovicute5035.workers.dev/1:/Salinan%20Carmen.2003.BluRay.H264.AAC-RARBG.mp4.zip
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjE2MjA0OTYxNF5BMl5BanBnXkFtZTcwNTQ1MzMzMQ@@._V1_SX300.jpg" group-title="BKP MKV LIVE",[LIVE] Carmen (16 May 2003) [480p]
 https://long-firefly-ef19.nengnovicute5035.workers.dev/1:/Salinan%20Carmen.2003.BluRay.H264.AAC-RARBG.mp4.zip
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYxY2I1OGMtN2Y4MS00ZmU1LTgyNDAtODA0MzAyYjI0N2Y2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg" group-title="BKP MKV LIVE",[LIVE] Avatar: Fire and Ash (17 Dec 2025) [1080p]
+https://dl2.zonam.eu.org/19:/Copy%20of%20Salinan%20Avatar.Fire.and.Ash.2025.480p.BluRay.zip
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYxY2I1OGMtN2Y4MS00ZmU1LTgyNDAtODA0MzAyYjI0N2Y2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg" group-title="BKP MKV LIVE",[LIVE] Avatar: Fire and Ash (17 Dec 2025) [720p]
+https://dl2.zonam.eu.org/19:/Copy%20of%20Salinan%20Avatar.Fire.and.Ash.2025.480p.BluRay.zip
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYxY2I1OGMtN2Y4MS00ZmU1LTgyNDAtODA0MzAyYjI0N2Y2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg" group-title="BKP MKV LIVE",[LIVE] Avatar: Fire and Ash (17 Dec 2025) [480p]
+https://dl2.zonam.eu.org/19:/Copy%20of%20Salinan%20Avatar.Fire.and.Ash.2025.480p.BluRay.zip
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGFmM2Q3YWEtZDEyNS00YWNhLTgwYjItN2UxNWIzOWZlZGU1XkEyXkFqcGc@._V1_SX300.jpg" group-title="BKP MKV LIVE",[LIVE] Undergrads (15 Oct 2024) [1080p]
 https://dl1.zonam.eu.org/20:/Salinan%20Undergrads.2024.480p.WEB-DL.zip
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGFmM2Q3YWEtZDEyNS00YWNhLTgwYjItN2UxNWIzOWZlZGU1XkEyXkFqcGc@._V1_SX300.jpg" group-title="BKP MKV LIVE",[LIVE] Undergrads (15 Oct 2024) [720p]
@@ -73,48 +73,42 @@ https://small-rain-08b5.nengnovicute5035.workers.dev/2:/Salinan%20Zerophilia.200
 https://small-rain-08b5.nengnovicute5035.workers.dev/2:/Salinan%20Zerophilia.2005..mp4.zip
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI4MzU0MDM4OF5BMl5BanBnXkFtZTcwNzAwODE0MQ@@._V1_SX300.jpg" group-title="BKP MKV LIVE",[LIVE] Zerophilia (13 Oct 2005) [480p]
 https://small-rain-08b5.nengnovicute5035.workers.dev/2:/Salinan%20Zerophilia.2005..mp4.zip
-#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/83823_.jpg" group-title="BKP MKV LIVE",[LIVE] Yui Hatano And Her Father In Law (03 Mar 2024) [1080p]
-https://long-heart-6fcc.dawasuma45.workers.dev/002/Yui%20Hatano%20and%20Her%20Father%20in%20Law.mp4
-#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/83823_.jpg" group-title="BKP MKV LIVE",[LIVE] Yui Hatano And Her Father In Law (03 Mar 2024) [720p]
-https://long-heart-6fcc.dawasuma45.workers.dev/002/Yui%20Hatano%20and%20Her%20Father%20in%20Law.mp4
-#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/83823_.jpg" group-title="BKP MKV LIVE",[LIVE] Yui Hatano And Her Father In Law (03 Mar 2024) [480p]
-https://long-heart-6fcc.dawasuma45.workers.dev/002/Yui%20Hatano%20and%20Her%20Father%20in%20Law.mp4
-#EXTINF:-1 tvg-logo="https://sub.yahyalovee55646.workers.dev/0:/images/1/12188.jpg" group-title="BKP MKV LIVE",[LIVE] Theodora Day, Blind Date (01 Mar 2024) [1080p]
-https://mute-paper-fa28.markushaeit.workers.dev/5:/Salinan%20Private-Theodora%20Day,%20Blind%20Date.zip
-#EXTINF:-1 tvg-logo="https://sub.yahyalovee55646.workers.dev/0:/images/1/12188.jpg" group-title="BKP MKV LIVE",[LIVE] Theodora Day, Blind Date (01 Mar 2024) [720p]
-https://mute-paper-fa28.markushaeit.workers.dev/5:/Salinan%20Private-Theodora%20Day,%20Blind%20Date.zip
-#EXTINF:-1 tvg-logo="https://sub.yahyalovee55646.workers.dev/0:/images/1/12188.jpg" group-title="BKP MKV LIVE",[LIVE] Theodora Day, Blind Date (01 Mar 2024) [480p]
-https://mute-paper-fa28.markushaeit.workers.dev/5:/Salinan%20Private-Theodora%20Day,%20Blind%20Date.zip
-#EXTINF:-1 tvg-logo="https://sub.yahyalovee55646.workers.dev/0:/images/video_thumb/11025.jpg" group-title="BKP MKV LIVE",[LIVE] Zero Tolerance Films-kylie Rocket: Maid Stories Scene 1 (02 Mar 2024) [1080p]
-https://solitary-glitter-5339.ranamarax.workers.dev/2:/Salinan%20Zero%20Tolerance%20Films-Kylie%20Rocket:%20Maid%20Stories%20Scene%201.zip
-#EXTINF:-1 tvg-logo="https://sub.yahyalovee55646.workers.dev/0:/images/video_thumb/11025.jpg" group-title="BKP MKV LIVE",[LIVE] Zero Tolerance Films-kylie Rocket: Maid Stories Scene 1 (02 Mar 2024) [720p]
-https://solitary-glitter-5339.ranamarax.workers.dev/2:/Salinan%20Zero%20Tolerance%20Films-Kylie%20Rocket:%20Maid%20Stories%20Scene%201.zip
-#EXTINF:-1 tvg-logo="https://sub.yahyalovee55646.workers.dev/0:/images/video_thumb/11025.jpg" group-title="BKP MKV LIVE",[LIVE] Zero Tolerance Films-kylie Rocket: Maid Stories Scene 1 (02 Mar 2024) [480p]
-https://solitary-glitter-5339.ranamarax.workers.dev/2:/Salinan%20Zero%20Tolerance%20Films-Kylie%20Rocket:%20Maid%20Stories%20Scene%201.zip
-#EXTINF:-1 tvg-logo="https://sub.yahyalovee55646.workers.dev/0:/images/video_thumb/10554.jpg" group-title="BKP MKV LIVE",[LIVE] Wed Or Undead (02 Mar 2024) [1080p]
-https://cold-hat-d477.ranamarax.workers.dev/6:/Salinan%20Bratty%20Sis-Wed%20Or%20UndeadChloe%20TempleLiz%20Jordan.zip
-#EXTINF:-1 tvg-logo="https://sub.yahyalovee55646.workers.dev/0:/images/video_thumb/10554.jpg" group-title="BKP MKV LIVE",[LIVE] Wed Or Undead (02 Mar 2024) [720p]
-https://cold-hat-d477.ranamarax.workers.dev/6:/Salinan%20Bratty%20Sis-Wed%20Or%20UndeadChloe%20TempleLiz%20Jordan.zip
-#EXTINF:-1 tvg-logo="https://sub.yahyalovee55646.workers.dev/0:/images/video_thumb/10554.jpg" group-title="BKP MKV LIVE",[LIVE] Wed Or Undead (02 Mar 2024) [480p]
-https://cold-hat-d477.ranamarax.workers.dev/6:/Salinan%20Bratty%20Sis-Wed%20Or%20UndeadChloe%20TempleLiz%20Jordan.zip
-#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/95523925_23102022102513.jpg" group-title="BKP MKV LIVE",[LIVE] Guidance (03 Mar 2024) [1080p]
-https://square-pine-9228.ranamarax.workers.dev/6:/Salinan%20Alina%20Lopez%20Guidance.zip
-#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/95523925_23102022102513.jpg" group-title="BKP MKV LIVE",[LIVE] Guidance (03 Mar 2024) [720p]
-https://square-pine-9228.ranamarax.workers.dev/6:/Salinan%20Alina%20Lopez%20Guidance.zip
-#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/95523925_23102022102513.jpg" group-title="BKP MKV LIVE",[LIVE] Guidance (03 Mar 2024) [480p]
-https://square-pine-9228.ranamarax.workers.dev/6:/Salinan%20Alina%20Lopez%20Guidance.zip
-#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/99011420_24102022110456.jpg" group-title="BKP MKV LIVE",[LIVE] Rusian Language Power (03 Mar 2024) [1080p]
-https://square-pine-9228.ranamarax.workers.dev/7:/Salinan%20R00sian%20Langu00age%20Power.zip
-#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/99011420_24102022110456.jpg" group-title="BKP MKV LIVE",[LIVE] Rusian Language Power (03 Mar 2024) [720p]
-https://square-pine-9228.ranamarax.workers.dev/7:/Salinan%20R00sian%20Langu00age%20Power.zip
-#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/99011420_24102022110456.jpg" group-title="BKP MKV LIVE",[LIVE] Rusian Language Power (03 Mar 2024) [480p]
-https://square-pine-9228.ranamarax.workers.dev/7:/Salinan%20R00sian%20Langu00age%20Power.zip
-#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/11387745_31082022102834.jpg" group-title="BKP MKV LIVE",[LIVE] Salinan 9 Month Pregnant Teen Seduce To Creampie Fuck At Gyno Exam (03 Mar 2024) [1080p]
-https://square-sea-7ef9.walafitty.workers.dev/7:/Salinan%209%20Month%20Pregnant%20Teen%20Seduce%20to%20Creampie%20Fu00ck%20at%20Gyno%20Exam.zip
-#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/11387745_31082022102834.jpg" group-title="BKP MKV LIVE",[LIVE] Salinan 9 Month Pregnant Teen Seduce To Creampie Fuck At Gyno Exam (03 Mar 2024) [720p]
-https://square-sea-7ef9.walafitty.workers.dev/7:/Salinan%209%20Month%20Pregnant%20Teen%20Seduce%20to%20Creampie%20Fu00ck%20at%20Gyno%20Exam.zip
-#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/11387745_31082022102834.jpg" group-title="BKP MKV LIVE",[LIVE] Salinan 9 Month Pregnant Teen Seduce To Creampie Fuck At Gyno Exam (03 Mar 2024) [480p]
-https://square-sea-7ef9.walafitty.workers.dev/7:/Salinan%209%20Month%20Pregnant%20Teen%20Seduce%20to%20Creampie%20Fu00ck%20at%20Gyno%20Exam.zip
+#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/30407690_23102022045456.jpg" group-title="BKP MKV LIVE",[LIVE] A Chance To Be Spoiled (03 Mar 2024) [1080p]
+https://square-pine-9228.ranamarax.workers.dev/4:/BFFs-A%20Chance%20To%20Be%20SpoiledAften%20OpalNicole%20AriaNadia%20Noja.zip
+#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/30407690_23102022045456.jpg" group-title="BKP MKV LIVE",[LIVE] A Chance To Be Spoiled (03 Mar 2024) [720p]
+https://square-pine-9228.ranamarax.workers.dev/4:/BFFs-A%20Chance%20To%20Be%20SpoiledAften%20OpalNicole%20AriaNadia%20Noja.zip
+#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/30407690_23102022045456.jpg" group-title="BKP MKV LIVE",[LIVE] A Chance To Be Spoiled (03 Mar 2024) [480p]
+https://square-pine-9228.ranamarax.workers.dev/4:/BFFs-A%20Chance%20To%20Be%20SpoiledAften%20OpalNicole%20AriaNadia%20Noja.zip
+#EXTINF:-1 tvg-logo="https://sub.yahyalovee55646.workers.dev/0:/images/1/12859.jpg" group-title="BKP MKV LIVE",[LIVE] Your Lucky Night (01 Mar 2024) [1080p]
+https://duitbv.markushaeit.workers.dev/9:/Salinan%20TheDickSuckers%20-%20Dharma%20Jones%20-%20Your%20Lucky%20Night.zip
+#EXTINF:-1 tvg-logo="https://sub.yahyalovee55646.workers.dev/0:/images/1/12859.jpg" group-title="BKP MKV LIVE",[LIVE] Your Lucky Night (01 Mar 2024) [720p]
+https://duitbv.markushaeit.workers.dev/9:/Salinan%20TheDickSuckers%20-%20Dharma%20Jones%20-%20Your%20Lucky%20Night.zip
+#EXTINF:-1 tvg-logo="https://sub.yahyalovee55646.workers.dev/0:/images/1/12859.jpg" group-title="BKP MKV LIVE",[LIVE] Your Lucky Night (01 Mar 2024) [480p]
+https://duitbv.markushaeit.workers.dev/9:/Salinan%20TheDickSuckers%20-%20Dharma%20Jones%20-%20Your%20Lucky%20Night.zip
+#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/69263993_23102022045650.jpg" group-title="BKP MKV LIVE",[LIVE] Your Father Wont Mind, Slimthick Vic (03 Mar 2024) [1080p]
+https://square-pine-9228.ranamarax.workers.dev/4:/Bratty%20MILF-Your%20Father%20Wont%20Mind,%20Slimthick%20Vic.zip
+#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/69263993_23102022045650.jpg" group-title="BKP MKV LIVE",[LIVE] Your Father Wont Mind, Slimthick Vic (03 Mar 2024) [720p]
+https://square-pine-9228.ranamarax.workers.dev/4:/Bratty%20MILF-Your%20Father%20Wont%20Mind,%20Slimthick%20Vic.zip
+#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/69263993_23102022045650.jpg" group-title="BKP MKV LIVE",[LIVE] Your Father Wont Mind, Slimthick Vic (03 Mar 2024) [480p]
+https://square-pine-9228.ranamarax.workers.dev/4:/Bratty%20MILF-Your%20Father%20Wont%20Mind,%20Slimthick%20Vic.zip
+#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/53043_.jpg" group-title="BKP MKV LIVE",[LIVE] Charly Summer (03 Mar 2024) [1080p]
+https://divine-cell-8acd.fly-66.workers.dev/004/shoplyfter.21.03.24.charly.summer.the.obvious.thief.mp4
+#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/53043_.jpg" group-title="BKP MKV LIVE",[LIVE] Charly Summer (03 Mar 2024) [720p]
+https://divine-cell-8acd.fly-66.workers.dev/004/shoplyfter.21.03.24.charly.summer.the.obvious.thief.mp4
+#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/53043_.jpg" group-title="BKP MKV LIVE",[LIVE] Charly Summer (03 Mar 2024) [480p]
+https://divine-cell-8acd.fly-66.workers.dev/004/shoplyfter.21.03.24.charly.summer.the.obvious.thief.mp4
+#EXTINF:-1 tvg-logo="https://sub.yahyalovee55646.workers.dev/0:/images/video_thumb/6.jpg" group-title="BKP MKV LIVE",[LIVE] Step Mom Takes Control, Joslyn Jane (03 Mar 2024) [1080p]
+https://cold-hat-d477.ranamarax.workers.dev/2:/Salinan%20Bang%20Bros-Step%20Mom%20Takes%20Control,%20Joslyn%20Jane.zip
+#EXTINF:-1 tvg-logo="https://sub.yahyalovee55646.workers.dev/0:/images/video_thumb/6.jpg" group-title="BKP MKV LIVE",[LIVE] Step Mom Takes Control, Joslyn Jane (03 Mar 2024) [720p]
+https://cold-hat-d477.ranamarax.workers.dev/2:/Salinan%20Bang%20Bros-Step%20Mom%20Takes%20Control,%20Joslyn%20Jane.zip
+#EXTINF:-1 tvg-logo="https://sub.yahyalovee55646.workers.dev/0:/images/video_thumb/6.jpg" group-title="BKP MKV LIVE",[LIVE] Step Mom Takes Control, Joslyn Jane (03 Mar 2024) [480p]
+https://cold-hat-d477.ranamarax.workers.dev/2:/Salinan%20Bang%20Bros-Step%20Mom%20Takes%20Control,%20Joslyn%20Jane.zip
+#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/85325617_23102022015126.jpg" group-title="BKP MKV LIVE",[LIVE] The Responsible One, Laney Grey (03 Mar 2024) [1080p]
+https://square-pine-9228.ranamarax.workers.dev/3:/Salinan%20Pure%20Taboo-The%20Responsible%20One,%20Laney%20Grey.zip
+#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/85325617_23102022015126.jpg" group-title="BKP MKV LIVE",[LIVE] The Responsible One, Laney Grey (03 Mar 2024) [720p]
+https://square-pine-9228.ranamarax.workers.dev/3:/Salinan%20Pure%20Taboo-The%20Responsible%20One,%20Laney%20Grey.zip
+#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/85325617_23102022015126.jpg" group-title="BKP MKV LIVE",[LIVE] The Responsible One, Laney Grey (03 Mar 2024) [480p]
+https://square-pine-9228.ranamarax.workers.dev/3:/Salinan%20Pure%20Taboo-The%20Responsible%20One,%20Laney%20Grey.zip
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjRmZjcwZTQtYWY0ZS00ODAwLTg4YTktZDhlZDMwMTM1MGFkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg" group-title="BKP MKV LIVE",[LIVE] In a Lonely Place (17 May 1950) [1080p]
 https://mute-paper-fa28.markushaeit.workers.dev/6:/Salinan%20In.a.Lonely.Place.1950.480p.BluRay.zip
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjRmZjcwZTQtYWY0ZS00ODAwLTg4YTktZDhlZDMwMTM1MGFkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg" group-title="BKP MKV LIVE",[LIVE] In a Lonely Place (17 May 1950) [720p]
@@ -133,12 +127,6 @@ https://holy-salad-8913.ranamarax.workers.dev/3:/Salinan%20Forbidden.City.Cop.19
 https://holy-salad-8913.ranamarax.workers.dev/3:/Salinan%20Forbidden.City.Cop.1996.480p.BluRay.zip
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZThhZjZmMjktOWVkMC00OWM3LTkxMTUtMGNiMzE0Mjg3OTkzXkEyXkFqcGdeQXVyMzAxNjg3MjQ@._V1_SX300.jpg" group-title="BKP MKV LIVE",[LIVE] Forbidden City Cop (16 Feb 1996) [480p]
 https://holy-salad-8913.ranamarax.workers.dev/3:/Salinan%20Forbidden.City.Cop.1996.480p.BluRay.zip
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjdlYTBlMjctMzk3NS00Yzc5LTk4MzMtMzlkMDg2YzYwNDM3XkEyXkFqcGdeQXVyMTYxNjkxOQ@@._V1_SX300.jpg" group-title="BKP MKV LIVE",[LIVE] The Doll of Satan (12 Jun 1969) [1080p]
-https://patient-mud-d2af.haratis.workers.dev/0:/Salinan%20The.Doll.of.Satan.1969.ITALIAN.480p.BluRay.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjdlYTBlMjctMzk3NS00Yzc5LTk4MzMtMzlkMDg2YzYwNDM3XkEyXkFqcGdeQXVyMTYxNjkxOQ@@._V1_SX300.jpg" group-title="BKP MKV LIVE",[LIVE] The Doll of Satan (12 Jun 1969) [720p]
-https://patient-mud-d2af.haratis.workers.dev/0:/Salinan%20The.Doll.of.Satan.1969.ITALIAN.480p.BluRay.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjdlYTBlMjctMzk3NS00Yzc5LTk4MzMtMzlkMDg2YzYwNDM3XkEyXkFqcGdeQXVyMTYxNjkxOQ@@._V1_SX300.jpg" group-title="BKP MKV LIVE",[LIVE] The Doll of Satan (12 Jun 1969) [480p]
-https://patient-mud-d2af.haratis.workers.dev/0:/Salinan%20The.Doll.of.Satan.1969.ITALIAN.480p.BluRay.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDNlNzBjMGUtYTA0Yy00OTI2LWJmZjMtODliYmUyYTI0OGFmXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_SX300.jpg" group-title="BKP MKV LIVE",[LIVE] K.G.F: Chapter 1 (20 Dec 2018) [1080p]
 https://solitary-scene-1341.muazyzah451450.workers.dev/9:/Salinan%20K.G.F.Chapter.1.2018.480p.WEB-HD.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDNlNzBjMGUtYTA0Yy00OTI2LWJmZjMtODliYmUyYTI0OGFmXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_SX300.jpg" group-title="BKP MKV LIVE",[LIVE] K.G.F: Chapter 1 (20 Dec 2018) [720p]
@@ -151,12 +139,6 @@ https://yellow-voice-b837.haratis.workers.dev/6:/Salinan%20Red.Tails.2012.480p.B
 https://yellow-voice-b837.haratis.workers.dev/6:/Salinan%20Red.Tails.2012.480p.BluRay.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDQ5MTg2NzI4OF5BMl5BanBnXkFtZTcwMDM2NzQzNg@@._V1_SX300.jpg" group-title="BKP MKV LIVE",[LIVE] Red Tails (19 Jan 2012) [480p]
 https://yellow-voice-b837.haratis.workers.dev/6:/Salinan%20Red.Tails.2012.480p.BluRay.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmFkY2Y4NmItMGE5MS00MWFjLTllNGQtMmI3ZDhiMWYxMDZiXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_SX300.jpg" group-title="BKP MKV LIVE",[LIVE] Tainted Soul (13 Oct 2022) [1080p]
-https://bakooo.martinsuban63.workers.dev/7:/Salinan%20Tainted.Soul.2022.480p.NF.WEB-DL.zip
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmFkY2Y4NmItMGE5MS00MWFjLTllNGQtMmI3ZDhiMWYxMDZiXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_SX300.jpg" group-title="BKP MKV LIVE",[LIVE] Tainted Soul (13 Oct 2022) [720p]
-https://bakooo.martinsuban63.workers.dev/7:/Salinan%20Tainted.Soul.2022.480p.NF.WEB-DL.zip
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmFkY2Y4NmItMGE5MS00MWFjLTllNGQtMmI3ZDhiMWYxMDZiXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_SX300.jpg" group-title="BKP MKV LIVE",[LIVE] Tainted Soul (13 Oct 2022) [480p]
-https://bakooo.martinsuban63.workers.dev/7:/Salinan%20Tainted.Soul.2022.480p.NF.WEB-DL.zip
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc0ODk5MzEyMV5BMl5BanBnXkFtZTcwMzI0MDY1OQ@@._V1_SX300.jpg" group-title="BKP MKV LIVE",[LIVE] Blue Jasmine (01 Aug 2013) [1080p]
 https://plain-resonance-43ff.cintaselena456638.workers.dev/4:/Salinan%20Blue.Jasmine.2013.480p.BluRay.x264.400MB.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc0ODk5MzEyMV5BMl5BanBnXkFtZTcwMzI0MDY1OQ@@._V1_SX300.jpg" group-title="BKP MKV LIVE",[LIVE] Blue Jasmine (01 Aug 2013) [720p]
