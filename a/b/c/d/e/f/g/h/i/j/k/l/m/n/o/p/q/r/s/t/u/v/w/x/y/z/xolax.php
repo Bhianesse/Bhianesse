@@ -1,22 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Liechtenstein vs Đảo Síp 20:00 ngày 07/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel7.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Timor Leste U19 vs Myanmar U19 20:00 ngày 07/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel14.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Slutsk FC vs FC Molodechno 19:00 ngày 07/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel10.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Indonesia U19 vs Việt Nam U19 20:00 ngày 07/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel5.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Liechtenstein vs Đảo Síp 20:00 ngày 07/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel7.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp CA Progreso vs Albion FC 20:00 ngày 07/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -72,12 +78,6 @@ https://live2.pro2cdnlive.com/live/channel18.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel13.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Cerro Montevideo vs CA Penarol 01:00 ngày 08/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel10.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Croatia vs Slovenia 01:45 ngày 08/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -108,23 +108,17 @@ https://live2.pro2cdnlive.com/live/channel8.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel16.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Slutsk FC vs FC Molodechno 19:00 ngày 07/06
+#EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Oskarshamns AIK vs Osterlen FF 19:00 ngày 07/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel3/playlist.m3u8?wsSecret=1dd7061d6819fae81d99e27f1af1163d&wsABSTime=1780875004
+https://live1.pro2cdnlive.com/live/channel4/playlist.m3u8?wsSecret=e19a1279e8f4273b2d8e340112acfd4f&wsABSTime=1780876622
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kumla vs Ahlafors IF 19:00 ngày 07/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel5/playlist.m3u8?wsSecret=423991dd20a0331d4f2d416b4bfe2f1b&wsABSTime=1780875008
-
-#EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Oskarshamns AIK vs Osterlen FF 19:00 ngày 07/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel4/playlist.m3u8?wsSecret=d4b1f88a09e036ec27d0e58319f35850&wsABSTime=1780875008
+https://live1.pro2cdnlive.com/live/channel5/playlist.m3u8?wsSecret=d013ec6b3e8eefbb9111d1dbb9bf1fdc&wsABSTime=1780876623
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Brazil vs Ai Cập ngày 06/06/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
