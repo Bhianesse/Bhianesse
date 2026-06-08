@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Peru vs Tây Ban Nha 09:00 ngày 09/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel15.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Minnesota Utd II vs Sporting Kansas (R) 07:00 ngày 09/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel12.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Timor Leste vs Brunei 16:00 ngày 09/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel15.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ipswich City vs Robina City 16:30 ngày 09/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -42,12 +42,6 @@ https://live2.pro2cdnlive.com/live/channel18.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel11.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Oman vs Kuwait 19:00 ngày 09/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel28.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Trung Quốc U23 vs Tajikistan U23 18:35 ngày 09/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -72,17 +66,17 @@ https://live2.pro2cdnlive.com/live/channel10.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel13.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kazakhstan U19 vs Hy Lạp U19 22:00 ngày 09/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel9.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Serbia U19 vs Bồ Đào Nha U19 22:00 ngày 09/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel19.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kazakhstan U19 vs Hy Lạp U19 22:00 ngày 09/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel9.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Lithuania U21 vs Latvia U21 18:00 ngày 09/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
