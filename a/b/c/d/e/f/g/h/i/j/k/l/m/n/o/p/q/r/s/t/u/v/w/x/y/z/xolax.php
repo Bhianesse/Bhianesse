@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bờ Biển Ngà U23 vs Canada U20 20:00 ngày 08/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel14.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Thái Lan U19 vs Malaysia U19 20:00 ngày 08/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel15.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bờ Biển Ngà U23 vs Canada U20 20:00 ngày 08/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel14.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Jizzax FA vs Gulistan 19:30 ngày 08/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -100,25 +100,25 @@ https://live2.pro2cdnlive.com/live/channel16.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel2/playlist.m3u8?wsSecret=c9b9314db9a64f69b31be08eb15bd328&wsABSTime=1780963498
-
-#EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ BIIK Shymkent vs Nữ Tomiris Turan 19:00 ngày 08/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel11/playlist.m3u8?wsSecret=0ba728ed98d0c78889003ca0250818e0&wsABSTime=1780963501
+https://live1.pro2cdnlive.com/live/channel2/playlist.m3u8?wsSecret=2480b493e9b6ec54bad488db0d213521&wsABSTime=1780963733
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bắc Macedonia U21 vs USA U20 19:00 ngày 08/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel18/playlist.m3u8?wsSecret=3f5f065dab26375fe94e1f306eb275d2&wsABSTime=1780963504
+https://live1.pro2cdnlive.com/live/channel18/playlist.m3u8?wsSecret=cb9a0c9cb660214498bc965ab8e115d0&wsABSTime=1780963737
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Oktepa vs Lokomotiv BFK 19:30 ngày 08/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel15/playlist.m3u8?wsSecret=9a972ae9cadf23153b8127acffdaaae4&wsABSTime=1780963508
+https://live1.pro2cdnlive.com/live/channel15/playlist.m3u8?wsSecret=ea8da1025b4b62b1a8f0ca6bc0a3f3ab&wsABSTime=1780963740
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp QMU Jayxun vs Aral Nukus 20:00 ngày 08/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.pro2cdnlive.com/live/channel4/playlist.m3u8?wsSecret=f06fee2f0d989a0d94e7ca6cc5df2169&wsABSTime=1780963741
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccm.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Hy Lạp vs Italy ngày 07/06/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
