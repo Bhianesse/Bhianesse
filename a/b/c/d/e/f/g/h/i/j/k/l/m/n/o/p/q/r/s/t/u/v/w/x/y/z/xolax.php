@@ -24,12 +24,6 @@ https://live2.pro2cdnlive.com/live/channel6.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel28.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Estonia vs Nữ Bosnia Herzegovina 00:00 ngày 10/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel22.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Latvia vs Nữ Slovakia 00:00 ngày 10/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -41,6 +35,12 @@ https://live2.pro2cdnlive.com/live/channel23.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel20.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Estonia vs Nữ Bosnia Herzegovina 00:00 ngày 10/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel22.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Serbia vs Nữ Đan Mạch 00:00 ngày 10/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -54,17 +54,17 @@ https://live2.pro2cdnlive.com/live/channel10.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel7.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Malta vs Nữ Thổ Nhĩ Kỳ 00:00 ngày 10/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel14.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Belarus vs Nữ Armenia 00:00 ngày 10/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel17.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Malta vs Nữ Thổ Nhĩ Kỳ 00:00 ngày 10/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel14.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Thụy Điển vs Nữ Italy 00:00 ngày 10/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -72,17 +72,17 @@ https://live2.pro2cdnlive.com/live/channel17.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel16.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Xứ Wales vs Nữ Séc 00:00 ngày 10/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel8.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Bắc Ireland vs Nữ Thụy Sĩ 00:00 ngày 10/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel13.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Xứ Wales vs Nữ Séc 00:00 ngày 10/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel8.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Renaissance Zmamra vs Union Touarga 01:00 ngày 10/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -112,13 +112,13 @@ https://live2.pro2cdnlive.com/live/channel11.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel7/playlist.m3u8?wsSecret=65d19d08b030be7b435b15c2ac2346e4&wsABSTime=1781062770
+https://live1.pro2cdnlive.com/live/channel7/playlist.m3u8?wsSecret=4152eca3a43d952c085d7c4f42ce77a0&wsABSTime=1781063567
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp SJK Akatemia vs JIPPO 23:00 ngày 09/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel20/playlist.m3u8?wsSecret=eab33a2f2f2b0287256636dd17e63599&wsABSTime=1781062772
+https://live1.pro2cdnlive.com/live/channel20/playlist.m3u8?wsSecret=65c75f556458b04bdafde105ebb23f71&wsABSTime=1781063569
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Pháp vs Bắc Ireland ngày 08/06/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
