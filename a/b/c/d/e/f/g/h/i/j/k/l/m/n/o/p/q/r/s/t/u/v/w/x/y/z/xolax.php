@@ -1,28 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Vancouver Whitecaps II vs North Texas SC 08:00 ngày 11/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel13.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Athletic Club Boise vs Richmond Kickers 08:30 ngày 11/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel28.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Mexico vs Nam Phi 02:00 ngày 12/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel1.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Phoenix Rising FC vs Louisville City 09:30 ngày 11/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel8.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Mexico vs Nam Phi 02:00 ngày 12/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp AV Alta vs Sarasota Paradise 10:00 ngày 11/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -90,59 +84,71 @@ https://live2.pro2cdnlive.com/live/channel20.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel7.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tampere United vs OLS Oulu 22:30 ngày 11/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel13.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bồ Đào Nha U20 vs Canada U20 00:00 ngày 12/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel17.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bolivia vs Algeria 07:00 ngày 11/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel33/playlist.m3u8?wsSecret=052bc912aee19411f96c6668c8fa943e&wsABSTime=1781180122
-
 #EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp SV La Fama vs SV Dakota 07:30 ngày 11/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel13/playlist.m3u8?wsSecret=fa011b82ec8988a04e9cec44356bd8fd&wsABSTime=1781180125
-
-#EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp McKinney Chupacabras vs Lubbock Matadors SC 07:30 ngày 11/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel14/playlist.m3u8?wsSecret=3912a293dc6615773fc3c1818dfa4ce6&wsABSTime=1781180128
-
-#EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Boston City FC (USA） vs West Mass Pioneers 07:30 ngày 11/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel15/playlist.m3u8?wsSecret=8881baf8a55c9ccec2907fa73ad980a7&wsABSTime=1781180131
-
-#EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Marin FC Legends vs San Francisco City 07:30 ngày 11/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel16/playlist.m3u8?wsSecret=d901cbbed1073e483784cb58e817e5aa&wsABSTime=1781180132
-
-#EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp City SC vs Stars FC 08:00 ngày 11/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel18/playlist.m3u8?wsSecret=af3396129d14aec6eacfb1668e717d77&wsABSTime=1781180134
+https://live1.pro2cdnlive.com/live/channel13/playlist.m3u8?wsSecret=89a1cbe28afb981aff315c4f36d58608&wsABSTime=1781183795
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Real Colorado Foxes vs Colorado ISA 08:00 ngày 11/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel19/playlist.m3u8?wsSecret=e7ace2838d73bf1a76e7b76027e4b756&wsABSTime=1781180137
+https://live1.pro2cdnlive.com/live/channel19/playlist.m3u8?wsSecret=976c6906a36ee4a61a9bf8acec47b6e2&wsABSTime=1781183797
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Snohomish United vs Ballard Football Club 08:00 ngày 11/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel20/playlist.m3u8?wsSecret=75f2c47539ca24f5e2f7f1c66336fa11&wsABSTime=1781180140
+https://live1.pro2cdnlive.com/live/channel20/playlist.m3u8?wsSecret=a1695a86aaa8e46d845e3da67f898977&wsABSTime=1781183800
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Monterey Bay FC vs Sporting Jax 09:00 ngày 11/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.pro2cdnlive.com/live/channel2/playlist.m3u8?wsSecret=3251e07aecce7d51fd416e92027ea6d3&wsABSTime=1781183804
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ventura County Fusion vs Redlands FC 09:00 ngày 11/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.pro2cdnlive.com/live/channel3/playlist.m3u8?wsSecret=ebdc0f298e7616e2728ebacfc62dee4e&wsABSTime=1781183804
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Academica SC vs Almaden FC 09:00 ngày 11/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.pro2cdnlive.com/live/channel4/playlist.m3u8?wsSecret=b35f61a5fefd051baf858382a5021364&wsABSTime=1781183806
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Áo vs Guatemala 11:00 ngày 11/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.pro2cdnlive.com/live/channel7/playlist.m3u8?wsSecret=0d9dc88f6f945135bac5935b49361388&wsABSTime=1781183809
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Wuhan vs Nữ Yunnan Antai 15:15 ngày 11/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.pro2cdnlive.com/live/channel9/playlist.m3u8?wsSecret=4592f180865358da45e146df10f87849&wsABSTime=1781183813
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Tianjin Shengde vs Nữ Qingdao Coast 13:00 ngày 11/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.pro2cdnlive.com/live/channel2/playlist.m3u8?wsSecret=d96769903ad1258a71af53471e3dfab8&wsABSTime=1781183813
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccp.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Anh vs Costa Rica ngày 10/06/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
