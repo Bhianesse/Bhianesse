@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="MY PACAR LIVE",🐇ayok donasi server playlist IPTV agar server tetap aktif🐇
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260611/21a420b0-dd01-4daa-b185-b9020f8bf69d-260611165222.jpg" group-title="MY PACAR LIVE",🐇[LIVE 2m | Nachia JKT48 | 👁 244] mekapp🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.zVh5JKAAtDUC.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260611/8fc7ad64-f7be-492b-97b6-2dae3378dfe2-260611164702.jpg" group-title="MY PACAR LIVE",🐇[LIVE 7m | Nala JKT48 | 👁 1663] 🤓🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.nCPKiODqPEOs.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260611/52d343df-2b43-4848-9b23-70a081659109-260611163137.jpg" group-title="MY PACAR LIVE",🐇[LIVE 23m | Jazzy JKT48 | 👁 3142] itadakimaasssuuu ( makbar )🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.3IswtNd98GcQ.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260611/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260611162758.jpg" group-title="MY PACAR LIVE",🐇[LIVE 26m | Oniel JKT48 | 👁 3972] Ayo ngobrol bareng!🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.KGbEli9xlInK.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260611/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260611180119.jpg" group-title="MY PACAR LIVE",🐇[LIVE 1m | Olla JKT48 | 👁 181] Ayo ngobrol bareng!🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.QGp4Op9dfxOA.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260611/4f795073-38c9-4df7-9388-74b83de69801-260611175737.jpg" group-title="MY PACAR LIVE",🐇[LIVE 5m | Cynthia JKT48 | 👁 547] Ayo ngobrol bareng!🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.UVu6FmzsZAuY.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260611/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260611172155.jpg" group-title="MY PACAR LIVE",🐇[LIVE 41m | Lyn JKT48 | 👁 2525] Ayo ngobrol bareng!🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.YMhzlmrLe7tw.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260611/f9500eb4-9d6d-491d-a857-40ca6f862d61-260611165852.jpg" group-title="MY PACAR LIVE",🐇[LIVE 1h | Auwia JKT48 | 👁 5273] Radio ngobrol ajaaahhh hehe🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XliapIMZ7P2P.m3u8
