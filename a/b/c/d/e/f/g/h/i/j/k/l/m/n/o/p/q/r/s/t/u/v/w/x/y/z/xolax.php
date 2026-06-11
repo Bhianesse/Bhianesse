@@ -1,22 +1,28 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hàn Quốc vs CH Séc 09:00 ngày 12/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001781219387-0-0-dcccf7a970c9a12832f481228b719069
+
 #EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Twin City Toucans vs San Antonio FC B 08:00 ngày 12/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel23.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Canada vs Bosnia-Herzegovina 02:00 ngày 13/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001781219112-0-0-a676c1e4f6c72c6775a2f73dbbbcaa36
-
 #EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Capo FC vs FC Tucson 10:00 ngày 12/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel17.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Zigong Black White vs Yunnan Cuanhe 15:00 ngày 12/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel20.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Sichuan 318 vs Chongqing Handa 12:00 ngày 12/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -28,73 +34,67 @@ https://live2.pro2cdnlive.com/live/channel10.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel20/playlist.m3u8?wsSecret=bb0ca3f74504177c89e3549676eec159&wsABSTime=1781262323
-
-#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Zigong Black White vs Yunnan Cuanhe 15:00 ngày 12/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel20.m3u8
+https://live1.pro2cdnlive.com/live/channel20/playlist.m3u8?wsSecret=495bd87cb25c06d7fbcc3499eecc82a7&wsABSTime=1781262598
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Darwin Olympics vs Garuda FC 16:00 ngày 12/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel19/playlist.m3u8?wsSecret=824bad93aeba84113a29384c6a931a49&wsABSTime=1781262330
+https://live1.pro2cdnlive.com/live/channel19/playlist.m3u8?wsSecret=9f531703e311c68b770107a5268c1dc8&wsABSTime=1781262604
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Manly United vs Sydney United 58 FC 16:30 ngày 12/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel11/playlist.m3u8?wsSecret=57c57e30dfb46ddcdcdc30cc2a34a5af&wsABSTime=1781262333
+https://live1.pro2cdnlive.com/live/channel11/playlist.m3u8?wsSecret=b5526ee7a67ef204296cdecef2a830fa&wsABSTime=1781262608
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ G. Coast Knights vs Nữ Brisbane City 16:30 ngày 12/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel21/playlist.m3u8?wsSecret=3e2d1d6e86b84cf3b7063e906f5caadc&wsABSTime=1781262334
+https://live1.pro2cdnlive.com/live/channel21/playlist.m3u8?wsSecret=d9a64bee705c0ef39572d4da9b82b3bf&wsABSTime=1781262608
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Campbelltown SC vs West Birkalla 17:00 ngày 12/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel18/playlist.m3u8?wsSecret=e319a779f756801985cf96d6d79b4620&wsABSTime=1781262334
+https://live1.pro2cdnlive.com/live/channel18/playlist.m3u8?wsSecret=f92ea79cd4e57c6475d0ee416da9c688&wsABSTime=1781262608
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Marconi Stallions vs Sydney FC (Y) 17:00 ngày 12/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel15/playlist.m3u8?wsSecret=0747545f01b349eb1730785a50f2d9bb&wsABSTime=1781262339
+https://live1.pro2cdnlive.com/live/channel15/playlist.m3u8?wsSecret=729021f7920608bad13357afd07cf52d&wsABSTime=1781262613
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Suwon FMC vs Nữ Sejong Sportstoto 17:00 ngày 12/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel16/playlist.m3u8?wsSecret=ec73bc44e8b3a793e2d1ba2d5b90fd81&wsABSTime=1781262343
+https://live1.pro2cdnlive.com/live/channel16/playlist.m3u8?wsSecret=7524e96e696a73282304ac77d863939a&wsABSTime=1781262617
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Melbourne Knights vs Brunswick Juventus 17:30 ngày 12/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel2/playlist.m3u8?wsSecret=b27ba38b7bd926f5996e27043c1bf07d&wsABSTime=1781262344
+https://live1.pro2cdnlive.com/live/channel2/playlist.m3u8?wsSecret=aac4ca82fb9022c8bebe846939c7b782&wsABSTime=1781262618
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Adelaide Comets FC vs West Adelaide SC 18:00 ngày 12/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel4/playlist.m3u8?wsSecret=86ea167f9848df58380762cb1d148dca&wsABSTime=1781262345
+https://live1.pro2cdnlive.com/live/channel4/playlist.m3u8?wsSecret=f1f935f359c29f8675a764f8640e4208&wsABSTime=1781262619
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp PVF-CAND FC vs Bắc Ninh 18:00 ngày 12/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001781219149-0-0-3c31b047c094c6d962f01f50b4456f41
+https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001781219422-0-0-ee6577671ff66d166a56259d21b5b0d5
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Trung Quốc U23 vs Hồng Kông U23 18:30 ngày 12/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel20/playlist.m3u8?wsSecret=9868e63b2b5d5a542da8b737a48c3a16&wsABSTime=1781262352
+https://live1.pro2cdnlive.com/live/channel20/playlist.m3u8?wsSecret=85cab57c86c021cc4d6587234e204d58&wsABSTime=1781262626
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FK Isloch Minsk vs Naftan Novopolotsk 21:00 ngày 12/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
