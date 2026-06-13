@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Haiti vs Scotland 08:00 ngày 14/06
+#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Australia vs Thổ Nhĩ Kỳ 11:00 ngày 14/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
@@ -11,6 +11,12 @@ https://live2.pro2cdnlive.com/live/channel6.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel1.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp New Mexico United vs Orange County 08:30 ngày 14/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel9.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bờ Biển Ngà vs Ecuador 06:00 ngày 15/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -23,12 +29,6 @@ https://live2.pro2cdnlive.com/live/channel15.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel7.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp New Mexico United vs Orange County 08:30 ngày 14/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel9.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Shanghai Huilong vs Nữ Hebei Snow Ruyi 13:00 ngày 14/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -48,17 +48,17 @@ https://live2.pro2cdnlive.com/live/channel14.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel12.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Wuxi Wugo vs Meizhou Hakka 18:00 ngày 14/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel19.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hegelmann Litauen vs Kauno Zalgiris 18:15 ngày 14/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel18.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Wuxi Wugo vs Meizhou Hakka 18:00 ngày 14/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel19.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nantong Zhiyun vs Yanbian Longding 18:30 ngày 14/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -112,25 +112,31 @@ https://live2.pro2cdnlive.com/live/channel25.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel42.m3u8?auth_key=3000001781384183-0-0-d70e49a512e74b1497f7317634c09ad4
+https://live3.procdnlive.com/livecdn/channel42.m3u8?auth_key=3000001781388064-0-0-342c5fc720751ead0a3c686542aa0a5f
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Huntsville City vs Orlando City B 07:00 ngày 14/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel44.m3u8?auth_key=3000001781384187-0-0-b999626a0cc9730e520baae67a667945
-
-#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Birmingham Legion vs Las Vegas Lights 07:00 ngày 14/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel45.m3u8?auth_key=3000001781384188-0-0-74e786ca6ad60dd3287d752ca013e1ba
+https://live3.procdnlive.com/livecdn/channel44.m3u8?auth_key=3000001781388067-0-0-f03ee6386cb5a401a1f2b917ff811752
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Forward Madison FC vs Athletic Club Boise 07:00 ngày 14/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel69.m3u8?auth_key=3000001781384192-0-0-0e189ff71c29e461926f81d5a3a75e9a
+https://live3.procdnlive.com/livecdn/channel69.m3u8?auth_key=3000001781388070-0-0-63ceb0dcc254d11c96c1d4cd2b37c0eb
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Birmingham Legion vs Las Vegas Lights 07:00 ngày 14/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live3.procdnlive.com/livecdn/channel45.m3u8?auth_key=3000001781388070-0-0-5f5b035363f67282a48841d6acfb8e77
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Qatar vs Thụy Sĩ ngày 13/06/2026 vừa diễn ra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://highlight.thuckhuya1.net/2026/06/13/1781386183470/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận USA vs Paraguay ngày 13/06/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -149,10 +155,4 @@ https://highlight.thuckhuya1.net/2026/06/12/1781300339919/index.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://highlight.thuckhuya1.net/2026/06/12/1781275189104/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Mexico vs Nam Phi ngày 11/06/2026 vừa diễn ra
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://highlight.thuckhuya1.net/2026/06/12/1781222566519/index.m3u8
 
