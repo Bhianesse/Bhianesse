@@ -12,17 +12,11 @@ https://live2.pro2cdnlive.com/live/channel6.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel1.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nublense vs Huachipato 07:00 ngày 14/06
+#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Shanghai Huilong vs Nữ Hebei Snow Ruyi 13:00 ngày 14/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel7.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bờ Biển Ngà vs Ecuador 06:00 ngày 15/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel15.m3u8
+https://live2.pro2cdnlive.com/live/channel10.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp New Mexico United vs Orange County 08:30 ngày 14/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -30,11 +24,17 @@ https://live2.pro2cdnlive.com/live/channel15.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel9.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Shanghai Huilong vs Nữ Hebei Snow Ruyi 13:00 ngày 14/06
+#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bờ Biển Ngà vs Ecuador 06:00 ngày 15/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel10.m3u8
+https://live2.pro2cdnlive.com/live/channel15.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Canberra Juventus vs Cooma Tigers 16:00 ngày 14/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel7.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Ulaanbaatar vs Bishrelt Khoromkhon 17:00 ngày 14/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -54,17 +54,17 @@ https://live2.pro2cdnlive.com/live/channel12.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel19.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hegelmann Litauen vs Kauno Zalgiris 18:15 ngày 14/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel18.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nantong Zhiyun vs Yanbian Longding 18:30 ngày 14/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel22.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hegelmann Litauen vs Kauno Zalgiris 18:15 ngày 14/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel18.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Dongguan Guanlian vs Shaanxi Union 18:30 ngày 14/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -108,29 +108,41 @@ https://live2.pro2cdnlive.com/live/channel16.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel25.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Louisville City vs Brooklyn FC 07:00 ngày 14/06
+#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp West Texas FC vs McKinney Chupacabras 07:30 ngày 14/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel42.m3u8?auth_key=3000001781392349-0-0-cf40c12f547dae3a1128c7b767e3df77
+https://live3.procdnlive.com/livecdn/channel46.m3u8?auth_key=3000001781396852-0-0-ae80347d4929c0978d1468acdac1ec14
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Huntsville City vs Orlando City B 07:00 ngày 14/06
+#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Denton Diablos FC vs Texoma 07:30 ngày 14/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel44.m3u8?auth_key=3000001781392352-0-0-51c3bf2d0d170405835c52be6cfaa7d8
+https://live3.procdnlive.com/livecdn/channel49.m3u8?auth_key=3000001781396852-0-0-f014686386748fa3be3ed80feda0c151
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Birmingham Legion vs Las Vegas Lights 07:00 ngày 14/06
+#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Peoria City vs Santafe Wanderers 07:30 ngày 14/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel45.m3u8?auth_key=3000001781392355-0-0-aefba573ddf6460683f81965621446a5
+https://live3.procdnlive.com/livecdn/channel47.m3u8?auth_key=3000001781396856-0-0-c14cd8293603abdf0d0259b365c922c2
 
-#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Forward Madison FC vs Athletic Club Boise 07:00 ngày 14/06
+#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Corpus Christi FC vs Richmond Kickers 07:30 ngày 14/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel69.m3u8?auth_key=3000001781392357-0-0-dbc3c0d0fb471881720d6af84e4bace1
+https://live3.procdnlive.com/livecdn/channel48.m3u8?auth_key=3000001781396859-0-0-3eff3f58a145bb0cf2a4d164a1df5122
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Charleston City Blues vs Lambton Jarvis 08:00 ngày 14/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live3.procdnlive.com/livecdn/channel51.m3u8?auth_key=3000001781396862-0-0-8efd56d354633e660b371552c8b125e9
+
+#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Brazil vs Ma Rốc ngày 13/06/2026 vừa diễn ra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://highlight.thuckhuya1.net/2026/06/14/1781396289910/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Qatar vs Thụy Sĩ ngày 13/06/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -149,10 +161,4 @@ https://highlight.thuckhuya1.net/2026/06/13/1781322350682/index.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://highlight.thuckhuya1.net/2026/06/12/1781300339919/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilaccb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Hàn Quốc vs CH Séc ngày 12/06/2026 vừa diễn ra
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://highlight.thuckhuya1.net/2026/06/12/1781275189104/index.m3u8
 
