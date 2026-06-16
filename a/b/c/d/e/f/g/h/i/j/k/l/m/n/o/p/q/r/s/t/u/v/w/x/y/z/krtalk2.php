@@ -1,31 +1,31 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="MY PACAR LIVE",🐇ayok donasi server playlist IPTV agar server tetap aktif🐇
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260616/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260616203321.jpg" group-title="MY PACAR LIVE",🐇[LIVE 51s | Muthe JKT48 | 👁 74] Hi🐇
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260616/e2af7271-2598-4ee8-8760-68043e671e6d-260616211234.jpg" group-title="MY PACAR LIVE",🐇[LIVE 33m | Lana JKT48 | 👁 7710] Haii🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XcUYof208I6e.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260616/a9579a29-9203-40c0-9326-9837b8eae6e8-260616210804.jpg" group-title="MY PACAR LIVE",🐇[LIVE 37m | Jessi JKT48 | 👁 5112] radioooo🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.726SnUjvlfRJ.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260616/dd600237-1d93-43c7-b0a3-6e80e8b02ada-260616210721.jpg" group-title="MY PACAR LIVE",🐇[LIVE 38m | Nana | Karafuru Idol Group | 👁 1712] ayookk masupp🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.qAyFRVWNG8bj.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260616/c3d28bcd-d000-4ccc-a9bf-956853cfa433-260616210538.jpg" group-title="MY PACAR LIVE",🐇[LIVE 40m | Kathrina JKT48 | 👁 8554] Lol🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.a4Aq6zWq9xBO.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260616/33139b05-1c43-4b48-bba3-ec960b18b36e-260616205922.jpg" group-title="MY PACAR LIVE",🐇[LIVE 46m | Danella JKT48 | 👁 3981] Hi🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.1TQqlwWPwce5.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260616/74e76417-0353-487f-b9b7-7520c0398e87-260616205627.jpg" group-title="MY PACAR LIVE",🐇[LIVE 49m | Alya JKT48 | 👁 5376] Ayo ngobrol bareng!🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.sLZkhRvMutd4.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260616/9bb79bed-688f-42bc-b971-c12668b7bb90-260616205440.jpg" group-title="MY PACAR LIVE",🐇[LIVE 51m | Heidi JKT48 | 👁 4261] Ngobrol yukk !!🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.1BSvFH9hwEuZ.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260616/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260616204740.jpg" group-title="MY PACAR LIVE",🐇[LIVE 58m | Intan JKT48 | 👁 9765] hi🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260616/3cbe26d9-ff3f-4985-bbe1-c4403908124a-260616203652.jpg" group-title="MY PACAR LIVE",🐇[LIVE 1h | Ribka JKT48 | 👁 12167] Ayo ngobrol bareng!🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.m6srSRt8fTY6.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260616/9f308a8f-29cb-45c0-9df2-6ffd16bc9298-260616203321.jpg" group-title="MY PACAR LIVE",🐇[LIVE 1h | Muthe JKT48 | 👁 12795] Hi🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.sm9AmQPkGDGS.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260616/79560bc6-813e-44d7-95b1-c9cf8e29f620-260616203142.jpg" group-title="MY PACAR LIVE",🐇[LIVE 2m | Bella JKT48 | 👁 597] Ayoo ngobrol sama bonbonn 🩷🩷🐇
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260616/79560bc6-813e-44d7-95b1-c9cf8e29f620-260616203142.jpg" group-title="MY PACAR LIVE",🐇[LIVE 1h | Bella JKT48 | 👁 9789] Ayoo ngobrol sama bonbonn 🩷🩷🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.2C3t5GoDLzUG.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260616/bf407ce5-969a-472a-a727-dadfbcc55112-260616201741.jpg" group-title="MY PACAR LIVE",🐇[LIVE 16m | Piya | Karafuru Idol Group | 👁 227] #salamcintadaripiyak🐇
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260616/bf407ce5-969a-472a-a727-dadfbcc55112-260616201741.jpg" group-title="MY PACAR LIVE",🐇[LIVE 1h | Piya | Karafuru Idol Group | 👁 3569] #salamcintadaripiyak🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.vEBpCFKQ2tOg.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260616/bbadf3c0-7538-44a2-a98b-d7f1a0324f2c-260616200327.jpg" group-title="MY PACAR LIVE",🐇[LIVE 30m | AKM Chabby | 👁 589] sini siniiw🐾🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.4C6wEKUvsc7U.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260616/709b2685-6106-4a10-88b2-33139b6235d5-260616195921.jpg" group-title="MY PACAR LIVE",🐇[LIVE 34m | Rona Ang | 👁 873] Mampir Kali?🐇
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260616/709b2685-6106-4a10-88b2-33139b6235d5-260616195921.jpg" group-title="MY PACAR LIVE",🐇[LIVE 1h | Rona Ang | 👁 5235] Mampir Kali?🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.aSRb7ekqJH39.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260616/860ed330-d0bf-4af9-bc33-575e876abcc3-260616195616.jpg" group-title="MY PACAR LIVE",🐇[LIVE 37m | Carissa JKT48 | 👁 3484] Carissa mau ceritaaaa!!! 🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.dUnDQVccbExB.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260616/3c97d6a6-6fc2-4e2b-b7f6-e94ebe9c3e93-260616195525.jpg" group-title="MY PACAR LIVE",🐇[LIVE 38m | Giaa JKT48 | 👁 2403] haiii🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.3dNPEzieJMP6.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260616/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260616195410.jpg" group-title="MY PACAR LIVE",🐇[LIVE 40m | Greesel JKT48 | 👁 9264] Ayo ngobrol bareng!🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.z3nXSqOvE9Fs.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260616/b11b0692-d0b8-464c-849a-9e81439a048c-260616194806.jpg" group-title="MY PACAR LIVE",🐇[LIVE 46m | Daisy JKT48 | 👁 2789] Abis latihann butuh yang seger seger🤏🏻🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.tk9WxdsYj8NE.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260616/a5c72141-65a3-47be-86ef-1dc1feaab10d-260616194254.jpg" group-title="MY PACAR LIVE",🐇[LIVE 51m | Anindya JKT48 | 👁 4338] HALO🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.r1IZpJ0puDJi.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260616/68b3500f-786d-44cf-a53d-f3967b9e34dd-260616194154.jpg" group-title="MY PACAR LIVE",🐇[LIVE 52m | Inn Indomodel | 👁 1582] hi! Yall kind ppl🐾🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ytk5isrQfhYI.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260616/ea45d282-0b03-4b7f-a4e9-cf649f27fcd0-260616193021.jpg" group-title="MY PACAR LIVE",🐇[LIVE 1h | Ralyne JKT48 | 👁 6014] 🙉🙉🙉🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.QC3wCAqzZ0v9.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260616/61d965a9-58cc-4d79-8104-0a326b91f731-260616185927.jpg" group-title="MY PACAR LIVE",🐇[LIVE 1h | Sona JKT48 | 👁 10980] bikin apa ini??☘️🐇
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260616/61d965a9-58cc-4d79-8104-0a326b91f731-260616185927.jpg" group-title="MY PACAR LIVE",🐇[LIVE 2h | Sona JKT48 | 👁 16829] bikin apa ini??☘️🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.wb9FCylf9CC6.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260616/6430dab8-2dd4-47df-ae75-87d50d555e06-260616185611.jpg" group-title="MY PACAR LIVE",🐇[LIVE 1h | Keyi | Karafuru Idol Group | 👁 3529] hi hi🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.m68n9wA2nMe9.m3u8
