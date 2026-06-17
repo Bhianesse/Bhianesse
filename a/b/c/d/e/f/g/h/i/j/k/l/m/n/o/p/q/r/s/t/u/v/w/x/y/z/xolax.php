@@ -100,61 +100,61 @@ https://live2.pro2cdnlive.com/live/channel27.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSecret=da54191d46b412b6035410890bf3b410&wsABSTime=1781711993
+https://live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSecret=9c63ec7952872d3675e0352d22ecedf6&wsABSTime=1781715858
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Dalian vs Nữ Henan 13:00 ngày 17/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel2/playlist.m3u8?wsSecret=78bc5a459c23fc8441bb702a27e1f5a2&wsABSTime=1781711996
+https://live1.pro2cdnlive.com/live/channel2/playlist.m3u8?wsSecret=3718b01c16ed443f734f9093cac35dbb&wsABSTime=1781715861
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Shandong Jinghua vs Nữ Qingdao Coast 13:00 ngày 17/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel3/playlist.m3u8?wsSecret=33e92c044d8b8f42927e6fa38f4c9c85&wsABSTime=1781711997
+https://live1.pro2cdnlive.com/live/channel3/playlist.m3u8?wsSecret=9d79ae505d54e778005451e7757a388e&wsABSTime=1781715862
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Fujian Nanan vs Nữ Wuhan 15:30 ngày 17/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel5/playlist.m3u8?wsSecret=848371ed1fbd2fa98b7d51e1830724e0&wsABSTime=1781712000
+https://live1.pro2cdnlive.com/live/channel5/playlist.m3u8?wsSecret=b1a87bd232db0926a9faa576f4aae997&wsABSTime=1781715865
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Hebei Snow Ruyi vs Nữ Yunnan Antai 15:30 ngày 17/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel7/playlist.m3u8?wsSecret=7f6d3ac7dc37be9c8af314292299cdfe&wsABSTime=1781712002
+https://live1.pro2cdnlive.com/live/channel7/playlist.m3u8?wsSecret=de21ea1a1b6b1c3844a9ebf6ee748cfd&wsABSTime=1781715868
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Changnyeong vs Nữ Suwon FMC 17:00 ngày 17/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel10/playlist.m3u8?wsSecret=0e7cf1163a24a337835a47a16b22d086&wsABSTime=1781712005
+https://live1.pro2cdnlive.com/live/channel10/playlist.m3u8?wsSecret=80d9e135f1bdfdd781ee6dd0318c29b0&wsABSTime=1781715870
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bishrelt Khoromkhon vs Ulaangom City 17:00 ngày 17/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel14/playlist.m3u8?wsSecret=aee2524c1a787b42a05c9a89c31d0bc1&wsABSTime=1781712007
+https://live1.pro2cdnlive.com/live/channel14/playlist.m3u8?wsSecret=d20f822194517829cecb67d3fef6eb2b&wsABSTime=1781715872
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Simba(DRC) vs AS Vita Club 18:00 ngày 17/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSecret=0eb6079fbdc14f24cda7ee1ce9499a11&wsABSTime=1781712010
+https://live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSecret=f87fdc9f4d0753acc257868e72f36e13&wsABSTime=1781715875
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Merani Martvili vs Samtredia 20:00 ngày 17/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel3/playlist.m3u8?wsSecret=aa1867b7e535fc1c3eec5e20574ca5b2&wsABSTime=1781712012
+https://live1.pro2cdnlive.com/live/channel3/playlist.m3u8?wsSecret=56b07684498d7bf7053527eb183639d2&wsABSTime=1781715877
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Gareji Sagarejo vs Shturmi 20:00 ngày 17/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel4/playlist.m3u8?wsSecret=d0a03d78e7d7e02baff918b619ff890f&wsABSTime=1781712015
+https://live1.pro2cdnlive.com/live/channel4/playlist.m3u8?wsSecret=6f53db34d55b68fe10218de8649aa944&wsABSTime=1781715880
 
 #EXTINF:-1 tvg-logo="https://static.xoilaccn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Argentina vs Algeria ngày 17/06/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
