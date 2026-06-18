@@ -1,8 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [14:00 18/06] TRỰC TIẾP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tructiep-hd.club/
+#EXTVLCOPT:http-origin=https://tructiep-hd.club
+https://live.egmdispatch.com/live/72145628_75a4562bbc688f1c75b9752079437e89_autoChange.m3u8?auth_key=1781782189-0-0-7d8e58402f7b19d85ea7fba83723ccc8
+
 #EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [23:00 18/06] TRỰC TIẾP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tructiep-hd.club/
 #EXTVLCOPT:http-origin=https://tructiep-hd.club
-https://live888.16m50.tv/fAeEh3psS8UF70ImAdR6-w/1781773432/live/channel03/index.m3u8
+https://live888.16m50.tv/zyr2LJMuY_tu6XQlORP18A/1781775119/live/channel03/index.m3u8
 
