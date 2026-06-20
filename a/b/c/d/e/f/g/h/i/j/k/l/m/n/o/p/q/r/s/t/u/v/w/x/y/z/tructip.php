@@ -16,5 +16,5 @@ https://live.egmdispatch.com/live/68162430_46d4c60f7d63c249d02341b31d7bbed1_auto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tructiep-hd.club/
 #EXTVLCOPT:http-origin=https://tructiep-hd.club
-https://live888.16m50.tv/ikTIezfqLncRXCKV3uszSg/1781930835/live/channel03/index.m3u8
+https://live888.16m50.tv/e9vEVi9Rih9pipq--YwCLg/1781931735/live/channel03/index.m3u8
 
