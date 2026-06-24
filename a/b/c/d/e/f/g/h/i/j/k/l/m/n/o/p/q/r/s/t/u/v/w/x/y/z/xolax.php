@@ -1,6 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilac365xg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp CH Séc vs Mexico 08:00 ngày 25/06
+#EXTINF:-1 tvg-logo="https://static.xoilac365xg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nam Phi vs Hàn Quốc 08:00 ngày 25/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel15.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilac365xg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nam Phi vs Hàn Quốc 08:00 ngày 25/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
@@ -12,12 +18,6 @@ https://vd.apisportpulse.com/2026/06/23/1782182179595/index.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel5.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilac365xg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nam Phi vs Hàn Quốc 08:00 ngày 25/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel15.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilac365xg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ecuador vs Đức 03:00 ngày 26/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -28,7 +28,7 @@ https://live2.pro2cdnlive.com/live/channel1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel23/playlist.m3u8?wsSecret=4d152928a7d2b4c3373037db8469be6e&wsABSTime=1782378149
+https://live1.pro2cdnlive.com/live/channel23/playlist.m3u8?wsSecret=9890935d9aac7b6f8fff76eee858772b&wsABSTime=1782382142
 
 #EXTINF:-1 tvg-logo="https://static.xoilac365xg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tunisia vs Hà Lan 06:00 ngày 26/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -100,67 +100,79 @@ https://live2.pro2cdnlive.com/live/channel25.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel17/playlist.m3u8?wsSecret=9b3dd05244b2bd5b9e296a6ee4a1b147&wsABSTime=1782378188
+https://live1.pro2cdnlive.com/live/channel17/playlist.m3u8?wsSecret=d9e0afea63f74efe10998d5a2dd57c69&wsABSTime=1782382183
 
 #EXTINF:-1 tvg-logo="https://static.xoilac365xg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp AC Houston Sur vs AHFC Royals 07:00 ngày 25/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel18/playlist.m3u8?wsSecret=976fdc8f6142f491de870cbf7c90aa63&wsABSTime=1782378191
+https://live1.pro2cdnlive.com/live/channel18/playlist.m3u8?wsSecret=36b2055d3e8694498345c636ebfb361a&wsABSTime=1782382186
 
 #EXTINF:-1 tvg-logo="https://static.xoilac365xg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp GFI Woodlands vs Twin City Toucans 07:00 ngày 25/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel19/playlist.m3u8?wsSecret=1ed45e3efc4170ab0d56a18b9197028a&wsABSTime=1782378194
+https://live1.pro2cdnlive.com/live/channel19/playlist.m3u8?wsSecret=3476b33b5528a99f3b02a42c954a20dd&wsABSTime=1782382188
 
 #EXTINF:-1 tvg-logo="https://static.xoilac365xg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Lubbock Matadors SC vs McKinney Chupacabras 07:00 ngày 25/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel20/playlist.m3u8?wsSecret=1762fae9660f3f9b87c69b950bd565e1&wsABSTime=1782378194
+https://live1.pro2cdnlive.com/live/channel20/playlist.m3u8?wsSecret=aaa35c46e68817db2901b5e12ab02dc9&wsABSTime=1782382190
 
 #EXTINF:-1 tvg-logo="https://static.xoilac365xg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Sueno FC vs River Light 07:00 ngày 25/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel21/playlist.m3u8?wsSecret=9c6ad8b9bbd786a49c1281d6f6c32843&wsABSTime=1782378198
+https://live1.pro2cdnlive.com/live/channel21/playlist.m3u8?wsSecret=0f5632404c8e0c3e05c90e57dfb7e98c&wsABSTime=1782382193
 
 #EXTINF:-1 tvg-logo="https://static.xoilac365xg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Minneapolis City SC vs RKC Third Coast 07:00 ngày 25/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel22/playlist.m3u8?wsSecret=dd28d983ac86d50be6ac7fd4dc8bb2a5&wsABSTime=1782378200
+https://live1.pro2cdnlive.com/live/channel22/playlist.m3u8?wsSecret=1215fef6f3ec2d3b00fe670880c100f2&wsABSTime=1782382196
 
 #EXTINF:-1 tvg-logo="https://static.xoilac365xg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Corpus Christi FC vs AV Alta 07:30 ngày 25/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel23/playlist.m3u8?wsSecret=6423fbaa198f81587ccac571985956b0&wsABSTime=1782378204
+https://live1.pro2cdnlive.com/live/channel23/playlist.m3u8?wsSecret=0d6932352e2545ab82789d3b068ac1ed&wsABSTime=1782382198
 
 #EXTINF:-1 tvg-logo="https://static.xoilac365xg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp CA Patrocinense vs Boa EC 07:30 ngày 25/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel24/playlist.m3u8?wsSecret=6a723daa78ef9fc55b97cfd906e8d90b&wsABSTime=1782378205
+https://live1.pro2cdnlive.com/live/channel24/playlist.m3u8?wsSecret=a58c17b75168bed712d42a37fb348a39&wsABSTime=1782382201
 
 #EXTINF:-1 tvg-logo="https://static.xoilac365xg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp West Texas FC vs Fort Worth Vaqueros 07:30 ngày 25/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel25/playlist.m3u8?wsSecret=1dc2cbf9cb3877ccac8ae1f7104f9f67&wsABSTime=1782378208
+https://live1.pro2cdnlive.com/live/channel25/playlist.m3u8?wsSecret=699f704b254f1261db5cb30355485463&wsABSTime=1782382203
 
 #EXTINF:-1 tvg-logo="https://static.xoilac365xg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Spokane Velocity vs Westchester SC 08:00 ngày 25/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSecret=065a0748072b788e145e25f413045ce4&wsABSTime=1782378210
+https://live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSecret=8de26e9017b848bb1c7f88166cbf8dce&wsABSTime=1782382206
 
 #EXTINF:-1 tvg-logo="https://static.xoilac365xg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Marin FC Legends vs San Juan SC 08:00 ngày 25/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel2/playlist.m3u8?wsSecret=6c843b295aebcaf6308338d60f909716&wsABSTime=1782378214
+https://live1.pro2cdnlive.com/live/channel2/playlist.m3u8?wsSecret=2d77b43af04c6e233ed8464d1f101cd3&wsABSTime=1782382208
+
+#EXTINF:-1 tvg-logo="https://static.xoilac365xg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Bosnia-Herzegovina vs Qatar ngày 24/06/2026 vừa diễn ra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://highlight.thuckhuya1.net/2026/06/24/1782336114392/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilac365xg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Thụy Sĩ vs Canada ngày 24/06/2026 vừa diễn ra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://highlight.thuckhuya1.net/2026/06/24/1782336448467/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilac365xg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Colombia vs DR Congo ngày 24/06/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -173,16 +185,4 @@ https://highlight.thuckhuya1.net/2026/06/24/1782278376289/index.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://highlight.thuckhuya1.net/2026/06/24/1782265256829/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilac365xg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Anh vs Ghana ngày 23/06/2026 vừa diễn ra
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://highlight.thuckhuya1.net/2026/06/23/1782253545868/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilac365xg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Bồ Đào Nha vs Uzbekistan ngày 23/06/2026 vừa diễn ra
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://highlight.thuckhuya1.net/2026/06/23/1782243278620/index.m3u8
 
