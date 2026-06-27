@@ -4,7 +4,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001782517861-0-0-9de43154bba72f7af492401a30f768ad
+https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001782519594-0-0-4490cda20d89685bf9c73cba13cab306
 
 #EXTINF:-1 tvg-logo="https://static.xoilac365xj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Uruguay vs Tây Ban Nha 07:00 ngày 27/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -16,13 +16,13 @@ https://vd.apisportpulse.com/2026/06/23/1782182179595/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel15/playlist.m3u8?wsSecret=4cc0cc83241349e8f777c59619c870b2&wsABSTime=1782561061
+https://live1.pro2cdnlive.com/live/channel15/playlist.m3u8?wsSecret=7466df6be3850470b892b8515daf9dcf&wsABSTime=1782562794
 
 #EXTINF:-1 tvg-logo="https://static.xoilac365xj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Cabo Verde vs Ả Rập Xê Út 07:00 ngày 27/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel11.m3u8?auth_key=3000001782517861-0-0-a2a29b3e053e77769133f595cff80eca
+https://live3.procdnlive.com/livecdn/channel11.m3u8?auth_key=3000001782519594-0-0-61367166f2bb6aff33d669598d0437a3
 
 #EXTINF:-1 tvg-logo="https://static.xoilac365xj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp New Zealand vs Bỉ 10:00 ngày 27/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -30,23 +30,23 @@ https://live3.procdnlive.com/livecdn/channel11.m3u8?auth_key=3000001782517861-0-
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel6.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilac365xj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Panama vs Anh 04:00 ngày 28/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001782517871-0-0-9a55a9606ab95ca44c2fe8e47b8a3c56
-
 #EXTINF:-1 tvg-logo="https://static.xoilac365xj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Colombia vs Bồ Đào Nha 06:30 ngày 28/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001782517872-0-0-78a2d1f026a354fc08c68fa7d57bf914
+https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001782519605-0-0-4404edf4a5775aae97a4386cc943509e
+
+#EXTINF:-1 tvg-logo="https://static.xoilac365xj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Panama vs Anh 04:00 ngày 28/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001782519604-0-0-99ccd25c759d08737a909e0ac934106f
 
 #EXTINF:-1 tvg-logo="https://static.xoilac365xj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp DR Congo vs Uzbekistan 06:30 ngày 28/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001782517879-0-0-8f837f2a7a33b9b48135adfed333e4d9
+https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001782519612-0-0-eb187c7c96466d1ff3458aedb34be9f7
 
 #EXTINF:-1 tvg-logo="https://static.xoilac365xj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Petone FC vs Wellington Phoenix (R) 08:00 ngày 27/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -54,17 +54,17 @@ https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001782517879-0-0
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel23.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilac365xj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Riverside Olympic vs Ulverstone 11:30 ngày 27/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel25.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilac365xj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hills Knights SC vs Metrostars SC 12:30 ngày 27/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel28.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilac365xj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Riverside Olympic vs Ulverstone 11:30 ngày 27/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel25.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilac365xj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Campbelltown SC vs West Adelaide SC 12:30 ngày 27/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
