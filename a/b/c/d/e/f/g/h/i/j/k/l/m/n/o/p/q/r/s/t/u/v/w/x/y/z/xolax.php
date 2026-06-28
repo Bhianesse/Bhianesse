@@ -1,12 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilac365xk.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Jordan vs Argentina 09:00 ngày 28/06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001782610366-0-0-89e5e38aaf63573b3241ea36dd255a90
-
-#EXTINF:-1 tvg-logo="https://static.xoilac365xk.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Jordan vs Argentina 09:00 ngày 28/06
+#EXTINF:-1 tvg-logo="https://static.xoilac365xk.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Algeria vs Áo 09:00 ngày 28/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
@@ -23,6 +17,12 @@ https://live2.pro2cdnlive.com/live/channel12.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel1.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilac365xk.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Jordan vs Argentina 09:00 ngày 28/06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001782610581-0-0-f8e0f9f5505393f0df7ddc1b498dcf72
 
 #EXTINF:-1 tvg-logo="https://static.xoilac365xk.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kingborough Lions vs Devonport City 11:30 ngày 28/06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
