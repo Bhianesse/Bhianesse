@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.egpnews.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bồ Đào Nha vs Croatia 06:00 ngày 03/07
+#EXTINF:-1 tvg-logo="https://static.egpnews.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tây Ban Nha vs Áo 02:00 ngày 03/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSecret=0527706d0b3eb8c2484c11b9ccedd69f&wsABSTime=1782983047
+https://live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSecret=8a7d648ed3b662217776eacca02c449f&wsABSTime=1782983569
 
-#EXTINF:-1 tvg-logo="https://static.egpnews.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bồ Đào Nha vs Croatia 06:00 ngày 03/07
+#EXTINF:-1 tvg-logo="https://static.egpnews.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tây Ban Nha vs Áo 02:00 ngày 03/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
@@ -16,7 +16,7 @@ https://vd.apisportpulse.com/2026/06/23/1782182179595/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel5.m3u8?auth_key=3000001782939847-0-0-2b42bd4e82657d0aeae6b9b13119ccad
+https://live3.procdnlive.com/livecdn/channel5.m3u8?auth_key=3000001782940369-0-0-3fd3935e1d2f99b595266686d3482759
 
 #EXTINF:-1 tvg-logo="https://static.egpnews.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Spokane Velocity vs Forward Madison FC 08:00 ngày 02/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -24,17 +24,17 @@ https://live3.procdnlive.com/livecdn/channel5.m3u8?auth_key=3000001782939847-0-0
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel8.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.egpnews.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp New Mexico United vs Atlante FC 08:25 ngày 02/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel28.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.egpnews.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Omaha vs AV Alta 09:30 ngày 02/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel23.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.egpnews.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp New Mexico United vs Atlante FC 08:25 ngày 02/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel28.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.egpnews.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Estonia U17 vs Lithuania U17 15:00 ngày 02/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -118,31 +118,31 @@ https://live2.pro2cdnlive.com/live/channel10.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel28/playlist.m3u8?wsSecret=3570b4f5849fe7eb2e8240e017b6431b&wsABSTime=1782983106
+https://live1.pro2cdnlive.com/live/channel28/playlist.m3u8?wsSecret=fe2e40f6ae508e29dc060527e3b3bf18&wsABSTime=1782983629
 
 #EXTINF:-1 tvg-logo="https://static.egpnews.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp LVU Rush vs Ocean City Noreasters 07:00 ngày 02/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel17/playlist.m3u8?wsSecret=992d1211926b9b6b2fe1f07bb5fa6d17&wsABSTime=1782983110
+https://live1.pro2cdnlive.com/live/channel17/playlist.m3u8?wsSecret=112c4172938d496826dde5c8bc628214&wsABSTime=1782983634
 
 #EXTINF:-1 tvg-logo="https://static.egpnews.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Sueno FC vs RKC Third Coast 07:00 ngày 02/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel5/playlist.m3u8?wsSecret=a31d4676da19d1b22c37b67d34ed712a&wsABSTime=1782983112
+https://live1.pro2cdnlive.com/live/channel5/playlist.m3u8?wsSecret=08e3e67ac1ae531da1da46b7de547184&wsABSTime=1782983637
 
 #EXTINF:-1 tvg-logo="https://static.egpnews.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp GFI Woodlands vs AHFC Royals 07:00 ngày 02/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel3/playlist.m3u8?wsSecret=434246e4bcea2a7ee2c273945259debe&wsABSTime=1782983115
+https://live1.pro2cdnlive.com/live/channel3/playlist.m3u8?wsSecret=9526bf82a0d7ae2ddf3ac5ea27c4c492&wsABSTime=1782983639
 
 #EXTINF:-1 tvg-logo="https://static.egpnews.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hattiesburg FC vs Louisiana Krewe FC 07:00 ngày 02/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel4/playlist.m3u8?wsSecret=d03dd7b40ffbc08cfd972ff1a50efdf8&wsABSTime=1782983117
+https://live1.pro2cdnlive.com/live/channel4/playlist.m3u8?wsSecret=cf8566f17068cb03bc31c8ba091858fb&wsABSTime=1782983642
 
 #EXTINF:-1 tvg-logo="https://static.egpnews.com/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Anh vs DR Congo ngày 01/07/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
