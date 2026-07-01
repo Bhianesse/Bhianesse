@@ -1,28 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Mexico vs Ecuador 09:00 ngày 01/07
+#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bỉ vs Senegal 03:00 ngày 02/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://vd.apisportpulse.com/2026/06/23/1782182179595/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Mexico vs Ecuador 09:00 ngày 01/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel5/playlist.m3u8?wsSecret=80ec5786e3a7611298960dd65b15462a&wsABSTime=1782918694
+https://live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSecret=5604640dbff8d5671b74938432ac7e91&wsABSTime=1782922739
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bỉ vs Senegal 03:00 ngày 02/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSecret=a7fbc84e2e528263fb81edee176ca4b8&wsABSTime=1782918694
+https://vd.apisportpulse.com/2026/06/23/1782182179595/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp USA vs Bosnia-Herzegovina 07:00 ngày 02/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel6/playlist.m3u8?wsSecret=ac3a4416f87b367ed0030a218c270511&wsABSTime=1782918703
+https://live1.pro2cdnlive.com/live/channel6/playlist.m3u8?wsSecret=e4c323e32490630f725fe99aa19c3377&wsABSTime=1782922739
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Auckland City vs Auckland FC (R) 14:30 ngày 01/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -131,6 +125,12 @@ https://live2.pro2cdnlive.com/live/channel25.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel26.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Guangzhou Xingpai vs Ji nan Quansheng United 15:00 ngày 01/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSecret=ac5b246c71403817ede9aaa66ed1db96&wsABSTime=1782922813
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Pháp vs Thụy Điển ngày 30/06/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
