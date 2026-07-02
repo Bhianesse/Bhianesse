@@ -1,22 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Thụy Sĩ vs Algeria 10:00 ngày 03/07
+#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Argentina vs Cabo Verde 05:00 ngày 04/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://vd.apisportpulse.com/2026/06/23/1782182179595/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Thụy Sĩ vs Algeria 10:00 ngày 03/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel15/playlist.m3u8?wsSecret=d4ab399f17094596d8f2282d8cff730e&wsABSTime=1783069521
-
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Argentina vs Cabo Verde 05:00 ngày 04/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001783026322-0-0-4b8920a084ece815230e688471be4ddc
+https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001783026852-0-0-248ed56d4870f56033580fa2b38b984e
+
+#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Thụy Sĩ vs Algeria 10:00 ngày 03/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.pro2cdnlive.com/live/channel15/playlist.m3u8?wsSecret=7077496b017db14471d899beb79d6860&wsABSTime=1783070052
+
+#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Australia vs Ai Cập 01:00 ngày 04/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001783026853-0-0-d77ad6d9ac75dddd0f414562f28c30aa
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Birmingham Legion vs Detroit City 07:00 ngày 03/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -28,7 +34,7 @@ https://live2.pro2cdnlive.com/live/channel21.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel31/playlist.m3u8?wsSecret=e50c165e1793dbf325f28f93813aad21&wsABSTime=1783069533
+https://live1.pro2cdnlive.com/live/channel31/playlist.m3u8?wsSecret=0ebff1c57ff58dbd19a7cf2727c2d035&wsABSTime=1783070066
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Athletic Club Boise vs Knoxville troops 08:30 ngày 03/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -36,149 +42,149 @@ https://live1.pro2cdnlive.com/live/channel31/playlist.m3u8?wsSecret=e50c165e1793
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel27.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Australia vs Ai Cập 01:00 ngày 04/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001783026321-0-0-73937bc700cb1389f1d5f26d3a2f930c
-
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Fortaleza vs Ponte Preta 07:00 ngày 03/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel6/playlist.m3u8?wsSecret=661595c3a3e619c90196ac936689de4c&wsABSTime=1783069539
+https://live1.pro2cdnlive.com/live/channel6/playlist.m3u8?wsSecret=655605d2c67323b6b7f488df7b1fdf1b&wsABSTime=1783070067
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Flatirons Rush vs Colorado Storm 07:00 ngày 03/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel38/playlist.m3u8?wsSecret=fe2f66dc854ce69d24b99d5761131a13&wsABSTime=1783069545
-
-#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Vargas Torres vs Indep. Juniors 07:00 ngày 03/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel32/playlist.m3u8?wsSecret=2ac7f86c5ee00c0e5ac85d67faa56607&wsABSTime=1783069546
-
-#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Red River vs Little Rock Rangers 07:00 ngày 03/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel9/playlist.m3u8?wsSecret=e89516334354e4dbc2a8e645b3995c14&wsABSTime=1783069554
+https://live1.pro2cdnlive.com/live/channel38/playlist.m3u8?wsSecret=9c6134979950b82bbc0f59ecc497f64b&wsABSTime=1783070073
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Austin Rise vs Nữ FW Vaqueras 07:00 ngày 03/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel39/playlist.m3u8?wsSecret=eca4b29a104fd448a702f65f2e8ce6ac&wsABSTime=1783069544
+https://live1.pro2cdnlive.com/live/channel39/playlist.m3u8?wsSecret=9ed76281088eaad0531645b448da3a37&wsABSTime=1783070077
 
-#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Peoria City vs St. Louis Ambush 07:30 ngày 03/07
+#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Vargas Torres vs Indep. Juniors 07:00 ngày 03/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel12/playlist.m3u8?wsSecret=5e27d2697d99b88c849e3985db1ecd3c&wsABSTime=1783069563
+https://live1.pro2cdnlive.com/live/channel32/playlist.m3u8?wsSecret=77ce60ee7ca140673b10979642cf7169&wsABSTime=1783070079
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Motown B vs Morris Elite 07:00 ngày 03/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel10/playlist.m3u8?wsSecret=bdc0c20d7ff0df26a79f67f1f2250992&wsABSTime=1783069550
+https://live1.pro2cdnlive.com/live/channel10/playlist.m3u8?wsSecret=778790f0746a3267273bc3fcd507e118&wsABSTime=1783070079
 
-#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Shijiazhuang Gongfu U20 vs Lanzhou Longyuan U21 08:30 ngày 03/07
+#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Red River vs Little Rock Rangers 07:00 ngày 03/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel14/playlist.m3u8?wsSecret=ad9eb3f6bd56b0d8ece48653cd77addc&wsABSTime=1783069568
+https://live1.pro2cdnlive.com/live/channel9/playlist.m3u8?wsSecret=42765746b76b5117399ae04f62170561&wsABSTime=1783070084
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Lonestar SC vs Laredo Heat 07:00 ngày 03/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel8/playlist.m3u8?wsSecret=4753b974d77665be483a464bd89618fc&wsABSTime=1783069557
+https://live1.pro2cdnlive.com/live/channel8/playlist.m3u8?wsSecret=f8f0e96ac07549d5367d1ecab68742e4&wsABSTime=1783070088
+
+#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Peoria City vs St. Louis Ambush 07:30 ngày 03/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.pro2cdnlive.com/live/channel12/playlist.m3u8?wsSecret=74d0932f413d5502772130d23bc157e7&wsABSTime=1783070090
+
+#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Shijiazhuang Gongfu U20 vs Lanzhou Longyuan U21 08:30 ngày 03/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.pro2cdnlive.com/live/channel14/playlist.m3u8?wsSecret=98b503e68134ec3117eed01906a0320e&wsABSTime=1783070092
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Redlands FC vs Capo FC 09:00 ngày 03/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel30/playlist.m3u8?wsSecret=ba3ddc781bb974ef4224bac4e18604d5&wsABSTime=1783069572
+https://live1.pro2cdnlive.com/live/channel30/playlist.m3u8?wsSecret=3a42001edc175617ff54c78ace7f3282&wsABSTime=1783070095
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp SHB Đà Nẵng U21 vs HAGL U21 13:30 ngày 03/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel27/playlist.m3u8?wsSecret=a569baa51213a0be64281fe72eab0971&wsABSTime=1783069573
-
-#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Central Stallions vs Deren FC 15:00 ngày 03/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSecret=8bdaca4ca0b0a813b173c00c26b2ea9b&wsABSTime=1783069582
-
-#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ji nan Quansheng United vs Guangzhou Xingpai 15:00 ngày 03/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel2/playlist.m3u8?wsSecret=443ac327a5aa49f0de11f429685c7de3&wsABSTime=1783069583
+https://live1.pro2cdnlive.com/live/channel27/playlist.m3u8?wsSecret=49d12910011f016c000b5f4905890711&wsABSTime=1783070099
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tây Ninh U21 vs Cần Thơ U21 14:30 ngày 03/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel28/playlist.m3u8?wsSecret=bdd72a86af86f21309fccb745b8a8204&wsABSTime=1783069577
-
-#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hà Nội Bulls U21 vs Hà Nội U21 15:30 ngày 03/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel31/playlist.m3u8?wsSecret=58e1f58aa8afc918121844ca7032c05f&wsABSTime=1783069591
+https://live1.pro2cdnlive.com/live/channel28/playlist.m3u8?wsSecret=a8809b4b43ab0db6e14680924ee7622a&wsABSTime=1783070101
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp An Giang U21 vs Đồng Nai U21 14:30 ngày 03/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel29/playlist.m3u8?wsSecret=251668ddb98fa59d08dcbabddbbeaf44&wsABSTime=1783069580
+https://live1.pro2cdnlive.com/live/channel29/playlist.m3u8?wsSecret=16482ff41d9d86fb3dc4caa0fdabdb04&wsABSTime=1783070103
 
-#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Qingdao Red Lions U20 vs Wenzhou Yincai U20 15:30 ngày 03/07
+#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Central Stallions vs Deren FC 15:00 ngày 03/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel8/playlist.m3u8?wsSecret=894b635545686ba9ef0d1541b78c3475&wsABSTime=1783069599
+https://live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSecret=1fbd6817aa520525906e5b17cfd4078b&wsABSTime=1783070106
 
-#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nantong Zhiyun U20 vs Qingdao West Coast U20 15:30 ngày 03/07
+#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ji nan Quansheng United vs Guangzhou Xingpai 15:00 ngày 03/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel6/playlist.m3u8?wsSecret=9ae571e50823ed1bec037e20742eeb64&wsABSTime=1783069603
+https://live1.pro2cdnlive.com/live/channel2/playlist.m3u8?wsSecret=5d9fad0b2b89da6a62085c9efbb7a872&wsABSTime=1783070109
+
+#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hà Nội Bulls U21 vs Hà Nội U21 15:30 ngày 03/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.pro2cdnlive.com/live/channel31/playlist.m3u8?wsSecret=f14d82a2222abe600b4bd53040d79c67&wsABSTime=1783070111
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp PVF Việt Nam U21 vs Viettel FC U21 15:30 ngày 03/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel30/playlist.m3u8?wsSecret=2e718fb95ef7b2f9d0f42f5ad0dc9a18&wsABSTime=1783069595
+https://live1.pro2cdnlive.com/live/channel30/playlist.m3u8?wsSecret=61cdc86b13c7e93a352b20cc943460e3&wsABSTime=1783070114
 
-#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Jiangxi Lushan U20 vs Linyi Yihu U20 15:30 ngày 03/07
+#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Qingdao Red Lions U20 vs Wenzhou Yincai U20 15:30 ngày 03/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel4/playlist.m3u8?wsSecret=a005c54c3e69fd630c4432174fc780d2&wsABSTime=1783069609
+https://live1.pro2cdnlive.com/live/channel8/playlist.m3u8?wsSecret=2773bd3b143f0b171fa627f0844ff21e&wsABSTime=1783070117
 
-#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bawang Village vs Shodon Village 15:30 ngày 03/07
+#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nantong Zhiyun U20 vs Qingdao West Coast U20 15:30 ngày 03/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel3/playlist.m3u8?wsSecret=1b24c28394e04b0b6dedc3767a091873&wsABSTime=1783069612
+https://live1.pro2cdnlive.com/live/channel6/playlist.m3u8?wsSecret=246936e7c6a248934eded450c0ae4a8d&wsABSTime=1783070120
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Wuhan Towns U21 vs Yunnan Yukun U20 15:30 ngày 03/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel7/playlist.m3u8?wsSecret=a8dfcc2a9cead625b793fd4a561ff3af&wsABSTime=1783069603
+https://live1.pro2cdnlive.com/live/channel7/playlist.m3u8?wsSecret=4b31d588d90e0fbdea147eeeacbfab1f&wsABSTime=1783070122
+
+#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Jiangxi Lushan U20 vs Linyi Yihu U20 15:30 ngày 03/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.pro2cdnlive.com/live/channel4/playlist.m3u8?wsSecret=d6092fd2f66d55b95ffdb1479ae8db92&wsABSTime=1783070125
+
+#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bawang Village vs Shodon Village 15:30 ngày 03/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.pro2cdnlive.com/live/channel3/playlist.m3u8?wsSecret=d10da8d867143c015e79eab11b2f73b3&wsABSTime=1783070128
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Liaoning Tieren U20 vs Qingdao Hainiu U20 15:30 ngày 03/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel5/playlist.m3u8?wsSecret=7fd0df096b28a4834ca8b6a0c7404d19&wsABSTime=1783069617
+https://live1.pro2cdnlive.com/live/channel5/playlist.m3u8?wsSecret=a281ddd6a266e0d46bdf42c152f7f08b&wsABSTime=1783070130
+
+#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Adelaide University vs Nữ West Adelaide 15:45 ngày 03/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.pro2cdnlive.com/live/channel32/playlist.m3u8?wsSecret=5ac58bb421bf43a5980ce95bc00e54b1&wsABSTime=1783070133
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận USA vs Bosnia-Herzegovina ngày 02/07/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -197,12 +203,6 @@ https://highlight.thuckhuya1.net/2026/07/01/1782947999824/index.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://highlight.thuckhuya1.net/2026/07/01/1782930749037/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Adelaide University vs Nữ West Adelaide 15:45 ngày 03/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel32/playlist.m3u8?wsSecret=038797bf20060703b32b01a726c75cc7&wsABSTime=1783069619
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Mexico vs Ecuador ngày 01/07/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
