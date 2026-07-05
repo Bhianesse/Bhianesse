@@ -1,28 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp New Mexico United vs Oakland Roots 08:30 ngày 05/07
+#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Mexico vs Anh 07:00 ngày 06/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://vd.apisportpulse.com/2026/06/23/1782182179595/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp New Mexico United vs Oakland Roots 08:30 ngày 05/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel20.m3u8
+https://live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSecret=6595379bd92d6894e46e2a82882001a9&wsABSTime=1783259581
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Mexico vs Anh 07:00 ngày 06/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSecret=cdd9b6e9acc58df2ba0d6c248800e95e&wsABSTime=1783257913
-
-#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Brazil vs Na Uy 03:00 ngày 06/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSecret=d06ffd6724315d34dcc878fdeea43519&wsABSTime=1783257914
+https://vd.apisportpulse.com/2026/06/23/1782182179595/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Las Vegas Lights vs El Locomotive 09:30 ngày 05/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -35,6 +23,12 @@ https://live2.pro2cdnlive.com/live/channel14.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel27.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp South Melbourne vs Dandenong Thunder 12:30 ngày 05/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel20.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Blacktown City vs Sydney United 58 FC 12:00 ngày 05/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -66,17 +60,17 @@ https://live2.pro2cdnlive.com/live/channel17.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel28.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Gyeongju KHNP vs Seosan Pioneer FC 17:00 ngày 05/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel21.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Busan Trans FC vs Gijang United 17:00 ngày 05/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel8.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Gyeongju KHNP vs Seosan Pioneer FC 17:00 ngày 05/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel21.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Seoul FC vs Incheon United 17:30 ngày 05/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
