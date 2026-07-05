@@ -4,7 +4,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001783241891-0-0-bb7dc68f9c2dc853b10bdad7a462b5f8
+https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001783242996-0-0-dd93dc17a80bea758e959076e34ebe49
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Brazil vs Na Uy 03:00 ngày 06/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -12,29 +12,11 @@ https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001783241891-0-0
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://vd.apisportpulse.com/2026/06/23/1782182179595/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Namyangju Citizen vs Seoul Jungnang FC 16:00 ngày 05/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel28.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Hà Nội vs Nữ PP Hà Nam 16:00 ngày 05/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel10.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Gyeongju KHNP vs Seosan Pioneer FC 17:00 ngày 05/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel21.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Busan Trans FC vs Gijang United 17:00 ngày 05/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel8.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Than KSVN vs Nữ Hồ Chí Minh 17:00 ngày 05/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -42,29 +24,17 @@ https://live2.pro2cdnlive.com/live/channel8.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel27.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxtc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Busan Trans FC vs Gijang United 17:00 ngày 05/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel8.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxtc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Gyeongnam FC vs Cheonan City 17:30 ngày 05/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel22.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Gimpo FC vs Chungnam Asan 17:30 ngày 05/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel16.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Gimcheon Sangmu vs Jeju SK FC 17:30 ngày 05/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel11.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Gwangju FC vs Ulsan Hyundai 17:30 ngày 05/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Gimhae City vs Seoul E-Land FC 17:30 ngày 05/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -78,11 +48,11 @@ https://live2.pro2cdnlive.com/live/channel19.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel12.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Guangxi Hengchen vs Dalian Kun City 18:30 ngày 05/07
+#EXTINF:-1 tvg-logo="https://static.xoilacxtc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Gimcheon Sangmu vs Jeju SK FC 17:30 ngày 05/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel9.m3u8
+https://live2.pro2cdnlive.com/live/channel11.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Seoul FC vs Incheon United 17:30 ngày 05/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -90,17 +60,23 @@ https://live2.pro2cdnlive.com/live/channel9.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel5.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxtc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Gimpo FC vs Chungnam Asan 17:30 ngày 05/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel16.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxtc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Qingdao Manatee vs Chengdu Rongcheng 18:00 ngày 05/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel15.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Shanghai Shenhua vs Zhejiang Greentown 18:35 ngày 05/07
+#EXTINF:-1 tvg-logo="https://static.xoilacxtc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Gwangju FC vs Ulsan Hyundai 17:30 ngày 05/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel6.m3u8
+https://live2.pro2cdnlive.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Union SG vs FCSB 18:00 ngày 05/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -108,11 +84,11 @@ https://live2.pro2cdnlive.com/live/channel6.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel7.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kalmar vs Orgryte 19:00 ngày 05/07
+#EXTINF:-1 tvg-logo="https://static.xoilacxtc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Guangxi Hengchen vs Dalian Kun City 18:30 ngày 05/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel18.m3u8
+https://live2.pro2cdnlive.com/live/channel9.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp IFK Goteborg vs AIK Solna 19:00 ngày 05/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -126,11 +102,23 @@ https://live2.pro2cdnlive.com/live/channel20.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel4.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxtc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Shanghai Shenhua vs Zhejiang Greentown 18:35 ngày 05/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel6.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxtc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Rapid Wien vs Pardubice 20:00 ngày 05/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel23.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kalmar vs Orgryte 19:00 ngày 05/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel18.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FK Aktobe Lento vs Zhetysu Taldykorgan 21:00 ngày 05/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -138,11 +126,23 @@ https://live2.pro2cdnlive.com/live/channel23.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel17.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxtc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FK Atyrau vs FK Kaspyi Aktau 21:00 ngày 05/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel28.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxtc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Elfsborg vs Hammarby 21:30 ngày 05/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel14.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ordabasy vs Ulytau Zhezkazgan 22:00 ngày 05/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel10.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Paraguay vs Pháp ngày 04/07/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
