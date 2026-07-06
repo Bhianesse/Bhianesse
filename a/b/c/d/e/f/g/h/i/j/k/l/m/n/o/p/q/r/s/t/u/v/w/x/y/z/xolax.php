@@ -4,25 +4,19 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSecret=c814436e7fee02f4237a53d6b38f2676&wsABSTime=1783405844
+https://vd.apisportpulse.com/2026/06/23/1782182179595/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Argentina vs Ai Cập 23:00 ngày 07/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://vd.apisportpulse.com/2026/06/23/1782182179595/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Thụy Sĩ vs Colombia 03:00 ngày 08/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSecret=d4f8f1a83970a16f73ca7d656282fdf3&wsABSTime=1783405845
+https://live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSecret=3808e534da1b3c2c0e1dbae63dfb1260&wsABSTime=1783409859
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp USA vs Bỉ 07:00 ngày 07/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001783362645-0-0-46446809c5a9a963aa929860d5e6586e
+https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001783366659-0-0-0c69dae49ed6b106474db76208311c27
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Orense SC vs Tecnico Uni. 07:00 ngày 07/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -36,17 +30,17 @@ https://live2.pro2cdnlive.com/live/channel21.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel7.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Dynamo Makhachkala vs Gimnasia La Plata 14:00 ngày 07/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel22.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Guangzhou Xingpai vs Guangdong Wuchuan 16:00 ngày 07/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel4.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Dynamo Makhachkala vs Gimnasia La Plata 14:00 ngày 07/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel22.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp MFK Karvina vs Michalovce 16:00 ngày 07/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -58,19 +52,19 @@ https://live2.pro2cdnlive.com/live/channel13.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel19/playlist.m3u8?wsSecret=ff3af770585898d2bc76412c1f8ba869&wsABSTime=1783405874
-
-#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp North Sunshine Eagles vs Preston Lions 16:45 ngày 07/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel11.m3u8
+https://live1.pro2cdnlive.com/live/channel19/playlist.m3u8?wsSecret=94a66c3ff293bd632d9d317618f46a01&wsABSTime=1783409885
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Charleston City Blues vs Weston Workers FC 17:00 ngày 07/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel10.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp North Sunshine Eagles vs Preston Lions 16:45 ngày 07/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel11.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Liaoning Shengjing Xinrui vs Shanghai Zetian 18:00 ngày 07/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -90,17 +84,17 @@ https://live2.pro2cdnlive.com/live/channel28.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel17.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Lincoln Red Imps FC vs Inter Club Escaldes 23:00 ngày 07/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel20.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ararat Armenia vs Riga FC 23:00 ngày 07/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel14.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Lincoln Red Imps FC vs Inter Club Escaldes 23:00 ngày 07/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel20.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp KS Elbasani vs BATE Borisov 01:00 ngày 08/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
