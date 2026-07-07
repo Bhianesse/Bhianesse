@@ -1,12 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Thụy Sĩ vs Colombia 03:00 ngày 08/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSecret=837bb7bf46b2d863c13c281bbddcab59&wsABSTime=1783426720
-
-#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Thụy Sĩ vs Colombia 03:00 ngày 08/07
+#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp USA vs Bỉ 07:00 ngày 07/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
@@ -16,13 +10,13 @@ https://vd.apisportpulse.com/2026/06/23/1782182179595/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001783383520-0-0-b6307aaa609ca1306bc8fb2563929900
+https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001783384893-0-0-71dc4767abe39d1d27afce8350f67234
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Argentina vs Ai Cập 23:00 ngày 07/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSecret=83dcdb98f1b1352e3d12b533134ece1a&wsABSTime=1783426721
+https://live1.pro2cdnlive.com/live/channel1/playlist.m3u8?wsSecret=fb679be71b1a3a7ce6f80eebeb30a6d2&wsABSTime=1783428093
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Stars FC vs FC Tucson 09:30 ngày 07/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -58,7 +52,7 @@ https://live2.pro2cdnlive.com/live/channel12.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.pro2cdnlive.com/live/channel19/playlist.m3u8?wsSecret=4b43b03ff273a3fc6d9fa40e1f40c2c8&wsABSTime=1783426753
+https://live1.pro2cdnlive.com/live/channel19/playlist.m3u8?wsSecret=5ffa650b41a5b169c39a8bc5271f939a&wsABSTime=1783428120
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp North Sunshine Eagles vs Preston Lions 16:45 ngày 07/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -78,17 +72,17 @@ https://live2.pro2cdnlive.com/live/channel10.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel18.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Tây Ban Nha U19 vs Nữ Thụy Điển U19 21:00 ngày 07/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel17.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp VVV Venlo vs Bochum II 21:00 ngày 07/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel28.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Tây Ban Nha U19 vs Nữ Thụy Điển U19 21:00 ngày 07/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel17.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.majinbuofficial.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ararat Armenia vs Riga FC 23:00 ngày 07/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
