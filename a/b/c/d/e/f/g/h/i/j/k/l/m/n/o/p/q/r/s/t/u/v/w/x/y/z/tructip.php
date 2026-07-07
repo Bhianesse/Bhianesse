@@ -40,5 +40,5 @@ https://live.kinxie.com/live/9gklzi1dvzobm7x_b695b3c1bf5da50a59f9ba16bd004a72_au
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tructiep-hd.club/
 #EXTVLCOPT:http-origin=https://tructiep-hd.club
-https://live888.16m50.tv/6AtjEQnCm0lUgLSe-sIF6w/1783431219/live/channel03/index.m3u8
+https://live888.16m50.tv/sIGyvm1GD0MBw2j8pDgdvQ/1783431453/live/channel03/index.m3u8
 
