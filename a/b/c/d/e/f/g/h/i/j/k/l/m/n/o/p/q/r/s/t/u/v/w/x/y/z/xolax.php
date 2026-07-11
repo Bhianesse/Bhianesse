@@ -10,19 +10,13 @@ https://vd.apisportpulse.com/2026/06/23/1782182179595/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001783757123-0-0-07af82fdc6b8fd520e650cec412752a7
+https://live3.procdnlive.com/livecdn/channel1.m3u8?auth_key=3000001783758213-0-0-897de43faba72d50a9a1998a56093357
 
 #EXTINF:-1 tvg-logo="https://static.tariqramadan.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Lyon vs St. Gallen 15:30 ngày 11/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel22.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.tariqramadan.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Cooma Tigers vs Queanbeyan City 15:00 ngày 11/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel7.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.tariqramadan.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Anderlecht vs NEC Nijmegen 15:45 ngày 11/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -54,17 +48,23 @@ https://live2.pro2cdnlive.com/live/channel10.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel28.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.tariqramadan.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ansan Greeners vs Suwon Samsung 17:30 ngày 11/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel14.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.tariqramadan.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Daegu FC vs Seongnam FC 17:30 ngày 11/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel16.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.tariqramadan.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ansan Greeners vs Suwon Samsung 17:30 ngày 11/07
+#EXTINF:-1 tvg-logo="https://static.tariqramadan.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Yongin FC vs Cheongju FC 17:30 ngày 11/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel14.m3u8
+https://live2.pro2cdnlive.com/live/channel7.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.tariqramadan.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hwaseong FC vs Paju Frontier FC 17:30 ngày 11/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -84,17 +84,17 @@ https://live2.pro2cdnlive.com/live/channel12.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel6.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.tariqramadan.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Gwangju FC vs Pohang Steelers 17:30 ngày 11/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel15.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.tariqramadan.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Shaanxi Union vs Meizhou Hakka 18:00 ngày 11/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel20.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.tariqramadan.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Gwangju FC vs Pohang Steelers 17:30 ngày 11/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel15.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.tariqramadan.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Leicester City vs Northampton Town 18:00 ngày 11/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -102,17 +102,17 @@ https://live2.pro2cdnlive.com/live/channel20.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel4.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.tariqramadan.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Parnu JK Vaprus vs Tartu Tammeka 18:30 ngày 11/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.pro2cdnlive.com/live/channel9.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.tariqramadan.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Shenzhen Peng City vs Qingdao Island 18:35 ngày 11/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.pro2cdnlive.com/live/channel11.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.tariqramadan.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Parnu JK Vaprus vs Tartu Tammeka 18:30 ngày 11/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.pro2cdnlive.com/live/channel9.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.tariqramadan.com/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Fredrikstad vs Lillestrom 19:00 ngày 11/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
