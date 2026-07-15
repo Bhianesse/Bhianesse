@@ -1,7 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="MY PACAR LIVE",🐇ayok donasi server playlist IPTV agar server tetap aktif🐇
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260715/711bd684-abad-48d1-a261-da875005241c-260715152628.jpg" group-title="MY PACAR LIVE",🐇[LIVE 15m | Angeline Natasya | 👁 86] grwm🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.br195GHtPIiz.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260715/8ded4a68-d089-4469-8937-a58b5939e199-260715151341.jpg" group-title="MY PACAR LIVE",🐇[LIVE 28m | Nayya Indomodel | 👁 111] halloww🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.zCbeC1gAwqD0.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260715/61d965a9-58cc-4d79-8104-0a326b91f731-260715164604.jpg" group-title="MY PACAR LIVE",🐇[LIVE 40s | Sona JKT48 | 👁 114] 2 artis asli korea mw live bareng wow 🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.wb9FCylf9CC6.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260715/22ea8526-30a9-4f95-a750-b84673647054-260715163745.jpg" group-title="MY PACAR LIVE",🐇[LIVE 8m | Rara JKT48 | 👁 705] Ada sona carissa 🫰🏻🫰🏻🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.MzJvAVsJnOdF.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260715/860ed330-d0bf-4af9-bc33-575e876abcc3-260715163006.jpg" group-title="MY PACAR LIVE",🐇[LIVE 16m | Carissa JKT48 | 👁 2077] Ada SONA RARA 🥺🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.dUnDQVccbExB.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260715/f7fb146f-2cb7-4dbe-8407-1ad4e635b77b-260715160629.jpg" group-title="MY PACAR LIVE",🐇[LIVE 40m | Ame | Karafuru Idol group | 👁 1021] kaliann Kamngen Aku Ndakk?🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.BQ0HT6EqlZyF.m3u8
