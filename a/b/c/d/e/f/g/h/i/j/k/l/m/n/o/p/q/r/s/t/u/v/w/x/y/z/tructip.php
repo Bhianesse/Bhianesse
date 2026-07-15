@@ -1,20 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [13:00 15/07] TRỰC TIẾP
+#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [17:00 15/07] TRỰC TIẾP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tructiep-hd.club/
 #EXTVLCOPT:http-origin=https://tructiep-hd.club
-https://live.kinxie.com/live/vmqy9iv3jelhgk9_a111d853224c62a4db66e7e8a14a0a0b_autoChange.m3u8?auth_key=1784114992-0-0-02f9fdf6d284d90345d8fc12a7b46299
+https://live.kinxie.com/live/72597154_69c3c3da6f4cef95df629e1ef173fc06_autoChange.m3u8?auth_key=1784125798-0-0-b0fe0a21bed98512e9cfa1565da7110a
 
-#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [14:30 15/07] TRỰC TIẾP
+#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [17:00 15/07] TRỰC TIẾP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tructiep-hd.club/
 #EXTVLCOPT:http-origin=https://tructiep-hd.club
-https://live.kinxie.com/live/o07dni59pe1hmkn_8fc44cd4d9b3d758b2cc4dc5503b7866_autoChange.m3u8?auth_key=1784114993-0-0-614a7cc7a4903a64178727af7bd3ef7c
-
-#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [16:30 15/07] TRỰC TIẾP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://tructiep-hd.club/
-#EXTVLCOPT:http-origin=https://tructiep-hd.club
-https://live3.egmdispatch.com/live/67692686_4bcbb0de24384860f3378ca846742ec8_autoChange.m3u8?auth_key=1782637350-0-0-424c9c517a61baecbd1103dd05bbf287
+https://live.kinxie.com/live/72576488_1a22a03abd361317b360e8e69a1b893c_autoChange.m3u8?auth_key=1784125799-0-0-620eb51cfccefba6bc16ebfa9d4c38eb
 
