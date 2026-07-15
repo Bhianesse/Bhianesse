@@ -1,13 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="MY PACAR LIVE",🐇ayok donasi server playlist IPTV agar server tetap aktif🐇
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260715/0b6b1a63-a0d6-4f4b-be5a-563a63fe279e-260715174051.jpg" group-title="MY PACAR LIVE",🐇[LIVE 11m | Greesel JKT48 | 👁 2419] Ayo ngobrol bareng!🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.z3nXSqOvE9Fs.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260715/61d965a9-58cc-4d79-8104-0a326b91f731-260715172719.jpg" group-title="MY PACAR LIVE",🐇[LIVE 24m | Sona JKT48 | 👁 1948] 2 artis asli korea mw live bareng wow 🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.wb9FCylf9CC6.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260715/22ea8526-30a9-4f95-a750-b84673647054-260715163745.jpg" group-title="MY PACAR LIVE",🐇[LIVE 1h | Rara JKT48 | 👁 5515] Ada sona carissa 🫰🏻🫰🏻🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.MzJvAVsJnOdF.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260715/860ed330-d0bf-4af9-bc33-575e876abcc3-260715163006.jpg" group-title="MY PACAR LIVE",🐇[LIVE 1h | Carissa JKT48 | 👁 11042] Ada SONA RARA 🥺🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.dUnDQVccbExB.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260715/f7fb146f-2cb7-4dbe-8407-1ad4e635b77b-260715160629.jpg" group-title="MY PACAR LIVE",🐇[LIVE 1h | Ame | Karafuru Idol group | 👁 3688] kaliann Kamngen Aku Ndakk?🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.BQ0HT6EqlZyF.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260715/ff4742e7-0003-47c2-bce6-a0430000150e-260715183021.jpg" group-title="MY PACAR LIVE",🐇[LIVE 26m | Safa Polly | 👁 212] bernyanyii🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.JvVQcM99O8Ya.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260715/2b52b6d2-f017-45cb-9251-465d951419a9-260715182458.jpg" group-title="MY PACAR LIVE",🐇[LIVE 31m | Cila | Karafuru Idol Group | 👁 585] Hiiiiii🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.1almm84bFIEI.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260715/cbc0bbe1-d6ea-4646-bfcf-24b3a642fa21-260715181622.jpg" group-title="MY PACAR LIVE",🐇[LIVE 40m | Intan JKT48 | 👁 8420] ayo liveee🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260715/e9170998-f026-4186-bbc5-a17a3b5b2af1-260715181622.jpg" group-title="MY PACAR LIVE",🐇[LIVE 40m | Rilly JKT48 | 👁 5049] Ngobs asoy🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pehOrZyTt2j4.m3u8
