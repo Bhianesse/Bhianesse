@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="MY PACAR LIVE",🐇ayok donasi server playlist IPTV agar server tetap aktif🐇
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260720/e27569d2-0d2a-4cd8-a0a6-ca2da28e0a62-260720063620.jpg" group-title="MY PACAR LIVE",🐇[LIVE 1m | Marsha JKT48 | 👁 357] Ayo ngobrol bareng!🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.sSKNwImoM3zD.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260720/82ffac10-ee56-43d0-ad38-ce432384cfe5-260720063218.jpg" group-title="MY PACAR LIVE",🐇[LIVE 5m | Gita JKT48 | 👁 911] Hii🐇
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260720/82ffac10-ee56-43d0-ad38-ce432384cfe5-260720063218.jpg" group-title="MY PACAR LIVE",🐇[LIVE 27m | Gita JKT48 | 👁 3748] Hii🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.k4fAFOYXENlG.m3u8
