@@ -1,5 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="MY PACAR LIVE",🐇ayok donasi server playlist IPTV agar server tetap aktif🐇
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260722/5adbe0b0-5035-433c-b94a-a6d4fa582b53-260722140129.jpg" group-title="MY PACAR LIVE",🐇[LIVE 14m | Elly Akemi ID | 👁 29] Ngobrols🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.q6w2n0gxE2Ir.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260722/d6626ed3-c1b6-4561-a5b9-60e574b4cac8-260722150459.jpg" group-title="MY PACAR LIVE",🐇[LIVE 7m | NEZZU - | 👁 44] temenin makan🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.qsgZjJda9cbv.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260722/2b508cc0-96fb-43f1-95a0-3fb4ac9386ce-260722145649.jpg" group-title="MY PACAR LIVE",🐇[LIVE 16m | Iqlima Indomodel | 👁 114] Ngobrol Ngobrol Ajee🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.PkS2D4N7cxlO.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260722/e243be19-74b7-435b-8e19-13fc669e0224-260722145318.jpg" group-title="MY PACAR LIVE",🐇[LIVE 19m | Nayla JKT48 | 👁 1037] Ayo ngobrol bareng!🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.s29ur0XkIpE2.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260722/b11b0692-d0b8-464c-849a-9e81439a048c-260722145245.jpg" group-title="MY PACAR LIVE",🐇[LIVE 20m | Daisy JKT48 | 👁 773] Haiii🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.tk9WxdsYj8NE.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260722/33139b05-1c43-4b48-bba3-ec960b18b36e-260722143805.jpg" group-title="MY PACAR LIVE",🐇[LIVE 34m | Danella JKT48 | 👁 1236] Hi🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.1TQqlwWPwce5.m3u8
