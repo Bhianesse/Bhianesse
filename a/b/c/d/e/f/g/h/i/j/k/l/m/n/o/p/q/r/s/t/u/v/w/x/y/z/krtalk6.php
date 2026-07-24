@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="BKP MKV LIVE",🐇ayok donasi server playlist IPTV agar server tetap aktif🐇
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2U5YTliZDktZWFhZS00ZDI3LTk5MWMtMDFlMjA3MDI2MGMwXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg" group-title="BKP MKV LIVE",[LIVE] Animal Farm (30 Apr 2026) [1080p]
+https://dl2.zonam.eu.org/20:/Copy%20of%20Salinan%20Animal.Farm.2025.480p.WEB-DL.x264.400MB.zip
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2U5YTliZDktZWFhZS00ZDI3LTk5MWMtMDFlMjA3MDI2MGMwXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg" group-title="BKP MKV LIVE",[LIVE] Animal Farm (30 Apr 2026) [720p]
+https://dl2.zonam.eu.org/20:/Copy%20of%20Salinan%20Animal.Farm.2025.480p.WEB-DL.x264.400MB.zip
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2U5YTliZDktZWFhZS00ZDI3LTk5MWMtMDFlMjA3MDI2MGMwXkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg" group-title="BKP MKV LIVE",[LIVE] Animal Farm (30 Apr 2026) [480p]
+https://dl2.zonam.eu.org/20:/Copy%20of%20Salinan%20Animal.Farm.2025.480p.WEB-DL.x264.400MB.zip
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg3NzY0N2ItZGFlMy00NzAzLTk2NjItMDk2YTU3ZWU0MDA1XkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg" group-title="BKP MKV LIVE",[LIVE] No Other Choice (24 Sep 2025) [1080p]
 https://dl2.zonam.eu.org/20:/Copy%20of%20No.Other.Choice.2025.480p.BluRay.zip
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg3NzY0N2ItZGFlMy00NzAzLTk2NjItMDk2YTU3ZWU0MDA1XkEyXkFqcGc@._V1_QL75_UY562_CR7,0,380,562_.jpg" group-title="BKP MKV LIVE",[LIVE] No Other Choice (24 Sep 2025) [720p]
@@ -37,60 +43,54 @@ https://dl2.zonam.eu.org/21:/Salinan%20Salinan%20Wasiat.Warisan.2025.480p.NF.WEB
 https://dl2.zonam.eu.org/21:/Salinan%20Salinan%20Wasiat.Warisan.2025.480p.NF.WEB-DL.x264.450MB-Pahe.in.zip
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTRlM2U4NWUtNmJjMi00ZmM5LWEyYzktNzBhNDhkNzA2ODNmXkEyXkFqcGc@._V1_SX300.jpg" group-title="BKP MKV LIVE",[LIVE] Wasiat Warisan (04 Dec 2025) [480p]
 https://dl2.zonam.eu.org/21:/Salinan%20Salinan%20Wasiat.Warisan.2025.480p.NF.WEB-DL.x264.450MB-Pahe.in.zip
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185//gFngyELRl5T8k4I37cE1rqiUMgr.jpg" group-title="BKP MKV LIVE",[LIVE] Pamali: The Little Devil (07 Aug 2025) [1080p]
-https://dl2.zonam.eu.org/20:/Copy%20of%20Salinan%20Pamali.The.Little.Devil.2025.480p.NF.WEB-DL.zip
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185//gFngyELRl5T8k4I37cE1rqiUMgr.jpg" group-title="BKP MKV LIVE",[LIVE] Pamali: The Little Devil (07 Aug 2025) [720p]
-https://dl2.zonam.eu.org/20:/Copy%20of%20Salinan%20Pamali.The.Little.Devil.2025.480p.NF.WEB-DL.zip
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185//gFngyELRl5T8k4I37cE1rqiUMgr.jpg" group-title="BKP MKV LIVE",[LIVE] Pamali: The Little Devil (07 Aug 2025) [480p]
-https://dl2.zonam.eu.org/20:/Copy%20of%20Salinan%20Pamali.The.Little.Devil.2025.480p.NF.WEB-DL.zip
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYxY2I1OGMtN2Y4MS00ZmU1LTgyNDAtODA0MzAyYjI0N2Y2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg" group-title="BKP MKV LIVE",[LIVE] Avatar: Fire and Ash (17 Dec 2025) [1080p]
 https://dl2.zonam.eu.org/19:/Copy%20of%20Salinan%20Avatar.Fire.and.Ash.2025.480p.BluRay.zip
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYxY2I1OGMtN2Y4MS00ZmU1LTgyNDAtODA0MzAyYjI0N2Y2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg" group-title="BKP MKV LIVE",[LIVE] Avatar: Fire and Ash (17 Dec 2025) [720p]
 https://dl2.zonam.eu.org/19:/Copy%20of%20Salinan%20Avatar.Fire.and.Ash.2025.480p.BluRay.zip
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYxY2I1OGMtN2Y4MS00ZmU1LTgyNDAtODA0MzAyYjI0N2Y2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg" group-title="BKP MKV LIVE",[LIVE] Avatar: Fire and Ash (17 Dec 2025) [480p]
 https://dl2.zonam.eu.org/19:/Copy%20of%20Salinan%20Avatar.Fire.and.Ash.2025.480p.BluRay.zip
-#EXTINF:-1 tvg-logo="https://sub.yahyalovee55646.workers.dev/0:/images/1/12837.jpg" group-title="BKP MKV LIVE",[LIVE] Let Us Go (01 Mar 2024) [1080p]
-https://duitbv.markushaeit.workers.dev/9:/Salinan%20Freeuse%20Milf-Amber%20Summer,%20Barbie%20Feels:%20Let%20Us%20Go.zip
-#EXTINF:-1 tvg-logo="https://sub.yahyalovee55646.workers.dev/0:/images/1/12837.jpg" group-title="BKP MKV LIVE",[LIVE] Let Us Go (01 Mar 2024) [720p]
-https://duitbv.markushaeit.workers.dev/9:/Salinan%20Freeuse%20Milf-Amber%20Summer,%20Barbie%20Feels:%20Let%20Us%20Go.zip
-#EXTINF:-1 tvg-logo="https://sub.yahyalovee55646.workers.dev/0:/images/1/12837.jpg" group-title="BKP MKV LIVE",[LIVE] Let Us Go (01 Mar 2024) [480p]
-https://duitbv.markushaeit.workers.dev/9:/Salinan%20Freeuse%20Milf-Amber%20Summer,%20Barbie%20Feels:%20Let%20Us%20Go.zip
-#EXTINF:-1 tvg-logo="https://sub.yahyalovee55646.workers.dev/0:/images/video_thumb/10489.jpg" group-title="BKP MKV LIVE",[LIVE] I Dare You To... Sabrina Valentine (02 Mar 2024) [1080p]
-https://cold-hat-d477.ranamarax.workers.dev/5:/Salinan%20Family%20Strokes-I%20Dare%20You%20To...%20Sabrina%20Valentine.zip
-#EXTINF:-1 tvg-logo="https://sub.yahyalovee55646.workers.dev/0:/images/video_thumb/10489.jpg" group-title="BKP MKV LIVE",[LIVE] I Dare You To... Sabrina Valentine (02 Mar 2024) [720p]
-https://cold-hat-d477.ranamarax.workers.dev/5:/Salinan%20Family%20Strokes-I%20Dare%20You%20To...%20Sabrina%20Valentine.zip
-#EXTINF:-1 tvg-logo="https://sub.yahyalovee55646.workers.dev/0:/images/video_thumb/10489.jpg" group-title="BKP MKV LIVE",[LIVE] I Dare You To... Sabrina Valentine (02 Mar 2024) [480p]
-https://cold-hat-d477.ranamarax.workers.dev/5:/Salinan%20Family%20Strokes-I%20Dare%20You%20To...%20Sabrina%20Valentine.zip
-#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/9016_30082022081055.jpg" group-title="BKP MKV LIVE",[LIVE] Helena Price - A Closer Look (03 Mar 2024) [1080p]
-https://square-sea-7ef9.walafitty.workers.dev/6:/Salinan%20Helena%20Price%20-%20A%20Closer%20Look.zip
-#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/9016_30082022081055.jpg" group-title="BKP MKV LIVE",[LIVE] Helena Price - A Closer Look (03 Mar 2024) [720p]
-https://square-sea-7ef9.walafitty.workers.dev/6:/Salinan%20Helena%20Price%20-%20A%20Closer%20Look.zip
-#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/9016_30082022081055.jpg" group-title="BKP MKV LIVE",[LIVE] Helena Price - A Closer Look (03 Mar 2024) [480p]
-https://square-sea-7ef9.walafitty.workers.dev/6:/Salinan%20Helena%20Price%20-%20A%20Closer%20Look.zip
-#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/19049492_29082022043903.jpg" group-title="BKP MKV LIVE",[LIVE] Emma Starletto - Producer's Fun (03 Mar 2024) [1080p]
-https://square-sea-7ef9.walafitty.workers.dev/4:/Salinan%20Producersfun%20-%20Emma%20Starletto.zip
-#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/19049492_29082022043903.jpg" group-title="BKP MKV LIVE",[LIVE] Emma Starletto - Producer's Fun (03 Mar 2024) [720p]
-https://square-sea-7ef9.walafitty.workers.dev/4:/Salinan%20Producersfun%20-%20Emma%20Starletto.zip
-#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/19049492_29082022043903.jpg" group-title="BKP MKV LIVE",[LIVE] Emma Starletto - Producer's Fun (03 Mar 2024) [480p]
-https://square-sea-7ef9.walafitty.workers.dev/4:/Salinan%20Producersfun%20-%20Emma%20Starletto.zip
-#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/46693581_29082022045002.jpg" group-title="BKP MKV LIVE",[LIVE] Jill Kassidy - Producer's Fun (03 Mar 2024) [1080p]
-https://square-sea-7ef9.walafitty.workers.dev/4:/Salinan%20Producersfun%20-%20Jill%20Kassidy.zip
-#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/46693581_29082022045002.jpg" group-title="BKP MKV LIVE",[LIVE] Jill Kassidy - Producer's Fun (03 Mar 2024) [720p]
-https://square-sea-7ef9.walafitty.workers.dev/4:/Salinan%20Producersfun%20-%20Jill%20Kassidy.zip
-#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/46693581_29082022045002.jpg" group-title="BKP MKV LIVE",[LIVE] Jill Kassidy - Producer's Fun (03 Mar 2024) [480p]
-https://square-sea-7ef9.walafitty.workers.dev/4:/Salinan%20Producersfun%20-%20Jill%20Kassidy.zip
-#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/95068_.jpg" group-title="BKP MKV LIVE",[LIVE] Mai Takizawa (03 Mar 2024) [1080p]
-https://falling-paper-43a5.deriandrea24.workers.dev/002/japansdv.21.03.18.mai.takizawa.mp4
-#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/95068_.jpg" group-title="BKP MKV LIVE",[LIVE] Mai Takizawa (03 Mar 2024) [720p]
-https://falling-paper-43a5.deriandrea24.workers.dev/002/japansdv.21.03.18.mai.takizawa.mp4
-#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/95068_.jpg" group-title="BKP MKV LIVE",[LIVE] Mai Takizawa (03 Mar 2024) [480p]
-https://falling-paper-43a5.deriandrea24.workers.dev/002/japansdv.21.03.18.mai.takizawa.mp4
-#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/32945240_24102022095413.jpg" group-title="BKP MKV LIVE",[LIVE] I Want Your Cock (03 Mar 2024) [1080p]
-https://square-pine-9228.ranamarax.workers.dev/7:/Salinan%20Bella%20Diamond%20-%20I%20Want%20your%20Cock.zip
-#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/32945240_24102022095413.jpg" group-title="BKP MKV LIVE",[LIVE] I Want Your Cock (03 Mar 2024) [720p]
-https://square-pine-9228.ranamarax.workers.dev/7:/Salinan%20Bella%20Diamond%20-%20I%20Want%20your%20Cock.zip
-#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/32945240_24102022095413.jpg" group-title="BKP MKV LIVE",[LIVE] I Want Your Cock (03 Mar 2024) [480p]
-https://square-pine-9228.ranamarax.workers.dev/7:/Salinan%20Bella%20Diamond%20-%20I%20Want%20your%20Cock.zip
+#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/34044505_17062021075923.jpg" group-title="BKP MKV LIVE",[LIVE] Bad Stepsister, Good Lover (03 Mar 2024) [1080p]
+https://reabix.dexpenzarsaq.workers.dev/1/003dedez1989/Copy%20of%20Bad%20Stepsister,%20Good%20Lover-%20Piper%20June.mp4
+#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/34044505_17062021075923.jpg" group-title="BKP MKV LIVE",[LIVE] Bad Stepsister, Good Lover (03 Mar 2024) [720p]
+https://reabix.dexpenzarsaq.workers.dev/1/003dedez1989/Copy%20of%20Bad%20Stepsister,%20Good%20Lover-%20Piper%20June.mp4
+#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/34044505_17062021075923.jpg" group-title="BKP MKV LIVE",[LIVE] Bad Stepsister, Good Lover (03 Mar 2024) [480p]
+https://reabix.dexpenzarsaq.workers.dev/1/003dedez1989/Copy%20of%20Bad%20Stepsister,%20Good%20Lover-%20Piper%20June.mp4
+#EXTINF:-1 tvg-logo="https://sub.yahyalovee55646.workers.dev/0:/images/1/12701.jpg" group-title="BKP MKV LIVE",[LIVE]  Valentines Day (01 Mar 2024) [1080p]
+https://duitbv.markushaeit.workers.dev/6:/Salinan%20Mommys%20Girl-Sophia%20West,%20Reese%20Robbins:%20Valentines%20Day.zip
+#EXTINF:-1 tvg-logo="https://sub.yahyalovee55646.workers.dev/0:/images/1/12701.jpg" group-title="BKP MKV LIVE",[LIVE]  Valentines Day (01 Mar 2024) [720p]
+https://duitbv.markushaeit.workers.dev/6:/Salinan%20Mommys%20Girl-Sophia%20West,%20Reese%20Robbins:%20Valentines%20Day.zip
+#EXTINF:-1 tvg-logo="https://sub.yahyalovee55646.workers.dev/0:/images/1/12701.jpg" group-title="BKP MKV LIVE",[LIVE]  Valentines Day (01 Mar 2024) [480p]
+https://duitbv.markushaeit.workers.dev/6:/Salinan%20Mommys%20Girl-Sophia%20West,%20Reese%20Robbins:%20Valentines%20Day.zip
+#EXTINF:-1 tvg-logo="https://sub.yahyalovee55646.workers.dev/0:/images/1/11402.jpg" group-title="BKP MKV LIVE",[LIVE] Pornfidelity-zlata Shine: Shine On (01 Mar 2024) [1080p]
+https://floral-resonance-c0f7.markushaeit.workers.dev/6:/Salinan%20PornFidelity-Zlata%20Shine:%20Shine%20On.zip
+#EXTINF:-1 tvg-logo="https://sub.yahyalovee55646.workers.dev/0:/images/1/11402.jpg" group-title="BKP MKV LIVE",[LIVE] Pornfidelity-zlata Shine: Shine On (01 Mar 2024) [720p]
+https://floral-resonance-c0f7.markushaeit.workers.dev/6:/Salinan%20PornFidelity-Zlata%20Shine:%20Shine%20On.zip
+#EXTINF:-1 tvg-logo="https://sub.yahyalovee55646.workers.dev/0:/images/1/11402.jpg" group-title="BKP MKV LIVE",[LIVE] Pornfidelity-zlata Shine: Shine On (01 Mar 2024) [480p]
+https://floral-resonance-c0f7.markushaeit.workers.dev/6:/Salinan%20PornFidelity-Zlata%20Shine:%20Shine%20On.zip
+#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/80873_.jpg" group-title="BKP MKV LIVE",[LIVE] Wrong, But Feeling So Good (03 Mar 2024) [1080p]
+https://long-heart-6fcc.dawasuma45.workers.dev/thev0/Wrong,%20But%20Feeling%20So%20Good%20-%20StepSecrets.mp4
+#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/80873_.jpg" group-title="BKP MKV LIVE",[LIVE] Wrong, But Feeling So Good (03 Mar 2024) [720p]
+https://long-heart-6fcc.dawasuma45.workers.dev/thev0/Wrong,%20But%20Feeling%20So%20Good%20-%20StepSecrets.mp4
+#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/80873_.jpg" group-title="BKP MKV LIVE",[LIVE] Wrong, But Feeling So Good (03 Mar 2024) [480p]
+https://long-heart-6fcc.dawasuma45.workers.dev/thev0/Wrong,%20But%20Feeling%20So%20Good%20-%20StepSecrets.mp4
+#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/61861_.jpg" group-title="BKP MKV LIVE",[LIVE] Stepmother Hires Sex Therapist (03 Mar 2024) [1080p]
+https://raspy-sea-2e77.dumariris456.workers.dev/004/Stepmother%20Hires%20Sex%20Therapist.mp4
+#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/61861_.jpg" group-title="BKP MKV LIVE",[LIVE] Stepmother Hires Sex Therapist (03 Mar 2024) [720p]
+https://raspy-sea-2e77.dumariris456.workers.dev/004/Stepmother%20Hires%20Sex%20Therapist.mp4
+#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/61861_.jpg" group-title="BKP MKV LIVE",[LIVE] Stepmother Hires Sex Therapist (03 Mar 2024) [480p]
+https://raspy-sea-2e77.dumariris456.workers.dev/004/Stepmother%20Hires%20Sex%20Therapist.mp4
+#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/81508_.jpg" group-title="BKP MKV LIVE",[LIVE] Family Favors (03 Mar 2024) [1080p]
+https://falling-paper-43a5.deriandrea24.workers.dev/004/Alina%20Ali%20Family%20Favors%20480p.mp4
+#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/81508_.jpg" group-title="BKP MKV LIVE",[LIVE] Family Favors (03 Mar 2024) [720p]
+https://falling-paper-43a5.deriandrea24.workers.dev/004/Alina%20Ali%20Family%20Favors%20480p.mp4
+#EXTINF:-1 tvg-logo="http://sub.yahyalovee55646.workers.dev/0:/images/movies/81508_.jpg" group-title="BKP MKV LIVE",[LIVE] Family Favors (03 Mar 2024) [480p]
+https://falling-paper-43a5.deriandrea24.workers.dev/004/Alina%20Ali%20Family%20Favors%20480p.mp4
+#EXTINF:-1 tvg-logo="https://sub.yahyalovee55646.workers.dev/0:/images/1/12222.jpg" group-title="BKP MKV LIVE",[LIVE] Busty Blonde Babe Sarah Taylor Gets Back Blown Out By Chiropractor (01 Mar 2024) [1080p]
+https://mute-paper-fa28.markushaeit.workers.dev/8:/Salinan%20Naughty%20America-Busty%20Blonde%20Babe%20Sarah%20Taylor%20Gets%20Back%20Blown%20Out%20by%20Chiropractor.zip
+#EXTINF:-1 tvg-logo="https://sub.yahyalovee55646.workers.dev/0:/images/1/12222.jpg" group-title="BKP MKV LIVE",[LIVE] Busty Blonde Babe Sarah Taylor Gets Back Blown Out By Chiropractor (01 Mar 2024) [720p]
+https://mute-paper-fa28.markushaeit.workers.dev/8:/Salinan%20Naughty%20America-Busty%20Blonde%20Babe%20Sarah%20Taylor%20Gets%20Back%20Blown%20Out%20by%20Chiropractor.zip
+#EXTINF:-1 tvg-logo="https://sub.yahyalovee55646.workers.dev/0:/images/1/12222.jpg" group-title="BKP MKV LIVE",[LIVE] Busty Blonde Babe Sarah Taylor Gets Back Blown Out By Chiropractor (01 Mar 2024) [480p]
+https://mute-paper-fa28.markushaeit.workers.dev/8:/Salinan%20Naughty%20America-Busty%20Blonde%20Babe%20Sarah%20Taylor%20Gets%20Back%20Blown%20Out%20by%20Chiropractor.zip
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDI5ZDU2OWItZTkyMy00NTYwLTgwNjktNGRjNjgxNzJkM2M1XkEyXkFqcGdeQXVyMjY5ODU3OA@@._V1_SX300.jpg" group-title="BKP MKV LIVE",[LIVE] Murder Manual (24 May 2020) [1080p]
 https://worker-nameless-art-1baf.martinsuban63.workers.dev/3:/Salinan%20Murder.Manual.2020.720p.WEBRip.zip
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDI5ZDU2OWItZTkyMy00NTYwLTgwNjktNGRjNjgxNzJkM2M1XkEyXkFqcGdeQXVyMjY5ODU3OA@@._V1_SX300.jpg" group-title="BKP MKV LIVE",[LIVE] Murder Manual (24 May 2020) [720p]
@@ -169,3 +169,9 @@ https://withered-resonance-e550.bilikmada1569.workers.dev/4:/Copy%20of%20Winter.
 https://withered-resonance-e550.bilikmada1569.workers.dev/4:/Copy%20of%20Winter.s.Bone.2010.480p.BluRay.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA0OTM3MDMxNF5BMl5BanBnXkFtZTcwMDY1MjI0Mw@@._V1_SX300.jpg" group-title="BKP MKV LIVE",[LIVE] Winter's Bone (11 Jun 2010) [480p]
 https://withered-resonance-e550.bilikmada1569.workers.dev/4:/Copy%20of%20Winter.s.Bone.2010.480p.BluRay.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185//gFngyELRl5T8k4I37cE1rqiUMgr.jpg" group-title="BKP MKV LIVE",[LIVE] Pamali: The Little Devil (07 Aug 2025) [1080p]
+https://dl2.zonam.eu.org/20:/Copy%20of%20Salinan%20Pamali.The.Little.Devil.2025.480p.NF.WEB-DL.zip
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185//gFngyELRl5T8k4I37cE1rqiUMgr.jpg" group-title="BKP MKV LIVE",[LIVE] Pamali: The Little Devil (07 Aug 2025) [720p]
+https://dl2.zonam.eu.org/20:/Copy%20of%20Salinan%20Pamali.The.Little.Devil.2025.480p.NF.WEB-DL.zip
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185//gFngyELRl5T8k4I37cE1rqiUMgr.jpg" group-title="BKP MKV LIVE",[LIVE] Pamali: The Little Devil (07 Aug 2025) [480p]
+https://dl2.zonam.eu.org/20:/Copy%20of%20Salinan%20Pamali.The.Little.Devil.2025.480p.NF.WEB-DL.zip
