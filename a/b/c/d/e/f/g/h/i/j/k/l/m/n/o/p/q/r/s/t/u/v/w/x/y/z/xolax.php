@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtx.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Melbourne Victory (R) vs North Sunshine Eagles 16:30 ngày 27/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel20.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtx.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Singapore vs Timor Leste 18:00 ngày 27/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -18,23 +12,29 @@ https://live2.streambylivepulse.com/live/channel6.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel15.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxtx.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Melbourne Victory (R) vs North Sunshine Eagles 16:30 ngày 27/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel20.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxtx.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Qingdao RL vs Beijing IT 17:30 ngày 27/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel18.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtx.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Samtskhe Akhaltsikhe vs Gagra FC 19:30 ngày 27/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel7.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtx.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Bulleen Lions vs Langwarrin 17:30 ngày 27/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel8.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtx.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Samtskhe Akhaltsikhe vs Gagra FC 19:30 ngày 27/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel7.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtx.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tukums-2000 vs Rigas FS 22:00 ngày 27/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -48,17 +48,17 @@ https://live2.streambylivepulse.com/live/channel14.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel10.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtx.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hegelmann vs FK Zalgiris Vilnius 22:45 ngày 27/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel9.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtx.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp CFR Cluj vs FC Voluntari 22:30 ngày 27/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel21.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtx.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hegelmann vs FK Zalgiris Vilnius 22:45 ngày 27/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel9.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtx.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Grobina vs Ogre United 23:00 ngày 27/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -78,65 +78,65 @@ https://live2.streambylivepulse.com/live/channel11.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel12.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtx.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Sikkim Police vs Northerners FC 12:30 ngày 27/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel20/playlist.m3u8?wsSecret=5500cdf08b50e1724a8c1ad5f0fea7c0&wsABSTime=1785165107
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtx.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp IFK Skovde FK vs Jonkopings Sodra IF 00:00 ngày 28/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel17.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxtx.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Sikkim Police vs Northerners FC 12:30 ngày 27/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.streambylivepulse.com/live/channel20/playlist.m3u8?wsSecret=f2ca2b779aa7f0f99f1dadbb09a48fb0&wsABSTime=1785169158
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxtx.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Chanmari FC vs Dinthar FC 12:30 ngày 27/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel21/playlist.m3u8?wsSecret=4627d164f507bedc6d48d18fcf867e69&wsABSTime=1785165112
+https://live1.streambylivepulse.com/live/channel21/playlist.m3u8?wsSecret=77577e90c111c67d2ae229e363c74f03&wsABSTime=1785169158
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtx.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Kairat Almaty vs Nữ Ulytau 13:00 ngày 27/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.streambylivepulse.com/live/channel30/playlist.m3u8?wsSecret=7e55002b5bdc21cf1bda47ca56ba3b67&wsABSTime=1785169161
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtx.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Marbisu SC vs Lumshyiap SC 14:30 ngày 27/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel22/playlist.m3u8?wsSecret=45af839182f4832ea2871e37eea33139&wsABSTime=1785165114
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtx.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Shan Utd vs Nữ Yangon United 16:00 ngày 27/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel24/playlist.m3u8?wsSecret=6a5e712cb42cc6bc8c468740a5fc0da3&wsABSTime=1785165118
+https://live1.streambylivepulse.com/live/channel22/playlist.m3u8?wsSecret=c2eb864e6aeaccedc5e6eb6f7389f334&wsABSTime=1785169164
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtx.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Saikhamakawn FC vs Mizoram Police FC 15:00 ngày 27/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel23/playlist.m3u8?wsSecret=718580fd6af1618afe14f3b1b5e20135&wsABSTime=1785165118
+https://live1.streambylivepulse.com/live/channel23/playlist.m3u8?wsSecret=d1572589265f81f845a2115fcad426a7&wsABSTime=1785169167
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtx.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bulleen Lions U23 vs Langwarrin U23 15:15 ngày 27/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.streambylivepulse.com/live/channel30/playlist.m3u8?wsSecret=5735f2c5617095646255c8f191e097f2&wsABSTime=1785169168
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtx.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Shan Utd vs Nữ Yangon United 16:00 ngày 27/07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.streambylivepulse.com/live/channel24/playlist.m3u8?wsSecret=5ffc99b6f816fc0bfea0e3a3dff86b0a&wsABSTime=1785169171
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtx.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Yadanarbon FC vs Nữ Ayeyawady Utd 16:30 ngày 27/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel25/playlist.m3u8?wsSecret=cb87a070ce5cc1052f2104863914f45d&wsABSTime=1785165123
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtx.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Suruchi Sangha vs Rainbow SC 16:30 ngày 27/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel26/playlist.m3u8?wsSecret=23950bb3474788204bd5a43152c84021&wsABSTime=1785165125
+https://live1.streambylivepulse.com/live/channel25/playlist.m3u8?wsSecret=396af6377c0d893d200afffd9da13dc0&wsABSTime=1785169173
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtx.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Police AC vs Aryan 16:30 ngày 27/07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel28/playlist.m3u8?wsSecret=649cb2b71e4638d791d6faa21270053f&wsABSTime=1785165129
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtx.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kalighat Sports Lovers vs Coal India 16:30 ngày 27/07
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel27/playlist.m3u8?wsSecret=95a9592726b304be421131245ef9676d&wsABSTime=1785165129
+https://live1.streambylivepulse.com/live/channel28/playlist.m3u8?wsSecret=2988f33b5787f48d8b9f1d375ad44f1a&wsABSTime=1785169176
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtx.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Liverpool vs Sunderland ngày 26/07/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -154,7 +154,7 @@ https://highlight.thuckhuya1.net/2026/07/25/1784983691618/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://st.okcdn.ru/static/MegaPlayer/10-10-15/vp.swf&quot;,&quot;url11&quot;:&quot;https://st.okcdn.ru/static/MegaPlayer/10-10-15/vp11.swf&quot;,&quot;html5url&quot;:&quot;//st.okcdn.ru/static/MegaPlayer/10-12-24/okHtml5Player.min&quot;,&quot;okVideoPlayerEnabled&quot;:true,&quot;minFlashVersionNewPlayer&quot;:&quot;11.2&quot;,&quot;wmode&quot;:&quot;opaque&quot;,&quot;asa&quot;:true,&quot;provider&quot;:&quot;UPLOADED_ODKL&quot;,&quot;liveRertyTimeout&quot;:5000,&quot;poster&quot;:&quot;https://iv.okcdn.ru/videoPreview?id=18870925003300\u0026type=38\u0026idx=0\u0026scl=4\u0026tkn=99fp5YrIfqP9xSXqRvyMVvwYaCo\u0026fn=external_8&quot;,&quot;isExternalPlayer&quot;:false,&quot;isIframePlayer&quot;:false,&quot;isHtml5Player&quot;:true,&quot;timestamp&quot;:&quot;1785121939523&quot;,&quot;stubEnabled&quot;:true,&quot;verifyInline&quot;:false,&quot;webrtcBrokenH264&quot;:false,&quot;instantLayer&quot;:false,&quot;playerLocalizationEnabled&quot;:true,&quot;flashvars&quot;:{&quot;referer&quot;:&quot;https://xoilacxtx.tv/&quot;,&quot;relatedAlways&quot;:&quot;1&quot;,&quot;metadata&quot;:&quot;{\&quot;movie\&quot;:{\&quot;id\&quot;:\&quot;15970165393956\&quot;,\&quot;movieId\&quot;:\&quot;15970165393956\&quot;,\&quot;likeId\&quot;:\&quot;15970165393956\&quot;,\&quot;contentId\&quot;:\&quot;18870925003300\&quot;,\&quot;poster\&quot;:\&quot;https://iv.okcdn.ru/videoPreview?id=18870925003300\\u0026type=38\\u0026idx=0\\u0026scl=4\\u0026tkn=99fp5YrIfqP9xSXqRvyMVvwYaCo\\u0026fn=external_8\&quot;,\&quot;duration\&quot;:\&quot;247\&quot;,\&quot;title\&quot;:\&quot;YTSave_YouTube_TIMOR-LESTE-0-7-VIETNAM-HIGHLIGHTS_Media_JLd6jSo91KY_001_1080p\&quot;,\&quot;url\&quot;:\&quot;https://ok.ru/video/15970165393956\&quot;,\&quot;link\&quot;:\&quot;/video/15970165393956\&quot;,\&quot;collageInfo\&quot;:{\&quot;imageType\&quot;:\&quot;COLLAGE\&quot;,\&quot;url\&quot;:\&quot;https://iv.okcdn.ru/videoPreview?id=18870925003300\\u0026type=36\\u0026idx=0\\u0026scl=4\\u0026tkn=uWRJ2mEuef_oIOjTnTvpdPgRV-Q\&quot;,\&quot;frequency\&quot;:2,\&quot;height\&quot;:44,\&quot;width\&quot;:80,\&quot;count\&quot;:124,\&quot;tileWidth\&quot;:40,\&quot;tileHeight\&quot;:4},\&quot;status\&quot;:\&quot;OK\&quot;,\&quot;statusText\&quot;:\&quot;OK\&quot;,\&quot;isLive\&quot;:false,\&quot;notPublished\&quot;:false,\&quot;isClip\&quot;:false,\&quot;width\&quot;:1920,\&quot;height\&quot;:1080},\&quot;failoverHosts\&quot;:[\&quot;vd718.okcdn.ru\&quot;],\&quot;provider\&quot;:\&quot;UPLOADED_ODKL\&quot;,\&quot;service\&quot;:\&quot;ok\&quot;,\&quot;owner\&quot;:false,\&quot;voted\&quot;:false,\&quot;likeCount\&quot;:0,\&quot;subscribed\&quot;:false,\&quot;isWatchLater\&quot;:false,\&quot;slot\&quot;:690,\&quot;siteZone\&quot;:-1,\&quot;showAd\&quot;:true,\&quot;fromTime\&quot;:0,\&quot;author\&quot;:{},\&quot;admanMetadata\&quot;:{},\&quot;partnerId\&quot;:-1,\&quot;ownerMovieId\&quot;:\&quot;15970165393956\&quot;,\&quot;alwaysShowRec\&quot;:false,\&quot;videos\&quot;:[{\&quot;name\&quot;:\&quot;mobile\&quot;,\&quot;url\&quot;:\&quot;https://vd734.okcdn.ru/?expires=1785208339519\\u0026srcIp=20.51.198.192\\u0026pr=10\\u0026srcAg=CHROME_ANDROID\\u0026ms=95.163.35.11\\u0026type=4\\u0026sig=ZcuDM3niKP0\\u0026ct=0\\u0026urls=176.112.172.34\\u0026clientType=0\\u0026zs=43\\u0026id=18870925003300\&quot;,\&quot;seekSchema\&quot;:3,\&quot;disallowed\&quot;:false},{\&quot;name\&quot;:\&quot;lowest\&quot;,\&quot;url\&quot;:\&quot;https://vd734.okcdn.ru/?expires=1785208339519\\u0026srcIp=20.51.198.192\\u0026pr=10\\u0026srcAg=CHROME_ANDROID\\u0026ms=95.163.35.11\\u0026type=0\\u0026sig=RhEaqyBGsPk\\u0026ct=0\\u0026urls=176.112.172.34\\u0026clientType=0\\u0026zs=43\\u0026id=18870925003300\&quot;,\&quot;seekSchema\&quot;:3,\&quot;disallowed\&quot;:false},{\&quot;name\&quot;:\&quot;low\&quot;,\&quot;url\&quot;:\&quot;https://vd734.okcdn.ru/?expires=1785208339519\\u0026srcIp=20.51.198.192\\u0026pr=10\\u0026srcAg=CHROME_ANDROID\\u0026ms=95.163.35.11\\u0026type=1\\u0026sig=KJrpFksFRzc\\u0026ct=0\\u0026urls=176.112.172.34\\u0026clientType=0\\u0026zs=43\\u0026id=18870925003300\&quot;,\&quot;seekSchema\&quot;:3,\&quot;disallowed\&quot;:false},{\&quot;name\&quot;:\&quot;sd\&quot;,\&quot;url\&quot;:\&quot;https://vd734.okcdn.ru/?expires=1785208339519\\u0026srcIp=20.51.198.192\\u0026pr=10\\u0026srcAg=CHROME_ANDROID\\u0026ms=95.163.35.11\\u0026type=2\\u0026sig=k6WHTNij018\\u0026ct=0\\u0026urls=176.112.172.34\\u0026clientType=0\\u0026zs=43\\u0026id=18870925003300\&quot;,\&quot;seekSchema\&quot;:3,\&quot;disallowed\&quot;:false},{\&quot;name\&quot;:\&quot;hd\&quot;,\&quot;url\&quot;:\&quot;https://vd734.okcdn.ru/?expires=1785208339519\\u0026srcIp=20.51.198.192\\u0026pr=10\\u0026srcAg=CHROME_ANDROID\\u0026ms=95.163.35.11\\u0026type=3\\u0026sig=3QeR1eL4F-E\\u0026ct=0\\u0026urls=176.112.172.34\\u0026clientType=0\\u0026zs=43\\u0026id=18870925003300\&quot;,\&quot;seekSchema\&quot;:3,\&quot;disallowed\&quot;:false},{\&quot;name\&quot;:\&quot;full\&quot;,\&quot;url\&quot;:\&quot;https://vd734.okcdn.ru/?expires=1785208339519\\u0026srcIp=20.51.198.192\\u0026pr=10\\u0026srcAg=CHROME_ANDROID\\u0026ms=95.163.35.11\\u0026type=5\\u0026sig=AxgUip0hDe8\\u0026ct=0\\u0026urls=176.112.172.34\\u0026clientType=0\\u0026zs=43\\u0026id=18870925003300\&quot;,\&quot;seekSchema\&quot;:3,\&quot;disallowed\&quot;:false}],\&quot;vkMovie\&quot;:false,\&quot;metadataUrl\&quot;:\&quot;https://vd734.okcdn.ru/?expires=1785208339519\\u0026srcIp=20.51.198.192\\u0026pr=10\\u0026srcAg=CHROME_ANDROID\\u0026ch=-1610167797\\u0026ms=95.163.35.11\\u0026type=1\\u0026sig=vj6FKlVMSr0\\u0026ct=6\\u0026urls=176.112.172.34\\u0026clientType=0\\u0026zs=43\\u0026id=18870925003300\&quot;,\&quot;hlsManifestUrl\&quot;:\&quot;https://vd734.okcdn.ru/video.m3u8?cmd=videoPlayerCdn\\u0026expires=1785208339519\\u0026srcIp=20.51.198.192\\u0026pr=10\\u0026srcAg=CHROME_ANDROID\\u0026ch=-536166974\\u0026ms=95.163.35.11\\u0026type=2\\u0026sig=LaHx4ugMo7k\\u0026ct=8\\u0026urls=176.112.172.34\\u0026clientType=0\\u0026zs=43\\u0026id=18870925003300\&quot;,\&quot;autoplay\&quot;:{\&quot;autoplayEnabled\&quot;:true,\&quot;timeFromEnabled\&quot;:true,\&quot;noRec\&quot;:false,\&quot;fullScreenExit\&quot;:false,\&quot;vitrinaSection\&quot;:\&quot;recommended_movie\&quot;},\&quot;p2pInfo\&quot;:{\&quot;isPeerEnabled\&quot;:false,\&quot;ubsc\&quot;:0,\&quot;pbsc\&quot;:0,\&quot;mptpc\&quot;:0,\&quot;pctmt\&quot;:0,\&quot;pbesc\&quot;:0,\&quot;prrt\&quot;:0,\&quot;srt\&quot;:0,\&quot;swrt\&quot;:0,\&quot;dctt\&quot;:0},\&quot;stunServers\&quot;:[{\&quot;urls\&quot;:[\&quot;stun:videostun.okcdn.ru:19302\&quot;]}],\&quot;episodes\&quot;:[]}&quot;,&quot;saveLastPlayingTimeFrom&quot;:&quot;30&quot;,&quot;castId&quot;:&quot;559D7832&quot;,&quot;noDownload&quot;:&quot;1&quot;,&quot;locale&quot;:&quot;en&quot;,&quot;noChatLikes&quot;:&quot;1&quot;,&quot;noChannel&quot;:&quot;1&quot;,&quot;webmSec&quot;:&quot;20&quot;,&quot;enabledLocalStorage&quot;:&quot;1&quot;,&quot;minCacheTime&quot;:&quot;120&quot;,&quot;maxCachePartOfDurationMQ&quot;:&quot;30&quot;,&quot;checkMQ&quot;:&quot;1&quot;,&quot;noTrailer&quot;:&quot;1&quot;,&quot;recSlot&quot;:&quot;7178&quot;,&quot;noOldDash&quot;:&quot;1&quot;,&quot;noLikeButton&quot;:&quot;1&quot;,&quot;maxCachePartOfDuration&quot;:&quot;10&quot;,&quot;isAnonym&quot;:&quot;1&quot;,&quot;jidx&quot;:&quot;1&quot;,&quot;hideWatermark&quot;:&quot;0&quot;,&quot;isEmbed&quot;:&quot;1&quot;,&quot;noOkliveBanner&quot;:&quot;1&quot;,&quot;minCacheTimeMQ&quot;:&quot;20&quot;,&quot;adLogFullscreen&quot;:&quot;1&quot;,&quot;adLogFeed&quot;:&quot;1&quot;,&quot;adLogExternal&quot;:&quot;1&quot;,&quot;ldChunk&quot;:&quot;2000&quot;,&quot;showChat&quot;:&quot;1&quot;,&quot;ldBuffer&quot;:&quot;6000&quot;,&quot;feedAdLogic&quot;:&quot;15,3,3,14400&quot;,&quot;siteId&quot;:&quot;504&quot;,&quot;location&quot;:&quot;AnonymVideoEmbed/anonymVideoEmbed/anonym&quot;,&quot;watchCoverageEvent&quot;:&quot;watch_coverage_record&quot;,&quot;hideExpand&quot;:&quot;1&quot;,&quot;adLogic&quot;:&quot;15,0,3,14400&quot;,&quot;checkAutoplayBrowsers&quot;:&quot;safari,chrome,opera,yandex,firefox&quot;}}
+https://st.okcdn.ru/static/MegaPlayer/10-10-15/vp.swf&quot;,&quot;url11&quot;:&quot;https://st.okcdn.ru/static/MegaPlayer/10-10-15/vp11.swf&quot;,&quot;html5url&quot;:&quot;//st.okcdn.ru/static/MegaPlayer/10-12-24/okHtml5Player.min&quot;,&quot;okVideoPlayerEnabled&quot;:true,&quot;minFlashVersionNewPlayer&quot;:&quot;11.2&quot;,&quot;wmode&quot;:&quot;opaque&quot;,&quot;asa&quot;:true,&quot;provider&quot;:&quot;UPLOADED_ODKL&quot;,&quot;liveRertyTimeout&quot;:5000,&quot;poster&quot;:&quot;https://iv.okcdn.ru/videoPreview?id=18870925003300\u0026type=38\u0026idx=0\u0026scl=4\u0026tkn=99fp5YrIfqP9xSXqRvyMVvwYaCo\u0026fn=external_8&quot;,&quot;isExternalPlayer&quot;:false,&quot;isIframePlayer&quot;:false,&quot;isHtml5Player&quot;:true,&quot;timestamp&quot;:&quot;1785125986277&quot;,&quot;stubEnabled&quot;:true,&quot;verifyInline&quot;:false,&quot;webrtcBrokenH264&quot;:false,&quot;instantLayer&quot;:false,&quot;playerLocalizationEnabled&quot;:true,&quot;flashvars&quot;:{&quot;referer&quot;:&quot;https://xoilacxtx.tv/&quot;,&quot;relatedAlways&quot;:&quot;1&quot;,&quot;metadata&quot;:&quot;{\&quot;movie\&quot;:{\&quot;id\&quot;:\&quot;15970165393956\&quot;,\&quot;movieId\&quot;:\&quot;15970165393956\&quot;,\&quot;likeId\&quot;:\&quot;15970165393956\&quot;,\&quot;contentId\&quot;:\&quot;18870925003300\&quot;,\&quot;poster\&quot;:\&quot;https://iv.okcdn.ru/videoPreview?id=18870925003300\\u0026type=38\\u0026idx=0\\u0026scl=4\\u0026tkn=99fp5YrIfqP9xSXqRvyMVvwYaCo\\u0026fn=external_8\&quot;,\&quot;duration\&quot;:\&quot;247\&quot;,\&quot;title\&quot;:\&quot;YTSave_YouTube_TIMOR-LESTE-0-7-VIETNAM-HIGHLIGHTS_Media_JLd6jSo91KY_001_1080p\&quot;,\&quot;url\&quot;:\&quot;https://ok.ru/video/15970165393956\&quot;,\&quot;link\&quot;:\&quot;/video/15970165393956\&quot;,\&quot;collageInfo\&quot;:{\&quot;imageType\&quot;:\&quot;COLLAGE\&quot;,\&quot;url\&quot;:\&quot;https://iv.okcdn.ru/videoPreview?id=18870925003300\\u0026type=36\\u0026idx=0\\u0026scl=4\\u0026tkn=uWRJ2mEuef_oIOjTnTvpdPgRV-Q\&quot;,\&quot;frequency\&quot;:2,\&quot;height\&quot;:44,\&quot;width\&quot;:80,\&quot;count\&quot;:124,\&quot;tileWidth\&quot;:40,\&quot;tileHeight\&quot;:4},\&quot;status\&quot;:\&quot;OK\&quot;,\&quot;statusText\&quot;:\&quot;OK\&quot;,\&quot;isLive\&quot;:false,\&quot;notPublished\&quot;:false,\&quot;isClip\&quot;:false,\&quot;width\&quot;:1920,\&quot;height\&quot;:1080},\&quot;failoverHosts\&quot;:[\&quot;vd653.okcdn.ru\&quot;],\&quot;provider\&quot;:\&quot;UPLOADED_ODKL\&quot;,\&quot;service\&quot;:\&quot;ok\&quot;,\&quot;owner\&quot;:false,\&quot;voted\&quot;:false,\&quot;likeCount\&quot;:0,\&quot;subscribed\&quot;:false,\&quot;isWatchLater\&quot;:false,\&quot;slot\&quot;:690,\&quot;siteZone\&quot;:-1,\&quot;showAd\&quot;:true,\&quot;fromTime\&quot;:0,\&quot;author\&quot;:{},\&quot;admanMetadata\&quot;:{},\&quot;partnerId\&quot;:-1,\&quot;ownerMovieId\&quot;:\&quot;15970165393956\&quot;,\&quot;alwaysShowRec\&quot;:false,\&quot;videos\&quot;:[{\&quot;name\&quot;:\&quot;mobile\&quot;,\&quot;url\&quot;:\&quot;https://vd734.okcdn.ru/?expires=1785212386272\\u0026srcIp=20.169.93.182\\u0026pr=10\\u0026srcAg=CHROME_ANDROID\\u0026ms=95.163.35.11\\u0026type=4\\u0026sig=vrpa-9O3ln0\\u0026ct=0\\u0026urls=178.237.23.4\\u0026clientType=0\\u0026zs=43\\u0026id=18870925003300\&quot;,\&quot;seekSchema\&quot;:3,\&quot;disallowed\&quot;:false},{\&quot;name\&quot;:\&quot;lowest\&quot;,\&quot;url\&quot;:\&quot;https://vd734.okcdn.ru/?expires=1785212386272\\u0026srcIp=20.169.93.182\\u0026pr=10\\u0026srcAg=CHROME_ANDROID\\u0026ms=95.163.35.11\\u0026type=0\\u0026sig=mTIE3ga0LKg\\u0026ct=0\\u0026urls=178.237.23.4\\u0026clientType=0\\u0026zs=43\\u0026id=18870925003300\&quot;,\&quot;seekSchema\&quot;:3,\&quot;disallowed\&quot;:false},{\&quot;name\&quot;:\&quot;low\&quot;,\&quot;url\&quot;:\&quot;https://vd734.okcdn.ru/?expires=1785212386272\\u0026srcIp=20.169.93.182\\u0026pr=10\\u0026srcAg=CHROME_ANDROID\\u0026ms=95.163.35.11\\u0026type=1\\u0026sig=Erens-VyAdQ\\u0026ct=0\\u0026urls=178.237.23.4\\u0026clientType=0\\u0026zs=43\\u0026id=18870925003300\&quot;,\&quot;seekSchema\&quot;:3,\&quot;disallowed\&quot;:false},{\&quot;name\&quot;:\&quot;sd\&quot;,\&quot;url\&quot;:\&quot;https://vd734.okcdn.ru/?expires=1785212386272\\u0026srcIp=20.169.93.182\\u0026pr=10\\u0026srcAg=CHROME_ANDROID\\u0026ms=95.163.35.11\\u0026type=2\\u0026sig=GJfAfcMs1ks\\u0026ct=0\\u0026urls=178.237.23.4\\u0026clientType=0\\u0026zs=43\\u0026id=18870925003300\&quot;,\&quot;seekSchema\&quot;:3,\&quot;disallowed\&quot;:false},{\&quot;name\&quot;:\&quot;hd\&quot;,\&quot;url\&quot;:\&quot;https://vd734.okcdn.ru/?expires=1785212386272\\u0026srcIp=20.169.93.182\\u0026pr=10\\u0026srcAg=CHROME_ANDROID\\u0026ms=95.163.35.11\\u0026type=3\\u0026sig=yDcaUyZEeR8\\u0026ct=0\\u0026urls=178.237.23.4\\u0026clientType=0\\u0026zs=43\\u0026id=18870925003300\&quot;,\&quot;seekSchema\&quot;:3,\&quot;disallowed\&quot;:false},{\&quot;name\&quot;:\&quot;full\&quot;,\&quot;url\&quot;:\&quot;https://vd734.okcdn.ru/?expires=1785212386272\\u0026srcIp=20.169.93.182\\u0026pr=10\\u0026srcAg=CHROME_ANDROID\\u0026ms=95.163.35.11\\u0026type=5\\u0026sig=HaqYIXtwBVc\\u0026ct=0\\u0026urls=178.237.23.4\\u0026clientType=0\\u0026zs=43\\u0026id=18870925003300\&quot;,\&quot;seekSchema\&quot;:3,\&quot;disallowed\&quot;:false}],\&quot;vkMovie\&quot;:false,\&quot;metadataUrl\&quot;:\&quot;https://vd734.okcdn.ru/?expires=1785212386272\\u0026srcIp=20.169.93.182\\u0026pr=10\\u0026srcAg=CHROME_ANDROID\\u0026ch=-1610167797\\u0026ms=95.163.35.11\\u0026type=1\\u0026sig=Nqo7hgdjZC4\\u0026ct=6\\u0026urls=178.237.23.4\\u0026clientType=0\\u0026zs=43\\u0026id=18870925003300\&quot;,\&quot;hlsManifestUrl\&quot;:\&quot;https://vd734.okcdn.ru/video.m3u8?cmd=videoPlayerCdn\\u0026expires=1785212386272\\u0026srcIp=20.169.93.182\\u0026pr=10\\u0026srcAg=CHROME_ANDROID\\u0026ch=-536166974\\u0026ms=95.163.35.11\\u0026type=2\\u0026sig=MQs_m5iXqxE\\u0026ct=8\\u0026urls=178.237.23.4\\u0026clientType=0\\u0026zs=43\\u0026id=18870925003300\&quot;,\&quot;autoplay\&quot;:{\&quot;autoplayEnabled\&quot;:true,\&quot;timeFromEnabled\&quot;:true,\&quot;noRec\&quot;:false,\&quot;fullScreenExit\&quot;:false,\&quot;vitrinaSection\&quot;:\&quot;recommended_movie\&quot;},\&quot;p2pInfo\&quot;:{\&quot;isPeerEnabled\&quot;:false,\&quot;ubsc\&quot;:0,\&quot;pbsc\&quot;:0,\&quot;mptpc\&quot;:0,\&quot;pctmt\&quot;:0,\&quot;pbesc\&quot;:0,\&quot;prrt\&quot;:0,\&quot;srt\&quot;:0,\&quot;swrt\&quot;:0,\&quot;dctt\&quot;:0},\&quot;stunServers\&quot;:[{\&quot;urls\&quot;:[\&quot;stun:videostun.okcdn.ru:19302\&quot;]}],\&quot;episodes\&quot;:[]}&quot;,&quot;saveLastPlayingTimeFrom&quot;:&quot;30&quot;,&quot;castId&quot;:&quot;559D7832&quot;,&quot;noDownload&quot;:&quot;1&quot;,&quot;locale&quot;:&quot;en&quot;,&quot;noChatLikes&quot;:&quot;1&quot;,&quot;noChannel&quot;:&quot;1&quot;,&quot;webmSec&quot;:&quot;20&quot;,&quot;enabledLocalStorage&quot;:&quot;1&quot;,&quot;minCacheTime&quot;:&quot;120&quot;,&quot;maxCachePartOfDurationMQ&quot;:&quot;30&quot;,&quot;checkMQ&quot;:&quot;1&quot;,&quot;noTrailer&quot;:&quot;1&quot;,&quot;recSlot&quot;:&quot;7178&quot;,&quot;noOldDash&quot;:&quot;1&quot;,&quot;noLikeButton&quot;:&quot;1&quot;,&quot;maxCachePartOfDuration&quot;:&quot;10&quot;,&quot;isAnonym&quot;:&quot;1&quot;,&quot;jidx&quot;:&quot;1&quot;,&quot;hideWatermark&quot;:&quot;0&quot;,&quot;isEmbed&quot;:&quot;1&quot;,&quot;noOkliveBanner&quot;:&quot;1&quot;,&quot;minCacheTimeMQ&quot;:&quot;20&quot;,&quot;adLogFullscreen&quot;:&quot;1&quot;,&quot;adLogFeed&quot;:&quot;1&quot;,&quot;adLogExternal&quot;:&quot;1&quot;,&quot;ldChunk&quot;:&quot;2000&quot;,&quot;showChat&quot;:&quot;1&quot;,&quot;ldBuffer&quot;:&quot;6000&quot;,&quot;feedAdLogic&quot;:&quot;15,3,3,14400&quot;,&quot;siteId&quot;:&quot;504&quot;,&quot;location&quot;:&quot;AnonymVideoEmbed/anonymVideoEmbed/anonym&quot;,&quot;watchCoverageEvent&quot;:&quot;watch_coverage_record&quot;,&quot;hideExpand&quot;:&quot;1&quot;,&quot;adLogic&quot;:&quot;15,0,3,14400&quot;,&quot;checkAutoplayBrowsers&quot;:&quot;safari,chrome,opera,yandex,firefox&quot;}}
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtx.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Tây Ban Nha vs Argentina ngày 20/07/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
