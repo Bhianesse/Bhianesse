@@ -1,11 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="MY PACAR LIVE",🐇ayok donasi server playlist IPTV agar server tetap aktif🐇
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260728/33139b05-1c43-4b48-bba3-ec960b18b36e-260728175052.jpg" group-title="MY PACAR LIVE",🐇[LIVE 13m | Danella JKT48 | 👁 753] ayo🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.1TQqlwWPwce5.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260728/b11b0692-d0b8-464c-849a-9e81439a048c-260728173816.jpg" group-title="MY PACAR LIVE",🐇[LIVE 25m | Daisy JKT48 | 👁 1471] hii🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.tk9WxdsYj8NE.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260728/8ded4a68-d089-4469-8937-a58b5939e199-260728172615.jpg" group-title="MY PACAR LIVE",🐇[LIVE 38m | Nayya Indomodel | 👁 382] hayy🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.zCbeC1gAwqD0.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260728/7ef0ce3a-2d65-4c55-9c43-0df64d2da807-260728155202.jpg" group-title="MY PACAR LIVE",🐇[LIVE 2h | Elaine Hartanto | 👁 3216] TTS Time! 💆🏻‍♀️🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.QImzelUobDhm.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260728/f7fb146f-2cb7-4dbe-8407-1ad4e635b77b-260728190033.jpg" group-title="MY PACAR LIVE",🐇[LIVE 7m | Ame | Karafuru Idol group | 👁 28] Bahas Apa Yh🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.BQ0HT6EqlZyF.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260728/aff2b165-6d25-4382-95bc-bf0b6bca6f88-260728185829.jpg" group-title="MY PACAR LIVE",🐇[LIVE 9m | Zasa indomodel | 👁 31] Habis run jam 7 mlm tdi🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ys4OHV8sDwsT.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260728/893ed6a2-6d8c-40a8-bedf-765bcd4cc10b-260728185842.jpg" group-title="MY PACAR LIVE",🐇[LIVE 10m | Narin 🤍 | 👁 36] Miaw🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.CN1UuCBv42JG.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260728/2b52b6d2-f017-45cb-9251-465d951419a9-260728184933.jpg" group-title="MY PACAR LIVE",🐇[LIVE 19m | Cila | Karafuru Idol Group | 👁 83] cilawr🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.1almm84bFIEI.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260728/6430dab8-2dd4-47df-ae75-87d50d555e06-260728181810.jpg" group-title="MY PACAR LIVE",🐇[LIVE 50m | Keyi | Karafuru Idol Group | 👁 255] hi hi🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.m68n9wA2nMe9.m3u8
