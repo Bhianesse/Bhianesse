@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="MY PACAR LIVE",🐇ayok donasi server playlist IPTV agar server tetap aktif🐇
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260802/266ef38a-da00-4d13-ba77-f94da68599ee-260802001300.jpg" group-title="MY PACAR LIVE",🐇[LIVE 15m | Delynn JKT48 | 👁 2307] Malms🐇
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260802/73aa1a4d-7482-41be-b28e-25e0b6c7b967-260802011548.jpg" group-title="MY PACAR LIVE",🐇[LIVE 10m | Lyn JKT48 | 👁 605] Ayo ngobrol bareng!🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.YMhzlmrLe7tw.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260802/266ef38a-da00-4d13-ba77-f94da68599ee-260802001300.jpg" group-title="MY PACAR LIVE",🐇[LIVE 1h | Delynn JKT48 | 👁 5649] Malms🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.5j4KMiUb4eXE.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260801/18385dff-4abc-4336-834a-b6f8c4fdb667-260801215221.jpg" group-title="MY PACAR LIVE",🐇[LIVE 2h | aminus.ferren Ren | 👁 4833] NEMENIN MAKE UP INI APA E GIRL 🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.eQgKMjzwed58.m3u8
