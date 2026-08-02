@@ -12,17 +12,17 @@ https://live2.streambylivepulse.com/live/channel1.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel15.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp River Plate vs Rosario Central 05:15 ngày 03/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel24.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp HFX Wanderers vs Forge FC 05:00 ngày 03/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel23.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp River Plate vs Rosario Central 05:15 ngày 03/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel24.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Internacional RS vs Corinthians SP 05:30 ngày 03/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
