@@ -1,58 +1,118 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hapoel Jerusalem vs Maccabi Petah Tikva FC 23:45 ngày 02/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Indonesia vs Việt Nam 20:30 ngày 03/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel24/playlist.m3u8?wsSecret=c19d2b4b803e29d36d450554e9066272&wsABSTime=1785732027
+https://live2.streambylivepulse.com/live/channel1.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Rapid Wien vs Rheindorf Altach 00:00 ngày 03/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Liverpool vs Leeds United 03:00 ngày 03/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel15.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Urartu vs FC Pyunik 00:00 ngày 03/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Terek Grozny vs Spartak Moscow 00:30 ngày 03/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel21.m3u8?auth_key=3000001785688828-0-0-b48002ab4dfb3714ab5ca2b61396221c
+https://live2.streambylivepulse.com/live/channel5.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp KFC Komarno vs Spartak Trnava 00:00 ngày 03/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ind. del Valle vs Deportivo Cuenca 01:00 ngày 03/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel26/playlist.m3u8?wsSecret=5c18ede577e948c7ab33134a29fbe209&wsABSTime=1785732036
+https://live2.streambylivepulse.com/live/channel9.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Maccabi Netanya vs H. Ramat Gan 00:00 ngày 03/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp CSKA Sofia vs FC Dunav Ruse 01:15 ngày 03/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel30/playlist.m3u8?wsSecret=09fd7e3f0e469a6709703dd33b2d772a&wsABSTime=1785732039
+https://live2.streambylivepulse.com/live/channel16.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Ghana vs Nữ Cameroon 00:00 ngày 03/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Zemun vs Radnicki Nis 01:00 ngày 03/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel29/playlist.m3u8?wsSecret=1bbce34158cfe0967fc833e51906dd0a&wsABSTime=1785732040
+https://live2.streambylivepulse.com/live/channel20.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hebar Pazardzhik vs Vihren Sandanski 00:00 ngày 03/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp GKS Katowice vs Radomiak Radom 01:15 ngày 03/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel25/playlist.m3u8?wsSecret=aaac63355430cf0dff6bcdf6f40e81d3&wsABSTime=1785732040
+https://live2.streambylivepulse.com/live/channel27.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FK Napredak vs FK Graficar Beograd 00:00 ngày 03/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Rapid 1923 vs CFR Cluj 01:30 ngày 03/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel27/playlist.m3u8?wsSecret=4785f185c2ddd2d4ad4932497a3c83aa&wsABSTime=1785732046
+https://live2.streambylivepulse.com/live/channel6.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Campuchia vs Timor Leste 17:30 ngày 03/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ascoli vs Lazio 01:45 ngày 03/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel1.m3u8
+https://live2.streambylivepulse.com/live/channel24.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Deportes La Serena vs O.Higgins 02:00 ngày 03/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel28.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Palmeiras vs Fortaleza 02:00 ngày 03/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel23.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Newell Old Boys vs Boca Juniors 03:00 ngày 03/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel21.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Chicago Flame B vs Cincinnati II 03:00 ngày 03/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel17.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Puerto Rico vs Nữ Colombia 03:00 ngày 03/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel13.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Jamaica vs Nữ Mexico 03:00 ngày 03/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel8.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Louis Athletica vs Nữ Toluca 06:00 ngày 03/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel14.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Guadalajara vs Nữ Queretaro 06:06 ngày 03/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel4.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Leones del Norte vs Barcelona SC 06:10 ngày 03/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel7.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp International San Carlos vs CS Herediano 07:00 ngày 03/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel10.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Liverpool vs Sunderland ngày 26/07/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
