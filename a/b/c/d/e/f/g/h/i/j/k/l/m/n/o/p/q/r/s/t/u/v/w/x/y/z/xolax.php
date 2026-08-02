@@ -6,17 +6,17 @@
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel17.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Rockdale City Suns vs Manly United 12:00 ngày 02/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel12.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Blacktown City vs Sydney FC (Y) 12:00 ngày 02/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel19.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Rockdale City Suns vs Manly United 12:00 ngày 02/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel12.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Marconi Stallions vs St George City FA 12:00 ngày 02/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -54,17 +54,17 @@ https://live2.streambylivepulse.com/live/channel9.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel14.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp SJ Earthquakes (R) vs Austin FC II 15:00 ngày 02/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel11.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Qingdao Island vs Qingdao Manatee 17:00 ngày 02/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel6.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp SJ Earthquakes (R) vs Austin FC II 15:00 ngày 02/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel11.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Jeonnam Dragons vs Paju Frontier FC 17:30 ngày 02/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
