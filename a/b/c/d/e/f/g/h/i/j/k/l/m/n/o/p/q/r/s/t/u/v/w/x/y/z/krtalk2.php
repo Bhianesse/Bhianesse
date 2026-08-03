@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="MY PACAR LIVE",🐇ayok donasi server playlist IPTV agar server tetap aktif🐇
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260803/0078fe3c-8f4d-495b-bb7c-bdb2b98d0598-260803120453.jpg" group-title="MY PACAR LIVE",🐇[LIVE 20m | Oniel JKT48 | 👁 2351] saya kembali🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.KGbEli9xlInK.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260803/9c32c2bc-f74e-4420-8be8-f4ac863b8064-260803134016.jpg" group-title="MY PACAR LIVE",🐇[LIVE 6m | Olla JKT48 | 👁 331] Ayo ngobrol bareng!🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.QGp4Op9dfxOA.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20260803/64c447a0-36a8-4ecb-81f7-74d4ab336e9a-260803133018.jpg" group-title="MY PACAR LIVE",🐇[LIVE 16m | Sali Sali | 👁 56] Liat kartuku yu🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.B5oM06rBbQjH.m3u8
