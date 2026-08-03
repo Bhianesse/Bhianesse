@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Myanmar vs Lào 17:00 ngày 04/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel1.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Mjallby AIF vs Slovan Bratislava 23:00 ngày 04/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel15.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Myanmar vs Lào 17:00 ngày 04/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ararat Armenia vs NK Publikum Celje 23:00 ngày 04/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -42,17 +42,17 @@ https://live2.streambylivepulse.com/live/channel16.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel13.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp York City vs Crawley Town 01:30 ngày 04/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel23.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Valur Reykjavik vs Stjarnan Gardabaer 02:15 ngày 04/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel10.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp York City vs Crawley Town 01:30 ngày 04/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel23.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Sarmiento Junin vs Ind. Rivadavia 02:45 ngày 04/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
