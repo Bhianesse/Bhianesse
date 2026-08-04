@@ -18,23 +18,17 @@ https://live2.streambylivepulse.com/live/channel15.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel12.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Deportes Tolima vs Dep.Independiente 06:15 ngày 05/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Cincinnati vs Pachuca 06:45 ngày 05/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel28.m3u8
+https://live2.streambylivepulse.com/live/channel13.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Columbus Crew vs Atlas 06:45 ngày 05/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel24.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Cincinnati vs Pachuca 06:45 ngày 05/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel13.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Charlotte FC vs Pumas U.N.A.M. 07:00 ngày 05/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -102,17 +96,17 @@ https://live2.streambylivepulse.com/live/channel16.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel8.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ratchaburi vs Eastern AA 18:00 ngày 05/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel9.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ SFK 2000 Sarajevo vs Nữ PSV Eindhoven 18:00 ngày 05/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel18.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ratchaburi vs Eastern AA 18:00 ngày 05/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel9.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Metalist 1925 vs Nữ Fenerbahce SK 18:00 ngày 05/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
