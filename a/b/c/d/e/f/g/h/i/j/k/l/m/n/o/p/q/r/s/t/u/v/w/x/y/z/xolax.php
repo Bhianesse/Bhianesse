@@ -6,23 +6,23 @@
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel19.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tottenham Hotspur U17 vs Sporting CP U17 15:00 ngày 06/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel21.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp KuPs vs Univ. Craiova 22:00 ngày 06/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel1.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp PT Prachuap FC vs Terengganu FC 16:00 ngày 06/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tottenham Hotspur U17 vs Sporting CP U17 15:00 ngày 06/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel4.m3u8
+https://live2.streambylivepulse.com/live/channel21.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Persija Jakarta vs Arema FC 15:30 ngày 06/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel11.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Athletic Bilbao U17 vs Arsenal U17 18:35 ngày 06/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -30,11 +30,11 @@ https://live2.streambylivepulse.com/live/channel4.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel18.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Persija Jakarta vs Arema FC 15:30 ngày 06/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp PT Prachuap FC vs Terengganu FC 16:00 ngày 06/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel11.m3u8
+https://live2.streambylivepulse.com/live/channel4.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Trung Quốc U17 vs Bayer Leverkusen U17 18:35 ngày 06/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -48,17 +48,17 @@ https://live2.streambylivepulse.com/live/channel28.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel14.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Shakhter vs FK Kaspiy Aktau B 20:00 ngày 06/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel27.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FK Aktobe II vs Ekibastuzets 20:00 ngày 06/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel7.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Shakhter vs FK Kaspiy Aktau B 20:00 ngày 06/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel27.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Jagiellonia vs Rangers 23:00 ngày 06/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -112,23 +112,23 @@ https://live2.streambylivepulse.com/live/channel12.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel1/playlist.m3u8?wsSecret=839c2f9ac8b00791bfd995a1fecdece8&wsABSTime=1786029346
+https://live1.streambylivepulse.com/live/channel1/playlist.m3u8?wsSecret=d2e42d5c59d1fe2f53d04c08be3e070e&wsABSTime=1786032698
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Zhuiqiu Person vs Wangmu Youth 15:00 ngày 06/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel3/playlist.m3u8?wsSecret=33612bcecc640699351f1c1f877bfb3e&wsABSTime=1786029350
+https://live1.streambylivepulse.com/live/channel3/playlist.m3u8?wsSecret=5d8236e5418a422f7558bd86e295db13&wsABSTime=1786032702
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Petro Atletico de Luanda vs Reus FC Reddis 15:00 ngày 06/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel2/playlist.m3u8?wsSecret=44c693db89bd554b0521a084974a92a2&wsABSTime=1786029353
+https://live1.streambylivepulse.com/live/channel2/playlist.m3u8?wsSecret=83037db517d7f206da31e9a45b5b5424&wsABSTime=1786032705
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtl.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp KPTM Bangi vs UKM FC 15:45 ngày 06/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel25/playlist.m3u8?wsSecret=1f0d65c98864579caa3e883002428c87&wsABSTime=1786029356
+https://live1.streambylivepulse.com/live/channel25/playlist.m3u8?wsSecret=18f368e26ce00c6460238208944f9a58&wsABSTime=1786032706
 
