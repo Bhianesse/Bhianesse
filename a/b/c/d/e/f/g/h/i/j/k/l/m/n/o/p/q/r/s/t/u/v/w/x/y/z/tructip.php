@@ -28,25 +28,19 @@ https://live.kinxie.com/live/72334968_bea830870fd487dbe0bd6a304e5b4879_autoChang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tructiep-hd.club/
 #EXTVLCOPT:http-origin=https://tructiep-hd.club
-https://live2.kinxie.com/live/67172130_40c4d9665fcce750b31739fb2742aee2_autoChange.m3u8?auth_key=1785990590-0-0-e0a07503cd622ec08883917212d73b24
+https://live1.kinxie.com/live/69652872_ff86da69b67a69f2d376e98d6fd37433_autoChange.m3u8?auth_key=1785990590-0-0-48641e1de3becf1c7b66fa0178100587
 
 #EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [06:30 06/08] TRỰC TIẾP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tructiep-hd.club/
 #EXTVLCOPT:http-origin=https://tructiep-hd.club
-https://live1.kinxie.com/live/69652872_ff86da69b67a69f2d376e98d6fd37433_autoChange.m3u8?auth_key=1785990590-0-0-48641e1de3becf1c7b66fa0178100587
+https://live2.kinxie.com/live/67172130_40c4d9665fcce750b31739fb2742aee2_autoChange.m3u8?auth_key=1785990590-0-0-e0a07503cd622ec08883917212d73b24
 
 #EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [07:00 06/08] TRỰC TIẾP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tructiep-hd.club/
 #EXTVLCOPT:http-origin=https://tructiep-hd.club
-https://live.kinxie.com/live/72332220_abe768e70ef305de43ad140efbb459d6_autoChange.m3u8?auth_key=1785990591-0-0-01742cb74c072bc440acfdf9b62d66c7
-
-#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [07:00 06/08] TRỰC TIẾP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://tructiep-hd.club/
-#EXTVLCOPT:http-origin=https://tructiep-hd.club
-https://live3.kinxie.com/live/71913666_fcba2113b70a58520b2338d97f163f1c_autoChange.m3u8?auth_key=1785990591-0-0-1856135670f20f9a23abf9a4774bb8c6
+https://live.kinxie.com/live/73335364_7e920b748754eb61509871c92fdf2f57_autoChange.m3u8?auth_key=1785990591-0-0-e0e866dce47943f14136e88e390c434b
 
 #EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [07:00 06/08] TRỰC TIẾP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
@@ -64,7 +58,13 @@ https://live5.kinxie.com/live/73419170_c5f7ed19c93a961ef7bbdd1d01f618fa_autoChan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tructiep-hd.club/
 #EXTVLCOPT:http-origin=https://tructiep-hd.club
-https://live.kinxie.com/live/73335364_7e920b748754eb61509871c92fdf2f57_autoChange.m3u8?auth_key=1785990591-0-0-e0e866dce47943f14136e88e390c434b
+https://live3.kinxie.com/live/71913666_fcba2113b70a58520b2338d97f163f1c_autoChange.m3u8?auth_key=1785990591-0-0-1856135670f20f9a23abf9a4774bb8c6
+
+#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [07:00 06/08] TRỰC TIẾP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tructiep-hd.club/
+#EXTVLCOPT:http-origin=https://tructiep-hd.club
+https://live.kinxie.com/live/72332220_abe768e70ef305de43ad140efbb459d6_autoChange.m3u8?auth_key=1785990591-0-0-01742cb74c072bc440acfdf9b62d66c7
 
 #EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [07:15 06/08] TRỰC TIẾP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
