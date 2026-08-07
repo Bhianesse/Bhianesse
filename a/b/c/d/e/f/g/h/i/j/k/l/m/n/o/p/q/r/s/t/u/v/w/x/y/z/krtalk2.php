@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="MY PACAR LIVE",🐇ayok donasi server playlist IPTV agar server tetap aktif🐇
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/6f27f61872c960bc510be5de7cd8723a.webp" group-title="MY PACAR LIVE",🐇[LIVE 29m | Narin 🤍 | 👁 848] Miaw🐇
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/ede16bf400eba6bc3ae26c25ece408f6.webp" group-title="MY PACAR LIVE",🐇[LIVE 12m | Elaine Hartanto | 👁 103] #MadamElaine 🧏🏻‍♀️🔮🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.QImzelUobDhm.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/6f27f61872c960bc510be5de7cd8723a.webp" group-title="MY PACAR LIVE",🐇[LIVE 50m | Narin 🤍 | 👁 2439] Miaw🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.CN1UuCBv42JG.m3u8
