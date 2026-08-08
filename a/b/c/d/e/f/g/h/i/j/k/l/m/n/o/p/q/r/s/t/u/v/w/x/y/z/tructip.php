@@ -1,38 +1,68 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [09:30 08/08] TRỰC TIẾP
+#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [10:00 08/08] TRỰC TIẾP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tructiep-hd.club/
 #EXTVLCOPT:http-origin=https://tructiep-hd.club
-https://live1.kinxie.com/live/13659135_a57dbdbf63dbb55b2cdd0846517f5132_autoChange.m3u8?auth_key=1786174090-0-0-a0d548d1c26de9c1b5a1b76bfd454806
-
-#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [09:40 08/08] TRỰC TIẾP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://tructiep-hd.club/
-#EXTVLCOPT:http-origin=https://tructiep-hd.club
-https://live.kinxie.com/live/69652904_66283e62e1ec960368fff79f2fb5aedb_autoChange.m3u8?auth_key=1786174089-0-0-f9fa9484b64d5cf834ea9b265b22e50e
-
-#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [09:45 08/08] TRỰC TIẾP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://tructiep-hd.club/
-#EXTVLCOPT:http-origin=https://tructiep-hd.club
-https://live.kinxie.com/live/14097350_9911b0c5fbe1839a3f2ef30119e13117_autoChange.m3u8?auth_key=1786174090-0-0-af9438fad26218620e40f4753076d7e3
+https://live1.kinxie.com/live/13688145_4cec30223444c6c2ddbc667c15bdb037_autoChange.m3u8?auth_key=1786177788-0-0-fb2a9b4fd7a8ecd5e7ae0e07563f4c01
 
 #EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [10:00 08/08] TRỰC TIẾP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tructiep-hd.club/
 #EXTVLCOPT:http-origin=https://tructiep-hd.club
-https://live.kinxie.com/live/13659133_d04f91368ba3a38a784269d7869ac6bf_autoChange.m3u8?auth_key=1786174090-0-0-e34bb1282baa8c6864131b8921e93988
+https://live.kinxie.com/live/63kv9igyx6ntx7e_dcde5460f0a00d1a0fa63f6a8b24db62_autoChange.m3u8?auth_key=1786177786-0-0-3a951784219c4823e338642984b635b2
 
 #EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [10:00 08/08] TRỰC TIẾP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tructiep-hd.club/
 #EXTVLCOPT:http-origin=https://tructiep-hd.club
-https://live.kinxie.com/live/73468078_5e5da291a3d3cf1623eeb8154569b8d2_autoChange.m3u8?auth_key=1786174090-0-0-8e2b7ec705b9120f8f195e007958a2e0
+https://live.kinxie.com/live/13659133_d04f91368ba3a38a784269d7869ac6bf_autoChange.m3u8?auth_key=1786177788-0-0-114e7641b727b7d0979b520e89b25605
 
-#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [10:00 08/08] TRỰC TIẾP
+#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [11:00 08/08] TRỰC TIẾP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tructiep-hd.club/
 #EXTVLCOPT:http-origin=https://tructiep-hd.club
-https://live1.kinxie.com/live/13688145_4cec30223444c6c2ddbc667c15bdb037_autoChange.m3u8?auth_key=1786174091-0-0-d4f5177a1989766f08a179026a4a5c71
+https://live.kinxie.com/live/13987846_413e1c9e3f87cba4dffdd51c228aab57_autoChange.m3u8?auth_key=1786177786-0-0-c38a488b3e866001182efa972e29b003
+
+#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [11:00 08/08] TRỰC TIẾP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tructiep-hd.club/
+#EXTVLCOPT:http-origin=https://tructiep-hd.club
+https://live1.kinxie.com/live/67807490_14db6a04e94dcf8d584cc7fc22f2ed0e_autoChange.m3u8?auth_key=1786177787-0-0-2fc3b7f30cb0ed764af1deee4b92a96c
+
+#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [11:00 08/08] TRỰC TIẾP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tructiep-hd.club/
+#EXTVLCOPT:http-origin=https://tructiep-hd.club
+https://live1.kinxie.com/live/13659134_e7e8e6dfd8b7e18c4863522995c54c90_autoChange.m3u8?auth_key=1786177786-0-0-66f501042d89e4795a705354de7baff1
+
+#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [11:00 08/08] TRỰC TIẾP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tructiep-hd.club/
+#EXTVLCOPT:http-origin=https://tructiep-hd.club
+https://live2.kinxie.com/live/70228402_99e332902207e0c5782eba3779abea9c_autoChange.m3u8?auth_key=1786177787-0-0-dea80e7e1f836b8232a40c760a068500
+
+#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [11:00 08/08] TRỰC TIẾP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tructiep-hd.club/
+#EXTVLCOPT:http-origin=https://tructiep-hd.club
+https://live.kinxie.com/live/68680154_9daa8f48193e874a684332f131172d01_autoChange.m3u8?auth_key=1786177787-0-0-918c4eac58d5de646ec3d08741631541
+
+#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [11:30 08/08] TRỰC TIẾP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tructiep-hd.club/
+#EXTVLCOPT:http-origin=https://tructiep-hd.club
+https://live.kinxie.com/live/13584368_7c3cd5e934f4ea9ca2e93062aeae64d4_autoChange.m3u8?auth_key=1786177787-0-0-64affc8c50168be43af9b0189da296ce
+
+#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [11:30 08/08] TRỰC TIẾP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tructiep-hd.club/
+#EXTVLCOPT:http-origin=https://tructiep-hd.club
+https://live2.kinxie.com/live/13401040_afe0201fd33443047fabbeb60fae75ec_autoChange.m3u8?auth_key=1786177787-0-0-58ab84c8c363415d92d6955c9f993e61
+
+#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [11:30 08/08] TRỰC TIẾP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tructiep-hd.club/
+#EXTVLCOPT:http-origin=https://tructiep-hd.club
+https://live1.kinxie.com/live/13401037_d38e108e9982acd11decd410d47302a9_autoChange.m3u8?auth_key=1786177787-0-0-5335698728a3b862476e00cc4fcac41e
 
