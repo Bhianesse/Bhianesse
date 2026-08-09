@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Arsenal vs Dortmund 20:00 ngày 09/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Johor Darul Takzim vs Chelsea 19:00 ngày 09/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel1.m3u8
+https://live2.streambylivepulse.com/live/channel6.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Manchester City vs Atletico Madrid 18:00 ngày 09/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -12,29 +12,11 @@ https://live2.streambylivepulse.com/live/channel1.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel15.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Johor Darul Takzim vs Chelsea 19:00 ngày 09/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Arsenal vs Dortmund 20:00 ngày 09/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel6.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp KuPs vs TPS Turku 19:00 ngày 09/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel9.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Shandong Taishan vs Tianjin Jinmen Tiger 19:00 ngày 09/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel13.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Lugano vs FC Zurich 19:00 ngày 09/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel20.m3u8
+https://live2.streambylivepulse.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Groningen vs FC Utrecht 19:30 ngày 09/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -42,11 +24,11 @@ https://live2.streambylivepulse.com/live/channel20.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel8.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp PEC Zwolle vs AFC Ajax 19:30 ngày 09/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kilmarnock F.C. vs Celtic F.C. 19:30 ngày 09/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel11.m3u8
+https://live2.streambylivepulse.com/live/channel10.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Lillestrom vs Rosenborg 19:30 ngày 09/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -54,11 +36,11 @@ https://live2.streambylivepulse.com/live/channel11.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel17.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kilmarnock F.C. vs Celtic F.C. 19:30 ngày 09/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp PEC Zwolle vs AFC Ajax 19:30 ngày 09/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel10.m3u8
+https://live2.streambylivepulse.com/live/channel11.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Zenit St. Petersburg vs Rodina Moscow 21:00 ngày 09/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -66,17 +48,23 @@ https://live2.streambylivepulse.com/live/channel10.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel18.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Zulte-Waregem vs Racing Genk 21:00 ngày 09/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel14.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp RC Charleroi vs Oud-Heverlee 21:00 ngày 09/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel22.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Zulte-Waregem vs Racing Genk 21:00 ngày 09/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Inter Turku vs Lahti 21:00 ngày 09/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel14.m3u8
+https://live2.streambylivepulse.com/live/channel4.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Randers FC vs Lyngby BK 21:00 ngày 09/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -84,11 +72,17 @@ https://live2.streambylivepulse.com/live/channel14.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel16.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Inter Turku vs Lahti 21:00 ngày 09/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Basel 1893 vs Thun 21:30 ngày 09/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel4.m3u8
+https://live2.streambylivepulse.com/live/channel9.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp St. Gallen vs Luzern 21:30 ngày 09/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel13.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Sion vs Vaduz 21:30 ngày 09/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -101,6 +95,12 @@ https://live2.streambylivepulse.com/live/channel12.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel24.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ilves Tampere vs IFK Mariehamn 22:00 ngày 09/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel20.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Petrolul vs Otelul Galati 22:30 ngày 09/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
