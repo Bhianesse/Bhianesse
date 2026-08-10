@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Adelaide United vs Công An Hà Nội 16:30 ngày 11/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Kairat vs Levski Sofia 22:00 ngày 11/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel1.m3u8
+https://live2.streambylivepulse.com/live/channel15.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FK Bodo Glimt vs Union SG 23:00 ngày 11/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -12,11 +12,11 @@ https://live2.streambylivepulse.com/live/channel1.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel5.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Kairat vs Levski Sofia 22:00 ngày 11/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Adelaide United vs Công An Hà Nội 16:30 ngày 11/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel15.m3u8
+https://live2.streambylivepulse.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Sabah FK vs Aarhus AGF 23:00 ngày 11/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -24,17 +24,17 @@ https://live2.streambylivepulse.com/live/channel15.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel11.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kauno Zalgiris vs Dinamo Zagreb 00:00 ngày 12/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel6.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Toluca vs Nữ Juarez 07:00 ngày 11/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel21.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kauno Zalgiris vs Dinamo Zagreb 00:00 ngày 12/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel6.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Goias Esporte Clube vs Londrina PR 05:30 ngày 11/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -120,17 +120,17 @@ https://live2.streambylivepulse.com/live/channel19.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel14.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Cechie Vykan vs FK Dukla Praha 23:00 ngày 11/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel10.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Apollon Limassol FC vs Brann 00:00 ngày 12/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel9.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Cechie Vykan vs FK Dukla Praha 23:00 ngày 11/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel10.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Manchester United vs PSG ngày 08/08/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
