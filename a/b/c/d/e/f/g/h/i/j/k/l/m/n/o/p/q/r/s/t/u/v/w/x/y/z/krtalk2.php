@@ -1,33 +1,33 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="MY PACAR LIVE",🐇ayok donasi server playlist IPTV agar server tetap aktif🐇
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/d2c2edcff680efd38b437ac860a03366.webp" group-title="MY PACAR LIVE",🐇[LIVE 5m | Pamela Krysanthe | 👁 25] lesgaww🐇
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/ca4d9cd5c136c4b4eebbcd5198aa66c5.webp" group-title="MY PACAR LIVE",🐇[LIVE 24m | Zasa indomodel | 👁 655] Maap ya bru ngelive, tdi tepar bangett🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ys4OHV8sDwsT.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/0286492dc2420fa3aaa2894c0804a37b.webp" group-title="MY PACAR LIVE",🐇[LIVE 27m | Marsha JKT48 | 👁 5128] Plisss🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.sSKNwImoM3zD.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/ea25e07ade714f6540dabe48e8144f49.webp" group-title="MY PACAR LIVE",🐇[LIVE 27m | Delynn JKT48 | 👁 4564] hi🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.5j4KMiUb4eXE.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/9f14e87264281f2483cb070061c1f288.webp" group-title="MY PACAR LIVE",🐇[LIVE 30m | Nachia JKT48 | 👁 4706] helo🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.zVh5JKAAtDUC.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/1e0c833c974166899e524aa762fabe24.webp" group-title="MY PACAR LIVE",🐇[LIVE 30m | Lyn JKT48 | 👁 1868] Ayo ngobrol bareng!🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.YMhzlmrLe7tw.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/019cb0c2d748d087e125cb8a9a939e95.webp" group-title="MY PACAR LIVE",🐇[LIVE 30m | gitagato | 👁 1048] ngobrol sebelum long weekend :b 🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Dngioj5piqys.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/e25b1f4cc26f9b3116bdd88d4464bb74.webp" group-title="MY PACAR LIVE",🐇[LIVE 31m | Oline JKT48 | 👁 5747] y🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.gYN6fQPMCqs0.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/c2a902c36ef007eb6de08badee8a363e.webp" group-title="MY PACAR LIVE",🐇[LIVE 31m | Olla JKT48 | 👁 4005] Ayo ngobrol bareng!🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.QGp4Op9dfxOA.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/28c9ce628825f7cf39104e336490aa4d.webp" group-title="MY PACAR LIVE",🐇[LIVE 35m | Greesel JKT48 | 👁 4414] :D🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.z3nXSqOvE9Fs.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/5d3bcb994ea9f0c1dad90fc71900bd21.webp" group-title="MY PACAR LIVE",🐇[LIVE 36m | Gita JKT48 | 👁 4429] Gits🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.k4fAFOYXENlG.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/d2c2edcff680efd38b437ac860a03366.webp" group-title="MY PACAR LIVE",🐇[LIVE 59m | Pamela Krysanthe | 👁 1321] lesgaww🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.b1bCsnlrEy5T.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/31cfd8de7e45fac163da2a91cd3b618d.webp" group-title="MY PACAR LIVE",🐇[LIVE 10m | Nana | Karafuru Idol Group | 👁 92] HAYIIII 🐇
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/31cfd8de7e45fac163da2a91cd3b618d.webp" group-title="MY PACAR LIVE",🐇[LIVE 1h | Nana | Karafuru Idol Group | 👁 1684] HAYIIII 🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.qAyFRVWNG8bj.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/279915ebca8efe033232da04f736f78c.webp" group-title="MY PACAR LIVE",🐇[LIVE 11m | Piya | Karafuru Idol Group | 👁 106] #salamcintadaripiyak🤍🐇
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/279915ebca8efe033232da04f736f78c.webp" group-title="MY PACAR LIVE",🐇[LIVE 1h | Piya | Karafuru Idol Group | 👁 1388] #salamcintadaripiyak🤍🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.vEBpCFKQ2tOg.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/a676743e6663243f3d19215e44d42d5b.webp" group-title="MY PACAR LIVE",🐇[LIVE 23m | Astrid Veyne | 👁 230] Coverrrrr Sambil Nostalgia Lagu Lama🐇
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/a676743e6663243f3d19215e44d42d5b.webp" group-title="MY PACAR LIVE",🐇[LIVE 1h | Astrid Veyne | 👁 2376] Coverrrrr Sambil Nostalgia Lagu Lama🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.z9knJN2mUNqu.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/f4f8b1206e8242e61324c6c9310175ab.webp" group-title="MY PACAR LIVE",🐇[LIVE 23m | Gracie JKT48 | 👁 1487] hiii🐇
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/f4f8b1206e8242e61324c6c9310175ab.webp" group-title="MY PACAR LIVE",🐇[LIVE 1h | Gracie JKT48 | 👁 4786] hiii🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ztIO0UisaA3P.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/d6505d4a0f1e4a385991d5d77f044b1e.webp" group-title="MY PACAR LIVE",🐇[LIVE 30m | Jessi JKT48 | 👁 1921] hewo🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.726SnUjvlfRJ.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/732b46c7dfabc131c1a452c61f5ae63e.webp" group-title="MY PACAR LIVE",🐇[LIVE 38m | Jessy Alexa | 👁 504] hallo🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.SBfQlGWTO2Jq.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/1432436c800e13446197533274f7b622.webp" group-title="MY PACAR LIVE",🐇[LIVE 39m | Fera JKT48 | 👁 1591] Ayo masuk 😝✌🏻🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.zH8hKGmlbbxC.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/c8706f6acc385814619db26469572d5b.webp" group-title="MY PACAR LIVE",🐇[LIVE 40m | Bella JKT48 | 👁 2494] Haallooww 🤍🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.2C3t5GoDLzUG.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/f6bd9451391bc813c645dfe05d097984.webp" group-title="MY PACAR LIVE",🐇[LIVE 40m | Hello_Kethy | 👁 714] Lagi apaaa?🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.H5Wxa3rzRc3x.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/66d5e97822a650be840bef72f7cda55a.webp" group-title="MY PACAR LIVE",🐇[LIVE 51m | Danella JKT48 | 👁 1744] Ayo ngobrol bareng!🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.1TQqlwWPwce5.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/c2b6c9a1a09651be2a40d25597d2d79c.webp" group-title="MY PACAR LIVE",🐇[LIVE 1h | Maxine JKT48 | 👁 2425] haaaii🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.e24XJUgQfCvY.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/1e4496349ea52ee70e17acb29ce35ea8.webp" group-title="MY PACAR LIVE",🐇[LIVE 1h | Ralyne JKT48 | 👁 4440] CUCU🙉🙉🙉🙉🙉🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.QC3wCAqzZ0v9.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/bec40e7d589910e082b7c3c3b8426727.webp" group-title="MY PACAR LIVE",🐇[LIVE 1h | Citra Ayu Pranajaya | 👁 1793] Ayo ngobrol bareng!🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.eI1wSHYs8Jdj.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/6ad91a6fe1622e9d2cce613ff6898bdc.webp" group-title="MY PACAR LIVE",🐇[LIVE 2h | Elaine Hartanto | 👁 2604] #MadamElaine 🔮🧏🏻‍♀️🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.QImzelUobDhm.m3u8
