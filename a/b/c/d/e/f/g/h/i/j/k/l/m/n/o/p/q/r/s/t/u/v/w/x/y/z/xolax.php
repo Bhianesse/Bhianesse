@@ -46,31 +46,31 @@ https://live2.streambylivepulse.com/live/channel6.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel4.m3u8?auth_key=3000001786829592-0-0-b44b9693bff3535be96587ff37bb0781
+https://live3.procdnlive.com/livecdn/channel4.m3u8?auth_key=3000001786830417-0-0-19d03ccd60ac5cda3d2298a09c982c9e
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Club America vs Nữ Puebla 04:45 ngày 16/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel9.m3u8?auth_key=3000001786829594-0-0-9505bca0c8470480af0256c36b4b4ede
+https://live3.procdnlive.com/livecdn/channel9.m3u8?auth_key=3000001786830419-0-0-9cf94156863e2893aa60e9f0c3ab90f1
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Newell Old Boys vs Deportivo Riestra 05:00 ngày 16/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel22.m3u8?auth_key=3000001786829598-0-0-804dd725d7f0828586cc208c1e236607
+https://live3.procdnlive.com/livecdn/channel22.m3u8?auth_key=3000001786830423-0-0-2e35c97eaa653626fe40e7f86bf17b21
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Belgrano vs Ind. Rivadavia 05:00 ngày 16/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.procdnlive.com/livecdn/channel14.m3u8?auth_key=3000001786829602-0-0-5890c157a86a218755c019124d8796ba
+https://live3.procdnlive.com/livecdn/channel14.m3u8?auth_key=3000001786830426-0-0-34ef1720309440fa2fdb8306fab4aa09
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Atlante FC vs Toluca 06:00 ngày 16/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel67/playlist.m3u8?wsSecret=e5d28878046071a6d3fa14980a766afb&wsABSTime=1786872803
+https://live1.streambylivepulse.com/live/channel67/playlist.m3u8?wsSecret=170792190e07fdf7bd8b702bf451c263&wsABSTime=1786873628
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Toronto FC vs New England 06:30 ngày 16/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -94,13 +94,13 @@ https://live2.streambylivepulse.com/live/channel23.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel61/playlist.m3u8?wsSecret=9a9d9dafb4c347dc9103c194bb8432e2&wsABSTime=1786872813
+https://live1.streambylivepulse.com/live/channel61/playlist.m3u8?wsSecret=955dc01da9f3d94bf348ce1ab26f89af&wsABSTime=1786873641
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Montreal Impact vs DC United 06:30 ngày 16/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel68/playlist.m3u8?wsSecret=3926cc037c4ecd8d3674a9f70bbfd5b5&wsABSTime=1786872816
+https://live1.streambylivepulse.com/live/channel68/playlist.m3u8?wsSecret=3c41720ea149e84389c6e0a567716c33&wsABSTime=1786873644
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp CA Platense vs Boca Juniors 07:15 ngày 16/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
