@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tottenham vs TSG Hoffenheim 21:00 ngày 15/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel19.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Singapore vs Thái Lan 20:00 ngày 15/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -17,6 +11,12 @@ https://live2.streambylivepulse.com/live/channel1.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel6.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tottenham vs TSG Hoffenheim 21:00 ngày 15/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel19.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Manchester United vs AC Milan 21:45 ngày 15/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -30,29 +30,17 @@ https://live2.streambylivepulse.com/live/channel5.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel13.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Cruz Azul vs Nữ Atlante 08:00 ngày 15/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel24.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Correcaminos de la U.A.T. vs Chivas Tapatio 08:00 ngày 15/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel21.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp M. Zacatecas vs Venados FC Yucatán 08:00 ngày 15/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel12.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Port Melbourne vs Melbourne Knights 11:00 ngày 15/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel23.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Melbourne City NPL vs South Melbourne 12:00 ngày 15/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel12.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Heidelberg United vs Hume City 12:00 ngày 15/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -66,11 +54,23 @@ https://live2.streambylivepulse.com/live/channel4.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel27.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxtn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp A.P.I.A. Leichhardt vs SD Raiders FC 13:00 ngày 15/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel21.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxtn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Sydney Olympic vs Sydney United 58 FC 14:00 ngày 15/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel7.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Caroline Springs vs Avondale FC 15:00 ngày 15/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel18.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Qingdao RL vs Xian Ronghai FC 15:00 ngày 15/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -78,11 +78,11 @@ https://live2.streambylivepulse.com/live/channel7.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel10.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Caroline Springs vs Avondale FC 15:00 ngày 15/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxtn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kashima Antlers vs Nagoya Grampus 16:00 ngày 15/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel18.m3u8
+https://live2.streambylivepulse.com/live/channel15.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Blaublitz Akita vs Kataller Toyama 16:00 ngày 15/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -95,12 +95,6 @@ https://live2.streambylivepulse.com/live/channel9.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel20.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kashima Antlers vs Nagoya Grampus 16:00 ngày 15/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel15.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Shimizu S-Pulse vs Yokohama Marinos 16:30 ngày 15/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -119,6 +113,12 @@ https://live2.streambylivepulse.com/live/channel8.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel17.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Jeju SK FC vs FC Anyang 17:30 ngày 15/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel22.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Manchester United vs Leeds United ngày 13/08/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
