@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Fulham vs VfB Stuttgart 22:00 ngày 15/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel23.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Manchester United vs AC Milan 21:45 ngày 15/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel5.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tottenham vs TSG Hoffenheim 21:00 ngày 15/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -24,23 +12,29 @@ https://live2.streambylivepulse.com/live/channel19.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel6.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Manchester United vs AC Milan 21:45 ngày 15/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel5.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FK Rostov vs Rubin Kazan 22:30 ngày 15/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel13.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Piast Gliwice vs KS Wieczysta Krakow 22:30 ngày 15/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.streambylivepulse.com/live/channel7.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Catanzaro vs SudTirol 23:00 ngày 15/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel21.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Piast Gliwice vs KS Wieczysta Krakow 22:30 ngày 15/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.streambylivepulse.com/live/channel7.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp IFK Mariehamn vs SJK Seinajoen 23:00 ngày 15/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -90,83 +84,89 @@ https://live2.streambylivepulse.com/live/channel18.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.streambylivepulse.com/live/channel11.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Andorra CF vs AD Ceuta 22:00 ngày 15/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel13/playlist.m3u8?wsSecret=1fd4353f0dca074fe4d4653211bbb4f1&wsABSTime=1786849422
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Karpaty Lviv vs FC Bukovyna 22:00 ngày 15/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel20/playlist.m3u8?wsSecret=745ff4afffd1285196a00a947d3d9baa&wsABSTime=1786849426
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ordabasy vs Altay FK 22:00 ngày 15/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel14/playlist.m3u8?wsSecret=87881e3aa69f5a49b2e982bf3b81c04c&wsABSTime=1786849431
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kaisar Kyzylorda vs FK Aktobe Lento 22:00 ngày 15/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel39/playlist.m3u8?wsSecret=0438010c0c995b5a332ae31d77169665&wsABSTime=1786849431
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Sochi vs Volga Ulyanovsk 22:00 ngày 15/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel22/playlist.m3u8?wsSecret=d88cc146356f769e39ea90090266686a&wsABSTime=1786849436
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp 1.FC Slovácko vs SK Sigma Olomouc 22:00 ngày 15/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel23/playlist.m3u8?wsSecret=9d65ce9c5302df0874e6ee2d73a9b872&wsABSTime=1786849438
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FK Pardubice vs FK Mladá Boleslav 22:00 ngày 15/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel19/playlist.m3u8?wsSecret=24c7c832d50e0a3ee99b68db4c018044&wsABSTime=1786849443
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp AC Sparta Praha vs FK Teplice 22:00 ngày 15/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel18/playlist.m3u8?wsSecret=ee9fa7d94d910ae3ff91c29ef6cf526e&wsABSTime=1786849443
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp SC Austria Lustenau vs Wolfsberger AC 22:00 ngày 15/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel17/playlist.m3u8?wsSecret=f6e19cf1c976e9e26766f5472f411587&wsABSTime=1786849448
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Neman Grodno vs FC Minsk 22:00 ngày 15/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel16/playlist.m3u8?wsSecret=78eb04e91ce6f8b25e17dbff3ad057ae&wsABSTime=1786849450
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Angers vs Paris FC 22:30 ngày 15/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel26/playlist.m3u8?wsSecret=34e160000020ca417cbc3fcdb343028f&wsABSTime=1786849455
+https://live1.streambylivepulse.com/live/channel26/playlist.m3u8?wsSecret=9c4dfa70da5cb510fab8bcd67c4ce623&wsABSTime=1786851104
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Dinamo Tbilisi vs FC Metalurgi Rustavi 22:00 ngày 15/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nyiregyhaza vs Kisvárda FC 22:30 ngày 15/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel15/playlist.m3u8?wsSecret=1584318a9e3d75c959340fc9fc826661&wsABSTime=1786849455
+https://live1.streambylivepulse.com/live/channel25/playlist.m3u8?wsSecret=52742e7bdf7f402fff53f39056ced600&wsABSTime=1786851107
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Zurich City SC vs Winterthur 22:30 ngày 15/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.streambylivepulse.com/live/channel27/playlist.m3u8?wsSecret=e1cf7974ffd1b6f0fb892ae947da3b80&wsABSTime=1786851106
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FK Csikszereda vs Sepsi OSK 22:30 ngày 15/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.streambylivepulse.com/live/channel28/playlist.m3u8?wsSecret=9a9667fa438599b7aca256c0340136ca&wsABSTime=1786851112
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp BKMA vs Ararat Yerevan 22:30 ngày 15/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.streambylivepulse.com/live/channel24/playlist.m3u8?wsSecret=f3fd523b772cb7405029fcbb7e7a89b2&wsABSTime=1786849460
+https://live1.streambylivepulse.com/live/channel24/playlist.m3u8?wsSecret=21871ada6143c923b8d7ed97b27f40cb&wsABSTime=1786851115
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp MFK Skalica vs FK Kosice 23:00 ngày 15/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.streambylivepulse.com/live/channel32/playlist.m3u8?wsSecret=53229a0afe5f611337e1aef82bf49915&wsABSTime=1786851119
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Karagumruk vs Umraniyespor 23:00 ngày 15/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.streambylivepulse.com/live/channel36/playlist.m3u8?wsSecret=8d2d045a75c8823e54fab2516a0ec555&wsABSTime=1786851119
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Istanbulspor vs Bodrum FK 23:00 ngày 15/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.streambylivepulse.com/live/channel37/playlist.m3u8?wsSecret=f0457995517bb46ead66457f9a71c721&wsABSTime=1786851123
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Slovan Bratislava vs MFK Ruzomberok 23:00 ngày 15/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.streambylivepulse.com/live/channel31/playlist.m3u8?wsSecret=0196906d683efa2dfb7743d48fe659f2&wsABSTime=1786851126
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Le Mans vs Le Havre FC 23:00 ngày 15/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.streambylivepulse.com/live/channel34/playlist.m3u8?wsSecret=b62cceb7d3acb003fa89a5ca20504e64&wsABSTime=1786851130
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Regensdorf vs Grasshopper 23:00 ngày 15/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.streambylivepulse.com/live/channel35/playlist.m3u8?wsSecret=d6609174a5287dccd363a40619228133&wsABSTime=1786851130
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Slavia Sofia vs Levski Sofia 23:00 ngày 15/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.streambylivepulse.com/live/channel30/playlist.m3u8?wsSecret=71824e0cf9e12d8fb964aaf93a3be707&wsABSTime=1786851134
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp CA Juventud vs Montevideo City 23:00 ngày 15/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.streambylivepulse.com/live/channel29/playlist.m3u8?wsSecret=a565f330c036e009d34c5d6929669eb5&wsABSTime=1786851137
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Sochi vs Volga Ulyanovsk 22:00 ngày 15/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.streambylivepulse.com/live/channel22/playlist.m3u8?wsSecret=2bc4ccfc0000214637fdcec8a73b2824&wsABSTime=1786851141
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Manchester United vs Leeds United ngày 13/08/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
