@@ -6,17 +6,17 @@
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel22.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Arsenal vs Manchester City 21:00 ngày 16/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.buzzscorelinez.com/livecdn/channel-5.m3u8?auth_key=3000001786894133-0-0-9d441b55e7c85a4587149afdeea04018
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Schalke 04 vs Real Madrid 22:00 ngày 16/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel14.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Arsenal vs Manchester City 21:00 ngày 16/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live3.buzzscorelinez.com/livecdn/channel-5.m3u8?auth_key=3000001786894878-0-0-5739a8882738b097ba31f29265a0a033
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Racing Santander vs Villarreal 22:00 ngày 16/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -96,83 +96,77 @@ https://live2.livefeedtextbox.com/live/channel17.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel9.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Puskas Akademia FC vs Paksi FC 22:30 ngày 16/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.buzzscorelinez.com/livecdn/channel-75.m3u8?auth_key=3000001786894198-0-0-cdc843ccfcf50d39e422dadf619caee1
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Cracovia Krakow vs R. Czestochowa 22:30 ngày 16/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.buzzscorelinez.com/livecdn/channel-76.m3u8?auth_key=3000001786894198-0-0-47dcd3885a5ef28eebcce43574ca0416
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp NK Radomlje vs NK Aluminij 22:30 ngày 16/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.buzzscorelinez.com/livecdn/channel-77.m3u8?auth_key=3000001786894204-0-0-b56fbb0ae2affa74acb41bb5306256ce
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kauno Zalgiris vs Transinvest 22:45 ngày 16/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.buzzscorelinez.com/livecdn/channel-86.m3u8?auth_key=3000001786894213-0-0-29e0ad5a0a8ab9d717ee524b69baa6d0
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Flora Tallinn vs FC Kuressaare 23:00 ngày 16/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.buzzscorelinez.com/livecdn/channel-81.m3u8?auth_key=3000001786894215-0-0-c141bd561395317a0d65d61477c5a6ce
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Otelul Galati vs Univ. Craiova 22:30 ngày 16/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.buzzscorelinez.com/livecdn/channel-74.m3u8?auth_key=3000001786894213-0-0-dc5515352cb866933b31d7cd2e65bbd6
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kayserispor vs Sivasspor 23:00 ngày 16/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.buzzscorelinez.com/livecdn/channel-83.m3u8?auth_key=3000001786894220-0-0-cca9bf55119a9e7e52d100fcc19d84f3
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Sporting Cristal vs Sport Huancayo 23:00 ngày 16/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.buzzscorelinez.com/livecdn/channel-82.m3u8?auth_key=3000001786894226-0-0-80998563ddf7bc22de9f035168d3101b
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Harju JK Laagri vs Levadia Tallinn 23:00 ngày 16/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.buzzscorelinez.com/livecdn/channel-80.m3u8?auth_key=3000001786894229-0-0-aefc72e99f3a2de61d67e56e84195ffb
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ankara Keciorengucu vs Pendikspor 23:00 ngày 16/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.buzzscorelinez.com/livecdn/channel-85.m3u8?auth_key=3000001786894230-0-0-194b668f3a6f9bbc167a2613021ea66d
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Supra Du Quebec vs Atletico Ottawa 23:00 ngày 16/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel79/playlist.m3u8?wsSecret=55c45ff9d8051a9d4a813c3ac7391869&wsABSTime=1786937436
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp CSKA Sofia vs Botev Vratsa 23:00 ngày 16/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.buzzscorelinez.com/livecdn/channel-78.m3u8?auth_key=3000001786894241-0-0-5f5a2fa1d0788b5c31a0649af84aa13a
+https://live3.buzzscorelinez.com/livecdn/channel-86.m3u8?auth_key=3000001786894938-0-0-7466d487a3c75696e68505872ab5d34e
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Grosuplje vs NS Mura 23:00 ngày 16/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.buzzscorelinez.com/livecdn/channel-84.m3u8?auth_key=3000001786894244-0-0-ff2368fa325fd0fc09cfcbf031082616
+https://live3.buzzscorelinez.com/livecdn/channel-84.m3u8?auth_key=3000001786894942-0-0-431d376aa1bda8e8efad1374b9f99f0d
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp CSKA Sofia vs Botev Vratsa 23:00 ngày 16/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live3.buzzscorelinez.com/livecdn/channel-78.m3u8?auth_key=3000001786894948-0-0-a96e638b399ff07623d07ad8ddf82941
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Supra Du Quebec vs Atletico Ottawa 23:00 ngày 16/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel79/playlist.m3u8?wsSecret=03529c863aa2f3ca46e9271e9cfcda43&wsABSTime=1786938150
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Harju JK Laagri vs Levadia Tallinn 23:00 ngày 16/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live3.buzzscorelinez.com/livecdn/channel-80.m3u8?auth_key=3000001786894954-0-0-71909302a38800ed54286bcda2698a27
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Flora Tallinn vs FC Kuressaare 23:00 ngày 16/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live3.buzzscorelinez.com/livecdn/channel-81.m3u8?auth_key=3000001786894956-0-0-3b23272f35ecf2a0f26f0767364afcfc
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Sporting Cristal vs Sport Huancayo 23:00 ngày 16/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live3.buzzscorelinez.com/livecdn/channel-82.m3u8?auth_key=3000001786894962-0-0-a96fedf1dc715214379a31358ed0107e
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kayserispor vs Sivasspor 23:00 ngày 16/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live3.buzzscorelinez.com/livecdn/channel-83.m3u8?auth_key=3000001786894965-0-0-5a2f7297a1e8e702016a983bdb24753d
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ankara Keciorengucu vs Pendikspor 23:00 ngày 16/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live3.buzzscorelinez.com/livecdn/channel-85.m3u8?auth_key=3000001786894970-0-0-1f4f9e094487d3b4bc5f76b2c096f988
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FK Zalgiris Vilnius vs Banga Gargzdai 23:30 ngày 16/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live3.buzzscorelinez.com/livecdn/channel-37.m3u8?auth_key=3000001786894971-0-0-ef452e7fe18a49c37e8e91306a676423
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nublense vs Union La Calera 23:30 ngày 16/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live3.buzzscorelinez.com/livecdn/channel-36.m3u8?auth_key=3000001786894976-0-0-c766fcf53331dd890d558c3be3950b62
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp KV Mechelen vs Standard Liege 23:30 ngày 16/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live3.buzzscorelinez.com/livecdn/channel-35.m3u8?auth_key=3000001786894980-0-0-7781e0299a0d688daaf54d66f5cbd17c
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Sevilla vs Rayo Vallecano ngày 16/08/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
