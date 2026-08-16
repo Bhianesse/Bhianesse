@@ -1,22 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Liverpool vs Como 17:30 ngày 16/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Arsenal vs Manchester City 21:00 ngày 16/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.livefeedtextbox.com/live/channel6.m3u8
+https://live3.buzzscorelinez.com/livecdn/channel-5.m3u8?auth_key=3000001786881633-0-0-bd41e6cea8cc73fe19ee1f50dcdc2ac2
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Malaysia vs Việt Nam 20:00 ngày 16/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.buzzscorelinez.com/livecdn/channel-1.m3u8?auth_key=3000001786881151-0-0-f4b265639c3ac5d7f1db59a3db0acb05
+https://live3.buzzscorelinez.com/livecdn/channel-1.m3u8?auth_key=3000001786881633-0-0-6582c1284fe9f8f9082a437bfeeae6a7
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Arsenal vs Manchester City 21:00 ngày 16/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Liverpool vs Como 17:30 ngày 16/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.buzzscorelinez.com/livecdn/channel-5.m3u8?auth_key=3000001786881151-0-0-31107833acc97e76ef2f647cec7b64f1
+https://live2.livefeedtextbox.com/live/channel6.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Basel 1893 vs Barcelona 21:30 ngày 16/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -24,17 +24,17 @@ https://live3.buzzscorelinez.com/livecdn/channel-5.m3u8?auth_key=300000178688115
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel22.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Schalke 04 vs Real Madrid 22:00 ngày 16/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.livefeedtextbox.com/live/channel14.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Racing Santander vs Villarreal 22:00 ngày 16/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel24.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Schalke 04 vs Real Madrid 22:00 ngày 16/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.livefeedtextbox.com/live/channel14.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Espanyol vs Levante 00:00 ngày 17/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -78,17 +78,17 @@ https://live2.livefeedtextbox.com/live/channel8.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel13.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Lahti vs KuPs 21:00 ngày 16/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.livefeedtextbox.com/live/channel27.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Krylya Sovetov vs Dynamo Makhachkala 21:00 ngày 16/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel10.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Lahti vs KuPs 21:00 ngày 16/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.livefeedtextbox.com/live/channel27.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp CD Nacional vs Estoril 21:30 ngày 16/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
