@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Austin FC vs FC Dallas 07:30 ngày 17/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.livefeedtextbox.com/live/channel19.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Seattle Sounders vs Vancouver Whitecaps 09:30 ngày 17/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -18,17 +12,11 @@ https://live2.livefeedtextbox.com/live/channel18.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel11.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp SJ Earthquakes (R) vs Saint Louis City B 09:30 ngày 17/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Austin FC vs FC Dallas 07:30 ngày 17/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.livefeedtextbox.com/live/channel7.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp In. Petrolero vs GV San Jose 06:30 ngày 17/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel53/playlist.m3u8?wsSecret=6b90eb3e64770739fd33e727f307506e&wsABSTime=1786966479
+https://live2.livefeedtextbox.com/live/channel19.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Club Tijuana vs Cruz Azul 10:00 ngày 17/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -36,149 +24,161 @@ https://live1.quickscoreboardz.com/live/channel53/playlist.m3u8?wsSecret=6b90eb3
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel15.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp SJ Earthquakes (R) vs Saint Louis City B 09:30 ngày 17/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.livefeedtextbox.com/live/channel7.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp UNAN Managua vs Jalapa 07:00 ngày 17/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel46/playlist.m3u8?wsSecret=ad0fe8b0e1b153fb2dd871f2e783622d&wsABSTime=1786966479
+https://live1.quickscoreboardz.com/live/channel46/playlist.m3u8?wsSecret=10415c3888ada5f958181ba1ff3b6e22&wsABSTime=1786967238
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Deportiva Aucas vs LDU Quito 07:00 ngày 17/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel56/playlist.m3u8?wsSecret=7a22de7bd067849f0c5659e0d99472bb&wsABSTime=1786966485
+https://live1.quickscoreboardz.com/live/channel56/playlist.m3u8?wsSecret=bb0ea77bc231164e576d664c7504411f&wsABSTime=1786967248
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp In. Petrolero vs GV San Jose 06:30 ngày 17/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel53/playlist.m3u8?wsSecret=87527c0dacdf4cbe6afade57bd02a489&wsABSTime=1786967249
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp AD Cofutpa vs ADR Jicaral 07:00 ngày 17/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel57/playlist.m3u8?wsSecret=f3286c7c384a326e0cfaab2bb5fd2e15&wsABSTime=1786966490
+https://live1.quickscoreboardz.com/live/channel57/playlist.m3u8?wsSecret=99bedfe74588df5b517c24b9e00863c6&wsABSTime=1786967250
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Angel City vs Nữ Washington Spirit 08:00 ngày 17/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel37/playlist.m3u8?wsSecret=e851d0a6071b3d790c2f7b3ef529acf3&wsABSTime=1786966490
+https://live1.quickscoreboardz.com/live/channel37/playlist.m3u8?wsSecret=3018795e95ea4522561ba8bc70089c87&wsABSTime=1786967257
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Olancho FC vs Juticalpa 08:30 ngày 17/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel38/playlist.m3u8?wsSecret=5468f7a5d8721df52bb649a6c6340e8e&wsABSTime=1786966492
+https://live1.quickscoreboardz.com/live/channel38/playlist.m3u8?wsSecret=cbbfdc7fd6a4ff8773244ffc60f7f3c2&wsABSTime=1786967260
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Los Angeles FC II vs Tacoma Defiance 09:00 ngày 17/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel39/playlist.m3u8?wsSecret=8e8722c1cbedfd8aea048d823af620f3&wsABSTime=1786966496
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Real Madrid U17 Women vs Nữ Manchester City U17 15:00 ngày 17/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel2/playlist.m3u8?wsSecret=37baa206557dc625e6a4281a2157cd39&wsABSTime=1786966501
+https://live1.quickscoreboardz.com/live/channel39/playlist.m3u8?wsSecret=ba5b9e5bc451caa151a537e8e05604b4&wsABSTime=1786967262
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ East Bengal vs Nữ Rajshahi Stars 15:00 ngày 17/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel1/playlist.m3u8?wsSecret=19c0a6e34f14a288176e46c19bc3cb15&wsABSTime=1786966500
+https://live1.quickscoreboardz.com/live/channel1/playlist.m3u8?wsSecret=c3d468065f4d23ad05bb0fd8b6a56031&wsABSTime=1786967266
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Real Madrid U17 Women vs Nữ Manchester City U17 15:00 ngày 17/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel2/playlist.m3u8?wsSecret=87ee61a74293f2fc50cf17dd3902d2dd&wsABSTime=1786967268
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Paris FC U17 Women vs Nữ Real Sociedad U17 15:00 ngày 17/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel3/playlist.m3u8?wsSecret=29e22de27def26dee8a6e960c7214911&wsABSTime=1786966503
+https://live1.quickscoreboardz.com/live/channel3/playlist.m3u8?wsSecret=97a1cc1e9bd49d3c115a866e49c14137&wsABSTime=1786967271
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Bayern Munchen U17 vs Nữ Trung Quốc U17 15:00 ngày 17/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel4/playlist.m3u8?wsSecret=a55b11d8adcf3533a2f05144e01bf419&wsABSTime=1786966506
+https://live1.quickscoreboardz.com/live/channel4/playlist.m3u8?wsSecret=1612244393db2a8b8ea0bf364ee48b5e&wsABSTime=1786967274
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp April 25 Women vs Kharaatsai Women 16:00 ngày 17/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=fc0a7b2c506a3a20ff1bf89b4280fe89&wsABSTime=1786966511
+https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=d48b86ec49cd1913dd7b3172b5ba4312&wsABSTime=1786967277
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Ayeyawady Utd vs FC Jurong Women 16:30 ngày 17/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel8/playlist.m3u8?wsSecret=90b5cfc3342a01e24fe8911a2e0ad8b5&wsABSTime=1786966511
+https://live1.quickscoreboardz.com/live/channel8/playlist.m3u8?wsSecret=aa2d2419f4692119cf065848c4838174&wsABSTime=1786967280
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp TSL FC Women vs Nữ Phnom Penh Crown 17:00 ngày 17/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel9/playlist.m3u8?wsSecret=496cde92e2483478a4df8cb311c1b364&wsABSTime=1786966514
+https://live1.quickscoreboardz.com/live/channel9/playlist.m3u8?wsSecret=d770e1917e2be66edcd5baacb79e76cb&wsABSTime=1786967283
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Dinamo Kyiv U21 vs Kolos Kovalivka Youth 17:00 ngày 17/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel10/playlist.m3u8?wsSecret=07e12d296a0125b42bb764669d722b43&wsABSTime=1786966517
+https://live1.quickscoreboardz.com/live/channel10/playlist.m3u8?wsSecret=7dddd4e9b65788345d3f1932fa189a04&wsABSTime=1786967285
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Kharkiv U21 vs Shak. Donetsk U21 17:00 ngày 17/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel11/playlist.m3u8?wsSecret=c16a1cac6798f651bc9d0ebc45002ac5&wsABSTime=1786966521
+https://live1.quickscoreboardz.com/live/channel11/playlist.m3u8?wsSecret=b6a575bf8b397c7a8ca50714b263b631&wsABSTime=1786967288
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Melbourne Victory (R) vs Northcote City 17:15 ngày 17/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel12/playlist.m3u8?wsSecret=e09ae8421bb9a25f854f6f7db83405e7&wsABSTime=1786966521
+https://live1.quickscoreboardz.com/live/channel12/playlist.m3u8?wsSecret=6c76e51a363b44f51690741ff038a92d&wsABSTime=1786967291
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Bulleen Lions vs North Sunshine Eagles 17:30 ngày 17/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel13/playlist.m3u8?wsSecret=203c10271873a9653d919202bb7dd6fc&wsABSTime=1786966524
+https://live1.quickscoreboardz.com/live/channel13/playlist.m3u8?wsSecret=efac2ed90e5b4bdf0f629e2808ff91b7&wsABSTime=1786967294
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ningbo FC U20 vs Henan FC U20 18:00 ngày 17/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel14/playlist.m3u8?wsSecret=c635ab53d571188f63f6e56b8981103e&wsABSTime=1786966527
+https://live1.quickscoreboardz.com/live/channel14/playlist.m3u8?wsSecret=0710c68944084973445b192b8b82b7e6&wsABSTime=1786967297
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hubei Istar U20 vs Shandong Taishan U20 18:00 ngày 17/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=788f5a950ac73bc92d71252addc04579&wsABSTime=1786966531
+https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=638b7be43c80cbc858c77af5de7ff0f9&wsABSTime=1786967299
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Arsenal U17 vs Shanghai U17 Women 18:35 ngày 17/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel1/playlist.m3u8?wsSecret=b397af3f2945c0ed944532279a3a86a2&wsABSTime=1786966531
+https://live1.quickscoreboardz.com/live/channel1/playlist.m3u8?wsSecret=529ea10e72c1c1023d40d629393679cd&wsABSTime=1786967302
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Qashqadaryo FA vs Samarqand 19:00 ngày 17/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel6/playlist.m3u8?wsSecret=603cf8e88b2f4aa8b220cdf49e38c47f&wsABSTime=1786966535
+https://live1.quickscoreboardz.com/live/channel6/playlist.m3u8?wsSecret=3640ff122af7ce0724040fc5754f7d73&wsABSTime=1786967305
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Gulistan vs Sherdor Samarqand 19:00 ngày 17/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel7/playlist.m3u8?wsSecret=47e8bd540d4f1586432dd19a10c15ad8&wsABSTime=1786966538
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ 6 Yard Etihad vs Nữ Al Nassr 19:00 ngày 17/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel3/playlist.m3u8?wsSecret=b2e2e0080985d6e0b464d553c9a0a11c&wsABSTime=1786966542
+https://live1.quickscoreboardz.com/live/channel7/playlist.m3u8?wsSecret=c681be52af8c581c2fc9f48fa3c5af95&wsABSTime=1786967308
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ College Asian vs S'Amuser Women 19:00 ngày 17/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel2/playlist.m3u8?wsSecret=6e9125a685fa81d6dc6068a7e3a6ab48&wsABSTime=1786966542
+https://live1.quickscoreboardz.com/live/channel2/playlist.m3u8?wsSecret=0a21f4ea064e50970c3ee4ef2cca6d61&wsABSTime=1786967310
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ 6 Yard Etihad vs Nữ Al Nassr 19:00 ngày 17/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel3/playlist.m3u8?wsSecret=dc1b17d2793f24c4967d939effc46883&wsABSTime=1786967314
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Sevilla vs Rayo Vallecano ngày 16/08/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
