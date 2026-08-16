@@ -4,19 +4,19 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.livefeedtextbox.com/live/channel5.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Malaysia vs Việt Nam 20:00 ngày 16/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live3.buzzscorelinez.com/livecdn/channel-1.m3u8?auth_key=3000001786877237-0-0-41831a50a8ac275a1f2b0bbcdb5345dc
+https://live3.buzzscorelinez.com/livecdn/channel-5.m3u8?auth_key=3000001786878040-0-0-5ba79abb96bc32b23a66051a907f0d9d
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Liverpool vs Como 00:00 ngày 17/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel6.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Malaysia vs Việt Nam 20:00 ngày 16/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live3.buzzscorelinez.com/livecdn/channel-1.m3u8?auth_key=3000001786878040-0-0-1d8751a39ea69e8b76afc888639e1e4b
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Basel 1893 vs Barcelona 21:30 ngày 16/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -42,6 +42,12 @@ https://live2.livefeedtextbox.com/live/channel24.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel15.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hannover 96 vs VfL Wolfsburg 18:30 ngày 16/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.livefeedtextbox.com/live/channel5.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Arminia Bielefeld vs Energie Cottbus 18:30 ngày 16/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -60,17 +66,17 @@ https://live2.livefeedtextbox.com/live/channel18.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel4.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Odense BK vs AC Horsens 19:00 ngày 16/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.livefeedtextbox.com/live/channel7.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nordsjaelland vs Silkeborg 19:00 ngày 16/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel28.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Odense BK vs AC Horsens 19:00 ngày 16/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.livefeedtextbox.com/live/channel7.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Brommapojkarna vs Orgryte 19:00 ngày 16/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
