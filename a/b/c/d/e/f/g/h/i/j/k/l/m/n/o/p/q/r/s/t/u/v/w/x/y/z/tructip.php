@@ -16,13 +16,13 @@ https://live.kinxie.com/live/34kgmioon3rbeko_30e79d8ca39d44c99fc4dcef248db341_au
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tructiep-hd.club/
 #EXTVLCOPT:http-origin=https://tructiep-hd.club
-https://live.kinxie.com/live/14279813_977e3ac7fcda3ff5f4230df5a7d1acd2_autoChange.m3u8?auth_key=1787236174-0-0-77891f95a19794d88d7c0d7f287001a9
+https://live1.kinxie.com/live/69854824_443d3d5345ec0f499b0ec99ea4ef1ef4_autoChange.m3u8?auth_key=1787236175-0-0-2249aca771c49a764bf583bfbcc10372
 
 #EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [17:00 20/08] TRỰC TIẾP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tructiep-hd.club/
 #EXTVLCOPT:http-origin=https://tructiep-hd.club
-https://live1.kinxie.com/live/69854824_443d3d5345ec0f499b0ec99ea4ef1ef4_autoChange.m3u8?auth_key=1787236175-0-0-2249aca771c49a764bf583bfbcc10372
+https://live.kinxie.com/live/14106060_b2ca88ecea6fe1ad5a337acb8cb7391a_autoChange.m3u8?auth_key=1787236175-0-0-13fc66dcfe10f291fbc10fcabe70cfd3
 
 #EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [17:00 20/08] TRỰC TIẾP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
@@ -34,5 +34,5 @@ https://live.kinxie.com/live/14175694_18ae321d0126433f7155bced0867728a_autoChang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tructiep-hd.club/
 #EXTVLCOPT:http-origin=https://tructiep-hd.club
-https://live.kinxie.com/live/14106060_b2ca88ecea6fe1ad5a337acb8cb7391a_autoChange.m3u8?auth_key=1787236175-0-0-13fc66dcfe10f291fbc10fcabe70cfd3
+https://live.kinxie.com/live/14279813_977e3ac7fcda3ff5f4230df5a7d1acd2_autoChange.m3u8?auth_key=1787236174-0-0-77891f95a19794d88d7c0d7f287001a9
 
