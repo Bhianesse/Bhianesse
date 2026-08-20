@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Jagiellonia vs FC Saburtalo 23:00 ngày 20/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.livefeedtextbox.com/live/channel5.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Mjallby AIF vs Red Bull Salzburg 23:00 ngày 20/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -18,23 +12,29 @@ https://live2.livefeedtextbox.com/live/channel1.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel15.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Jagiellonia vs FC Saburtalo 23:00 ngày 20/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.livefeedtextbox.com/live/channel5.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Egnatia vs Lillestrom 00:00 ngày 21/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel21.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Univ. Craiova vs Ararat Armenia 00:00 ngày 21/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.livefeedtextbox.com/live/channel16.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Lech Poznan vs Thun 00:00 ngày 21/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel12.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Univ. Craiova vs Ararat Armenia 00:00 ngày 21/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.livefeedtextbox.com/live/channel16.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Besiktas JK vs Kauno Zalgiris 00:00 ngày 21/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -48,12 +48,6 @@ https://live2.livefeedtextbox.com/live/channel4.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel6.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ No Limits vs Nữ Ayeyawady Utd 16:30 ngày 20/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.livefeedtextbox.com/live/channel19.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tobol Kostanai B vs Khan Tengri FC 17:00 ngày 20/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -64,7 +58,7 @@ https://live2.livefeedtextbox.com/live/channel22.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.livefeedtextbox.com/live/channel17.m3u8
+https://live2.livefeedtextbox.com/live/channel23.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Master 7 vs Nữ Banaat FC 19:00 ngày 20/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -78,17 +72,23 @@ https://live2.livefeedtextbox.com/live/channel9.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel8.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FK Yelimay Semey B vs FK Aktobe II 19:00 ngày 20/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.livefeedtextbox.com/live/channel7.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Al Nassr vs Nữ Bam Khatoon 19:00 ngày 20/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel11.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FK Yelimay Semey B vs FK Aktobe II 19:00 ngày 20/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Al-Wakrah Sports Club vs Qatar Sports Club 21:15 ngày 20/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.livefeedtextbox.com/live/channel7.m3u8
+https://live2.livefeedtextbox.com/live/channel13.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Selimbar vs FC Botosani 21:30 ngày 20/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -96,11 +96,11 @@ https://live2.livefeedtextbox.com/live/channel7.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel28.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Al-Wakrah Sports Club vs Qatar Sports Club 21:15 ngày 20/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Neftekhimik FC vs FC Sochi 22:00 ngày 20/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.livefeedtextbox.com/live/channel13.m3u8
+https://live2.livefeedtextbox.com/live/channel17.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Royal Thimphu College vs Nữ Nasaf Qarshi 22:00 ngày 20/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -119,6 +119,12 @@ https://live2.livefeedtextbox.com/live/channel14.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel24.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Inter Turku vs Copenhagen 23:00 ngày 20/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.livefeedtextbox.com/live/channel19.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxts.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Lincoln Red Imps FC vs Larne FC 23:00 ngày 20/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
