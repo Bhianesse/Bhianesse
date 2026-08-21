@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Thái Lan vs Việt Nam 20:00 ngày 22/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel1/playlist.m3u8?wsSecret=11a5198e715d9fda9c06129f3c98a142&wsABSTime=1787392445
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hull City vs Manchester United 18:30 ngày 22/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -17,6 +11,12 @@ https://live2.livefeedtextbox.com/live/channel5.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel11.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Thái Lan vs Việt Nam 20:00 ngày 22/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel1/playlist.m3u8?wsSecret=396f69dd473691db0de57f2b36e122b0&wsABSTime=1787393664
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Everton vs Crystal Palace 21:00 ngày 22/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -138,21 +138,27 @@ https://live2.livefeedtextbox.com/live/channel16.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel18.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Rayo Vallecano vs Alavés ngày 21/08/2026 vừa diễn ra
+#EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Real Betis vs Real Sociedad ngày 22/08/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://cdn.videas.fr/v-medias/s5/hlsv1/4b/da/4bda7ee7-1488-4d0e-82a1-c45f4357c553/1080p.m3u8
+https://cdn.videas.fr/v-medias/s5/hlsv1/d2/56/d2568bd6-9408-442f-ad54-be48a82deb27/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Atletico Madrid vs Malaga ngày 20/08/2026 vừa diễn ra
+#EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Arsenal vs Coventry City ngày 22/08/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://cdn.videas.fr/v-medias/s5/hlsv1/7c/73/7c7332cc-1d0d-4088-b2c7-3fdf60645fb4/playlist.m3u8
+https://cdn.videas.fr/v-medias/s5/hlsv1/af/a5/afa53d5b-c661-4904-a1f0-d8bb94f15ae6/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Celtic F.C. vs LASK Linz ngày 20/08/2026 vừa diễn ra
+#EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Marseille vs Strasbourg ngày 22/08/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://cdn.videas.fr/v-medias/s5/hlsv1/f4/8e/f48ee092-6fd0-42a2-8104-3659e238db46/playlist.m3u8
+https://cdn.videas.fr/v-medias/s5/hlsv1/22/93/22939d62-0d79-46b6-85b9-6f65d78c6603/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Erzurumspor FK vs Galatasaray ngày 22/08/2026 vừa diễn ra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://cdn.videas.fr/v-medias/s5/hlsv1/93/9b/939b8885-ea1c-4ce4-bc7b-df1b15898ba8/playlist.m3u8
 
