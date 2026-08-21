@@ -18,17 +18,17 @@ https://live2.livefeedtextbox.com/live/channel11.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel15.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Thái Lan vs Việt Nam 20:00 ngày 22/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel1/playlist.m3u8?wsSecret=4bfb7c821f5aa974b1c4edcee2b8970f&wsABSTime=1787380486
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hull City vs Manchester United 18:30 ngày 22/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel5.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Thái Lan vs Việt Nam 20:00 ngày 22/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel1/playlist.m3u8?wsSecret=f2c54e4b641b4529a3217c10b351c1d4&wsABSTime=1787379651
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Everton vs Crystal Palace 21:00 ngày 22/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -47,12 +47,6 @@ https://live2.livefeedtextbox.com/live/channel24.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel6.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Cherno More Varna vs FC Dunav Ruse 01:15 ngày 22/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.livefeedtextbox.com/live/channel12.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Vicenza vs Catanzaro 01:30 ngày 22/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -78,23 +72,17 @@ https://live2.livefeedtextbox.com/live/channel20.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel22.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Unam Pumas vs Nữ Queretaro 06:00 ngày 22/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.livefeedtextbox.com/live/channel28.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Alianza Petrolera vs Deportivo Pereira 07:30 ngày 22/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel7.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tigres UANL vs Atlante FC 08:00 ngày 22/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Unam Pumas vs Nữ Queretaro 06:00 ngày 22/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.livefeedtextbox.com/live/channel13.m3u8
+https://live2.livefeedtextbox.com/live/channel28.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Club Leon vs Rayados de Monterrey 08:00 ngày 22/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -102,23 +90,29 @@ https://live2.livefeedtextbox.com/live/channel13.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel4.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tigres UANL vs Atlante FC 08:00 ngày 22/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.livefeedtextbox.com/live/channel13.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ San Diego vs Nữ Utah Royals 09:00 ngày 22/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel10.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Monterrey vs Nữ Leon 10:00 ngày 22/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.livefeedtextbox.com/live/channel9.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Club Atletico La Paz vs Cruz Azul Hidalgo 10:00 ngày 22/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel8.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Monterrey vs Nữ Leon 10:00 ngày 22/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.livefeedtextbox.com/live/channel9.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Juarez vs Club America 10:10 ngày 22/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
