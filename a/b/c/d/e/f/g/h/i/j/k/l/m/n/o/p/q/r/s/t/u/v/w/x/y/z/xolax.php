@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Arsenal vs Coventry City 02:00 ngày 22/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.livefeedtextbox.com/live/channel1.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Marseille vs Strasbourg 01:45 ngày 22/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -18,6 +12,12 @@ https://live2.livefeedtextbox.com/live/channel11.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel15.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Arsenal vs Coventry City 02:00 ngày 22/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.livefeedtextbox.com/live/channel1.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hull City vs Manchester United 18:30 ngày 22/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -28,7 +28,7 @@ https://live2.livefeedtextbox.com/live/channel5.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel1/playlist.m3u8?wsSecret=730b624dbc2b4848dc6c0ea0bb3fe16a&wsABSTime=1787383577
+https://live1.quickscoreboardz.com/live/channel1/playlist.m3u8?wsSecret=62f44659f1862a9fd36da73675989c3a&wsABSTime=1787384144
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Everton vs Crystal Palace 21:00 ngày 22/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -36,29 +36,29 @@ https://live1.quickscoreboardz.com/live/channel1/playlist.m3u8?wsSecret=730b624d
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel19.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp RC Lens vs AJ Auxerre 22:15 ngày 22/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.livefeedtextbox.com/live/channel6.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Athletic Bilbao vs Sevilla 22:00 ngày 22/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel24.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Estudiantes Cuarto vs CA San Lorenzo 06:00 ngày 22/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp RC Lens vs AJ Auxerre 22:15 ngày 22/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.livefeedtextbox.com/live/channel23.m3u8
+https://live2.livefeedtextbox.com/live/channel6.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp CD Jaguares vs Boyaca Chico 04:05 ngày 22/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel22.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Estudiantes Cuarto vs CA San Lorenzo 06:00 ngày 22/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.livefeedtextbox.com/live/channel23.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Unam Pumas vs Nữ Queretaro 06:00 ngày 22/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
