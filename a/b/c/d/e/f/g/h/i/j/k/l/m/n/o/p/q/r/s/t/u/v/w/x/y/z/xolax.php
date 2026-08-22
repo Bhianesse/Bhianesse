@@ -6,17 +6,17 @@
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel11.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Thái Lan vs Việt Nam 20:00 ngày 22/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel1/playlist.m3u8?wsSecret=cfbf6b72581a9cc9799e96b22c0cc3fa&wsABSTime=1787399601
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hull City vs Manchester United 18:30 ngày 22/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.livefeedtextbox.com/live/channel5.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Thái Lan vs Việt Nam 20:00 ngày 22/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel1/playlist.m3u8?wsSecret=049261a61d7f0b95d6ffb7db79015803&wsABSTime=1787401263
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxto.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Everton vs Crystal Palace 21:00 ngày 22/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
