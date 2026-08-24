@@ -6,17 +6,17 @@
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://player2.originpullstream.com/live/channel18.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtv.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bologna vs Lazio 23:30 ngày 24/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://player2.originpullstream.com/live/channel1.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtv.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Liaoning Shengjing Xinrui vs Dalian Juxing Shengheng 18:30 ngày 24/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://player2.originpullstream.com/live/channel22.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtv.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bologna vs Lazio 23:30 ngày 24/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://player2.originpullstream.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtv.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Sabah FK vs Sumgayit FK 20:00 ngày 24/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -102,65 +102,65 @@ https://player2.originpullstream.com/live/channel13.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://player2.originpullstream.com/live/channel17.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtv.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kuwait U20 vs UAE U20 16:00 ngày 24/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel28/playlist.m3u8?wsSecret=6f683377127b6120fa0f84a3516f7dd7&wsABSTime=1787606202
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtv.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Northerners FC vs Dzongri FC 16:00 ngày 24/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel29/playlist.m3u8?wsSecret=e3b26241f54cd963ee40709ad1ef8d6c&wsABSTime=1787606203
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtv.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Aryan vs Rainbow SC 16:30 ngày 24/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel30/playlist.m3u8?wsSecret=c94de5077d03b7e53c6c59f74c76b5e5&wsABSTime=1787606206
+https://live1.quickscoreboardz.com/live/channel30/playlist.m3u8?wsSecret=3d9f3ba2fb3e10f4193da2eebf955c93&wsABSTime=1787606789
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtv.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Peerless SC vs Wari AC 16:30 ngày 24/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel31/playlist.m3u8?wsSecret=510fa2acff0eff79cedf7d0748b1d75e&wsABSTime=1787606208
+https://live1.quickscoreboardz.com/live/channel31/playlist.m3u8?wsSecret=1d52d613270c8a4607216ee6965995d4&wsABSTime=1787606793
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtv.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Calcutta Police Club vs Kalighat Sports Lovers 16:30 ngày 24/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel32/playlist.m3u8?wsSecret=807fcdaed3197e73d324b0794004d631&wsABSTime=1787606210
+https://live1.quickscoreboardz.com/live/channel32/playlist.m3u8?wsSecret=6c48be094ace5bf8b775da6cbf23c3ee&wsABSTime=1787606796
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtv.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kalighat FC vs East Bengal 16:30 ngày 24/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel33/playlist.m3u8?wsSecret=4ef62218728f8af3a307be967240d2dc&wsABSTime=1787606212
+https://live1.quickscoreboardz.com/live/channel33/playlist.m3u8?wsSecret=3c662b340a9ca6e07423e511a5ede1d6&wsABSTime=1787606801
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtv.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Meghalaya Police vs Sawmer 17:10 ngày 24/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel34/playlist.m3u8?wsSecret=d9feee9d60f4b08ebbd04a352d724f58&wsABSTime=1787606214
+https://live1.quickscoreboardz.com/live/channel34/playlist.m3u8?wsSecret=555300baeeb891fbbda02a4171fb4c1b&wsABSTime=1787606802
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtv.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Kairat Almaty vs Nữ FK Atyrau 18:00 ngày 24/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel25/playlist.m3u8?wsSecret=1d54d3959a06236efab6c1179edfe53f&wsABSTime=1787606217
+https://live1.quickscoreboardz.com/live/channel25/playlist.m3u8?wsSecret=834f7c4f4ed07c7e19e8b426deaf34d5&wsABSTime=1787606807
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtv.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Olimpia Asuncion (R) vs Porteno Asuncion (R) 18:00 ngày 24/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel26/playlist.m3u8?wsSecret=eb617fe2db67a071834596d884a681dc&wsABSTime=1787606219
+https://live1.quickscoreboardz.com/live/channel26/playlist.m3u8?wsSecret=e65d61a36b6549e4c52a25a0cedb8256&wsABSTime=1787606809
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtv.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Araks Ararat vs FC Cilicia 19:00 ngày 24/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel3/playlist.m3u8?wsSecret=241d0f77eb691278ae0a53cf70f5a103&wsABSTime=1787606814
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtv.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Indonesia U16 vs Uzbekistan U16 19:00 ngày 24/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel27/playlist.m3u8?wsSecret=107d5ab7b853fd1a36def33c3aa5d98b&wsABSTime=1787606815
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtv.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Elche CF vs Barcelona ngày 24/08/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://dmxleo.dailymotion.com/cdn/manifest/video/xb01kk2.m3u8?bs=1&amp;rid=0&amp;cookie_sync_ab_gk=1&amp;reader_gdpr_flag=0&amp;reader_gdpr_consent=&amp;gdpr_binary_consent=opt-out&amp;gdpr_comes_from_infopack=0&amp;reader_us_privacy=1---&amp;eb=https%3A%2F%2Fxoilacxtv.tv%2F
+https://dmxleo.dailymotion.com/cdn/manifest/video/xb01kk2.m3u8?bs=1&amp;rid=0&amp;cookie_sync_ab_gk=1&amp;reader_gdpr_flag=0&amp;reader_gdpr_consent=&amp;gdpr_binary_consent=opt-out&amp;gdpr_comes_from_infopack=0&amp;reader_us_privacy=1YNY&amp;gpp_pl=DBABLA%7EBVQqAAAAAWA&amp;gpp_pls=7&amp;eb=https%3A%2F%2Fxoilacxtv.tv%2F
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtv.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Atalanta vs Sassuolo ngày 24/08/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -172,11 +172,11 @@ https://cdn.videas.fr/v-medias/s5/hlsv1/e8/ef/e8efabea-a920-4d6d-b46b-b9860bbedf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://dmxleo.dailymotion.com/cdn/manifest/video/xb019xe.m3u8?bs=1&amp;rid=0&amp;cookie_sync_ab_gk=1&amp;reader_gdpr_flag=0&amp;reader_gdpr_consent=&amp;gdpr_binary_consent=opt-out&amp;gdpr_comes_from_infopack=0&amp;reader_us_privacy=1---&amp;eb=https%3A%2F%2Fxoilacxtv.tv%2F
+https://dmxleo.dailymotion.com/cdn/manifest/video/xb019xe.m3u8?bs=1&amp;rid=0&amp;cookie_sync_ab_gk=1&amp;reader_gdpr_flag=0&amp;reader_gdpr_consent=&amp;gdpr_binary_consent=opt-out&amp;gdpr_comes_from_infopack=0&amp;reader_us_privacy=1YNY&amp;gpp_pl=DBABLA%7EBVQqAAAAAWA&amp;gpp_pls=7&amp;eb=https%3A%2F%2Fxoilacxtv.tv%2F
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtv.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Rennes vs PSG ngày 24/08/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://dmxleo.dailymotion.com/cdn/manifest/video/xb01aqq.m3u8?bs=1&amp;rid=0&amp;cookie_sync_ab_gk=1&amp;reader_gdpr_flag=0&amp;reader_gdpr_consent=&amp;gdpr_binary_consent=opt-out&amp;gdpr_comes_from_infopack=0&amp;reader_us_privacy=1---&amp;eb=https%3A%2F%2Fxoilacxtv.tv%2F
+https://dmxleo.dailymotion.com/cdn/manifest/video/xb01aqq.m3u8?bs=1&amp;rid=0&amp;cookie_sync_ab_gk=1&amp;reader_gdpr_flag=0&amp;reader_gdpr_consent=&amp;gdpr_binary_consent=opt-out&amp;gdpr_comes_from_infopack=0&amp;reader_us_privacy=1YNY&amp;gpp_pl=DBABLA%7EBVQqAAAAAWA&amp;gpp_pls=7&amp;eb=https%3A%2F%2Fxoilacxtv.tv%2F
 
