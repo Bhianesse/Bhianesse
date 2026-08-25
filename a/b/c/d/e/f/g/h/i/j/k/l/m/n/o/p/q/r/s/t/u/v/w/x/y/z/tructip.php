@@ -4,5 +4,5 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tructiep-hd.club/
 #EXTVLCOPT:http-origin=https://tructiep-hd.club
-https://live2.ftlcbx.com/live/13461190_7ba23def02b527df314d84dd15c31f58_autoChange.m3u8?auth_key=1787668196-0-0-eedd65e871fc58d16ec281536a9e8f84
+https://live3.ftlcbx.com/live/67817822_c955c3eb845f2e3f87316a25741628d8_autoChange.m3u8?auth_key=1787671782-0-0-a3fa463dc006e85a3c5dbeb997df4266
 
