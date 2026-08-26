@@ -6,17 +6,17 @@
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://player2.originpullstream.com/live/channel10.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Việt Nam vs Thái Lan 20:00 ngày 26/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://push2.m3u8delivery.com/livecdn/channel-1.m3u8?auth_key=3000001787723697-0-0-6412050bcb59e7ac5c93374d51fc8c90
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Blacktown Spartans vs Nữ Adelaide City 14:00 ngày 26/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://player2.originpullstream.com/live/channel7.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Việt Nam vs Thái Lan 20:00 ngày 26/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://push2.m3u8delivery.com/livecdn/channel-1.m3u8?auth_key=3000001787726243-0-0-a4b6ae84f10752964bc1cdd8d29279e6
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tokyo Verdy vs Thespa Gunma 16:30 ngày 26/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -24,17 +24,17 @@ https://player2.originpullstream.com/live/channel7.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://player2.originpullstream.com/live/channel16.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Machida Zelvia vs Grulla Morioka 16:30 ngày 26/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://player2.originpullstream.com/live/channel4.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Sanfrecce Hiroshima vs Okinawa SV 16:30 ngày 26/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://player2.originpullstream.com/live/channel12.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Machida Zelvia vs Grulla Morioka 16:30 ngày 26/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://player2.originpullstream.com/live/channel4.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Cerezo Osaka vs FC Gifu 16:30 ngày 26/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -70,7 +70,7 @@ https://player2.originpullstream.com/live/channel17.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel31/playlist.m3u8?wsSecret=d5d361955be16b85a16d8a80ef6008e9&wsABSTime=1787766930
+https://live1.quickscoreboardz.com/live/channel31/playlist.m3u8?wsSecret=d852f30878bf96ccf7d743720f336bdf&wsABSTime=1787769479
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kashima Antlers vs Suzuka unlimited 17:00 ngày 26/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -78,17 +78,17 @@ https://live1.quickscoreboardz.com/live/channel31/playlist.m3u8?wsSecret=d5d3619
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://player2.originpullstream.com/live/channel8.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Daejeon Hana Citizen vs Ulsan Hyundai 17:30 ngày 26/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://player2.originpullstream.com/live/channel5.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Mito Hollyhock vs Kyoto Sangyo (R) 17:00 ngày 26/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://player2.originpullstream.com/live/channel13.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Daejeon Hana Citizen vs Ulsan Hyundai 17:30 ngày 26/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://player2.originpullstream.com/live/channel5.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Anyang vs Incheon United 17:30 ngày 26/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -102,17 +102,17 @@ https://player2.originpullstream.com/live/channel15.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://player2.originpullstream.com/live/channel6.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Torpedo Miass vs Volna Nizhegorodskaya 18:00 ngày 26/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://player2.originpullstream.com/live/channel27.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Stroitel Kamensk vs Chertanovo Moscow 18:00 ngày 26/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://player2.originpullstream.com/live/channel24.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Torpedo Miass vs Volna Nizhegorodskaya 18:00 ngày 26/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://player2.originpullstream.com/live/channel27.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Qingdao Fuli vs Xingtai Wanshuai 18:30 ngày 26/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
