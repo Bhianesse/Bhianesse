@@ -1,28 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Việt Nam vs Thái Lan 20:00 ngày 26/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://player2.originpullstream.com/live/channel1.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Blacktown Spartans vs Nữ Adelaide City 14:00 ngày 26/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://player2.originpullstream.com/live/channel7.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Việt Nam vs Thái Lan 20:00 ngày 26/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://push2.m3u8delivery.com/livecdn/channel-1.m3u8?auth_key=3000001787722583-0-0-2e4a0466f56df61a1a41cfbc94a487f2
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Xinjiang Bingchao vs Xinjiang Jindun 16:00 ngày 26/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://player2.originpullstream.com/live/channel10.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Machida Zelvia vs Grulla Morioka 16:30 ngày 26/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://player2.originpullstream.com/live/channel4.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tokyo Verdy vs Thespa Gunma 16:30 ngày 26/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -36,17 +30,17 @@ https://player2.originpullstream.com/live/channel16.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://player2.originpullstream.com/live/channel12.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Machida Zelvia vs Grulla Morioka 16:30 ngày 26/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://player2.originpullstream.com/live/channel4.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Cerezo Osaka vs FC Gifu 16:30 ngày 26/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://player2.originpullstream.com/live/channel18.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Tokyo vs Nagano Parceiro 17:00 ngày 26/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://player2.originpullstream.com/live/channel22.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Yokohama Marinos vs Fukushima FC 17:00 ngày 26/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -54,29 +48,29 @@ https://player2.originpullstream.com/live/channel22.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://player2.originpullstream.com/live/channel9.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp JEF United vs Azul Claro Numazu 17:00 ngày 26/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://player2.originpullstream.com/live/channel28.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kawasaki Frontale vs Tochigi SC 17:00 ngày 26/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://player2.originpullstream.com/live/channel21.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Vissel Kobe vs Veroskronos Tsuno 17:00 ngày 26/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel32/playlist.m3u8?wsSecret=6f393f2d313bb72d8248d1a4ee59dbc2&wsABSTime=1787764887
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Shonan Bellmare vs Reinmeer Aomori 17:00 ngày 26/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel22/playlist.m3u8?wsSecret=0e3bac7e7ea76671e4c9a4f53065d4b5&wsABSTime=1787764890
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Shimizu S-Pulse vs Osaka FC 17:00 ngày 26/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://player2.originpullstream.com/live/channel17.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kyoto Sanga vs Maruyasu 17:00 ngày 26/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel31/playlist.m3u8?wsSecret=574a7f279e427b80ffeca38facb05426&wsABSTime=1787765815
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kashima Antlers vs Suzuka unlimited 17:00 ngày 26/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -108,23 +102,29 @@ https://player2.originpullstream.com/live/channel15.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://player2.originpullstream.com/live/channel6.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Torpedo Miass vs Volna Nizhegorodskaya 18:00 ngày 26/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://player2.originpullstream.com/live/channel27.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Stroitel Kamensk vs Chertanovo Moscow 18:00 ngày 26/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://player2.originpullstream.com/live/channel24.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Torpedo Miass vs Volna Nizhegorodskaya 18:00 ngày 26/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://player2.originpullstream.com/live/channel27.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Qingdao Fuli vs Xingtai Wanshuai 18:30 ngày 26/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://player2.originpullstream.com/live/channel23.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kuala Lumpur FC vs Kuching City FC 20:00 ngày 26/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://player2.originpullstream.com/live/channel22.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtq.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Valencia CF vs Real Betis ngày 26/08/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
