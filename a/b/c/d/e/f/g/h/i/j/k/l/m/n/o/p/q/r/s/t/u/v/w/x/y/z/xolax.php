@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ararat Armenia vs Univ. Craiova 23:00 ngày 27/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.playlistedgecdn.com/live/channel6.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Thun vs Lech Poznan 23:00 ngày 27/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -17,6 +11,12 @@ https://live2.playlistedgecdn.com/live/channel1.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.playlistedgecdn.com/live/channel5.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ararat Armenia vs Univ. Craiova 23:00 ngày 27/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.playlistedgecdn.com/live/channel6.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kauno Zalgiris vs Besiktas JK 00:00 ngày 28/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -120,23 +120,23 @@ https://live2.playlistedgecdn.com/live/channel4.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.playlistedgecdn.com/live/channel23.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxtg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Uzbekistan U17 vs Nữ Ấn Độ U17 12:00 ngày 27/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel25/playlist.m3u8?wsSecret=02240dd36a1cfc1b3fb570c9bdd44872&wsABSTime=1787848551
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxtg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Lumshyiap SC vs Nongrah 14:30 ngày 27/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel27/playlist.m3u8?wsSecret=93d89e4ee8affb66b9c70f087cafab3a&wsABSTime=1787848555
+https://live1.quickscoreboardz.com/live/channel27/playlist.m3u8?wsSecret=6483954ce30abb2e81a7673e04bc0d32&wsABSTime=1787853464
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tynring Sports Club vs Lawsohtun SC 14:30 ngày 27/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel27/playlist.m3u8?wsSecret=deeafbaafb011bd47b9c54d28c347429&wsABSTime=1787848557
+https://live1.quickscoreboardz.com/live/channel27/playlist.m3u8?wsSecret=c0c26970de446d1edff45db59ea910c0&wsABSTime=1787853468
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxtg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tây Ban Nha U18 vs Uzbekistan U17 15:00 ngày 27/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel29/playlist.m3u8?wsSecret=76af050e751a2f07361ec2c250c2236a&wsABSTime=1787853470
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxtg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Lyon vs Fenerbahce ngày 27/08/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
