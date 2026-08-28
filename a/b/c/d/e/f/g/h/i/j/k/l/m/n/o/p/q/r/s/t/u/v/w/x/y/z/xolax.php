@@ -24,6 +24,12 @@ https://live2.gigabitdelivery.com/live/channel21.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.gigabitdelivery.com/live/channel34.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Köln vs TSG Hoffenheim 20:30 ngày 29/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.gigabitdelivery.com/live/channel24.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp SV 07 Elversberg vs Bayer Leverkusen 20:30 ngày 29/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -34,13 +40,7 @@ https://live2.gigabitdelivery.com/live/channel12.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=7a7cb54eeb0f0873e38801f4040aa3d7&wsABSTime=1788000046
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Köln vs TSG Hoffenheim 20:30 ngày 29/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.gigabitdelivery.com/live/channel24.m3u8
+https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=580389c2bd7d052e6fb8543085fceb8b&wsABSTime=1788004127
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp AFC Bournemouth vs Everton 21:00 ngày 29/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -48,17 +48,17 @@ https://live2.gigabitdelivery.com/live/channel24.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.gigabitdelivery.com/live/channel15.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Strasbourg vs RC Lens 22:15 ngày 29/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.gigabitdelivery.com/live/channel13.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Levante vs Real Betis 22:00 ngày 29/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.gigabitdelivery.com/live/channel18.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Strasbourg vs RC Lens 22:15 ngày 29/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.gigabitdelivery.com/live/channel13.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Fiorentina vs Frosinone 23:30 ngày 29/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -84,29 +84,23 @@ https://live2.gigabitdelivery.com/live/channel16.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.gigabitdelivery.com/live/channel7.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Atletico Ottawa vs Inter Toronto FC 06:00 ngày 29/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.gigabitdelivery.com/live/channel10.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Boca Juniors vs CA Lanús 07:30 ngày 29/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.gigabitdelivery.com/live/channel9.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Atlante FC vs Club Leon 08:00 ngày 29/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.gigabitdelivery.com/live/channel17.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Necaxa vs Cruz Azul 08:00 ngày 29/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.gigabitdelivery.com/live/channel20.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Atlante FC vs Club Leon 08:00 ngày 29/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.gigabitdelivery.com/live/channel17.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Dorados vs Club Atlético Morelia 08:00 ngày 29/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -125,12 +119,6 @@ https://live2.gigabitdelivery.com/live/channel23.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.gigabitdelivery.com/live/channel8.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Alavés vs Villarreal ngày 29/08/2026 vừa diễn ra
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://cdndirector.dailymotion.com/cdn/manifest/video/xb1u7pu.m3u8?sec=viKtHHfyymcp7C9hmfauGQ-HkNG1zMnQLQCIdXOSrvWDoFB4gFf9nAW6WYwB0Qd2kQK6uJzVKLQzaRjvmXH12g
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Alavés vs Villarreal ngày 29/08/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
