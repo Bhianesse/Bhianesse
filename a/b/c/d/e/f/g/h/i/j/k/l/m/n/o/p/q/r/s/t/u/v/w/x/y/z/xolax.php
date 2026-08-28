@@ -1,41 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Lễ Bốc Thăm C2 vs Europa League 18:00 ngày 28/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.gigabitdelivery.com/live/channel15.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Racing Santander vs Elche CF 00:00 ngày 29/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.gigabitdelivery.com/live/channel5.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Shanghai Shenhua vs Shandong Taishan 18:35 ngày 28/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.gigabitdelivery.com/live/channel6.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Dalian Yingbo vs Beijing Guoan 18:35 ngày 28/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.gigabitdelivery.com/live/channel11.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Shenzhen Peng City vs Shanghai Port 19:00 ngày 28/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.gigabitdelivery.com/live/channel18.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kolos Kovalivka vs Obolon Kyiv 19:30 ngày 28/08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.gigabitdelivery.com/live/channel22.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Terengganu FC vs Selangor FC 20:00 ngày 28/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -47,6 +11,12 @@ https://live2.gigabitdelivery.com/live/channel14.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.gigabitdelivery.com/live/channel27.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Racing Santander vs Elche CF 00:00 ngày 29/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.gigabitdelivery.com/live/channel5.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Enppi vs Wadi Degla SC 21:00 ngày 28/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -72,11 +42,11 @@ https://live2.gigabitdelivery.com/live/channel7.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.gigabitdelivery.com/live/channel13.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FK Vitebsk vs Naftan Novopolotsk 22:00 ngày 28/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Akron Togliatti vs CSKA Moscow 22:00 ngày 28/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.gigabitdelivery.com/live/channel8.m3u8
+https://live2.gigabitdelivery.com/live/channel19.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Voluntari vs Otelul Galati 22:00 ngày 28/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -90,11 +60,29 @@ https://live2.gigabitdelivery.com/live/channel4.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.gigabitdelivery.com/live/channel34.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Akron Togliatti vs CSKA Moscow 22:00 ngày 28/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FK Vitebsk vs Naftan Novopolotsk 22:00 ngày 28/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.gigabitdelivery.com/live/channel19.m3u8
+https://live2.gigabitdelivery.com/live/channel8.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Al Riyadh vs Neom SC 22:50 ngày 28/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.gigabitdelivery.com/live/channel6.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Al Fayha vs Abha 23:00 ngày 28/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.gigabitdelivery.com/live/channel11.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Slavia Sofia vs FK Septemvri Sofia 23:00 ngày 28/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.gigabitdelivery.com/live/channel18.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Wisla Plock vs Korona Kielce 23:00 ngày 28/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -114,6 +102,12 @@ https://live2.gigabitdelivery.com/live/channel23.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.gigabitdelivery.com/live/channel1.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Neftekhimik FC vs FC Ufa 23:30 ngày 28/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.gigabitdelivery.com/live/channel22.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp ZED FC vs Al Ahly FC 00:00 ngày 29/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -126,17 +120,53 @@ https://live2.gigabitdelivery.com/live/channel17.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.gigabitdelivery.com/live/channel20.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Qingdao Team vs Dongying Team 18:30 ngày 28/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Johor Darul Ta'zim II vs Staf USM FC 19:45 ngày 28/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel13/playlist.m3u8?wsSecret=076988b51cd1809b77e4d01e94a87498&wsABSTime=1787960524
+https://live1.quickscoreboardz.com/live/channel6/playlist.m3u8?wsSecret=a281db6c85dba53a44ae271f811cb4d3&wsABSTime=1787964403
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Yueyang Team vs Hengyang Team 18:38 ngày 28/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nyva Ternopil B vs Skala 1911 Stryi 20:00 ngày 28/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel14/playlist.m3u8?wsSecret=1b14cd3846f8949480fe46c825b15afc&wsABSTime=1787960528
+https://live1.quickscoreboardz.com/live/channel9/playlist.m3u8?wsSecret=bc0914cf94fe72bce381011f0544b8b2&wsABSTime=1787964407
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FK Tauras Taurage vs BFA Vilnius 20:00 ngày 28/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel10/playlist.m3u8?wsSecret=aabbc6061022041051ea0f98a53eb665&wsABSTime=1787964411
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Khujand vs Sardor Tursunzoda 20:00 ngày 28/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel11/playlist.m3u8?wsSecret=431aa95e081adeea51fec78f44db2e81&wsABSTime=1787964413
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FK Ryazan vs Salyut Belgorod 20:00 ngày 28/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel8/playlist.m3u8?wsSecret=04d69c8ec1d7e738fd1dd67a8aef6d76&wsABSTime=1787964414
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Sokuluk vs Namys Guerrero 20:00 ngày 28/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel7/playlist.m3u8?wsSecret=9a0b57188803f25c017e9967eb2c4300&wsABSTime=1787964418
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Pharco vs El Mansoura 20:30 ngày 28/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel12/playlist.m3u8?wsSecret=39be1ad6d86c0a527e52d2724e2d486e&wsABSTime=1787964421
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Telecom Egypt vs Ismaily SC 20:30 ngày 28/08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel13/playlist.m3u8?wsSecret=7d8083c5fbe7aa6f9024b4243b6c664b&wsABSTime=1787964425
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxxb.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Barcelona vs Athletic Bilbao ngày 28/08/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
