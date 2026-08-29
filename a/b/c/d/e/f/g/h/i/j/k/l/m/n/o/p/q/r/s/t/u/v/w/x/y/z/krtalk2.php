@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="MY PACAR LIVE",🐇ayok donasi server playlist IPTV agar server tetap aktif🐇
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/aaee9cc9aa0429267068a01adc74adc1.webp" group-title="MY PACAR LIVE",🐇[LIVE 21m | Mika Akemi ID | 👁 22] Jadi Satpam MOI | Ayo Aku Bacain Tarot🐇
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/aaee9cc9aa0429267068a01adc74adc1.webp" group-title="MY PACAR LIVE",🐇[LIVE 38m | Mika Akemi ID | 👁 59] Jadi Satpam MOI | Ayo Aku Bacain Tarot🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.AdubnQrt0Ps0.m3u8
