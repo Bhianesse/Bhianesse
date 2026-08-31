@@ -6,7 +6,7 @@
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.brenvoxedgenetwork.com/live/channel4.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Việt Nam U20 vs Triều Tiên U20 19:00 ngày 31/08
+#EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Lecce vs AS Roma 23:30 ngày 31/08
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
@@ -142,11 +142,11 @@ https://cdn.videas.fr/v-medias/s5/hlsv1/fe/bf/febfb71c-f881-4afc-a192-97974b3ed4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://cdndirector.dailymotion.com/cdn/manifest/video/xb2hiyy.m3u8?sec=-eUN-1x6igBkdTwAa4kcesLDgM6SxmzKmwN5B1RSepWZuHeFHgsW9d9OWXhSjzzfkjFjqDI83yXsnGp4vVak1A
+https://dmxleo.dailymotion.com/cdn/manifest/video/xb2hiyy.m3u8?bs=1&amp;rid=0&amp;cookie_sync_ab_gk=1&amp;reader_gdpr_flag=0&amp;reader_gdpr_consent=&amp;gdpr_binary_consent=opt-out&amp;gdpr_comes_from_infopack=0&amp;reader_us_privacy=1---&amp;eb=https%3A%2F%2Fxoilacxxa.tv%2F
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận AS Monaco vs Marseille ngày 31/08/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://dmxleo.dailymotion.com/cdn/manifest/video/xb2hiyy.m3u8?bs=1&amp;rid=0&amp;cookie_sync_ab_gk=1&amp;reader_gdpr_flag=0&amp;reader_gdpr_consent=&amp;gdpr_binary_consent=opt-out&amp;gdpr_comes_from_infopack=0&amp;reader_us_privacy=1YNY&amp;gpp_pl=DBABLA%7EBVQqAAAAAWA&amp;gpp_pls=7&amp;eb=https%3A%2F%2Fxoilacxxa.tv%2F
+https://cdndirector.dailymotion.com/cdn/manifest/video/xb2hiyy.m3u8?sec=-eUN-1x6igBkdTwAa4kceldWMUWuzaareDo-F_rwb-YDCT09W0Jjlc7NtPw8AgCLCZi0T_eiiPWAoi74_fcBzA
 
