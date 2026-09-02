@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Melaka FC vs Penang FC 19:00 ngày 02/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domainkqt.cc/live/channel20.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Yunnan Yukun vs Tongliang Long FC 19:00 ngày 02/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.domainkqt.cc/live/channel18.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Melaka FC vs Penang FC 19:00 ngày 02/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.domainkqt.cc/live/channel20.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Sabah vs Selangor FC 18:30 ngày 02/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -24,17 +24,17 @@ https://live2.domainkqt.cc/live/channel9.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.domainkqt.cc/live/channel7.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kedah FC vs City Stars 20:00 ngày 02/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domainkqt.cc/live/channel13.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Sassuolo vs Frosinone 20:00 ngày 02/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.domainkqt.cc/live/channel11.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kedah FC vs City Stars 20:00 ngày 02/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.domainkqt.cc/live/channel13.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kelantan City vs Negeri Sembilan 20:00 ngày 02/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -96,17 +96,17 @@ https://live2.domainkqt.cc/live/channel24.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.domainkqt.cc/live/channel8.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Zenit St. Petersburg vs Dynamo Makhachkala 22:30 ngày 02/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domainkqt.cc/live/channel6.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Maxline Vitebsk vs FC Belshina 22:30 ngày 02/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.domainkqt.cc/live/channel23.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Zenit St. Petersburg vs Dynamo Makhachkala 22:30 ngày 02/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.domainkqt.cc/live/channel6.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Udinese vs Venezia 23:00 ngày 02/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -126,17 +126,17 @@ https://live2.domainkqt.cc/live/channel10.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.domainkqt.cc/live/channel17.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Port Darwin FC vs Casuarina FC 17:30 ngày 02/09
+#EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Shaanxi United Soaring vs Qingdao Fuli 18:30 ngày 02/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel35/playlist.m3u8?wsSecret=1a09ac4ef8b7858a6423c009fa2abaa3&wsABSTime=1788387226
+https://live1.quickscoreboardz.com/live/channel29/playlist.m3u8?wsSecret=c8e61159162c13204cf8466f11cb9900&wsABSTime=1788391131
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Dalian Juxing Shengheng vs Xinjiang Bingchao 18:00 ngày 02/09
+#EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Xingtai Wanshuai vs Yulin Mobei Miners 18:30 ngày 02/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel27/playlist.m3u8?wsSecret=f9f27d92269f260ecfd1b32254098d26&wsABSTime=1788387227
+https://live1.quickscoreboardz.com/live/channel28/playlist.m3u8?wsSecret=c7d3135a602197dd4e85d09a917fcba5&wsABSTime=1788391132
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Torino vs Monza ngày 02/09/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
