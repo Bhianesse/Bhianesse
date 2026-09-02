@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Gintra vs Nữ Sturm Graz/Stattegg 16:00 ngày 02/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.domainkqt.cc/live/channel20.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bay Olympic vs Birkenhead United 14:15 ngày 02/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -11,12 +17,6 @@ https://live2.domainkqt.cc/live/channel22.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.domainkqt.cc/live/channel7.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Gintra vs Nữ Sturm Graz/Stattegg 16:00 ngày 02/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domainkqt.cc/live/channel20.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp SC Sagamihara vs Jubilo Iwata 16:30 ngày 02/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
