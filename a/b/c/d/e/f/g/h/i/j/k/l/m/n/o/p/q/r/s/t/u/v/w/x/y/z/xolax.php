@@ -6,29 +6,17 @@
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.domainkqt.cc/live/channel4.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Toulouse FC vs LOSC Lille 01:45 ngày 04/09
+#EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Leones del Norte vs Orense SC 04:30 ngày 04/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domainkqt.cc/live/channel5.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Real Sociedad vs RC Celta 02:00 ngày 04/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domainkqt.cc/live/channel1.m3u8
+https://live2.domainkqt.cc/live/channel28.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp America de Cali vs Alianza Petrolera 04:00 ngày 04/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.domainkqt.cc/live/channel23.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Leones del Norte vs Orense SC 04:30 ngày 04/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domainkqt.cc/live/channel28.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Grêmio RS vs Internacional RS 06:00 ngày 04/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -42,17 +30,17 @@ https://live2.domainkqt.cc/live/channel17.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.domainkqt.cc/live/channel20.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Cavalier FC vs Portmore United 07:00 ngày 04/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domainkqt.cc/live/channel21.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Libertad Loja vs Sport Emelec 07:00 ngày 04/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.domainkqt.cc/live/channel7.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Cavalier FC vs Portmore United 07:00 ngày 04/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.domainkqt.cc/live/channel21.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Deportivo Pereira vs Dep.Independiente 08:00 ngày 04/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -95,6 +83,12 @@ https://live2.domainkqt.cc/live/channel18.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.domainkqt.cc/live/channel12.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bình Phước vs Thể Công Viettel 18:00 ngày 04/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.domainkqt.cc/live/channel5.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxxa.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Manila Digger FC vs Kasuka FC 18:00 ngày 04/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
