@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Newcastle United vs AFC Bournemouth 18:30 ngày 05/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domainkqt.cc/live/channel1.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Werder Bremen vs RB Leipzig 20:30 ngày 05/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -18,23 +12,29 @@ https://live2.domainkqt.cc/live/channel21.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.domainkqt.cc/live/channel18.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Newcastle United vs AFC Bournemouth 18:30 ngày 05/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.domainkqt.cc/live/channel1.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp TSG Hoffenheim vs Dortmund 20:30 ngày 05/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.domainkqt.cc/live/channel17.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Paderborn 07 vs SC Freiburg 20:30 ngày 05/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domainkqt.cc/live/channel7.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bayer Leverkusen vs Union Berlin 20:30 ngày 05/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.domainkqt.cc/live/channel8.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Paderborn 07 vs SC Freiburg 20:30 ngày 05/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.domainkqt.cc/live/channel7.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp B. Monchengladbach vs SV 07 Elversberg 20:30 ngày 05/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -52,13 +52,13 @@ https://live2.domainkqt.cc/live/channel15.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel11/playlist.m3u8?wsSecret=c78ce1d4bde3567dbaeb595a65b905d7&wsABSTime=1788613314
+https://live1.quickscoreboardz.com/live/channel11/playlist.m3u8?wsSecret=c8ff69949267e523e543c5226ab14981&wsABSTime=1788615191
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nottingham Forest vs Tottenham 21:00 ngày 05/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=2090eef07c983a9ef249cc620a1a46fa&wsABSTime=1788613315
+https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=4cefca77c00b89062741d4a72d6ac8bc&wsABSTime=1788615194
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Brentford vs Sunderland 21:00 ngày 05/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -101,6 +101,12 @@ https://live2.domainkqt.cc/live/channel20.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.domainkqt.cc/live/channel22.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bhayangkara Presisi vs Persebaya 15:30 ngày 05/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.domainkqt.cc/live/channel19.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận PSG vs AS Monaco ngày 05/09/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
