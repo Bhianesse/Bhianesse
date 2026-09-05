@@ -48,17 +48,17 @@ https://live2.domainkqt.cc/live/channel9.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.domainkqt.cc/live/channel15.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nottingham Forest vs Tottenham 21:00 ngày 05/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=88c6be8c6eb36d5aa83526745c85f722&wsABSTime=1788625145
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Fulham vs Crystal Palace 21:00 ngày 05/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel11/playlist.m3u8?wsSecret=95bb071d4d745948a2242cf1bf81b10c&wsABSTime=1788625145
+https://live1.quickscoreboardz.com/live/channel11/playlist.m3u8?wsSecret=41630e74c4d6f0a678bdc75af88d96ec&wsABSTime=1788629047
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nottingham Forest vs Tottenham 21:00 ngày 05/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=a48a0ed8a8eb3012639e86e9eb890fff&wsABSTime=1788629047
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Brentford vs Sunderland 21:00 ngày 05/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -96,17 +96,17 @@ https://live2.domainkqt.cc/live/channel28.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.domainkqt.cc/live/channel22.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Persik Kediri vs Dewa United FC 15:30 ngày 05/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domainkqt.cc/live/channel11.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp PSIM Yogyakarta vs Persita 15:30 ngày 05/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.domainkqt.cc/live/channel12.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Persik Kediri vs Dewa United FC 15:30 ngày 05/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.domainkqt.cc/live/channel11.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bhayangkara Presisi vs Persebaya 15:30 ngày 05/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -119,6 +119,12 @@ https://live2.domainkqt.cc/live/channel19.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.domainkqt.cc/live/channel20.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Jeju SK FC vs Ulsan Hyundai 17:00 ngày 05/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.domainkqt.cc/live/channel10.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận PSG vs AS Monaco ngày 05/09/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
