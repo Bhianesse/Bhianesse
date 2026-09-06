@@ -1,22 +1,22 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Parma vs Monza 20:00 ngày 06/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.domainkqt.cc/live/channel18.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Everton vs Manchester United 20:00 ngày 06/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001788693865-0-0-f9f5521d8b70f8409f70df40fa66439a
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001788697762-0-0-80ef5260c06f6ebff294f9f6b1b03872
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Iran U20 vs Việt Nam U20 19:00 ngày 06/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.domainkqt.cc/live/channel5.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Parma vs Monza 20:00 ngày 06/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domainkqt.cc/live/channel18.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Frosinone vs Venezia 20:00 ngày 06/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -46,61 +46,19 @@ https://live2.domainkqt.cc/live/channel19.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001788693891-0-0-35e9821fd3dd5e27fccf0a8293d6b5d4
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp VfL Osnabrück vs E.Braunschweig 18:30 ngày 06/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domainkqt.cc/live/channel7.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Greuther Fürth vs Heidenheim 18:30 ngày 06/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domainkqt.cc/live/channel8.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hertha Berlin vs FC Magdeburg 18:30 ngày 06/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domainkqt.cc/live/channel20.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Henan FC vs Chengdu Rongcheng 18:35 ngày 06/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domainkqt.cc/live/channel28.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Servette vs St. Gallen 19:00 ngày 06/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domainkqt.cc/live/channel10.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Malaysia U20 vs Lào U20 19:00 ngày 06/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domainkqt.cc/live/channel9.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Cambodia U20 vs Kuwait U20 19:00 ngày 06/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domainkqt.cc/live/channel17.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp SC Heerenveen vs AZ Alkmaar 19:30 ngày 06/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domainkqt.cc/live/channel22.m3u8
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001788697789-0-0-f588057a89bf2f120807538f7e4ad9f0
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp SC Telstar vs SC Cambuur 19:30 ngày 06/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.domainkqt.cc/live/channel14.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp SC Heerenveen vs AZ Alkmaar 19:30 ngày 06/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.domainkqt.cc/live/channel22.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Iraq U20 vs Thái Lan U20 19:30 ngày 06/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -113,6 +71,60 @@ https://live2.domainkqt.cc/live/channel13.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.domainkqt.cc/live/channel21.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hàn Quốc U20 vs Kyrgyzstan U20 21:00 ngày 06/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.domainkqt.cc/live/channel7.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kasimpasa vs Amedspor 21:00 ngày 06/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.domainkqt.cc/live/channel8.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Santa Clara vs Rio Ave 21:30 ngày 06/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.domainkqt.cc/live/channel17.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Basel 1893 vs Lugano 21:30 ngày 06/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.domainkqt.cc/live/channel20.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Sion vs Thun 21:30 ngày 06/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.domainkqt.cc/live/channel28.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Molde vs KFUM Oslo 22:00 ngày 06/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.domainkqt.cc/live/channel9.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Lokomotiv Plovdiv vs Cherno More Varna 23:00 ngày 06/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.domainkqt.cc/live/channel23.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Dynamo Moscow vs Spartak Moscow 22:30 ngày 06/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.domainkqt.cc/live/channel10.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Trabzonspor vs Genclerbirligi 00:00 ngày 07/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.domainkqt.cc/live/channel4.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Villarreal vs Dep. La Coruna ngày 06/09/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
