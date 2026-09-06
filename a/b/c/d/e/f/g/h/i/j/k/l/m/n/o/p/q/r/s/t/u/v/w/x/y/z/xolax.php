@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Queretaro vs Nữ Cruz Azul 05:00 ngày 07/09
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Corinthians SP vs Chapecoense SC 05:30 ngày 07/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel80/playlist.m3u8?wsSecret=21572dc9af4b0a6db3895e3f1b302096&wsABSTime=1788775301
+https://live1.quickscoreboardz.com/live/channel82/playlist.m3u8?wsSecret=cb4ac40bcc5d120e58b1f4b5ac96500e&wsABSTime=1788776225
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Getafe vs RC Celta 00:00 ngày 08/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -18,53 +18,41 @@ https://live2.domainkqt.cc/live/channel1.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.domainkqt.cc/live/channel6.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Club Leon vs Club America 05:00 ngày 07/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel68/playlist.m3u8?wsSecret=f235792b7406ad33af39a44e405e97b3&wsABSTime=1788775309
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Corinthians SP vs Chapecoense SC 05:30 ngày 07/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel82/playlist.m3u8?wsSecret=bfeff0994075dcac6d14ebde9bc314d0&wsABSTime=1788775314
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Chivas Tapatio vs Leones Negros 06:00 ngày 07/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel81/playlist.m3u8?wsSecret=e76de3de4a6a4afb587f2fa5748abe3b&wsABSTime=1788775315
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Cruz Azul vs Santos Laguna 06:00 ngày 07/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel83/playlist.m3u8?wsSecret=c46480157a76cc566da911576fb45dbf&wsABSTime=1788775316
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Deportivo Pereira vs Millonarios 06:10 ngày 07/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel85/playlist.m3u8?wsSecret=7f429cfa25c11d89e058e91b28538438&wsABSTime=1788775321
+https://live1.quickscoreboardz.com/live/channel81/playlist.m3u8?wsSecret=60979fc55a80fede25abd0748ee7e856&wsABSTime=1788776235
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Deportiva Aucas vs Barcelona SC 07:00 ngày 07/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel88/playlist.m3u8?wsSecret=98bb0b9885aeda999266024f9729c4a7&wsABSTime=1788775326
+https://live1.quickscoreboardz.com/live/channel88/playlist.m3u8?wsSecret=a79ca60dbee469938c452397e8658cfb&wsABSTime=1788776240
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Cruz Azul vs Santos Laguna 06:00 ngày 07/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel83/playlist.m3u8?wsSecret=545df534ab40366b78744d791cc6162d&wsABSTime=1788776240
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Deportivo Pereira vs Millonarios 06:10 ngày 07/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel85/playlist.m3u8?wsSecret=ae17cc2d3aa7a24933e2b36fefd59434&wsABSTime=1788776240
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Tigres vs Nữ Santos Laguna 07:06 ngày 07/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel87/playlist.m3u8?wsSecret=8fcbe69efd1853d51e22496044a2e8bf&wsABSTime=1788775327
+https://live1.quickscoreboardz.com/live/channel87/playlist.m3u8?wsSecret=3511531668c27553ae57d691f815dbda&wsABSTime=1788776247
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Racing Club vs Atletico Tucuman 07:30 ngày 07/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel90/playlist.m3u8?wsSecret=b3196643ba7d33ed2bb8f976cf89d774&wsABSTime=1788775329
+https://live1.quickscoreboardz.com/live/channel90/playlist.m3u8?wsSecret=3321226f89e7c47d8e9d5797b051fe4f&wsABSTime=1788776254
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Shaanxi Union U20 vs Beijing Guoan U20 15:00 ngày 07/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -84,17 +72,17 @@ https://live2.domainkqt.cc/live/channel13.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.domainkqt.cc/live/channel23.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Kattaqo vs Respublika FA 18:00 ngày 07/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domainkqt.cc/live/channel20.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Andranik vs Pyunik B 18:30 ngày 07/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.domainkqt.cc/live/channel17.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Kattaqo vs Respublika FA 18:00 ngày 07/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.domainkqt.cc/live/channel20.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Wuhan Towns U21 vs Guangdong Guangzhou Power U20 18:30 ngày 07/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -149,6 +137,12 @@ https://live2.domainkqt.cc/live/channel11.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.domainkqt.cc/live/channel9.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Tây Ban Nha U20 vs Nữ Nigeria U20 23:00 ngày 07/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.domainkqt.cc/live/channel8.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Espanyol vs Sevilla ngày 07/09/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
