@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ittihad Alexandria vs Asyut Petroleum 21:00 ngày 07/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.felnorastreamvault.com/live/channel19.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Cagliari vs Lecce 23:30 ngày 07/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -17,18 +11,6 @@ https://live2.felnorastreamvault.com/live/channel6.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.felnorastreamvault.com/live/channel1.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FK Isloch Minsk vs Arsenal Dzyarz 21:00 ngày 07/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.felnorastreamvault.com/live/channel28.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Voluntari vs Arges 21:30 ngày 07/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.felnorastreamvault.com/live/channel18.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Asteras Tripolis vs Iraklis 22:00 ngày 07/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -42,29 +24,17 @@ https://live2.felnorastreamvault.com/live/channel16.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.felnorastreamvault.com/live/channel11.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Al-Adalah vs Al Saqer 22:30 ngày 07/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.felnorastreamvault.com/live/channel17.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hegelmann vs FK Panevezys 22:45 ngày 07/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.felnorastreamvault.com/live/channel9.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Tây Ban Nha U20 vs Nữ Nigeria U20 23:00 ngày 07/09
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Al-Adalah vs Al Saqer 22:30 ngày 07/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.felnorastreamvault.com/live/channel8.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Rigas FS vs FK Liepaja 23:00 ngày 07/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.felnorastreamvault.com/live/channel20.m3u8
+https://live2.felnorastreamvault.com/live/channel17.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Riga FC vs BFC Daugavpils 23:00 ngày 07/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -72,11 +42,29 @@ https://live2.felnorastreamvault.com/live/channel20.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.felnorastreamvault.com/live/channel10.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp KS Wieczysta Krakow vs Zaglebie Lubin 23:00 ngày 07/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.felnorastreamvault.com/live/channel19.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Rigas FS vs FK Liepaja 23:00 ngày 07/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.felnorastreamvault.com/live/channel20.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Rubin Kazan vs Terek Grozny 23:30 ngày 07/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.felnorastreamvault.com/live/channel15.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Tây Ban Nha U20 vs Nữ Nigeria U20 23:00 ngày 07/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.felnorastreamvault.com/live/channel8.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Dinamo Brest vs BATE Borisov 23:30 ngày 07/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -114,53 +102,83 @@ https://live2.felnorastreamvault.com/live/channel14.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.felnorastreamvault.com/live/channel13.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Metallurg Bekobod vs Pakhtakor II 20:30 ngày 07/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel8/playlist.m3u8?wsSecret=dd634a0e5b179e54acd434009616a8d6&wsABSTime=1788831368
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ajman SCC U23 vs Al-Nasr SC U23 20:50 ngày 07/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel13/playlist.m3u8?wsSecret=2b05ae3dc417a5325469d796a8972b3e&wsABSTime=1788831371
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Al-Wahda Abu Dhabi U23 vs Al-Dhafra U23 20:50 ngày 07/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel14/playlist.m3u8?wsSecret=72b5e96eef0878ea6941d69e5f7160e1&wsABSTime=1788831373
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Esenler Erokspor vs Kayserispor 21:00 ngày 07/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel3/playlist.m3u8?wsSecret=5796fb7401e008c64d59d3f691cf8c4d&wsABSTime=1788831376
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Vlazrimi Struga vs Sileks 21:00 ngày 07/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel4/playlist.m3u8?wsSecret=d14a9701bc18f7152a79b456765232be&wsABSTime=1788831378
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Sportist Svoge vs Lokomotiv GO 21:00 ngày 07/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel21/playlist.m3u8?wsSecret=ecbb0a254f43b47bdc7d170271e9bc50&wsABSTime=1788831382
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Asiagoal vs Kyrgyzaltyn Kara-Balta 21:00 ngày 07/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel1/playlist.m3u8?wsSecret=1cf59f0b4a9520403a2c8daac97957d7&wsABSTime=1788831383
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ellas Syrou vs Apollon Kalamarias F.C. 21:30 ngày 07/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=9373fdcfa1a06627b5eacc3e953ee008&wsABSTime=1788831387
+https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=bfecb5a9ee45e73391e17efd107afacb&wsABSTime=1788835241
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Riga FC II vs Skanstes SK 22:00 ngày 07/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel11/playlist.m3u8?wsSecret=a10a8b062057e964f0f67e5c9ea377cf&wsABSTime=1788835241
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Al Tora vs Shabab Al Ordon 22:00 ngày 07/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel12/playlist.m3u8?wsSecret=934512fe7151627042c2919cdb562cf3&wsABSTime=1788835246
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Fratria vs FK Chernomorets 22:00 ngày 07/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel25/playlist.m3u8?wsSecret=d762e4fa5d8cfe3e495dbf56f3a967c3&wsABSTime=1788835248
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Al Hashemeya vs Hay Al-Amir Hasan 22:00 ngày 07/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel7/playlist.m3u8?wsSecret=1b6ee68e6f417b1c475dfd70e6c2e622&wsABSTime=1788835253
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Mes Shahr Babak vs Malavan 22:15 ngày 07/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel30/playlist.m3u8?wsSecret=edd62a4d28651d8e25c46a362b0b4993&wsABSTime=1788835254
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Persepolis vs Zob Ahan 22:30 ngày 07/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel9/playlist.m3u8?wsSecret=179882b45a7b35dc57601a79f0e59dba&wsABSTime=1788835258
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nassaji Mazandaran vs Kheybar Khorramabad 22:30 ngày 07/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel10/playlist.m3u8?wsSecret=28d40803c34d034cf85286050c76c364&wsABSTime=1788835261
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Costa Rica U20 vs Nữ Colombia U20 23:00 ngày 07/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel17/playlist.m3u8?wsSecret=14623d8b2cc574d18f81c331e6cbd704&wsABSTime=1788835265
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Vozdovac Beograd vs Backa Topola 23:00 ngày 07/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel18/playlist.m3u8?wsSecret=a3ab319315c832b771f0d9effe85ce50&wsABSTime=1788835266
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp AEP Paphos vs Olympiakos Nicosia FC 23:00 ngày 07/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel19/playlist.m3u8?wsSecret=2d754f8810fda1b4130dfba43e53cb86&wsABSTime=1788835270
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Al-Jabalain vs Al-Wehda FC 23:05 ngày 07/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel20/playlist.m3u8?wsSecret=223bb4062d5d4227c44750fbf236f9f9&wsABSTime=1788835273
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Maccabi Netanya vs Hapoel Haifa 23:45 ngày 07/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel2/playlist.m3u8?wsSecret=2be155da531c8015ea8fb81359e56fa6&wsABSTime=1788835277
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbg.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Espanyol vs Sevilla ngày 07/09/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
