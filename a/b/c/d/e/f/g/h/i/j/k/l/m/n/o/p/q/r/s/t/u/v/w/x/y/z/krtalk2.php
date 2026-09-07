@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="MY PACAR LIVE",🐇ayok donasi server playlist IPTV agar server tetap aktif🐇
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/9b76426081e9ff3100080b8abe16adf6.webp" group-title="MY PACAR LIVE",🐇[LIVE 16m | Ralyne JKT48 | 👁 1031] AYUKKKKK🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.QC3wCAqzZ0v9.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/925593744f5e917f53c5cde51bd1f1d2.webp" group-title="MY PACAR LIVE",🐇[LIVE 17m | Bella JKT48 | 👁 3069] Hallooww 💗🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.2C3t5GoDLzUG.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/e59644025202eb8624dc4f2cc05ddee0.webp" group-title="MY PACAR LIVE",🐇[LIVE 51m | Olla JKT48 | 👁 2826] Ayo ngobrol bareng!🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.QGp4Op9dfxOA.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/d62f5c7afcf91cd554a0da51094f0b94.webp" group-title="MY PACAR LIVE",🐇[LIVE 51m | Levi JKT48 | 👁 2914] hai🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Lci1odh0sCZU.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/6d4611cf41d9a9b90d812e25d1bb0dbe.webp" group-title="MY PACAR LIVE",🐇[LIVE 27m | Rilly JKT48 | 👁 1515] ini hp intan🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.pehOrZyTt2j4.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/342b8cc2280c272a2b6822f75a2c2e95.webp" group-title="MY PACAR LIVE",🐇[LIVE 27m | Intan JKT48 | 👁 3779] Ini hp rilly🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/60e82b0b910f255d8f171b859e25197a.webp" group-title="MY PACAR LIVE",🐇[LIVE 30m | Giaa JKT48 | 👁 2117] mam🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.3dNPEzieJMP6.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/483856b7a54d9775a0e03976adf078cc.webp" group-title="MY PACAR LIVE",🐇[LIVE 37m | Muthe JKT48 | 👁 3185] Hi🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.sm9AmQPkGDGS.m3u8
