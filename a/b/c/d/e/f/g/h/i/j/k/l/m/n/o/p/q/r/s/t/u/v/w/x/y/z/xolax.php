@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Sunderland vs Hull City 01:45 ngày 09/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.felnorastreamvault.com/live/channel22.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Crystal Palace vs Middlesbrough 01:45 ngày 09/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -18,6 +12,12 @@ https://live2.felnorastreamvault.com/live/channel21.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.felnorastreamvault.com/live/channel12.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Sunderland vs Hull City 01:45 ngày 09/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.felnorastreamvault.com/live/channel22.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Millwall vs Newcastle United 02:00 ngày 09/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -28,7 +28,7 @@ https://live2.felnorastreamvault.com/live/channel14.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001788896928-0-0-7ec616c924ead346b2b3314945c5eb32
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001788897633-0-0-410f66239bb795a14f7d0e893cfe1e30
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Dortmund vs Villarreal 02:00 ngày 09/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -40,13 +40,13 @@ https://live2.felnorastreamvault.com/live/channel15.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel19/playlist.m3u8?wsSecret=262db38068cdc7e6876643c8e9c266b2&wsABSTime=1788940129
+https://live1.quickscoreboardz.com/live/channel19/playlist.m3u8?wsSecret=8cef0f2a4cf00bc9f7979cb6a04f341e&wsABSTime=1788940835
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Porto vs Manchester City 02:00 ngày 09/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001788896938-0-0-0eb54a0dc3b9199497a5d20345b92ab3
+https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001788897644-0-0-8cfed1d9903ddbece2a75e0ad7f1487e
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Barcelona vs Feyenoord 23:45 ngày 09/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -54,17 +54,17 @@ https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001788896938-0-0-
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.felnorastreamvault.com/live/channel1.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp VfB Stuttgart vs Viking 23:45 ngày 09/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.felnorastreamvault.com/live/channel5.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp New York City B vs NY Red Bulls B 04:00 ngày 09/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.felnorastreamvault.com/live/channel13.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp VfB Stuttgart vs Viking 23:45 ngày 09/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.felnorastreamvault.com/live/channel5.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Fluminense RJ vs CA Platense 05:00 ngày 09/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
