@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp PSV Eindhoven vs Shakhtar Donetsk 23:45 ngày 10/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.felnorastreamvault.com/live/channel6.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Fenerbahce vs AS Roma 23:45 ngày 10/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -12,47 +18,17 @@ https://live2.felnorastreamvault.com/live/channel1.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.felnorastreamvault.com/live/channel15.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp PSV Eindhoven vs Shakhtar Donetsk 23:45 ngày 10/09
+#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Austin FC vs Colorado Rapids 07:30 ngày 10/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.felnorastreamvault.com/live/channel6.m3u8
+https://live2.felnorastreamvault.com/live/channel21.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Philadelphia Union vs FC Cincinnati 06:30 ngày 10/09
+#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Minnesota United FC vs FC Dallas 07:30 ngày 10/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.felnorastreamvault.com/live/channel9.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Atlanta United vs Orlando City 06:30 ngày 10/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.felnorastreamvault.com/live/channel8.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Montreal Impact vs Charlotte FC 06:30 ngày 10/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.felnorastreamvault.com/live/channel10.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Toronto FC vs Nashville SC 06:30 ngày 10/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.felnorastreamvault.com/live/channel23.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp DC United vs Columbus Crew 06:30 ngày 10/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.felnorastreamvault.com/live/channel20.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp New York City vs New England 07:00 ngày 10/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.felnorastreamvault.com/live/channel28.m3u8
+https://live2.felnorastreamvault.com/live/channel13.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Houston Dynamo vs Real Salt Lake 07:30 ngày 10/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -66,17 +42,23 @@ https://live2.felnorastreamvault.com/live/channel18.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.felnorastreamvault.com/live/channel7.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Minnesota United FC vs FC Dallas 07:30 ngày 10/09
+#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp San Diego FC vs SJ Earthquakes 09:30 ngày 10/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.felnorastreamvault.com/live/channel13.m3u8
+https://live2.felnorastreamvault.com/live/channel20.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Austin FC vs Colorado Rapids 07:30 ngày 10/09
+#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Vancouver Whitecaps vs L.A Galaxy 09:30 ngày 10/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.felnorastreamvault.com/live/channel21.m3u8
+https://live2.felnorastreamvault.com/live/channel8.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Seattle Sounders vs Sporting Kansas 09:30 ngày 10/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.felnorastreamvault.com/live/channel9.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Portland Timbers vs St. Louis City 09:30 ngày 10/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -120,11 +102,23 @@ https://live2.felnorastreamvault.com/live/channel24.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.felnorastreamvault.com/live/channel5.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Como U19 vs RB Leipzig U19 20:00 ngày 10/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.felnorastreamvault.com/live/channel10.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Tây Ban Nha U20 vs Nữ New Caledonia U20 20:00 ngày 10/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.felnorastreamvault.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Super Nova vs Tukums-2000 23:00 ngày 10/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.felnorastreamvault.com/live/channel11.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận Chelsea vs Leeds United ngày 10/09/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
