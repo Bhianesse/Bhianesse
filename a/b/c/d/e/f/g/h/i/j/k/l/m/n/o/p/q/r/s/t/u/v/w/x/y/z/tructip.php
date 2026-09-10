@@ -16,12 +16,6 @@ https://live.dyrur1.com/live/14428951_9fa33b20181a7380f27378762dbbe406_autoChang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tructiep-hd.club/
 #EXTVLCOPT:http-origin=https://tructiep-hd.club
-https://live1.dyrur1.com/live/69854864_f89f3b4ae7d48ddba5f04f98d428ee1e_autoChange.m3u8?auth_key=1789054108-0-0-686fbfe64528b0df3721c4c2efe2fc53
-
-#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [18:00 10/09] TRỰC TIẾP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://tructiep-hd.club/
-#EXTVLCOPT:http-origin=https://tructiep-hd.club
 https://live1.dyrur1.com/live/14396975_ca31fd53da5d051e5b07a83270d660e7_autoChange.m3u8?auth_key=1789054108-0-0-31138e7867f221d1061fba04a232ccc5
 
 #EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [18:00 10/09] TRỰC TIẾP
