@@ -1,58 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bắc Ninh vs Hồ Chí Minh 18:00 ngày 11/09
+#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ratchaburi vs Bangkok United 19:00 ngày 11/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.felnorastreamvault.com/live/channel6.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ninh Bình vs Đông Á Thanh Hóa 18:00 ngày 11/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.felnorastreamvault.com/live/channel5.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp PVF-CAND FC vs Đồng Tâm Long An 18:00 ngày 11/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.felnorastreamvault.com/live/channel4.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Buriram United vs Singha Chiangrai United 18:00 ngày 11/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.felnorastreamvault.com/live/channel16.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp SHB Đà Nẵng vs Nam Định 18:00 ngày 11/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.felnorastreamvault.com/live/channel1.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ezra FC vs Shan United 18:30 ngày 11/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.felnorastreamvault.com/live/channel15.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Port FC vs Lamphun Warriors 18:30 ngày 11/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.felnorastreamvault.com/live/channel14.m3u8
+https://live2.felnorastreamvault.com/live/channel8.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tampines Rovers vs Balestier Khalsa 18:30 ngày 11/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.felnorastreamvault.com/live/channel23.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ratchaburi vs Bangkok United 19:00 ngày 11/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.felnorastreamvault.com/live/channel8.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FK Van vs BKMA 19:00 ngày 11/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -114,17 +72,41 @@ https://live2.felnorastreamvault.com/live/channel13.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.felnorastreamvault.com/live/channel12.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Riga FC vs FK Auda Riga 22:00 ngày 11/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.felnorastreamvault.com/live/channel14.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Farul Constanta vs FC UT Arad 22:00 ngày 11/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.felnorastreamvault.com/live/channel19.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Krylya Sovetov vs Rodina Moscow 22:00 ngày 11/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.felnorastreamvault.com/live/channel16.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Al Qadsiah vs Al-Ettifaq 22:25 ngày 11/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.felnorastreamvault.com/live/channel11.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Al Faisaly vs Al Ittihad(KSA) 22:45 ngày 11/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.felnorastreamvault.com/live/channel6.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Argentina U20 vs Nữ Mexico U20 23:00 ngày 11/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.felnorastreamvault.com/live/channel4.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Benin U20 vs Nữ Poland U20 23:00 ngày 11/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -137,6 +119,30 @@ https://live2.felnorastreamvault.com/live/channel21.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.felnorastreamvault.com/live/channel10.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nürnberg vs Hannover 96 23:30 ngày 11/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.felnorastreamvault.com/live/channel1.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Darmstadt 98 vs Arminia Bielefeld 23:30 ngày 11/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.felnorastreamvault.com/live/channel15.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Chenzhou Team vs Shaoyang Team 18:38 ngày 11/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel14/playlist.m3u8?wsSecret=3e25372f478abb03a486fd501e30751a&wsABSTime=1789170050
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Zhuzhou Team vs Yiyang Team 18:38 ngày 11/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=97670a99c09af4189af6edaca97608df&wsABSTime=1789170053
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận SK Slavia Praha vs RC Lens ngày 11/09/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
