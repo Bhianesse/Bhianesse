@@ -12,6 +12,12 @@ https://live2.felnorastreamvault.com/live/channel6.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.felnorastreamvault.com/live/channel24.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxba.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Al Qadsiah vs Al-Ettifaq 22:25 ngày 11/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.felnorastreamvault.com/live/channel11.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxba.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Argentina U20 vs Nữ Mexico U20 23:00 ngày 11/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -76,85 +82,85 @@ https://live2.felnorastreamvault.com/live/channel17.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel11/playlist.m3u8?wsSecret=e69630cbc6605a4bf6d059c3f96136c4&wsABSTime=1789182754
+https://live1.quickscoreboardz.com/live/channel11/playlist.m3u8?wsSecret=f4057e88b1f1aa71020592604a10a005&wsABSTime=1789182955
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxba.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Jyvaskylan Palloker vs Nữ Honka Espoo 22:30 ngày 11/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel12/playlist.m3u8?wsSecret=adf73261c43781a1df4f3610c1232186&wsABSTime=1789182757
+https://live1.quickscoreboardz.com/live/channel12/playlist.m3u8?wsSecret=fa9a872bc7aa88f8c3793d15fb4479af&wsABSTime=1789182957
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxba.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp A Ali FC vs Malkiya 23:00 ngày 11/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=34a4207ebc97c147fc16371513f706ce&wsABSTime=1789182761
+https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=5ef76ba62c7d09e1cdab8c61388e7747&wsABSTime=1789182962
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxba.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Najma Manama vs East Riffa 23:00 ngày 11/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel16/playlist.m3u8?wsSecret=c9c878c34cf7ca0c3d9285bf49fa9d0f&wsABSTime=1789182763
+https://live1.quickscoreboardz.com/live/channel16/playlist.m3u8?wsSecret=25c2c0c44d120fff01284b3826b1444b&wsABSTime=1789182965
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxba.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hobro vs Vejle 23:00 ngày 11/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel17/playlist.m3u8?wsSecret=4f7e502c6a01118b78a2efbe434d20e8&wsABSTime=1789182767
+https://live1.quickscoreboardz.com/live/channel17/playlist.m3u8?wsSecret=3bd3a8c49ef2c7c06bcb8524b92c9919&wsABSTime=1789182967
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxba.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Fotbal Příbram vs FC Baník Ostrava B 23:00 ngày 11/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel18/playlist.m3u8?wsSecret=a67cb944473a170e543787cceaa8321e&wsABSTime=1789182769
+https://live1.quickscoreboardz.com/live/channel18/playlist.m3u8?wsSecret=7eb991def8717e89ad0b7050d3e56a19&wsABSTime=1789182970
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxba.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Usti nad Labem vs FC Vysočina Jihlava 23:00 ngày 11/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel13/playlist.m3u8?wsSecret=ef1fb30fc10b1ec834a3ba278365e089&wsABSTime=1789182773
+https://live1.quickscoreboardz.com/live/channel13/playlist.m3u8?wsSecret=2c4c9b607d8258e444b84667c7110d1e&wsABSTime=1789182974
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxba.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Al Wahda vs Al Sharjah 23:15 ngày 11/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel21/playlist.m3u8?wsSecret=7b3f7607ecf18411f7f6995acd2adba7&wsABSTime=1789182774
+https://live1.quickscoreboardz.com/live/channel21/playlist.m3u8?wsSecret=1fa9e1a2ee2372b2d1248ae038365c8b&wsABSTime=1789182976
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxba.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Rapid Vienna (Y) vs First Vienna FC 1894 23:30 ngày 11/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel23/playlist.m3u8?wsSecret=c2cfa8ed76131b23f7398372406a9066&wsABSTime=1789182779
+https://live1.quickscoreboardz.com/live/channel23/playlist.m3u8?wsSecret=a2a4e52d0913356144f1be302e030024&wsABSTime=1789182978
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxba.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Trenkwalder Admira vs Kapfenberg SV 1919 23:30 ngày 11/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel24/playlist.m3u8?wsSecret=41a9ef4ca1af1a44a4c127d0cb25e932&wsABSTime=1789182781
+https://live1.quickscoreboardz.com/live/channel24/playlist.m3u8?wsSecret=ce9c9c8817d1bb3dff2cc8b917326319&wsABSTime=1789182982
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxba.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp SKU Ertl Glas Amstetten vs Austria Vienna (Y) 23:30 ngày 11/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel25/playlist.m3u8?wsSecret=f7bc3c47861a2a70ae76cfed17a46864&wsABSTime=1789182785
+https://live1.quickscoreboardz.com/live/channel25/playlist.m3u8?wsSecret=ced02d2905551a9f14b80afe4136162f&wsABSTime=1789182986
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxba.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Sariyer vs Bandirmaspor 00:00 ngày 12/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel2/playlist.m3u8?wsSecret=6709563522e1a8414a61cab0d7342533&wsABSTime=1789182785
+https://live1.quickscoreboardz.com/live/channel2/playlist.m3u8?wsSecret=2a26d2fb9cec7f44c6abecb0b693b413&wsABSTime=1789182988
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxba.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Vendsyssel vs Aarhus Fremad 00:00 ngày 12/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel3/playlist.m3u8?wsSecret=8233df5ff350f2ba324e962a47b2c2c3&wsABSTime=1789182791
+https://live1.quickscoreboardz.com/live/channel3/playlist.m3u8?wsSecret=fddc9657d0c4daf0576e359171a8f843&wsABSTime=1789182991
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxba.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Empoli vs Arezzo 00:00 ngày 12/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel4/playlist.m3u8?wsSecret=dc67b4dd0b1ce91c969d1fc528c6998a&wsABSTime=1789182793
+https://live1.quickscoreboardz.com/live/channel4/playlist.m3u8?wsSecret=ee7e0a714a1d01d75ed6788328b11bbe&wsABSTime=1789182994
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxba.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Xem lại trận SK Slavia Praha vs RC Lens ngày 11/09/2026 vừa diễn ra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
