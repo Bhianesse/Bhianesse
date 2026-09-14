@@ -22,6 +22,12 @@ https://live1.dyrur1.com/live/67912806_867a235ed9b3069c1a47c0fc365cab95_autoChan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tructiep-hd.club/
 #EXTVLCOPT:http-origin=https://tructiep-hd.club
+https://live2.dyrur1.com/live/72962252_b85ac4a812eb2b788451f9a613a3c2b7_autoChange.m3u8?auth_key=1789403265-0-0-c8b6893193c9c210cb9737aa4555ead6
+
+#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [19:00 14/09] TRỰC TIẾP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tructiep-hd.club/
+#EXTVLCOPT:http-origin=https://tructiep-hd.club
 https://live.dyrur1.com/live/74623700_9c5f911f602644b9fab149afc962858a_autoChange.m3u8?auth_key=1789403266-0-0-cc1ba43c9561a87e634ecf1028bd7797
 
 #EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [19:00 14/09] TRỰC TIẾP
@@ -29,12 +35,6 @@ https://live.dyrur1.com/live/74623700_9c5f911f602644b9fab149afc962858a_autoChang
 #EXTVLCOPT:http-referrer=https://tructiep-hd.club/
 #EXTVLCOPT:http-origin=https://tructiep-hd.club
 https://live.dyrur1.com/live/72550186_dc483a482846d17fed31595ddc128c9f_autoChange.m3u8?auth_key=1789403265-0-0-b898c9e8bc50cc962b1e920ce40ff657
-
-#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [19:00 14/09] TRỰC TIẾP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://tructiep-hd.club/
-#EXTVLCOPT:http-origin=https://tructiep-hd.club
-https://live2.dyrur1.com/live/72962252_b85ac4a812eb2b788451f9a613a3c2b7_autoChange.m3u8?auth_key=1789403265-0-0-c8b6893193c9c210cb9737aa4555ead6
 
 #EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [19:30 14/09] TRỰC TIẾP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
