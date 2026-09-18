@@ -6,17 +6,17 @@
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel12.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxth.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tottenham vs Aston Villa 18:30 ngày 19/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel1.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxth.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Osasuna vs Rayo Vallecano 19:00 ngày 19/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel18.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxth.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tottenham vs Aston Villa 18:30 ngày 19/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxth.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Udinese vs Cagliari 20:00 ngày 19/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -30,17 +30,17 @@ https://live2.zundrixmediapipeline.com/live/channel4.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel14.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxth.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hamburger SV vs FC Köln 20:30 ngày 19/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel21.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxth.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp B. Monchengladbach vs Mainz 05 20:30 ngày 19/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel22.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxth.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hamburger SV vs FC Köln 20:30 ngày 19/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel21.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxth.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Eintracht Frankfurt vs SC Freiburg 20:30 ngày 19/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -58,7 +58,7 @@ https://live2.zundrixmediapipeline.com/live/channel6.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=22e8e80474aad1d8506b51eb8807a0e7&wsABSTime=1789812674
+https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=c42bd75cd4567244c04ca7122d78b726&wsABSTime=1789814477
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxth.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp RC Celta vs Racing Santander 23:30 ngày 19/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
