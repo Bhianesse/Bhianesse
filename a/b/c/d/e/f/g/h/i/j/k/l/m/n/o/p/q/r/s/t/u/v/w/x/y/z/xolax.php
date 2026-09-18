@@ -1,16 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacty.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Atl. Bucaramanga vs Dep.Independiente 07:00 ngày 18/09
+#EXTINF:-1 tvg-logo="https://static.xoilacty.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp LD Alajuelense vs Marathon 07:30 ngày 18/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel14.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacty.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Montevideo City vs Cienciano 07:30 ngày 18/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel9.m3u8
+https://live2.zundrixmediapipeline.com/live/channel20.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacty.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Philippines U23 vs Việt Nam U23 13:30 ngày 18/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -18,29 +12,29 @@ https://live2.zundrixmediapipeline.com/live/channel9.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel1.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacty.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp LD Alajuelense vs Marathon 07:30 ngày 18/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel20.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacty.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Flamengo RJ vs Ind. del Valle 07:30 ngày 18/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel22.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacty.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Alacranes Durango vs Cruz Azul Hidalgo 08:00 ngày 18/09
+#EXTINF:-1 tvg-logo="https://static.xoilacty.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Montevideo City vs Cienciano 07:30 ngày 18/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel8.m3u8
+https://live2.zundrixmediapipeline.com/live/channel9.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacty.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp CD Olimpia vs Luis Angel Firpo 10:15 ngày 18/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel13.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacty.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Alacranes Durango vs Cruz Azul Hidalgo 08:00 ngày 18/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel8.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacty.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Vanraure Hachi vs Miyazaki 11:00 ngày 18/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
