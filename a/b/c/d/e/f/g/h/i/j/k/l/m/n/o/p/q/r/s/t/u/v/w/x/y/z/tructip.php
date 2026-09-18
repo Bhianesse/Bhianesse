@@ -4,5 +4,5 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tructiep-hd.club/
 #EXTVLCOPT:http-origin=https://tructiep-hd.club
-https://live.dyrur1.com/live/69456604_bdbc2b8d74b2f656a960659b4d37838d_autoChange.m3u8?auth_key=1789745385-0-0-82f3053489c94d29083dd34184881ec5
+https://live.dyrur1.com/live/69456604_bdbc2b8d74b2f656a960659b4d37838d_autoChange.m3u8?auth_key=1789748980-0-0-f736767be1ee27bf9bb7bdda928f5f9c
 
