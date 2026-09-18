@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxth.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Monza vs Sassuolo 01:45 ngày 19/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel11.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxth.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp AS Monaco vs RC Lens 01:45 ngày 19/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -12,29 +18,17 @@ https://live2.zundrixmediapipeline.com/live/channel19.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel6.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxth.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Monza vs Sassuolo 01:45 ngày 19/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel11.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxth.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Brentford vs Chelsea 02:00 ngày 19/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001789757832-0-0-cc251d197ace20db3bc75e4e7b4ba4cc
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001789760221-0-0-e528a5e9791a6e7d890d2c5c96058cfa
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxth.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Espanyol vs Elche CF 02:00 ngày 19/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=6d13854687b7b2a2a6ff1949109f76f3&wsABSTime=1789801034
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxth.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Osasuna vs Rayo Vallecano 19:00 ngày 19/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel18.m3u8
+https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=e783b6d7461eea57a59786824c08a791&wsABSTime=1789803423
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxth.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tottenham vs Aston Villa 18:30 ngày 19/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -42,23 +36,29 @@ https://live2.zundrixmediapipeline.com/live/channel18.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel1.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxth.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Osasuna vs Rayo Vallecano 19:00 ngày 19/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel18.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxth.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bologna vs Torino 20:00 ngày 19/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel12.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxth.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Werder Bremen vs Augsburg 20:30 ngày 19/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel14.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxth.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Udinese vs Cagliari 20:00 ngày 19/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel4.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxth.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Werder Bremen vs Augsburg 20:30 ngày 19/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel14.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxth.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hamburger SV vs FC Köln 20:30 ngày 19/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -76,7 +76,7 @@ https://live2.zundrixmediapipeline.com/live/channel22.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=f83ef2b613524e9538768d71b304b1eb&wsABSTime=1789801058
+https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=30143240ff4e1054e6d8e23c72a23c7d&wsABSTime=1789803449
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxth.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp RC Celta vs Racing Santander 23:30 ngày 19/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -107,4 +107,10 @@ https://live2.zundrixmediapipeline.com/live/channel20.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel10.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxth.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Juarez vs Tigres UANL 10:00 ngày 19/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel13.m3u8
 
