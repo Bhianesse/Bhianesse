@@ -16,19 +16,13 @@ https://live2.zundrixmediapipeline.com/live/channel28.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel1.m3u8
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001789710247-0-0-43724a529f143da366190fe4a2a8e59b
 
 #EXTINF:-1 tvg-logo="https://static.xoilacty.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Arema FC vs Persik Kediri 15:30 ngày 18/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel18.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacty.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Wuhan Three Towns B vs Haimen Codion 16:00 ngày 18/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel20.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacty.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kuwait U23 vs Uzbekistan U23 17:00 ngày 18/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -41,6 +35,12 @@ https://live2.zundrixmediapipeline.com/live/channel19.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel8.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacty.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Wuhan Three Towns B vs Haimen Codion 16:00 ngày 18/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel20.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacty.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Yanbian Longding vs Guangzhou Power 17:00 ngày 18/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
