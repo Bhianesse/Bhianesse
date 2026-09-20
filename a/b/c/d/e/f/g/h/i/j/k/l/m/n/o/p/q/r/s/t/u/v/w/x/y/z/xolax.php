@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Inter Miami vs San Diego FC 06:00 ngày 21/09
+#EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Việt Nam vs Nữ Thái Lan 17:30 ngày 21/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel6.m3u8
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001789945157-0-0-feeade988edce9db9f0bacd04a206795
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Chivas Tapatio vs Tlaxcala FC 06:00 ngày 21/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -12,11 +12,11 @@ https://live2.zundrixmediapipeline.com/live/channel6.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel22.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Việt Nam vs Nữ Thái Lan 17:30 ngày 21/09
+#EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Inter Miami vs San Diego FC 06:00 ngày 21/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001789944202-0-0-a4b17b6d21e8abcfbedb9936709957d7
+https://live2.zundrixmediapipeline.com/live/channel6.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Louis Athletica vs Nữ Pachuca 06:00 ngày 21/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -24,17 +24,17 @@ https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001789944202-0-0-
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel20.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Pachuca vs Club Tijuana 07:00 ngày 21/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel18.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Deportes Tolima vs America de Cali 06:10 ngày 21/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel25.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Pachuca vs Club Tijuana 07:00 ngày 21/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel18.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Toluca vs Santos Laguna 07:00 ngày 21/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
