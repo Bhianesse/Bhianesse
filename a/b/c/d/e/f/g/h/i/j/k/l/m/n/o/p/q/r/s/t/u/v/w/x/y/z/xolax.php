@@ -1,34 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Việt Nam vs Nữ Thái Lan 17:30 ngày 21/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001789945157-0-0-feeade988edce9db9f0bacd04a206795
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Chivas Tapatio vs Tlaxcala FC 06:00 ngày 21/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel22.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Inter Miami vs San Diego FC 06:00 ngày 21/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel6.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Louis Athletica vs Nữ Pachuca 06:00 ngày 21/09
+#EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Việt Nam vs Nữ Thái Lan 17:30 ngày 21/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel20.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Deportes Tolima vs America de Cali 06:10 ngày 21/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel25.m3u8
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001789948077-0-0-1d59faa5aaebd592ef07b17423e089fd
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Pachuca vs Club Tijuana 07:00 ngày 21/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -96,6 +78,12 @@ https://live2.zundrixmediapipeline.com/live/channel12.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel21.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Amkar Perm vs Dynamo Moscow B 20:00 ngày 21/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel20.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Dynamo Kirov vs Sokol Saratov 20:30 ngày 21/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -131,4 +119,16 @@ https://live2.zundrixmediapipeline.com/live/channel7.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel14.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Dobrudzha Dobrich vs CSKA Sofia II 23:00 ngày 21/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel22.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Escuela Presidente Roca vs General Paz Junlors 07:00 ngày 21/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel20/playlist.m3u8?wsSecret=8de0c92d9c87ace26ba5f6df53296315&wsABSTime=1789991348
 
