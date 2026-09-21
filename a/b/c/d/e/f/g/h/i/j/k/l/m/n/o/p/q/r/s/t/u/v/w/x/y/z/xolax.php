@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Việt Nam vs Nữ Thái Lan 17:30 ngày 21/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001789951938-0-0-c65a3399d33898c1d38c6a67b54e4852
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Inter Miami vs San Diego FC 06:00 ngày 21/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel6.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Việt Nam vs Nữ Thái Lan 17:30 ngày 21/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001789952288-0-0-aaed950767bfb7b4d01c74660856087a
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Llaneros FC vs Atl. Nacional 08:15 ngày 21/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -42,17 +42,17 @@ https://live2.zundrixmediapipeline.com/live/channel18.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel15.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Trung Quốc vs Nữ Philippines 14:00 ngày 21/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel11.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Khovd Broncos vs Central Stallions 15:00 ngày 21/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel13.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Trung Quốc vs Nữ Philippines 14:00 ngày 21/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel11.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Khovd Western vs Khaan Khuns-Erchim FC 18:00 ngày 21/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -66,17 +66,17 @@ https://live2.zundrixmediapipeline.com/live/channel8.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel12.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Andranik vs Lernayin Artsakh 18:30 ngày 21/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel21.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Áo U19 vs Anh U19 20:00 ngày 21/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel24.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Andranik vs Lernayin Artsakh 18:30 ngày 21/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel21.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Amkar Perm vs Dynamo Moscow B 20:00 ngày 21/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -124,23 +124,23 @@ https://live2.zundrixmediapipeline.com/live/channel22.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel10/playlist.m3u8?wsSecret=dfa641d4f442a73c18bef2cd5186e838&wsABSTime=1789995226
+https://live1.quickscoreboardz.com/live/channel10/playlist.m3u8?wsSecret=ff586ad3d17d3f822c38d6fbe8cd1d47&wsABSTime=1789995549
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp AD San Carlos vs Cartagines Deportiva 08:00 ngày 21/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel11/playlist.m3u8?wsSecret=5f9f3ff9dd4ad73e79639bbb6978408a&wsABSTime=1789995230
+https://live1.quickscoreboardz.com/live/channel11/playlist.m3u8?wsSecret=c0af9dda97294559a0ea37e788e6012a&wsABSTime=1789995551
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Juticalpa vs Marathon 08:30 ngày 21/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel22/playlist.m3u8?wsSecret=4472031798fdb1b84bdbd15b9aad81b1&wsABSTime=1789995232
+https://live1.quickscoreboardz.com/live/channel22/playlist.m3u8?wsSecret=6e7531a7884c376b728182cb91d419ee&wsABSTime=1789995554
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Shenzhen 2028 Education U15 vs Henan Experimental U15 08:30 ngày 21/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel23/playlist.m3u8?wsSecret=f4fd07c6b82534a3c53d11ab7da531a3&wsABSTime=1789995237
+https://live1.quickscoreboardz.com/live/channel23/playlist.m3u8?wsSecret=ebff116e86691914efda72c936ea043d&wsABSTime=1789995557
 
