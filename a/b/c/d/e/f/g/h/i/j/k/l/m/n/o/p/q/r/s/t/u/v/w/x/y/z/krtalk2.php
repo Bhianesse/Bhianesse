@@ -1,9 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="MY PACAR LIVE",🐇ayok donasi server playlist IPTV agar server tetap aktif🐇
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/e9f89f3bc9c818084eddcc433b63ff7d.webp" group-title="MY PACAR LIVE",🐇[LIVE 36m | Greesel JKT48 | 👁 6240] yuhuuu🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.z3nXSqOvE9Fs.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/6e1bcb308332f3ce8c04068651f5865d.webp" group-title="MY PACAR LIVE",🐇[LIVE 36m | Oniel JKT48 | 👁 4521] saya kembali🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.KGbEli9xlInK.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/816e767097cdcbac9c5f7d84b56df037.webp" group-title="MY PACAR LIVE",🐇[LIVE 49m | Gita JKT48 | 👁 4669] Gits🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.k4fAFOYXENlG.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/136e46bfe1d26ae38aed055ea72da77b.webp" group-title="MY PACAR LIVE",🐇[LIVE 6m | Indah JKT48 | 👁 928] Ayo ngobrol bareng!🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.oKpAUHJSe6RM.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/9cc9dc567f31ddc346cf27cd64649c7a.webp" group-title="MY PACAR LIVE",🐇[LIVE 22m | Steve Alx | 👁 1374] Hii !! 🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.9SHPwGHWGQPF.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/5edeae567a06c929adcfec3b3036909f.webp" group-title="MY PACAR LIVE",🐇[LIVE 34m | Lyn JKT48 | 👁 2006] Ayo ngobrol bareng!🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.YMhzlmrLe7tw.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/586a2ca321e41262c6c8896bb0309832.webp" group-title="MY PACAR LIVE",🐇[LIVE 56m | CANDIESS GIRLS | 👁 3576] Hi!🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.zWuxiX0C2ink.m3u8
