@@ -6,17 +6,17 @@
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel15.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hàn Quốc U23 vs Việt Nam U23 17:30 ngày 25/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790320118-0-0-57295e4877454c8aae14d6829e3ad79d
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxbc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bangladesh vs Malaysia 16:00 ngày 25/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel11.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hàn Quốc U23 vs Việt Nam U23 17:30 ngày 25/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790324482-0-0-b0be1636e2a70029413b478055165989
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Armenia vs Latvia 23:00 ngày 25/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
