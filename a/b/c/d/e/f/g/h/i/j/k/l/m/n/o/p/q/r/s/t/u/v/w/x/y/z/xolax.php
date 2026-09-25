@@ -24,12 +24,6 @@ https://live2.zundrixmediapipeline.com/live/channel1.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel5.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Costa Rica vs Curacao 09:00 ngày 25/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel9.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Uzbekistan U23 vs Ả Rập Xê Út U23 12:00 ngày 25/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -41,6 +35,12 @@ https://live2.zundrixmediapipeline.com/live/channel13.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel6.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Italy U20 vs Anh U20 16:30 ngày 25/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel9.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bà Rịa Vũng Tàu vs Văn Hiến 16:00 ngày 25/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -125,4 +125,10 @@ https://live2.zundrixmediapipeline.com/live/channel24.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel14.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Togo vs Burundi 23:00 ngày 25/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel19.m3u8
 
