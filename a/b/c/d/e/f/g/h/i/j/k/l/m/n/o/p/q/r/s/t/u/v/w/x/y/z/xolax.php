@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Trung Quốc vs Nữ Việt Nam 13:00 ngày 25/09
+#EXTINF:-1 tvg-logo="https://static.xoilacxbc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hàn Quốc U23 vs Việt Nam U23 17:30 ngày 25/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel15.m3u8
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790328841-0-0-3c2f72be9b0c9e34d8e390c5ac7114a7
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bangladesh vs Malaysia 16:00 ngày 25/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -12,11 +12,11 @@ https://live2.zundrixmediapipeline.com/live/channel15.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel11.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hàn Quốc U23 vs Việt Nam U23 17:30 ngày 25/09
+#EXTINF:-1 tvg-logo="https://static.xoilacxbc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Indonesia vs Singapore 20:00 ngày 25/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790324482-0-0-b0be1636e2a70029413b478055165989
+https://live2.zundrixmediapipeline.com/live/channel15.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Armenia vs Latvia 23:00 ngày 25/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -131,4 +131,10 @@ https://live2.zundrixmediapipeline.com/live/channel19.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel13.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Dinamo Barnaul vs Pobeda Nizhniy Novgorod 16:30 ngày 25/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel1/playlist.m3u8?wsSecret=0ca7911b42cd7399087cba7824a1ae08&wsABSTime=1790372127
 
