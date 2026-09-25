@@ -36,17 +36,17 @@ https://live2.zundrixmediapipeline.com/live/channel6.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel9.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Australia vs Brazil 17:00 ngày 25/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel28.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxbc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bà Rịa Vũng Tàu vs Văn Hiến 17:00 ngày 25/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel8.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Australia vs Brazil 17:00 ngày 25/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel28.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Hàn Quốc vs Nữ Uzbekistan 17:30 ngày 25/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -60,17 +60,17 @@ https://live2.zundrixmediapipeline.com/live/channel18.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel4.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tanzania vs Guinea Bissau 20:00 ngày 25/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel7.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxbc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Wuxi Wugo vs Guangxi Hengchen 18:00 ngày 25/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel23.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tanzania vs Guinea Bissau 20:00 ngày 25/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel7.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Mozambique vs Senegal 20:00 ngày 25/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
