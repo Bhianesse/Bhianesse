@@ -1,20 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [12:00 27/09] TRỰC TIẾP
+#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [13:00 27/09] TRỰC TIẾP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tructiep-hd.club/
 #EXTVLCOPT:http-origin=https://tructiep-hd.club
-https://live.dyrur1.com/live/74971272_786a1082d59ced682688635aeb9c02fd_autoChange.m3u8?auth_key=1790501380-0-0-d2d290b5d36b95c5c7b3f5e569f8c90e
+https://live.dyrur1.com/live/m2q15izjwvdfe76_5c013347f0077f24fa631799c991a537_autoChange.m3u8?auth_key=1790504991-0-0-f314f515db66402c9dcaeca98658c3be
 
-#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [12:00 27/09] TRỰC TIẾP
+#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [13:00 27/09] TRỰC TIẾP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tructiep-hd.club/
 #EXTVLCOPT:http-origin=https://tructiep-hd.club
-https://live.dyrur1.com/live/527r3i30l35b47e_975fdd04d2211bac0534a08d3d5b177b_autoChange.m3u8?auth_key=1790501379-0-0-2b33a156315e9c62ee28654c945de9e4
+https://live1.dyrur1.com/live/72664964_c7c66eb6832daca0f7726877c5b6d682_autoChange.m3u8?auth_key=1790504991-0-0-590f37c090765a2206c4d42f87893800
 
-#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [12:00 27/09] TRỰC TIẾP
+#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [13:00 27/09] TRỰC TIẾP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tructiep-hd.club/
 #EXTVLCOPT:http-origin=https://tructiep-hd.club
-https://live.dyrur1.com/live/74864680_b55b8ad22ff3241e0da00d6f1fa03da4_autoChange.m3u8?auth_key=1790501380-0-0-c8e646724ef49b7198d50ee5dd601afa
+https://live2.dyrur1.com/live/68728754_f580fc459b2ddd278a260f8d506fffe2_autoChange.m3u8?auth_key=1790504991-0-0-11e59faffdad3e7550e345a7172d899f
 
