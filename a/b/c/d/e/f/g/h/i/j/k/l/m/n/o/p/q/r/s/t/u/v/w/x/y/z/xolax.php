@@ -10,7 +10,7 @@ https://live2.zundrixmediapipeline.com/live/channel1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790665048-0-0-cc0bb79c4e00ecc93f24de3b18f35c08
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790667049-0-0-8bd82aafead372471a5ff77bae1af81d
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbf.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Phần Lan vs Belarus 23:00 ngày 29/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -24,6 +24,12 @@ https://live2.zundrixmediapipeline.com/live/channel15.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel6.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxbf.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp M. Yamagata vs Yokohama Marinos 17:00 ngày 29/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel22.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxbf.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Guangdong Chenxingjuli vs Wuhan Lianzhen 15:00 ngày 29/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -35,12 +41,6 @@ https://live2.zundrixmediapipeline.com/live/channel21.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel13.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbf.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp M. Yamagata vs Yokohama Marinos 17:00 ngày 29/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel22.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbf.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Gainare Tottori vs V-Varen Nagasaki 17:00 ngày 29/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -54,17 +54,17 @@ https://live2.zundrixmediapipeline.com/live/channel7.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel20.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbf.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ehime FC vs FC Tokyo 17:00 ngày 29/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel24.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxbf.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Osaka FC vs Avispa Fukuoka 17:00 ngày 29/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel28.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbf.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ehime FC vs FC Tokyo 17:00 ngày 29/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel24.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbf.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Sagan Tosu vs Tokyo Verdy 17:00 ngày 29/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
