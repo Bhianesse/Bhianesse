@@ -6,17 +6,17 @@
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel1.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxbf.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Thái Lan vs Việt Nam 19:30 ngày 29/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790674835-0-0-1e40478fabac01b417f3597537e44ef8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxbf.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Phần Lan vs Belarus 23:00 ngày 29/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel15.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbf.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Thái Lan vs Việt Nam 19:30 ngày 29/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790670920-0-0-8157766a063e66878aeba78adbeaba92
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbf.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Moldova vs Faroe Islands 23:00 ngày 29/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -30,17 +30,17 @@ https://live2.zundrixmediapipeline.com/live/channel6.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel13.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbf.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Gifu vs Yokohama FC 17:00 ngày 29/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel12.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxbf.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp M. Yamagata vs Yokohama Marinos 17:00 ngày 29/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel22.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbf.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Gifu vs Yokohama FC 17:00 ngày 29/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel12.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbf.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Australia vs Brazil 17:00 ngày 29/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
