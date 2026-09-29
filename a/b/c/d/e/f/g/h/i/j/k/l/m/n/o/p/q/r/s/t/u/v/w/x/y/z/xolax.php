@@ -10,7 +10,7 @@ https://live2.zundrixmediapipeline.com/live/channel1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790663180-0-0-79f70f800c37c8f4ba9ce9bcff321cf1
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790665048-0-0-cc0bb79c4e00ecc93f24de3b18f35c08
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbf.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Phần Lan vs Belarus 23:00 ngày 29/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -96,17 +96,17 @@ https://live2.zundrixmediapipeline.com/live/channel10.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel23.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbf.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kataller Toyama vs Urawa Red 17:00 ngày 29/09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel18.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxbf.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Matsumoto FC vs Albirex Niigata 17:00 ngày 29/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel9.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbf.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kataller Toyama vs Urawa Red 17:00 ngày 29/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel18.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbf.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Australia vs Brazil 17:00 ngày 29/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
