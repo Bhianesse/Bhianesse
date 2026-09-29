@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxbe.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Philippines vs Pakistan 16:00 ngày 29/09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel1.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxbe.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Phần Lan vs Belarus 23:00 ngày 29/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -10,7 +16,7 @@ https://live2.zundrixmediapipeline.com/live/channel15.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel1.m3u8
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790660962-0-0-439728051d9f92459a5da39722bde085
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbe.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Moldova vs Faroe Islands 23:00 ngày 29/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -42,11 +48,11 @@ https://live2.zundrixmediapipeline.com/live/channel8.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel18.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbe.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Consadole Sapporo vs Fagiano Okayama 17:00 ngày 29/09
+#EXTINF:-1 tvg-logo="https://static.xoilacxbe.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Matsumoto FC vs Albirex Niigata 17:00 ngày 29/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel10.m3u8
+https://live2.zundrixmediapipeline.com/live/channel9.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbe.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Roasso Kumamoto vs Kawasaki Frontale 17:00 ngày 29/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -54,11 +60,11 @@ https://live2.zundrixmediapipeline.com/live/channel10.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel23.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbe.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Matsumoto FC vs Albirex Niigata 17:00 ngày 29/09
+#EXTINF:-1 tvg-logo="https://static.xoilacxbe.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Consadole Sapporo vs Fagiano Okayama 17:00 ngày 29/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel9.m3u8
+https://live2.zundrixmediapipeline.com/live/channel10.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbe.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Gifu vs Yokohama FC 17:00 ngày 29/09
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
