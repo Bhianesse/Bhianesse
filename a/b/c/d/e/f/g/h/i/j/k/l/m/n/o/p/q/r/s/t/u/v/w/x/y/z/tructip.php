@@ -1,14 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [04:00 29/09] TRỰC TIẾP
+#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [05:30 30/09] TRỰC TIẾP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tructiep-hd.club/
 #EXTVLCOPT:http-origin=https://tructiep-hd.club
-https://live1.dyrur1.com/live/75071914_af71164164b0849a9f3a86b544bd33f6_autoChange.m3u8?auth_key=1790735151-0-0-0010e55634ba5279ec3e3091b3d190f0
+https://live1.dyrur1.com/live/68823306_3eb8c32f42b831e0749ce500cfeab14e_autoChange.m3u8?auth_key=1790738978-0-0-ce30ba30ea09ffc9a1a42829efc3cfe1
 
-#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [04:00 29/09] TRỰC TIẾP
+#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [06:00 30/09] TRỰC TIẾP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tructiep-hd.club/
 #EXTVLCOPT:http-origin=https://tructiep-hd.club
-https://live.dyrur1.com/live/75126886_fcaefce1cd5c444a76f50ca91b7e48c3_autoChange.m3u8?auth_key=1790735151-0-0-bbcaa1a3a5faef2cac37333ec7165253
+https://live.dyrur1.com/live/72636242_a151469ec981ae7daf1e1f876627cd95_autoChange.m3u8?auth_key=1790738978-0-0-4ab1adb2b4530f09e09f3c6fad3dccea
+
+#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [06:00 30/09] TRỰC TIẾP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tructiep-hd.club/
+#EXTVLCOPT:http-origin=https://tructiep-hd.club
+https://live1.dyrur1.com/live/73220998_d635120c3fcf8de1676a60034c94527d_autoChange.m3u8?auth_key=1790738978-0-0-c88d33b2f78fb3b205a9d569d6065638
 
