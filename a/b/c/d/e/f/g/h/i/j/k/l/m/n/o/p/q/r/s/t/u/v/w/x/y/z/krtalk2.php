@@ -1,9 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="MY PACAR LIVE",🐇ayok donasi server playlist IPTV agar server tetap aktif🐇
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/1f16f9ce331ade68b9f114b45640bd37.webp" group-title="MY PACAR LIVE",🐇[LIVE 33m | Olla JKT48 | 👁 2704] Ayo ngobrol bareng!🐇
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/1f16f9ce331ade68b9f114b45640bd37.webp" group-title="MY PACAR LIVE",🐇[LIVE 1h | Olla JKT48 | 👁 4995] Ayo ngobrol bareng!🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.QGp4Op9dfxOA.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/66771033a66550e7782cf7d61c69dc55.webp" group-title="MY PACAR LIVE",🐇[LIVE 58m | gitavara - | 👁 225] sebelum oktober…🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Dngioj5piqys.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/49e5a02d6c7e2d81265e2fb36b625879.webp" group-title="MY PACAR LIVE",🐇[LIVE 1h | biyaa awave | 👁 435] yow yow yow🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.7XE9hjFfYVPw.m3u8
