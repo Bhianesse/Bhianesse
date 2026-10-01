@@ -16,25 +16,13 @@ https://live2.zundrixmediapipeline.com/live/channel5.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=0f5e1efd28fec489a915ad759cb01942&wsABSTime=1790935391
+https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=b56da18caffc7a9cf59bb7e266185c7e&wsABSTime=1790939499
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Latvia vs Montenegro 23:00 ngày 02/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=930e89931748c98e39b155f7989ef00c&wsABSTime=1790935402
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Curacao vs Trinidad and Tobago 05:00 ngày 02/10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel21.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Anguilla vs Antigua and Barbuda 06:00 ngày 02/10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel17.m3u8
+https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=7db42c94e6663095b7d990b6e953bf66&wsABSTime=1790939510
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Athletic Club vs Sport Club Recife 06:30 ngày 02/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -107,4 +95,22 @@ https://live2.zundrixmediapipeline.com/live/channel18.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel12.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Trung Quốc vs Palestine 18:35 ngày 02/10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel21.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp LOSC Lille vs Zulte-Waregem 19:00 ngày 02/10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel17.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxc.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp LASK Linz vs First Vienna FC 1894 19:30 ngày 02/10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel22.m3u8
 
