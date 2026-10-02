@@ -1,22 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilactb.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kazakhstan vs Moldova 21:00 ngày 02/10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel5.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilactb.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Việt Nam vs Pakistan 16:00 ngày 02/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790918956-0-0-704cb23388921afc96de240410865525
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790921638-0-0-97c1d28407bbc1ee149588bf7e236c09
 
 #EXTINF:-1 tvg-logo="https://static.xoilactb.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Thái Lan vs Philippines 16:00 ngày 02/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=4f766e3f5eb56d05bbff2f4adbca5e1d&wsABSTime=1790962156
+https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=cc9d382875dccc887ed2df8d26123288&wsABSTime=1790964838
+
+#EXTINF:-1 tvg-logo="https://static.xoilactb.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kazakhstan vs Moldova 21:00 ngày 02/10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel5.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilactb.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Đảo Síp vs Armenia 23:00 ngày 02/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -28,19 +28,7 @@ https://live2.zundrixmediapipeline.com/live/channel1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=223e6b6e4d5250497894060142526ee6&wsABSTime=1790962167
-
-#EXTINF:-1 tvg-logo="https://static.xoilactb.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Trung Quốc vs Nữ Hàn Quốc 13:00 ngày 02/10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel19.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilactb.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Lokomotiv Plovdiv vs Arda 15:00 ngày 02/10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel13.m3u8
+https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=2298330f4dc61e31c81a22d397f0f14f&wsABSTime=1790964850
 
 #EXTINF:-1 tvg-logo="https://static.xoilactb.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Lugano vs Hellas Verona 16:30 ngày 02/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -48,23 +36,29 @@ https://live2.zundrixmediapipeline.com/live/channel13.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel7.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilactb.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Lokomotiv Plovdiv vs Arda 15:00 ngày 02/10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel13.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilactb.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Reilac Shiga FC vs Roasso Kumamoto 17:00 ngày 02/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel10.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilactb.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Daejeon Korail vs Gangneung Citizen 17:00 ngày 02/10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel9.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilactb.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nürnberg vs FC Ingolstadt 17:00 ngày 02/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel8.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilactb.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Daejeon Korail vs Gangneung Citizen 17:00 ngày 02/10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel9.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilactb.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Triều Tiên vs Nữ Nhật Bản 17:30 ngày 02/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -77,6 +71,12 @@ https://live2.zundrixmediapipeline.com/live/channel18.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel12.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilactb.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Augsburg vs Hertha Berlin 18:00 ngày 02/10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel19.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilactb.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Heidenheim vs Würzburger Kickers 18:00 ngày 02/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
