@@ -4,19 +4,19 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=fbd2fdfb27db7f36a1b280c842859bca&wsABSTime=1790966015
-
-#EXTINF:-1 tvg-logo="https://static.xoilactb.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Việt Nam vs Pakistan 16:00 ngày 02/10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790922815-0-0-d5fe9cd97f0cd8f8018fd206461a400f
+https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=b05a44be0b7717f3352a60bf61839fa2&wsABSTime=1790970120
 
 #EXTINF:-1 tvg-logo="https://static.xoilactb.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kazakhstan vs Moldova 21:00 ngày 02/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel5.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilactb.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Việt Nam vs Pakistan 16:00 ngày 02/10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790926920-0-0-313c34f6ea9b2082636b0a8b32ef58cf
 
 #EXTINF:-1 tvg-logo="https://static.xoilactb.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Đảo Síp vs Armenia 23:00 ngày 02/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -28,7 +28,7 @@ https://live2.zundrixmediapipeline.com/live/channel1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=d01249b047895f811401173899ef50c2&wsABSTime=1790966028
+https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=feade9021a910e532dc22b7869c97c31&wsABSTime=1790970132
 
 #EXTINF:-1 tvg-logo="https://static.xoilactb.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Lokomotiv Plovdiv vs Arda 15:00 ngày 02/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
