@@ -4,7 +4,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=68649bfc13e825a30f29ea89a7797f12&wsABSTime=1790943612
+https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=b7fd986a445ca1a380e9e575b20ed0b1&wsABSTime=1790944393
 
 #EXTINF:-1 tvg-logo="https://static.xoilactb.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Việt Nam vs Pakistan 16:00 ngày 02/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -18,17 +18,11 @@ https://live2.zundrixmediapipeline.com/live/channel1.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel5.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilactb.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp CA Platense vs Estudiantes LP 07:15 ngày 02/10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel23.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilactb.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Latvia vs Montenegro 23:00 ngày 02/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=bd6b5fee31e9e634d3b3dc41c9a87c76&wsABSTime=1790943624
+https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=e455e4cc49ad7af15ac34619867dd679&wsABSTime=1790944406
 
 #EXTINF:-1 tvg-logo="https://static.xoilactb.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Seattle Sounders vs Sporting Kansas 08:30 ngày 02/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -66,17 +60,17 @@ https://live2.zundrixmediapipeline.com/live/channel10.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel9.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilactb.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Triều Tiên vs Nữ Nhật Bản 17:30 ngày 02/10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel18.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilactb.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nürnberg vs FC Ingolstadt 17:00 ngày 02/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel8.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilactb.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Triều Tiên vs Nữ Nhật Bản 17:30 ngày 02/10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel18.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilactb.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hàn Quốc vs Venezuela 18:00 ngày 02/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
