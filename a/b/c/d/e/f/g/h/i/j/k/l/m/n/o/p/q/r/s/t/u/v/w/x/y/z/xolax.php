@@ -4,7 +4,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=b7fd986a445ca1a380e9e575b20ed0b1&wsABSTime=1790944393
+https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=0e70023875021f67ea7fd52c0e841388&wsABSTime=1790948478
 
 #EXTINF:-1 tvg-logo="https://static.xoilactb.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Việt Nam vs Pakistan 16:00 ngày 02/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -22,7 +22,7 @@ https://live2.zundrixmediapipeline.com/live/channel5.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=e455e4cc49ad7af15ac34619867dd679&wsABSTime=1790944406
+https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=01db39e4c3943693aef35faa7787156b&wsABSTime=1790948490
 
 #EXTINF:-1 tvg-logo="https://static.xoilactb.cc/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Seattle Sounders vs Sporting Kansas 08:30 ngày 02/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
