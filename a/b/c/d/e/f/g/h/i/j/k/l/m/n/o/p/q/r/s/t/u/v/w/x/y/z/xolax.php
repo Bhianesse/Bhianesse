@@ -1,16 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxcw.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Pháp vs Italy 01:45 ngày 03/10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel1.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxcw.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bỉ vs Thổ Nhĩ Kỳ 01:45 ngày 03/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=b85a630c3171fc8f259d0a0554ad5793&wsABSTime=1791009292
+https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=17a1099f170f458b35e93f40bf674361&wsABSTime=1791013602
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxcw.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bosnia-Herzegovina vs Thụy Điển 01:45 ngày 03/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -18,11 +12,17 @@ https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=b85a630c
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel6.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxcw.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Pháp vs Italy 01:45 ngày 03/10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel1.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxcw.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Faroe Islands vs Slovakia 01:45 ngày 03/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel19/playlist.m3u8?wsSecret=0d2d6f6d14e9c95662ea8ee5069b4c32&wsABSTime=1791009300
+https://live1.quickscoreboardz.com/live/channel19/playlist.m3u8?wsSecret=dedb2d666f31b1dc53b223783bbd8685&wsABSTime=1791013612
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxcw.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ba Lan vs Romania 01:45 ngày 03/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -30,35 +30,29 @@ https://live1.quickscoreboardz.com/live/channel19/playlist.m3u8?wsSecret=0d2d6f6
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel11.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxcw.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ukraine vs Bắc Ireland 01:45 ngày 03/10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel4/playlist.m3u8?wsSecret=f5f55db83b45737daf965bdf64ef63fa&wsABSTime=1791009306
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxcw.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hungary vs Georgia 01:45 ngày 03/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel18.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxcw.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ukraine vs Bắc Ireland 01:45 ngày 03/10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel4/playlist.m3u8?wsSecret=ea1af7b41655d655ef1dc399b8d7375c&wsABSTime=1791013617
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxcw.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hồng Kông vs Campuchia 17:00 ngày 03/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790966119-0-0-3da7a185f651b9c43a5de3b79120be3a
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790970431-0-0-8d57d6bcca74a59cce6c86e85492b018
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxcw.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Phần Lan vs Albania 20:00 ngày 03/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=7da6e10a2fe2c6b682e2ccb302c50465&wsABSTime=1791009322
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxcw.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Estonia vs Luxembourg 23:00 ngày 03/10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel6/playlist.m3u8?wsSecret=e6a8de48879cc90795e299f24035c686&wsABSTime=1791009333
+https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=eee448bbd9e0176182a3b35b6b8319fa&wsABSTime=1791013632
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxcw.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Belarus vs San Marino 23:00 ngày 03/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -66,29 +60,17 @@ https://live1.quickscoreboardz.com/live/channel6/playlist.m3u8?wsSecret=e6a8de48
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel15.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxcw.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Estonia vs Luxembourg 23:00 ngày 03/10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel6/playlist.m3u8?wsSecret=14619f533e932b8a4319e2849d5170a3&wsABSTime=1791013644
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxcw.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Iceland vs Bulgaria 23:00 ngày 03/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=42f21c352124e7780502f01ccdcdd739&wsABSTime=1791009338
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxcw.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Eldense vs Real Oviedo 01:30 ngày 03/10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel23.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxcw.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Sevilla vs Aston Villa 01:30 ngày 03/10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel8.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxcw.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Saint Lucia vs Guadeloupe 02:00 ngày 03/10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel10.m3u8
+https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=90e22945d14e438090208be781d93b91&wsABSTime=1791013646
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxcw.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Saint Kitts and Nevis vs Cuba 04:00 ngày 03/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -101,6 +83,24 @@ https://live2.zundrixmediapipeline.com/live/channel22.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel17.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxcw.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp CA Independiente vs Instituto 05:15 ngày 03/10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel23.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxcw.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Santos Laguna vs Nữ Puebla 06:00 ngày 03/10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel10.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxcw.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp São Paulo vs Santos 06:00 ngày 03/10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel8.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxcw.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bonaire vs Grenada 07:00 ngày 03/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -137,4 +137,10 @@ https://live2.zundrixmediapipeline.com/live/channel20.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel28.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxcw.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp El Salvador vs Jamaica 09:00 ngày 03/10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel14.m3u8
 
