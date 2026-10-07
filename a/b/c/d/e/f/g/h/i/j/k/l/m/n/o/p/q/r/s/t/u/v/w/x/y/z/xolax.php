@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Urawa Red vs RB Omiya Ardija 16:00 ngày 07/10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel11.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Taian Tiankuang vs ShangYu FC 15:00 ngày 07/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel7.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Urawa Red vs RB Omiya Ardija 16:00 ngày 07/10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel11.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Georgia U19 vs Nữ Bulgaria U19 15:00 ngày 07/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -24,6 +24,12 @@ https://live2.zundrixmediapipeline.com/live/channel8.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel21.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Sanfrecce Hiroshima vs Iwaki FC 16:30 ngày 07/10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel13.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Avispa Fukuoka vs Yokohama FC 16:30 ngày 07/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -35,12 +41,6 @@ https://live2.zundrixmediapipeline.com/live/channel24.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel16.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Sanfrecce Hiroshima vs Iwaki FC 16:30 ngày 07/10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel13.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Phần Lan U17 vs Nữ Ukraine U17 17:00 ngày 07/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -112,7 +112,7 @@ https://live2.zundrixmediapipeline.com/live/channel20.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=28ac755266d129715dc8f652042bf54b&wsABSTime=1791391867
+https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=e5338ece52e34d9d64d30326da8df668&wsABSTime=1791394052
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ratchaburi vs Hồ Chí Minh 19:00 ngày 07/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -124,5 +124,5 @@ https://live2.zundrixmediapipeline.com/live/channel1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=3444fe0ac484ffff13a1dc0c7f41ab5c&wsABSTime=1791391872
+https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=bc4dcca228dde37a6b1b3669716aaaa1&wsABSTime=1791394058
 
