@@ -1,19 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="MY PACAR LIVE",🐇ayok donasi server playlist IPTV agar server tetap aktif🐇
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/a23c63fc61d562b2ef67be622fd6e9fa.webp" group-title="MY PACAR LIVE",🐇[LIVE 3m | Alya Insyirah | 👁 4] haii ngobrol ngobrol yuk!🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.7f5nwBalkbHS.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/a6e173f092e753fb8172b61bddc79067.webp" group-title="MY PACAR LIVE",🐇[LIVE 20m | cilaa_awave | 👁 28] Ayo ngobrol bareng!🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Y1cBQHjIrLcI.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/87c40a2cd0eef903617c4a861e3658a3.webp" group-title="MY PACAR LIVE",🐇[LIVE 27m | Frita | Kuroten Idol | 👁 51] halo?👋🏻 🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.1BQ0VVgXQceS.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/b88af3745097c586cb465c69a915e02f.webp" group-title="MY PACAR LIVE",🐇[LIVE 31m | Devina Natalia Kosasih | 👁 1316] makan cimol bojot🐇
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/c1afb8cee1722948d9689380a2ee0f5d.webp" group-title="MY PACAR LIVE",🐇[LIVE 36m | Irene Evita | 👁 56] Challenge🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.v1lABLP4WR7j.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/dac6426f79aa5a2a001126227ee5a27f.webp" group-title="MY PACAR LIVE",🐇[LIVE 39m | Ame | Karafuru Idol group | 👁 80] Kangenn:(🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.BQ0HT6EqlZyF.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/cf9c5f264cde64dce079aee886b189e4.webp" group-title="MY PACAR LIVE",🐇[LIVE 46m | Devina Natalia Kosasih | 👁 109] makan cimol bojot🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.EvUPX28uBd0T.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/6ece2e3c11f55b4b1462d5fbd4544a9b.webp" group-title="MY PACAR LIVE",🐇[LIVE 32m | Sanza || Velamasc | 👁 80] first live idn!!!🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.NPv348opBapF.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/7e81547683edf9a6c4fcd2164156f754.webp" group-title="MY PACAR LIVE",🐇[LIVE 33m | Raaavix RSRC | 👁 63] Ngobrol lagi sini🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.kB5R62rKzdE3.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/0694782f048a52682e29979460fe43dc.webp" group-title="MY PACAR LIVE",🐇[LIVE 34m | davina putri | 👁 102] hiiiii🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Dc7avuQCQnVP.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/9e166389ae276df6bf9529c6df75e831.webp" group-title="MY PACAR LIVE",🐇[LIVE 35m | Liya | Karafuru Idol Group | 👁 130] HAIIIII🐇
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/94a8c3de2040e568c25729cc4c0a1380.webp" group-title="MY PACAR LIVE",🐇[LIVE 48m | Laluna | Kuroten Idol | 👁 96] baru baleeekkk🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.mgoWULKHxBr1.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/1c59e779fe5d5085be13ba3c8e72d347.webp" group-title="MY PACAR LIVE",🐇[LIVE 51m | Zeefa | Kuroten Idol | 👁 153] ngapain nyak🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.mVDEcIFPd4wD.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/9bb17cdc32f1e500c77679dc5510988e.webp" group-title="MY PACAR LIVE",🐇[LIVE 51m | Olla JKT48 | 👁 5053] Ayo ngobrol bareng!🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.QGp4Op9dfxOA.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/fe3df29e804b7dc61df1b44e2aa0f9bf.webp" group-title="MY PACAR LIVE",🐇[LIVE 53m | Akemi ID Trainee | 👁 221] Yang Penting Bahas🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.rXUeXlCofBOx.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/5b73dca7404db8ebc37504a387e3a795.webp" group-title="MY PACAR LIVE",🐇[LIVE 55m | Jeni || Megami | 👁 87] ngobrol santai 🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GPKDQyqG2uNZ.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/87c40a2cd0eef903617c4a861e3658a3.webp" group-title="MY PACAR LIVE",🐇[LIVE 1h | Frita | Kuroten Idol | 👁 255] halo?👋🏻 🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.1BQ0VVgXQceS.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/9e166389ae276df6bf9529c6df75e831.webp" group-title="MY PACAR LIVE",🐇[LIVE 1h | Liya | Karafuru Idol Group | 👁 1030] HAIIIII🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.10LtrtP5Ei4T.m3u8
