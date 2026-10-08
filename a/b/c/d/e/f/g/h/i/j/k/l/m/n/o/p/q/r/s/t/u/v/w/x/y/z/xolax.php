@@ -6,12 +6,6 @@
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel4.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Atletico Grau vs Los Chankas 03:30 ngày 09/10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel8.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Santos vs Flamengo RJ 05:30 ngày 09/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -30,17 +24,17 @@ https://live2.zundrixmediapipeline.com/live/channel18.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel13.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Fortaleza F.C vs Millonarios 08:10 ngày 09/10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel11.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Alebrijes de Oaxaca vs Correcaminos de la U.A.T. 08:00 ngày 09/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel6.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Fortaleza F.C vs Millonarios 08:10 ngày 09/10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel11.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp International San Carlos vs Municipal Pérez Zeledón 09:00 ngày 09/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
