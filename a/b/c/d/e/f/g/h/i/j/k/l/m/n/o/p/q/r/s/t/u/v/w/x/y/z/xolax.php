@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Bhutan U17 vs Nữ Lebanon U17 15:00 ngày 08/10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel23.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Palestine U17 vs Nữ Kyrgyzstan U17 15:00 ngày 08/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -12,17 +18,17 @@ https://live2.zundrixmediapipeline.com/live/channel6.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel5.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Bhutan U17 vs Nữ Lebanon U17 15:00 ngày 08/10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel23.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ PP Hà Nam vs Nữ Hà Nội 16:00 ngày 08/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel4.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Ả Rập Xê Út U17 vs Nữ Indonesia U17 16:00 ngày 08/10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel9.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Hồ Chí Minh vs Nữ Than KSVN 16:00 ngày 08/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -35,12 +41,6 @@ https://live2.zundrixmediapipeline.com/live/channel22.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel24.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Ả Rập Xê Út U17 vs Nữ Indonesia U17 16:00 ngày 08/10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel9.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FK Yelimay Semey B vs FK Arys 17:00 ngày 08/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -82,7 +82,7 @@ https://live2.zundrixmediapipeline.com/live/channel1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel6/playlist.m3u8?wsSecret=8ba302ab49878e89147d50420ef788f8&wsABSTime=1791463303
+https://live1.quickscoreboardz.com/live/channel6/playlist.m3u8?wsSecret=c21c02bd717a3ebdaeb807c3498618b0&wsABSTime=1791467437
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Port FC vs Persib Bandung 19:00 ngày 08/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -114,17 +114,17 @@ https://live2.zundrixmediapipeline.com/live/channel2.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel7.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Uganda vs Nữ Zambia 20:00 ngày 08/10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.zundrixmediapipeline.com/live/channel12.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Sama Al Sarhan vs Ittihad Al-Ramtha SC 20:00 ngày 08/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.zundrixmediapipeline.com/live/channel20.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Uganda vs Nữ Zambia 20:00 ngày 08/10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.zundrixmediapipeline.com/live/channel12.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Tajikistan U17 vs Nữ Hàn Quốc U17 21:00 ngày 08/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
