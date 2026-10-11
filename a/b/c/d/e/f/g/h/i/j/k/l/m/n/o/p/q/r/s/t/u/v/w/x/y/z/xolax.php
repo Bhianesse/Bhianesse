@@ -1,28 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Elche CF vs RC Celta 19:00 ngày 11/10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel2.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Como vs AS Roma 17:30 ngày 11/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Inter Miami vs DC United 06:30 ngày 11/10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel14.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hull City vs Everton 20:00 ngày 11/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=f6d6cc43ace80f730c93751a2d2d2eb9&wsABSTime=1791724464
+https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=d4cf739780ae941ff843b308e1e7c7a9&wsABSTime=1791726976
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Elche CF vs RC Celta 19:00 ngày 11/10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.jorvakstreamcache.com/live/channel2.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Lazio vs Monza 20:00 ngày 11/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -34,7 +28,7 @@ https://live2.jorvakstreamcache.com/live/channel15.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel6/playlist.m3u8?wsSecret=d538d59c94ed8fa9f8ed8267d03f733f&wsABSTime=1791724468
+https://live1.quickscoreboardz.com/live/channel6/playlist.m3u8?wsSecret=a926174230ecb1893435ef64eacc78d5&wsABSTime=1791726989
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp OGC Nice vs Strasbourg 20:00 ngày 11/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -60,17 +54,17 @@ https://live2.jorvakstreamcache.com/live/channel4.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel24.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Real Betis vs Osasuna 23:30 ngày 11/10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel16/playlist.m3u8?wsSecret=bbaa1a040d049987217cfda994f18578&wsABSTime=1791727013
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Sassuolo vs AC Milan 23:00 ngày 11/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel18.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Real Betis vs Osasuna 23:30 ngày 11/10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel16/playlist.m3u8?wsSecret=a909dd434eacd8b729244c74e7a269db&wsABSTime=1791724493
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Club America vs Rayados de Monterrey 10:10 ngày 11/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
