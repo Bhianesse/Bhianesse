@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Como vs AS Roma 17:30 ngày 11/10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.jorvakstreamcache.com/live/channel1.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Elche CF vs RC Celta 19:00 ngày 11/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -10,13 +16,7 @@ https://live2.jorvakstreamcache.com/live/channel2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=cab8657f34c32984ff577ab3ce5137ea&wsABSTime=1791727929
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Como vs AS Roma 17:30 ngày 11/10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
+https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=5e32d36bafdfd2f15f002380a2473fc0&wsABSTime=1791731798
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Lazio vs Monza 20:00 ngày 11/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -34,7 +34,7 @@ https://live2.jorvakstreamcache.com/live/channel11.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel6/playlist.m3u8?wsSecret=12cc89013e3043323d5f09f615cd4c25&wsABSTime=1791727941
+https://live1.quickscoreboardz.com/live/channel6/playlist.m3u8?wsSecret=d4d131584a6ff7ac342cac2888dbec74&wsABSTime=1791731811
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FC Köln vs B. Monchengladbach 20:30 ngày 11/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -64,13 +64,7 @@ https://live2.jorvakstreamcache.com/live/channel18.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel16/playlist.m3u8?wsSecret=2e5ca20c143b4ec14202b2d61a61f414&wsABSTime=1791727965
-
-#EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Club America vs Rayados de Monterrey 10:10 ngày 11/10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel6.m3u8
+https://live1.quickscoreboardz.com/live/channel16/playlist.m3u8?wsSecret=e6d2eda8c8fef62301d622e58f7739b5&wsABSTime=1791731836
 
 #EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp JEF United vs V-Varen Nagasaki 12:00 ngày 11/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -96,6 +90,12 @@ https://live2.jorvakstreamcache.com/live/channel21.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel13.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kawasaki Frontale vs Nagoya Grampus 14:00 ngày 11/10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.jorvakstreamcache.com/live/channel6.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Yanbian Longding vs Nantong Zhiyun 14:00 ngày 11/10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -107,4 +107,10 @@ https://live2.jorvakstreamcache.com/live/channel7.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel23.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacxbr.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Qingdao Island vs Dalian Yingbo 17:00 ngày 11/10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.jorvakstreamcache.com/live/channel5.m3u8
 
