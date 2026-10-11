@@ -1,291 +1,271 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="ADA MY PACAR LIVE",🐇ayok donasi server playlist IPTV agar server tetap aktif🐇
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/c6d07ed3fe0dc520892948f0bff7cc42fac54461a0d15e8cfdb8fed1786e49da_square_s.png?v=1791604464" group-title="ADA MY PACAR LIVE",🐇[LIVE 38s | 爽歌-Sayaka-💜ྀི🫧@社会人歌い手 | 👁 0]🐇
+#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 48s | 吉本新喜劇・奥重敦史 | 👁 1]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_276803d6a8a895722ab84fcf4abc87dd7a90737186c2b2d5_286026_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/0897d09c854b78bd66911ae4a61ad12256991978cfe124b6b037ff212caaab98_square_s.jpeg?v=1755250377" group-title="ADA MY PACAR LIVE",🐇[LIVE 2m | 銀牙ゆき🐺❄️【＊青空ダイアリー＊】 | 👁 4]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_1775e268701ec2c3c94b03c869d59d2734bfc20ac8e2d891_523002_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/c3ba883682df8df2c4dfaf212c3bcbd1b74701ee9dfff70e9ddad3d6a33cc788_square_s.png?v=1791597177" group-title="ADA MY PACAR LIVE",🐇[LIVE 2m | 【無言推奨】カラオケの練習 | 👁 1]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_efffb84cb3bfe26daa8e78cda2395a7e11d95bfd9593dcb6_555663_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/4dc1f37a182ae9a3d9347da402f2c7fd16112b8645ca4661d9ffb723acd8cf7d_square_s.jpeg?v=1779250948" group-title="ADA MY PACAR LIVE",🐇[LIVE 3m | 🐳のんしゃんのおしゃべりルーム🐳 | 👁 104]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_98da1427a686fd318603bbe710e1bb54d7eb154fcbcdf09a_451729_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/368202c6f28e73dc352ba5ec9016cb35d4690863c3c6c9d89a0e5508e12a7f60_square_s.jpeg?v=1783006992" group-title="ADA MY PACAR LIVE",🐇[LIVE 3m | ごまの限界突破ルーム | 👁 30]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_5143e670a80391760f9d51e8910755de995e37a37ede079f_572068_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/326f919ac02e8df785cda816a5ee02e8f7d819ec5d0ec406819de1337ad1b904_square_s.jpeg?v=1790832536" group-title="ADA MY PACAR LIVE",🐇[LIVE 3m | 紫春 苺(ししゅん いちご)🍓🪻 | 👁 23]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_a206b44e0d94da8a62b75d8b9cee95ea4268b208f6e91433_561772_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/30fd7a8a89f51bac9d6f95f79f2de092a7a245a82ada8c604d9399c4ac5f3059_square_s.png?v=1790952315" group-title="ADA MY PACAR LIVE",🐇[LIVE 3m | フランクのホットトーク部屋🎙 | 👁 15]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_9a490268aa3b5f652d69f0146badebd2153a0152d34f93c5_547359_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/5221fcbe23f315106c8aaa8b09e10dae5dcb22b29c02b03153b0d61416437fa0_square_s.png?v=1791017335" group-title="ADA MY PACAR LIVE",🐇[LIVE 4m | ゆるくきままな朗読トーク部屋 | 👁 2]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_bf259f1476e75a8588b0cd9179a7a76871ab262a7f2e8352_531399_main_ll.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 4m | ドン0３組けーちゃん🍫応援ルーム | 👁 85]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_1e484589a23c4dd657805271c868b48e8d4da177ed5acc8a_400305_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/61e9da34367e897b34d98d88d2d19168e6f3b75acac63221cd275595a9705900_square_s.png?v=1791093933" group-title="ADA MY PACAR LIVE",🐇[LIVE 6m | ゆるっと配信room | 👁 29]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_9155389ddcbceef4f201bfb413612f90248bfd83ba6fb742_487404_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/39b7b38f66f24cb7342d495543a5e4fc498f864207b951eb6fa11f41bbc809cb_square_s.png?v=1791175653" group-title="ADA MY PACAR LIVE",🐇[LIVE 6m | 🫧🌈🌺こちゃまるぅむ🪕育児中️🪄7周年🫧 | 👁 29]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_97d9111e412127bea534832478fc85a0365b68ee2f2a30fb_231005_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/f12324e4d92959c598e1dd360c6552e0066021dadc8db4f8cbcb3bca6e447932_square_s.jpeg?v=1788137892" group-title="ADA MY PACAR LIVE",🐇[LIVE 6m | になす🍆🐾 | 👁 66]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_ac81af56d02abfc0e8d2290feb490dfcbf1bb543072d71f3_554895_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/e2948ed2b691c0876b2d68c86885c6a6d04ffa08dfded48a3e3a6d3908c7250b_square_s.jpeg?v=1791363782" group-title="ADA MY PACAR LIVE",🐇[LIVE 6m | すずめろNMB48第12期生追加オーディションNo.137 | 👁 87]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_979a852ddead0f3bb1bda7144f67296e954668783bab5aee_577037_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/573e33baf60d15807dfd264a4ab7a3aee9b8e0bbbd0f459fb994fecb6f7b0cd7_square_s.png?v=1776657122" group-title="ADA MY PACAR LIVE",🐇[LIVE 6m | RARE_RADIO | 👁 2]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_ec3865e7d3a8c2334618c18d5cc83846fe8a624d7ac3fdad_571436_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/5ebc035814a300df241ce10734f5079480f5aa5fb195f3e5dee77188f03b9474_square_s.jpeg?v=1790078908" group-title="ADA MY PACAR LIVE",🐇[LIVE 6m | まそほの部屋🍀 | 👁 30]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_501f9d2d42396ee387e5b709814a301693842cce1c577873_301280_main_ll.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 6m | 銀ルーム | 👁 4]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_8d2be08c6aecedbc512597babbdc2a3d13ad2b60e76eb1d3_339415_main_ll.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 6m | 清瀬莉央 No.051 平成リバイバルAD | 👁 55]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_e7fa961071c09764283b68fdb428f8db789f72c1d90a869c_579500_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/b5150f0d34d5a6cb5f77b03e9a869c120ad8ab9b2b677e597dd526102c0128ea_square_s.png?v=1791338167" group-title="ADA MY PACAR LIVE",🐇[LIVE 6m | 16日生誕🎁MAILAのピアノ弾き語り🎹🪿🎧 | 👁 105]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_944ee8d1ec31f31527f0e1c13b9831b2b51b06193ceb9193_532397_main_ll.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 7m | ドウラーフ | 👁 2]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_37b2d997a2989db2b2fb26ffd6ac1cda007ad4365c418632_325853_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/8b375eca43b8d4965c27f625223e657028bf31626304ce4bdd3f513ef4293500_square_s.jpeg?v=1791333185" group-title="ADA MY PACAR LIVE",🐇[LIVE 7m | 山本千暖 | 👁 17]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_f4ff0fc75f718cbfda86b3c5be452086e7083e47bb5b68d4_510690_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/b6369d5304cebcacfc982d047c5b50e9a79c6a95187efa9d960130b13c3606d8_square_s.jpeg?v=1790933440" group-title="ADA MY PACAR LIVE",🐇[LIVE 7m | 10/25(日)渋谷大トリ🕊️ライブMillaるーむ🐰💜🍑 | 👁 153]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_3e4a710db3c958c03af99040d405efc735d2db8cd3440336_454666_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/870d05705a7406b32942bd32f9ab538f0d3800381429f4a5c5e4f58a207fcb2b_square_s.jpeg?v=1790234961" group-title="ADA MY PACAR LIVE",🐇[LIVE 8m | 函館Chu-Hapiチューハピ🌈 | 👁 160]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_55365306ce5a0f9f0154d56b536bab4a8c1fc8689180b883_442076_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/2068ae91107d8627dbd7fe04273c1265cd65159a2f22ee036b9a2c43051e27e2_square_s.jpeg?v=1790683259" group-title="ADA MY PACAR LIVE",🐇[LIVE 8m | 常設展示 | 👁 66]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_55d54900f9e4b7c4c2b3523cf82286b31dbd70b5c3547e35_312969_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/bce571be0a286887cb8038a719b246fa2c18ee788ac7c0bca31765eb15abdebf_square_s.jpeg?v=1787179980" group-title="ADA MY PACAR LIVE",🐇[LIVE 8m | あいるんるんとあそぼ | 👁 152]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_9b80f7bf4b2a6f4f6eb4b62864c9d9c6ca0df624704ba6c5_564508_main_ll.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 9m | 田島ゆえ🎼🐿の足跡🐾 | 👁 107]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_fe12c00984e4eea5e5fdc7788b5c81203f828e3077182a5d_548165_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/9dd8c31fcae2386c11ddea511a99b53912b4d2db81a342e08e7a997271743413_square_s.jpeg?v=1791036079" group-title="ADA MY PACAR LIVE",🐇[LIVE 10m | まーくん🎸ギター&多重演奏🍀 | 👁 27]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_868b06d0344bbc5163de596adb173d48dd2805badee2354f_490122_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/4e01d3d24fabdc99644d05fffeef6b17e742a63a207beff939f210de19959908_square_s.jpeg?v=1791463593" group-title="ADA MY PACAR LIVE",🐇[LIVE 11m | 10月がんばる月間🔥ちょこちー🍫のまったり歌配信＆雑談部屋 | 👁 58]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_9fae4309dbc9e630afe0d2dd8e419cf991ed5494ab19d812_544528_main_ll.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 13m | 【来週～くまイベ🐻】食のいろは🍚🦊 #ひろひろ | 👁 111]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_d758527ba74168fc25bcaabba2074d75aee84667ac3d4fe9_140003_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/abcc30671fc3526bf74a2492047721d4745cd69f43b352e93e222d8aa29ff677_square_s.jpeg?v=1791298789" group-title="ADA MY PACAR LIVE",🐇[LIVE 13m | 恋音(れの) 🍗🌸応援感謝😭 | 👁 324]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_76839ee29abe2f26a976e96b0c0c10726553f78393536591_564849_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/345cb051f1a6d2d9a580b9379d12ab2bd089c4991788f7d2acf3486aa27ca1b2_square_s.png?v=1791478590" group-title="ADA MY PACAR LIVE",🐇[LIVE 13m | レモン畑🍋新しい推しを見つけませんか❓ | 👁 130]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_e1332dea7c55ee66e0799887b4946bfe160d397b2a5555a0_536690_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/4b4cb28ef48caa50b5adf44e3f5201aa5475abf05853f87851a4e20baf4ac37f_square_s.jpeg?v=1789542943" group-title="ADA MY PACAR LIVE",🐇[LIVE 14m | まいてぃ〜のおしまいちゃんねる | 👁 68]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_e1d96168f1b1e5fd2e317f84574b2fde0f266dbd18b8129b_546097_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/59cb3b8ea83b4f4ce917388790c46afc1555e5f3890f14d5f9222b046e59c360_square_s.png?v=1791306933" group-title="ADA MY PACAR LIVE",🐇[LIVE 15m | いわみは自由気ままやから𖤐  ̖́-‬ | 👁 81]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_b9f36eacc097a58cd7fffc1b3ee8c37fa62f1e7dbfd8d89a_342161_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/593cd9a61922a621ec9068a9ffc19824fba2fdea7d025f7cdbda4fc0fd10a322_square_s.jpeg?v=1791453602" group-title="ADA MY PACAR LIVE",🐇[LIVE 15m | 【短期🔥】せんやみさの部屋🪡🐾 | 👁 93]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_4992dbb042cb8f86dc1ce73199920c3ff68a4a93e03c61cf_540216_main_ll.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 15m | 🐔よっこりん👘アバイベ中📸撮影会感謝🙏 | 👁 46]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_377544c07937d4187b4dfe6bfba107acfb4f3de830460049_387929_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/22fb8cbc324b84711d2c66681956f2490cbd3bc47adbbc2e2be6852ef25c5f06_square_s.jpeg?v=1791593609" group-title="ADA MY PACAR LIVE",🐇[LIVE 15m | ❤️‍🩹花城さやきち🦔るーむ | 👁 41]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_bef23acb99e6b58a43521f8b4174049f139ba08820fd4a55_452544_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/b0e2d354209c2998887d9d26bfb8b2bfa64ee1893c52017911fd7b5f172c3f64_square_s.png?v=1789995571" group-title="ADA MY PACAR LIVE",🐇[LIVE 16m | 🐱Runa.【アニソン歌手目指してます🎤】🐱 | 👁 25]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_bde0753f57598e4299b391daf7508e64adecf906525dcf74_563982_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/d957323045dfd4ce20c69c0f8d8b016d0cf43a49094f3f160511746cec286e69_square_s.png?v=1783943637" group-title="ADA MY PACAR LIVE",🐇[LIVE 17m | がんばるくじら『夢捉える』(っ﹏-๑) | 👁 42]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_61d8ba5d8a0c297ef3c3350cf7be7dafd4c5efa70d11a8c9_442244_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/b2f40ba1d4e0559bab19079b786eb98a6e10d99e4e6b8d926822294c49a6f179_square_s.png?v=1788108412" group-title="ADA MY PACAR LIVE",🐇[LIVE 17m | 平野帆華(TiaraPalette) | 👁 47]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_831c0037dffe712879e0c4ef2a05918934ab234b4206f41d_555067_main_ll.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 17m | 小矢部room | 👁 63]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_85662d5139d705f9f89fc6c1526172e4440fc88125adf188_153534_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/1d3cb1770bef960d57433e53b70cf854fa4eea29cd27522e24c5812513f59f42_square_s.jpeg?v=1791284937" group-title="ADA MY PACAR LIVE",🐇[LIVE 17m | ななのへや | 👁 29]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_066a02a61c77e73a4f8f4ce84178f773e36226bc79727eff_535657_main_ll.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 18m | 望月結心🌕🤍 #ミスサークル2026 | 👁 596]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_74a719ab2d877f2bb79d153d93e2ac02c4159f12ae7e6d5a_571766_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/fe50ef2f68ded1cabec1024e15987ffac54f3fe58bffe93f4e27017c8c021039_square_s.jpeg?v=1788037684" group-title="ADA MY PACAR LIVE",🐇[LIVE 18m | ステラ目標🍭みなちゃんワールド🍭 | 👁 140]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_3567cdf355705f25c60f4ef2d2a255ef56ca5ba7c453c849_545968_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/9a090ee435d1204776c50da44f30d2c6fa7d169f7cfea64995ea2379299f837e_square_s.jpeg?v=1791086077" group-title="ADA MY PACAR LIVE",🐇[LIVE 18m | 闇雲/夢楽 亡 | 👁 108]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_4602fb50cc51ff9506ca17b9a3c498dfe1b895afa34d757d_476981_main_ll.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 21m | きょうか🧸【特撮がるず】山田杏華 | 👁 1355]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_d0fe1d23ff02c926d30f0158cd97543c58d160a07b639cff_500933_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/14b116e0e9be863b3d22a4c50598c66aa734e96970132f5028079b1f3dbc7b10_square_s.png?v=1791649878" group-title="ADA MY PACAR LIVE",🐇[LIVE 22m | 最終日浴衣配信🤍まいまい🌙✨【キモノガールファイナル‼️】 | 👁 298]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_c5fef1f671af1c7843e4262f12ffc307af9d5194744b1079_574091_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/5b4dcc1f6b9a15ab7808c7dc0533e095f2c76b94ff14619676417f53c292dc57_square_s.png?v=1785489909" group-title="ADA MY PACAR LIVE",🐇[LIVE 22m | おっさんやっさん、声の調子悪い、来てね、癒し部屋 | 👁 72]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_06b57c8dab623a87af3c42b71125cd5a0949ad7acc802b0a_307673_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/c488c54ae0d2feda5ab35c356c211c22d7d6a5f7513e6478a515e92bec0de6f3_square_s.jpeg?v=1790433439" group-title="ADA MY PACAR LIVE",🐇[LIVE 23m | 【花火イベ】🐽ぶーたんルーム | 👁 47]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_57df0f4d8b9fcda0cb82793fb885334780e45d5bc1dbde32_289455_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/c28eb5b8f186c60b9474b0b226a588c58ebab8c4e996a9a0576bcac0213a8bf0_square_s.png?v=1791542393" group-title="ADA MY PACAR LIVE",🐇[LIVE 23m | 心音(このん)💛🎵WEDDING MUSE👗🌟 | 👁 42]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_72ee67388d45d1c1fe2e63eba4db710ba5258a6179e7b83a_575595_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/ebd5c4b3823978b88071a3608b175822bff07087e11fae034eaf2cf6cba67e47_square_s.jpeg?v=1758602330" group-title="ADA MY PACAR LIVE",🐇[LIVE 24m | 噂のもけもけ＠元USJクルー | 👁 285]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_44da4f9d7bb1b326c30ed4bbc92b37bcba1e35392f6ab589_403637_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/41b45ba25b724d474c5a1bd89011099dc4574dff17a410581233bb8e3c1640c3_square_s.png?v=1791461271" group-title="ADA MY PACAR LIVE",🐇[LIVE 24m |  hayu. の窓際 ( ᎔˘꒳˘᎔)🌆 | 👁 470]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_933871745c5b9bf2a5e2cf5bcc6badc61e8e10a3d936d898_526528_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/f499d3220426d0339b2a5f6ec4bf2b8ca1ad60b18276b29cfb5cb9790794e029_square_s.jpeg?v=1791615440" group-title="ADA MY PACAR LIVE",🐇[LIVE 24m | 🧜🏻‍♀️真莉子🐠12日ガルミ出場🦖 | 👁 301]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_a9a1b0ea3fb0536a10b182c4aed8a1a3061168bd7b20dbfd_331334_main_ll.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 24m | ここ　NMB48 第12期生追加オーディション No.58 | 👁 627]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_692f4aab5b72a54a92d822b2d1f4dfa8c08bd9b4ea81b9b8_576958_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/ba451860451151b36276ea9b2b1485008bb6f832d93e4a33c117cd8ce9e8d44f_square_s.jpeg?v=1791627917" group-title="ADA MY PACAR LIVE",🐇[LIVE 24m | 【アバ権ピンチ‼️】恋羽のそら色Fun Factory🎨🩵 | 👁 323]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_9880fee3af77d0f86d9b8995bc6c4dc91419a8bdd8e93f7a_543536_main_ll.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 24m | 12日iito決勝❤️‍🔥麻帆ん家 | 👁 215]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_4042565a64ed886c80e2b9b1e17b4d88b000d2d023071267_580782_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/27b85ec73b5ae3f852e084b165823ada93a257462f3c755106728f9a605c5b61_square_s.png?v=1791599037" group-title="ADA MY PACAR LIVE",🐇[LIVE 24m | よっちゃんの歌ってけろ♪🍎 | 👁 88]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_23c91463feb93e9a9169b203299745c1dc747ea27ea0e147_576584_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/7a788bf740b3b26c8e1b44dba547ef7316f126d8fa430ff342d31637bb16e5dc_square_s.png?v=1791498416" group-title="ADA MY PACAR LIVE",🐇[LIVE 25m | よちだとよしだ⚾️③ | 👁 50]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_1be280db0f13f8337163c125f33290db235c352f6c47f826_578872_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/e2ed0207d80ecf1b8eafa6d727a02c37b33128e0a4095c0ff1b2b52c0bda7014_square_s.jpeg?v=1790958787" group-title="ADA MY PACAR LIVE",🐇[LIVE 25m | 小林優太(Yuta Kobayashi) | 👁 22]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_fc6d63ea91b2501201d563434b2f010a4ab19d7cbbac8183_560181_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/e6c447076b0dffb75601afb5d53d928937d2050683954397f5b8a17698942d8a_square_s.jpeg?v=1790666770" group-title="ADA MY PACAR LIVE",🐇[LIVE 26m | 【福娘🎋】ちなみ🌷🩷 【Wedding Muse】 | 👁 232]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_eefb1d844f1cc967574f9f7e5eb8cb7280dc527eeeb883e5_578367_main_ll.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 27m | 月城みくる(caSTORY研究生) | 👁 137]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_bc199b542a75c0cbb92b8723233d8aa68161513f6a4823e9_572483_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/967fe369a2330eb1ecdfd09b7fc8b75a1f6cafabbc728d648a50d18547286cc8_square_s.jpeg?v=1791634959" group-title="ADA MY PACAR LIVE",🐇[LIVE 27m | 🍼上鶴 颯桜🪭の第2ルームへようこそ。 | 👁 84]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_83aa0238d72298107cf30941402242ce5cfff5c5138605ce_570134_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/b736b0c61536833b91a434b5eef097e3c54c66726662e6777e141e7667f8697a_square_s.jpeg?v=1791384342" group-title="ADA MY PACAR LIVE",🐇[LIVE 29m | 春峰心 No.081 PrettyChuu AD | 👁 371]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_be2a976f9e01d2bab6f54a881be9dd32cc10e303076a2391_578137_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/8058d13c7516ca41c8774d8f3e82451a011b51c3faaa9cbcf0fe4d59b0d9fac2_square_s.jpeg?v=1791609169" group-title="ADA MY PACAR LIVE",🐇[LIVE 30m | あすか | 👁 268]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_37b27abdfae24a36139c0fc290a050eb05771b0a168f08a1_579867_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/bedfc38b2d18196d83c4f462f1bbeddc0f121fe983198e784ea14026b811243c_square_s.jpeg?v=1785098555" group-title="ADA MY PACAR LIVE",🐇[LIVE 31m | 居酒屋  いも亭 | 👁 70]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_618dfb58bc4bafdb807e65500686a096895816a105084757_485875_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/21915ab2f402a7534ab41a9a9811240f1ade11b5ed9583e45f7fb0c4b80711eb_square_s.png?v=1791009371" group-title="ADA MY PACAR LIVE",🐇[LIVE 34m | ももふもふ・ぽわのおしゃべり部屋☁ | 👁 44]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_58562c5014c192581863e27402a377c66af7a38c1e1b830a_578459_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/aaf5e0d7f5a9d916eecdafa0c9deb28ac21f48d3afb4b0d9ec3a3bacb2e4b223_square_s.png?v=1791680364" group-title="ADA MY PACAR LIVE",🐇[LIVE 35m | 心の癒しになれば、のんびりまったりクラブ by YOSHI | 👁 48]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_1d68dd193785b2e4a7571265e657e2a26bf2da52d749be5d_321029_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/9fb1329194fb7db88c050a815c0dfa2249e4aebd11fd78d09737337da3bab4a3_square_s.png?v=1791190332" group-title="ADA MY PACAR LIVE",🐇[LIVE 35m | 町田彩乃🍀🎵【もこもこルームウェア参加中⭐️】 | 👁 658]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_7d623a182c3bfb0494e5d114dae35b899c1a7df6df8c9c6b_572099_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/56900c51b1784183017807668ae81a18d9565c0721d0e7d4cea7813abafffe29_square_s.png?v=1791373247" group-title="ADA MY PACAR LIVE",🐇[LIVE 40m | 増田ひまわりのしゃべくっking〜👍 | 👁 40]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_7e8c44aab05a9ed3d482328d62a7b1bef9fffac576c27489_571437_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/5eb4d3442ce96ab85bfd769e4960160d6831f9f2f162ffd3e77b75137cb0f018_square_s.png?v=1791642407" group-title="ADA MY PACAR LIVE",🐇[LIVE 40m | 19番 NMB48第12期生追加オーディションNo.168 | 👁 439]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_5099d6ecd013a37b05242d3df499b0e2dd2d35bd63f214a4_577068_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/351c966901922233a1c9890dcd439180a3bf2ed482e0203f34e811758f21a040_square_s.jpeg?v=1774935951" group-title="ADA MY PACAR LIVE",🐇[LIVE 41m | えわん⭐️【夢叶える】の小屋  | 👁 49]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_45ce8cf00e2edd1ac92bb615b5a45d65247816910ec0929f_568710_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/1b2534602a697152ef4429205e66c7d944bce51098f096fae2ffb06d476afb57_square_s.png?v=1790668989" group-title="ADA MY PACAR LIVE",🐇[LIVE 41m | 【応援感謝🙇🏻‍♂️💐】高橋真生(まうまう) | 👁 872]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_8e3b380f89d963c87ceb304ba0e432477457a22ced31f982_322740_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/b00870362e0d619f635aa5b17d59aaa16e941d1e69ec310b06b532fdd6ee6efa_square_s.jpeg?v=1791210594" group-title="ADA MY PACAR LIVE",🐇[LIVE 43m | 福岡未希 まったりココアとsingたいむ🎼🎃💫🎸 | 👁 228]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_e854777f3e1145b71f25a20bc02327c67ce88286ea1e1c6f_173727_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/db0850ebb9d6c40a7db86bb12874e549e5d7959721573576c879024ab11384b2_square_s.jpeg?v=1791680737" group-title="ADA MY PACAR LIVE",🐇[LIVE 43m | かわいいフェスティバル💖かえぶんルーム🚔🐕 | 👁 394]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_1a2ea45f2df8cd306c78795297577643dc0906ad3cc89ceb_520977_main_ll.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 43m | こなつ　NMB48 第12期生追加オーディション | 👁 219]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_c83392593de9116efe91ca94285c6f0d6a7a993d3be480cb_576984_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/9066ee60c8ac7ae94cf83a713dcc56b13dbac935ff4e57d258dbfd1a8c93a15c_square_s.jpeg?v=1791285743" group-title="ADA MY PACAR LIVE",🐇[LIVE 44m | 川向杏里のゆったりHOUSE | 👁 101]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_9ef8a347f970879c5f089b65e54c6e5640660d8dffb03402_571543_main_ll.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 45m | 【10/12〜ガチ小島よしおMCイベント】わかな🌺🍌 | 👁 434]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_d7daf05435eca2df325eaca9e7caa849629e2a39e8a1ef70_476634_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/4ba076f1a439ad31dfcad6b4fbb74618e07056f763aa332f10c4f56ac62efddc_square_s.jpeg?v=1789900200" group-title="ADA MY PACAR LIVE",🐇[LIVE 47m | さとうちゃんのおやしき🐈‍⬛♡ | 👁 62]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_7d49c25c67423d475b74d76d32163da9cad25753d61e7a3f_567276_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/3fc584d7df295bbc7f9fdf9cabbb7efaa9d8b372987f5a1ee329f3037b760ba8_square_s.jpeg?v=1791632500" group-title="ADA MY PACAR LIVE",🐇[LIVE 47m | 咲耶(さくや)の成長日記🎀 | 👁 137]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_cbb2d7894b9c247676bae8a38d30182e559b4a93142adca8_572165_main_ll.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 49m | 本日最終日❤️‍🔥ひかりが配信するヨ#フレキャン2026 | 👁 180]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_92f1de298bde40857f974edcb1edbbc522c39350b2fdd04e_571805_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/bd00483e4f4926c30d61c84d08eacbf30d21663d792ee9476054cf63b726046f_square_s.jpeg?v=1791035414" group-title="ADA MY PACAR LIVE",🐇[LIVE 51m | モチパンチ（もっちゃん）の・・・ | 👁 36]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_b36ee81a588a7f7b2a5b330beba2478b8a4c9215ca8c401b_415727_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/3e5a18cd6fdb81024c5c757319a4263090ba5214ad886ef0e339c40dfd1cde33_square_s.jpeg?v=1780229174" group-title="ADA MY PACAR LIVE",🐇[LIVE 51m | ゆめの夢への第1歩のお部屋 | 👁 930]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_b104fdc0bc47d6ede41a367c15b1f5ba3fe43ce7fefaed6e_571658_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/1caebb674b8e8c3dc7bf10335dbacb20a8fffc709e2f5bc848088614f4de62b7_square_s.png?v=1791680755" group-title="ADA MY PACAR LIVE",🐇[LIVE 51m | まゆの🎀🐰フォロワー大募集🌼@iito2nd | 👁 797]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_fb4e6eaa9e756c579a2bb8e3f8a4b18f725eb09122d73111_565053_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/b631458ea8db545c5abf535afdc5bdcc7dafb28e1df27256f0d46f7124dfb4f8_square_s.jpeg?v=1788753245" group-title="ADA MY PACAR LIVE",🐇[LIVE 51m |  漓櫻(Rio)🌸🌈応援感謝Radio Room | 👁 114]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_88746defd6f66e9f6487b28181b163131a66b237cc1ee05d_445294_main_ll.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 51m | 北川茉莉 No.052 PrettyChuu AD | 👁 1002]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_cb9403b70bb1f04ce9897e88930a2e26bd43067ae2c36063_578108_main_ll.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 52m | iitoガチ🔥次10:00うか🐈‍⬛🫧 | 👁 508]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_1c7d45fb0967abb53543520174e7cef1ceaa46cbf89f630a_570052_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/c6d07ed3fe0dc520892948f0bff7cc42fac54461a0d15e8cfdb8fed1786e49da_square_s.png?v=1791604464" group-title="ADA MY PACAR LIVE",🐇[LIVE 52m | 爽歌-Sayaka-💜ྀི🫧@社会人歌い手 | 👁 105]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_b481d652b34eb9f40a4d75a054480f48b67b0ecfd0ef6851_547078_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/3343aadde94e8dbed4d02560d0d1212baa0394004658151845598d062ab51d4e_square_s.jpeg?v=1791090037" group-title="ADA MY PACAR LIVE",🐇[LIVE 39s | そらるーむ🎹🖤 | 👁 0]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_76a5d8a52757902f3cf20d4e86496582bb85c0579d7ef3cb_580352_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/2291cc1645fd351206c71a3d4a42ab6a52f6f38302220bff845e70221f93b383_square_s.png?v=1773146274" group-title="ADA MY PACAR LIVE",🐇[LIVE 54s | ショートカッツの一生ショート宣言！！！ | 👁 2]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_232c69f9a83dba6540a2715c2475f8a7f98b3e026678def0_275105_main_ll.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 57s | 1️⃣位に⤴︎ベーグル🥯💖NMB48第12期生追加AD | 👁 21]🐇
+#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 52m | 1️⃣位に⤴︎ベーグル🥯💖NMB48第12期生追加AD | 👁 1494]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_f813b88819573a3fe114571f7d9569945606727f49a7c2b6_577004_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/6147b12142918f53c68b53c1618d0acb1bef10e07c8b56b8b2552f9297f70b4c_square_s.png?v=1790559017" group-title="ADA MY PACAR LIVE",🐇[LIVE 58s | 咲音いろは【空色Glitter】 | 👁 8]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_980c850ece1abd1381fa43a48f174d6e47239efe0a3a02c9_564893_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/c0b78145c7f3455bcc7e5ba6a5e1bf6926f12532b9432d80b5a617e8f0bd7ce3_square_s.jpeg?v=1779760058" group-title="ADA MY PACAR LIVE",🐇[LIVE 1m | 竹内蓮生(れんせい)　お気楽トーク | 👁 1]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_5b11acc60eba2965923d94a382c1593ff419937763842a22_512696_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/3fd61022a5071a255e2a34ff99cefe73a953050ebad9bf7238c41f8c87d64cd0_square_s.jpeg?v=1791645570" group-title="ADA MY PACAR LIVE",🐇[LIVE 1m | 12日〜ガチイベ❤️‍🔥寺岡凜 | 👁 11]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_cb1cdbf5ecdb330706d6375effbf570bb6f935a6582c0a0a_542992_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/62420b1d34396e08f46320b00da9867689ca4b6d51565fa93a8e7b6cb9665ef7_square_s.jpeg?v=1791639527" group-title="ADA MY PACAR LIVE",🐇[LIVE 1m | 卯月みくる No.015 PrettyChuu AD | 👁 2]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_a7598f555411ecbbfb80959fb218de85dfabc57c161663ea_578071_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/b1e98736c6d580d0ebb162919237d10f430eb20e47951f6d53b4036177ca47a4_square_s.jpeg?v=1791347234" group-title="ADA MY PACAR LIVE",🐇[LIVE 1m | 咲南(さな)🌸🏹アイドルへの道 | 👁 23]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_28850846081c1d43ff0d376e02a7f730075afc94e5277a5b_574419_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/c7abad360d9c7bf2b4c265b7d36e49a350b81fd32f4bf73cde95858456d9a265_square_s.jpeg?v=1791456061" group-title="ADA MY PACAR LIVE",🐇[LIVE 1m | 『 新アバ配布中』福中美尋🧸🐈 #フレキャン2026 | 👁 39]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_a3344df1f474a2de9834ea407a3524f283aae76d370ac19d_573227_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/80764f663e536e8a94a5e546b1a1ae273075601fe31456227e4c8a1421b97c26_square_s.jpeg?v=1768993023" group-title="ADA MY PACAR LIVE",🐇[LIVE 1m | 小久保アリサやで😈🍺❤️ | 👁 28]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_c18db6360bfda28781381f2d3af11e2522949b79b4dc89b7_554374_main_ll.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 1m | 夢薔薇ケイ No.068 PrettyChuu AD | 👁 5]🐇
+#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 53m | 夢薔薇ケイ No.068 PrettyChuu AD | 👁 619]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_19e135ee72287d568fa3557f7a82eac589867b0eaa3b81e7_578124_main_ll.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 1m | はるにも喋らせて～な | 👁 2]🐇
+#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 53m | はるにも喋らせて～な | 👁 61]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_26f51fcced0992a4eb692333ae80c203a8302b9ce3cf4f92_190654_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/ed58a8e658ca94c96fb2d20b3a95b4ad0a01579cf82c52a12640aa3e7318c592_square_s.jpeg?v=1791645926" group-title="ADA MY PACAR LIVE",🐇[LIVE 1m | 魅惑のひかりroom🦋💫  | 👁 62]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/ed58a8e658ca94c96fb2d20b3a95b4ad0a01579cf82c52a12640aa3e7318c592_square_s.jpeg?v=1791645926" group-title="ADA MY PACAR LIVE",🐇[LIVE 53m | 魅惑のひかりroom🦋💫  | 👁 1931]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_6a62da8e1fc348c91151ba059fc73a8de95a629ad1911a32_523926_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/4c21644a2673d156f23c8dfbb4c15ec7b756f79500a711cc7933206c4128f99e_square_s.png?v=1791258821" group-title="ADA MY PACAR LIVE",🐇[LIVE 1m | 小林亜美(女優)☕️🦖🥊 | 👁 3]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/4c21644a2673d156f23c8dfbb4c15ec7b756f79500a711cc7933206c4128f99e_square_s.png?v=1791258821" group-title="ADA MY PACAR LIVE",🐇[LIVE 53m | 小林亜美(女優)☕️🦖🥊 | 👁 94]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_c9bb4fd494090e2a70a5e17ba2092c19a77bc90f22f3f25b_576709_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/fd958e97fc6014cdc3850a1c0c7636d391f912a918113f3800436ecd542a1fea_square_s.jpeg?v=1791080329" group-title="ADA MY PACAR LIVE",🐇[LIVE 1m | 審査員特別賞感謝😭👒神保いさ‎🤍‎_giobyseju  | 👁 21]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_502be0856361c7a407db412e69e166b633b42be08537290d_564877_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/e5a766be348bd6de914f551e177b49473462525294c3fa16107b73e9812b7339_square_s.png?v=1791219725" group-title="ADA MY PACAR LIVE",🐇[LIVE 1m | 【フォロワー2500人目標✨️】ゆぱゆぱ🎀💖🍰目標1位👘🥇 | 👁 186]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/e5a766be348bd6de914f551e177b49473462525294c3fa16107b73e9812b7339_square_s.png?v=1791219725" group-title="ADA MY PACAR LIVE",🐇[LIVE 53m | 【フォロワー2500人目標✨️】ゆぱゆぱ🎀💖🍰目標1位👘🥇 | 👁 2727]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_b6098d604743b4cb085a03b653de1526a770319e98add6de_532933_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/2a8d5bc0c538cc56cbfc0df3eefba5f92279ca5dec378dc451a8731b713625f2_square_s.jpeg?v=1789300977" group-title="ADA MY PACAR LIVE",🐇[LIVE 1m | 🫘朝食はきな粉パン🍞 | 👁 1]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_fade8d4c4d982ffcf547cb076a0dea07c4340e6ca63abbe9_510336_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/ff3dbe2a5b420424926b6fe7cf4e4463b196e49802153d2d32cc7ce321264c6a_square_s.jpeg?v=1778416257" group-title="ADA MY PACAR LIVE",🐇[LIVE 1m | キュピド/吸兎ちとせ | 👁 53]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_646e94b41510eebdae5a9b47ea34c4822336a13422b35246_489651_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/ec5f2dddbf1a2346c7d28d260a2fd206c9fcecd41bd45f657b04b19091adacf1_square_s.png?v=1790953599" group-title="ADA MY PACAR LIVE",🐇[LIVE 1m | みほ🩵🪽 | 👁 3]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_37d9c6da6048f3ef3dd30fc47c8718d2b935029858716188_580298_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/b97cff6fa222fe2f3ad0a0987eeaf69e6af0e71ae85021c3545ccee18876f2aa_square_s.jpeg?v=1790423808" group-title="ADA MY PACAR LIVE",🐇[LIVE 1m | もものゆるゆる配信 | 👁 25]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_471fdbb948ba1181afa6cb427cdc4e8c4dfa9dde1c797e2f_564727_main_ll.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 2m | 森谷 夏羽｜ツヅリカ | 👁 43]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_4d102e33cdd18b4bb78f62496bbe47a2ab54c3c5997582ce_576770_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/cee5c837c5ba392208fd04331daaea9af3cbde2d168d0c8143beb37685f2e5d5_square_s.jpeg?v=1791597177" group-title="ADA MY PACAR LIVE",🐇[LIVE 2m | 【毎日投資信託😎】ちげちゃんルーム⭐️ | 👁 18]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_c92530f6403eb64e25c4eaee7869baa4ed8c74e5a6e38fa6_201233_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/dd244ad98bdf5081b1f0555377952b09470273cabb8681cc2576aab8749e85f5_square_s.png?v=1779619433" group-title="ADA MY PACAR LIVE",🐇[LIVE 2m | Haruna's ミュージックルーム☘️ | 👁 11]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/dd244ad98bdf5081b1f0555377952b09470273cabb8681cc2576aab8749e85f5_square_s.png?v=1779619433" group-title="ADA MY PACAR LIVE",🐇[LIVE 54m | Haruna's ミュージックルーム☘️ | 👁 135]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_977446bac99b5319b70f11470e3f548d2df776bedd442fb2_529641_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/81068c01fa87dffbee6786a926975a3a28b08a03b6384434a933287b7f082686_square_s.jpeg?v=1791623709" group-title="ADA MY PACAR LIVE",🐇[LIVE 2m | 🔥初ガチイベ🔥気まぐれ演奏ルーム🎻🎶 | 👁 63]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/81068c01fa87dffbee6786a926975a3a28b08a03b6384434a933287b7f082686_square_s.jpeg?v=1791623709" group-title="ADA MY PACAR LIVE",🐇[LIVE 54m | 🔥初ガチイベ🔥気まぐれ演奏ルーム🎻🎶 | 👁 1061]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_34fc78dc416876ea370928bb0904b8ac9696d6e0242100c3_571904_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/eece44c11435901774d45b510b5085f1394e851290401510b330a42499bf6d17_square_s.png?v=1775775215" group-title="ADA MY PACAR LIVE",🐇[LIVE 2m | 安座間 結（NGT48） | 👁 555]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_c9f676619452f77c41a3b5ec7ba7c7d80a8d2e99b451b4c2_539271_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/73d6df69cd0b52f2ae2887f5b4eadb434e94eefa0d70b561543a23c2fed8c439_square_s.png?v=1791203182" group-title="ADA MY PACAR LIVE",🐇[LIVE 2m | 10/25生誕祭❤️‍🔥147cm深川史那のルーム🐸🎈 | 👁 393]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/73d6df69cd0b52f2ae2887f5b4eadb434e94eefa0d70b561543a23c2fed8c439_square_s.png?v=1791203182" group-title="ADA MY PACAR LIVE",🐇[LIVE 54m | 10/25生誕祭❤️‍🔥147cm深川史那のルーム🐸🎈 | 👁 3977]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_01abb17dcc071b22d815a973d78263b84f0e2d7e0914d368_130997_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/88617adb64f2350c60d6d239cdedd60b14d93df4c82a82c5dc1ac4d3b7541410_square_s.png?v=1791670226" group-title="ADA MY PACAR LIVE",🐇[LIVE 2m | 🔥ガチ🔥MZ's美佑1000曲歌唱🎵 | 👁 26]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/88617adb64f2350c60d6d239cdedd60b14d93df4c82a82c5dc1ac4d3b7541410_square_s.png?v=1791670226" group-title="ADA MY PACAR LIVE",🐇[LIVE 54m | 🔥ガチ🔥MZ's美佑1000曲歌唱🎵 | 👁 249]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_5716f042dc02760cb5eee541c29eaa4259e96b1b728f4e84_472091_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/57d8a02746a181c72be379795b409d4c51bedff81dd17cf9c305f458da61172c_square_s.png?v=1791294685" group-title="ADA MY PACAR LIVE",🐇[LIVE 2m | 【19日~ガチ❤️‍🔥🎂】まゆランド🎠🌷#iito | 👁 8]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_3fa5a7f45ab941d57acb35d9d6ba677689a387676116503c_420574_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/fcbf9455bfb8b9e08bd6a36ed501287fb2200695d56204bcafa376bd2669ba3c_square_s.jpeg?v=1791631323" group-title="ADA MY PACAR LIVE",🐇[LIVE 2m | ★芭那🪿🩵＿ピザカリガチイベ🍕 | 👁 2]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/fcbf9455bfb8b9e08bd6a36ed501287fb2200695d56204bcafa376bd2669ba3c_square_s.jpeg?v=1791631323" group-title="ADA MY PACAR LIVE",🐇[LIVE 54m | ★芭那🪿🩵＿ピザカリガチイベ🍕 | 👁 802]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_4a71dd856959c4e77811956fbb1c6268c14f801347c5786f_571273_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/934f760014980f0c426eb9e427c04afd411ce16939a32cd8e088af6d55abc19d_square_s.jpeg?v=1775060417" group-title="ADA MY PACAR LIVE",🐇[LIVE 2m | 佳倉ななかのなーたんるーむ🐶 | 👁 27]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_37c1d6f5647b657530d0fa3218f3aecc9b2de38609696861_402418_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/3d4f8764a883a249f49d877689a9ee9225abed61b3ee97fd8e975f79bd763bc0_square_s.png?v=1791469511" group-title="ADA MY PACAR LIVE",🐇[LIVE 2m | ぐっさん家〜HIGUCHI THE Living Room〜 | 👁 22]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/3d4f8764a883a249f49d877689a9ee9225abed61b3ee97fd8e975f79bd763bc0_square_s.png?v=1791469511" group-title="ADA MY PACAR LIVE",🐇[LIVE 54m | ぐっさん家〜HIGUCHI THE Living Room〜 | 👁 83]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_b37a946efc9b019f8d6e223a742352d7edd726bbde55db3f_125088_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/d1b6f80f0046034e3346a8e1c594486b9afe2530654bd0986e9ecc6d232d21b6_square_s.jpeg?v=1790152225" group-title="ADA MY PACAR LIVE",🐇[LIVE 2m | Charmpal Link | 👁 22]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/d1b6f80f0046034e3346a8e1c594486b9afe2530654bd0986e9ecc6d232d21b6_square_s.jpeg?v=1790152225" group-title="ADA MY PACAR LIVE",🐇[LIVE 54m | Charmpal Link | 👁 283]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_3e952555112c81db074d20404e90855ae8354a19bbc5101c_580182_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/e8668c4c03db237f03bf072d667406369d0d4994555910acdf121426ab55b210_square_s.jpeg?v=1789635209" group-title="ADA MY PACAR LIVE",🐇[LIVE 2m | 鈴木励生@39回ジュノンボーイ挑戦中！ | 👁 58]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_20d26bc77c4c63bda0c757c527fa40b2392e9323d3f64f9d_566786_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/20658b9b4f126114cdaaa8739d40193b2b12fc99f4ae122ce238e4d1dfa05ac3_square_s.jpeg?v=1791463159" group-title="ADA MY PACAR LIVE",🐇[LIVE 2m | 🩵星歌と坂道登ろうぜ🍊🌟 | 👁 33]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_73f3a9a3be268a7929c5d84a77a110cc99fe997a8ea9f264_507726_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/a8a9783bd17728849bc4f4291071ba12d5b23509355183894d9629973c611ed6_square_s.jpeg?v=1791194254" group-title="ADA MY PACAR LIVE",🐇[LIVE 2m | 🌊📸 SEVASTIAN MUSEUM | 👁 3]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_eba5b734b6f42f3b8ce4eea6cc42da39d04b61117d179a96_302087_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/a4660027bd2bdbf071f399ced1fdb550a28a23aa4c5a9e5affffae9464f1bb57_square_s.png?v=1791032358" group-title="ADA MY PACAR LIVE",🐇[LIVE 2m | 柊のトークルーム | 👁 1]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_6614102869a69ddbb3956c6e5e7b796b8890f1b851e4ce53_578426_main_ll.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 2m | 成瀬夏恋 No.035 平成リバイバルAD | 👁 8]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/a8a9783bd17728849bc4f4291071ba12d5b23509355183894d9629973c611ed6_square_s.jpeg?v=1791194254" group-title="ADA MY PACAR LIVE",🐇[LIVE 54m | 🌊📸 SEVASTIAN MUSEUM | 👁 49]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_9d73833328ed901e0b65c61918a1f6873ce1d1f100f066af_302087_main_ll.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 54m | 成瀬夏恋 No.035 平成リバイバルAD | 👁 385]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_b28309cbd6cc767bd50f9ef06a90cee0a60540ce108f0f03_579484_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/d1df3d5a20d8797e1616eb841d06d3ada1e6d784c11599863639ea52f2c4269e_square_s.jpeg?v=1791248981" group-title="ADA MY PACAR LIVE",🐇[LIVE 2m | 【フォロー待ってるよん🩷】あかね🧸🏐🧸 | 👁 59]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_595a9d28345467c87ef3a2f78e9ec0428f1c557675736929_554378_main_ll.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 3m | smallpackage(第291回目) | 👁 5]🐇
+#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 55m | smallpackage(第291回目) | 👁 13]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_bbbe05ffa9d455be2793ba96986f31259b8a3015ea2f6bb6_167878_main_ll.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 3m | トーチャン@ヒューマンアカデミー福岡校 | 👁 2]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_9248604425e4449865d725b786ea6a01a222f83df28b5343_578429_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/864e2d160a009128866c770d61fce12f335cc5ee6493f42fddf909915c189cef_square_s.jpeg?v=1791468110" group-title="ADA MY PACAR LIVE",🐇[LIVE 3m | 🍀.*ぶるそらの！のんびり気ままに... | 👁 15]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/864e2d160a009128866c770d61fce12f335cc5ee6493f42fddf909915c189cef_square_s.jpeg?v=1791468110" group-title="ADA MY PACAR LIVE",🐇[LIVE 55m | 🍀.*ぶるそらの！のんびり気ままに... | 👁 119]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_df7fe14bedae05b22def109ed4e39e619d797213795ca63c_580434_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/e3a09078f125566db1c9718c55effe5bc2db5b9173ee0c183674db183d7c2e41_square_s.png?v=1776140139" group-title="ADA MY PACAR LIVE",🐇[LIVE 4m | 川崎菜奈(ルナリウム) | 👁 133]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/e3a09078f125566db1c9718c55effe5bc2db5b9173ee0c183674db183d7c2e41_square_s.png?v=1776140139" group-title="ADA MY PACAR LIVE",🐇[LIVE 56m | 川崎菜奈(ルナリウム) | 👁 387]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_90fe54ced90e5b642513d06102bbae5cde5b61f03155c895_493007_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/e6d87528b4c288aef415757e1263c548f3dcead69ec51786d11ae6f6f4411019_square_s.png?v=1791338097" group-title="ADA MY PACAR LIVE",🐇[LIVE 4m | レイチェル王国（れいちぇるきんぐだむ） | 👁 66]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_d551531d580970987efb3b75edc83ec34c532c8f74a3d928_341777_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/5eece0dd5fba7bd127c9a6f567afdb1c88d6903e31903591153764d576527cbb_square_s.png?v=1789732551" group-title="ADA MY PACAR LIVE",🐇[LIVE 4m | 角﨑勝彌🌻@39回ジュノンボーイ挑戦中！ | 👁 35]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/5eece0dd5fba7bd127c9a6f567afdb1c88d6903e31903591153764d576527cbb_square_s.png?v=1789732551" group-title="ADA MY PACAR LIVE",🐇[LIVE 56m | 角﨑勝彌🌻@39回ジュノンボーイ挑戦中！ | 👁 787]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_258aa874532979c6af47f04ed8837b0ad2f30f39eab57ee5_567114_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/ff0858f776f1b9709f79670019ea87a2d429c6b03b7050180ecdb5cb94db2f27_square_s.jpeg?v=1791362458" group-title="ADA MY PACAR LIVE",🐇[LIVE 6m | のどか ラストチャンス1位お願い♡NMB48第12期生AD | 👁 65]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/ff0858f776f1b9709f79670019ea87a2d429c6b03b7050180ecdb5cb94db2f27_square_s.jpeg?v=1791362458" group-title="ADA MY PACAR LIVE",🐇[LIVE 58m | のどか ラストチャンス1位お願い♡NMB48第12期生AD | 👁 655]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_f3372193a955fdda4b0dbeb25116f6af6bd920035d9eb762_576962_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/94c0c27c58dec7be7d1b56cd74b9e99035c32dec93c1322a0cd77796485c9259_square_s.png?v=1791501642" group-title="ADA MY PACAR LIVE",🐇[LIVE 6m | 🔔🌳Suzukiっち🥃とゆかいな仲間たち🚵‍♂️🏍️🚘🌬️ | 👁 41]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/94c0c27c58dec7be7d1b56cd74b9e99035c32dec93c1322a0cd77796485c9259_square_s.png?v=1791501642" group-title="ADA MY PACAR LIVE",🐇[LIVE 58m | 🔔🌳Suzukiっち🥃とゆかいな仲間たち🚵‍♂️🏍️🚘🌬️ | 👁 335]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_966143779be02363ec0f49b3a0364e15d380fcc057ae2480_541367_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/ee5c19f90b6549fd178a3b924a0e39b2a2e3bbffb4730178bd95f65f0650eef5_square_s.jpeg?v=1791122375" group-title="ADA MY PACAR LIVE",🐇[LIVE 9m | 4次審査ガチ‼️新明ハルカ🍓💤ミスサー2026 | 👁 51]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_ad3a538a48ae6636c0acd3b892ed3669fdfd2e4bea7d3544_574762_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/408e3bb1cdc05ef7b3c1f348552ad2d07755d86a69642caca693bd3df7e7aad0_square_s.jpeg?v=1786613529" group-title="ADA MY PACAR LIVE",🐇[LIVE 9m | フォロワー様300人目標👑🎤岩見咲季 | 👁 12]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_cd0fb4f6084ed76a11a9dcecc137fb43e702de91b5f7e3a4_532984_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/7419399dccbd047bf8293166256f8545f94be5b414cb89a01b178ae59d89f673_square_s.png?v=1791328731" group-title="ADA MY PACAR LIVE",🐇[LIVE 9m | 🎤YouTubeの歌聴いて💘もち❢❣ | 👁 225]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/7419399dccbd047bf8293166256f8545f94be5b414cb89a01b178ae59d89f673_square_s.png?v=1791328731" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | 🎤YouTubeの歌聴いて💘もち❢❣ | 👁 842]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_e559040415431aba2a628e9ea4a50823ad7b578d3563ba5a_373638_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/884a0203dc0fcb177d338690e6eacd1daf83827cb5d364a198cb6685240b06eb_square_s.png?v=1791320900" group-title="ADA MY PACAR LIVE",🐇[LIVE 9m | 【B―4感謝┏○ﾍﾟｺ】歌っているだけのたかたか | 👁 5]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_1e7dc54d512337224195f01b2c83874230f112b9546af8c7_469581_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/92dc7df16ac249a3f7f720a34796e6f7b71055c9e10f30cfaaa6d3254fdd738a_square_s.png?v=1712203506" group-title="ADA MY PACAR LIVE",🐇[LIVE 11m | 💩梅の汚部屋💩（おへや） | 👁 9]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_de015e9d6261c4e58a30bac57be0bc4b04b9270d608fe44f_241277_main_ll.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 11m | へきななのバーチャルルーム  まいにち配信900日達成 | 👁 41]🐇
+#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | へきななのバーチャルルーム  まいにち配信900日達成 | 👁 240]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_ecf76f23444d61ca69f8ddc613b4650e905c562c2671648c_331248_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/fe63c3d3535f1b40b1eae3fdd699a54f9eca8ed9f33e581b3392d1de0ed46de0_square_s.jpeg?v=1791652410" group-title="ADA MY PACAR LIVE",🐇[LIVE 11m | 💫ＭＣ☆ともみ★彡🍰の🌷気ままに・気楽に♪ | 👁 207]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_e9116e18ef66f317745f719111fe3b5c8480c7731c981d21_355077_main_ll.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 12m | うづきのおへや | 👁 60]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_8aad4cedabb19cba52136f61bb64c808d33e0dbb6fd18a7a_219684_main_ll.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 12m | もかちゃん‼️ | 👁 107]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_df30010d7662664bf0e82d4808280f8998a697aa9dfcced3_565585_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/4f874119aaac7aaafc87b0712664d622f453e5182076a34df65f5c2122659032_square_s.png?v=1749586940" group-title="ADA MY PACAR LIVE",🐇[LIVE 13m | 藩飛礼のわっしょいルーム！！ | 👁 89]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_8215c0f710ca06134da7140a9a349632ec77a76451bbb694_192691_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/7b278e1bc9cb6c9ed097c23f8dacf20af8e1a457ff4091cafab1d1bd2fbfa4c1_square_s.png?v=1791677869" group-title="ADA MY PACAR LIVE",🐇[LIVE 14m | 10/12-KIMONOgirl超絶ガチ❤️‍🔥Mimi🐇🌕 | 👁 116]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_613f33d8a7a19d3c63640e1e72d9c2dfb2a28beeb86f4161_522745_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/7c1bea7515ce01f22be2f97510e42526d640963cddb0b13525c5aaf9d0eaa94b_square_s.jpeg?v=1791615482" group-title="ADA MY PACAR LIVE",🐇[LIVE 15m | 水瀬真白 No.194 PrettyChuu AD | 👁 191]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_62ad7519b97504237b7b4829354afd1cf74545c86abd16b2_578250_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/de4e38a82d06aad9b23fc22a689d3afb7272df6e50ccc89fa0b28b16892ac0df_square_s.jpeg?v=1791632593" group-title="ADA MY PACAR LIVE",🐇[LIVE 15m | 🍰みこたん！10/11下北沢 10/12〜シュークリーム🔥 | 👁 101]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_f827cb3933a843e3bee47db8585ebd05e9d6ab00931c98e9_380201_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/8a441dec2b369dcf443b7fef557817a1bdb836458bc8210d79848674b3acb2ed_square_s.jpeg?v=1791191477" group-title="ADA MY PACAR LIVE",🐇[LIVE 18m | Mare🦖👊 12日〜iito表紙がち！みんなで掴む❤️‍🔥 | 👁 365]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_16ba84b75b60e6d7bdcd0eeed934cbcac3205851d9996c48_515263_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/213d9f0e98992ab47887af89c179b4f3707d5770fd65127a48c84b7ba00a64bb_square_s.png?v=1791301466" group-title="ADA MY PACAR LIVE",🐇[LIVE 19m | 大阪ポスター12日まで✈️先生ママちゃ🎀癒しと圧のルーム | 👁 318]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_ae2015b881f503f1119db77af7bde1a51dced6db0a04e291_529562_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/7d703c778ca11466d4f034348202e082a3cbb3999b04a365cda2c7aa2f740389_square_s.png?v=1787522085" group-title="ADA MY PACAR LIVE",🐇[LIVE 19m | ⛩️ムウ♈️♉️♊️♋️♌️♍️♎️♏️♐️♑️♒️♓️🌻 | 👁 4]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/7d703c778ca11466d4f034348202e082a3cbb3999b04a365cda2c7aa2f740389_square_s.png?v=1787522085" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | ⛩️ムウ♈️♉️♊️♋️♌️♍️♎️♏️♐️♑️♒️♓️🌻 | 👁 27]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_de28add74a800948056fca057cf4e9eea2d5052233367af3_220922_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/0548a43e77e7308e67bac65f022dc89a375515c62fb906fa32f7418f6814b0a0_square_s.png?v=1791174345" group-title="ADA MY PACAR LIVE",🐇[LIVE 20m | ­­─━  ◆ ‬anko💠 ͗ | 👁 25]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_19cd765327d993ffc27a7aa212a5908667185a51f05124c5_403279_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/5f85d3d4b1cb3fb5b18b91fb1405ea4d9a0388848aa2c1762931de8a6443030a_square_s.png?v=1790685377" group-title="ADA MY PACAR LIVE",🐇[LIVE 21m | みひろん♡room | 👁 165]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_0a5753adba039b24184a3a2f1605008e673846a2a8e8313d_308152_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/20846fb8ddd21623c84468f1f9580537a67f58940f7ba44b0b9b63163d1156e4_square_s.jpeg?v=1790942247" group-title="ADA MY PACAR LIVE",🐇[LIVE 21m | 藤咲いくは(ふじさきいくは) | 👁 91]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_d1440fdd2a8fd0b2a4e33de3e92d15cc999206cf8be4419a_574334_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/0365dec743018a6b37c4c96810206eeebd35f3c0270f0c9c44b2ee0c7fccb6f3_square_s.jpeg?v=1791196325" group-title="ADA MY PACAR LIVE",🐇[LIVE 22m | 💥 YUM!・BANG! | 👁 50]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_11a73788cc5dc805951a757c84b1cd70fe3c8d32314b8914_577803_main_ll.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 23m | モーニングディナーショー | 👁 14]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_d03ff80d4fdf5798c0e60b1fafce9e46467033c5868aeba8_574269_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/7a9f1c9db6c2637788ca43d124ae92f944ed1182ce7a18051e03e511c043b721_square_s.png?v=1791118119" group-title="ADA MY PACAR LIVE",🐇[LIVE 23m | のだん書道ガチ部屋🖊🖊10/6は1000日 | 👁 139]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_0e2640f14579598f0d4c09b8e572286d8646555110b845d2_491100_main_ll.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 24m | 猫飴さんの猫耳あわー | 👁 7]🐇
+#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | 猫飴さんの猫耳あわー | 👁 33]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_9b3284636974bdef22520104947c9d7356afdbc5593d61fd_205765_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/2afbf8a66d1883f50e10f6b6c999afc20d5dc4b1887a86ed3f6c777667885cdb_square_s.jpeg?v=1789967592" group-title="ADA MY PACAR LIVE",🐇[LIVE 26m |  🍪ྀིのんるーむ🤎ྀི | 👁 1698]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/2afbf8a66d1883f50e10f6b6c999afc20d5dc4b1887a86ed3f6c777667885cdb_square_s.jpeg?v=1789967592" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h |  🍪ྀིのんるーむ🤎ྀི | 👁 2945]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_19de6eb101b3b6e66d5aeee68a613c4445e9ed40e9237107_444545_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/9695feaab5601af700f16a077ea8bca52efae4187cb42452fdc5012445c22366_square_s.png?v=1791680201" group-title="ADA MY PACAR LIVE",🐇[LIVE 28m | 昭和おもちゃ純喫茶マサキマン🤖🚙☕️ | 👁 205]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_9a859bd37e6874cc4def4d2c41db9c097bbdd1077ab4fa85_387666_main_ll.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 28m | ［初見さん大歓迎］ほのかのお部屋 | 👁 13]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_14f36247e39c5d2a4a30eec1f77b02d64f0393e55e596e55_573123_main_ll.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 28m | ガチ🔥まおち🐱山田まお #ミスサークル2026 | 👁 617]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_65e597685a1ff605f91e043393a7f569cc8281bdd404100d_574763_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/c6e2d453bd5ca55932d524bb9ff7ac5eaad56e9310c4430373f0fbeae602f2d2_square_s.jpeg?v=1791358683" group-title="ADA MY PACAR LIVE",🐇[LIVE 29m | 本審査中❤️‍🔥沼田和佳奈🐼💜#ミスサークル2026 | 👁 527]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_cd1bba1bbf5911473b0b52b37a30da9a8f91f96465b68e4f_571843_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/2b75aa1f02436228f8ff96d5541ba06e982a34a078a26bf90fd5b449d52a4a1a_square_s.jpeg?v=1791230571" group-title="ADA MY PACAR LIVE",🐇[LIVE 29m | 姫乃もえのひみつきち | 👁 410]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_1a665a2aef9fc81e80b1061cf41fec5e48834ab097dae357_580964_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/beb23e252dc34b086392a484c3ff2ceb95f6298f1fccf1157c486d3037223011_square_s.png?v=1791125154" group-title="ADA MY PACAR LIVE",🐇[LIVE 29m | 野田円造 @39回JUNONBOYコンテスト挑戦中！ | 👁 572]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_30fcfd7343a02cb6800122964c917351d54a3d92cbda119d_566890_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/c94e4a66fa0f6ca16c670d7203368b5b3b18b287c0afb2fcc0f14558277d8309_square_s.png?v=1791678062" group-title="ADA MY PACAR LIVE",🐇[LIVE 30m | 【イベ最終日】ゆき★のり の カラオケ部屋🎤 | 👁 98]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/c94e4a66fa0f6ca16c670d7203368b5b3b18b287c0afb2fcc0f14558277d8309_square_s.png?v=1791678062" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | 【イベ最終日】ゆき★のり の カラオケ部屋🎤 | 👁 258]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_d55c47c1583c129bbbeb199c026ec300f58f7d48f8562a02_276712_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/953fcfa12df4ff9c35abfbaf8e9c550bbceb39955a7253a9232b0e6cb62e1c0c_square_s.jpeg?v=1791077880" group-title="ADA MY PACAR LIVE",🐇[LIVE 30m | 10/4〜ガチ🔥瀧口真斗39回ジュノンボーイコンテスト | 👁 233]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_0da46e5b47f46469b0d7530f904d981c0e3ff8cc921b273a_544240_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/44abfbfe91b688807d07b43149c17ea14a02790b26577be2de29d29044e6683a_square_s.png?v=1789285060" group-title="ADA MY PACAR LIVE",🐇[LIVE 31m | 渡邊莉央 No.255 わたし、アイドル！ | 👁 383]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_8ce8aeb740f58fe45c612a023bd75e0f08d249e3306c692f_559149_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/8a1a4962c682247d230b741c6245508b52a9b5cd8db62835549bcc0201c8f58a_square_s.png?v=1790806493" group-title="ADA MY PACAR LIVE",🐇[LIVE 32m | トレーディングRoom💹🐹😋【株話】おっとっと🌾 | 👁 82]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_c03e404008ed7b9435d33306f8308cfdb359a1e50599780b_488129_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/40fd17322ae08236f869a905c4e222d7dacc2900fd097b4b4c66b4050560ff2b_square_s.png?v=1791548720" group-title="ADA MY PACAR LIVE",🐇[LIVE 32m | ガチ中🔥今日のまなティ～🫧🀄新アバ | 👁 369]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/40fd17322ae08236f869a905c4e222d7dacc2900fd097b4b4c66b4050560ff2b_square_s.png?v=1791548720" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | ガチ中🔥今日のまなティ～🫧🀄新アバ | 👁 633]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_62f26d8daa8dd4abfcd7a47bb93ddc2e370784f23cb91bfb_502227_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/6190b0f3c6be177126e366cf755274e69dcbe5204c024560a3bba66da56c6844_square_s.jpeg?v=1791532640" group-title="ADA MY PACAR LIVE",🐇[LIVE 32m | きほ🫧🌿着物イベントファイナル👘✨ | 👁 596]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_b226c4f59c4bb891086824ec01b4fdf2893b2b5980e244ec_574565_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/c4428eed2b92e16820c523403b197bfea9381af53fa8d1ad5bfa195804808e00_square_s.png?v=1791175751" group-title="ADA MY PACAR LIVE",🐇[LIVE 32m | もこもこ🧥🧦ｲﾍﾞちふゆの唄苑 | 👁 28]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_e36dd6c82b101302d05b1bb955fa5124f4d7831a83067d3d_383990_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/2986b3a20d2191191ad1354206c10aa4e0405811b66fe83172cb8b0266d8aa99_square_s.png?v=1789465375" group-title="ADA MY PACAR LIVE",🐇[LIVE 32m | 🍓🐈‍⬛苺ジャムに加工されました🍓10月で3周年🎉 | 👁 132]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_f5e19928c1fcb46821738ebc6d901be5368bf50581458c97_493116_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/67f8bf315a692c64a06281f0f94f6c503fbab092d28b764ea13942efd8be5034_square_s.jpeg?v=1791223622" group-title="ADA MY PACAR LIVE",🐇[LIVE 33m | 虹美🌈🌻 | 👁 763]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_4e53845da8d82ce9fc2dffc78a7a0cabc1c6c0111a4ba49d_522704_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/8bdddbb542d8ab2bd8fc238f755e8b30355f413e957e53acca733d4654b4cdc3_square_s.png?v=1782575216" group-title="ADA MY PACAR LIVE",🐇[LIVE 33m | 【🐙】あんかけのコソコソらじお | 👁 219]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_c12fba8c7989d97870f7a12f0aa3e4810089c290594f6a25_341092_main_ll.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 34m | 絶対1位🥇れおん🍅NMB48 第12期生追加オーディション | 👁 831]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_e7014caec9f0e9aba422b8513f058a545a6992d2832e935b_576971_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/39d434309308633cf294e2bea772ebb21604816e13a026b74ff95751b05b0630_square_s.png?v=1788745300" group-title="ADA MY PACAR LIVE",🐇[LIVE 34m | ノンレム睡眠『レン』の配信Room🎷🌌💐 | 👁 90]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_8d5a44ce9174b365dda7129a1fe01e72ec4c0d8ce4a71359_576548_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/c514d06a0e0f1a0152e7fe8bedff89d9a6650f48972dbd46b859c6240f15d2ee_square_s.png?v=1782374981" group-title="ADA MY PACAR LIVE",🐇[LIVE 36m | 【琴宮はの】（ヒロインズスクール生） | 👁 228]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_3ca3593e69842ce6a99b62db28f377346f95932a157e598c_564089_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/14942e6f4fd42a1f4b9ded2c2752d15a3c84aac6285d116504c8ac93c5ea9fca_square_s.jpeg?v=1791135843" group-title="ADA MY PACAR LIVE",🐇[LIVE 37m | 橙乃アズ🦊💫【ヨノハテ】 | 👁 516]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_7283dac79817d6d1de547ec4ae3110a130e3006b6d3415f6_486892_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/14961f38b27c67d71b3caed972b987fc4a6d6cdfff3bc650a6aa08250696e1a7_square_s.jpeg?v=1750466510" group-title="ADA MY PACAR LIVE",🐇[LIVE 38m | ちゃびんそん | 👁 5]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/39d434309308633cf294e2bea772ebb21604816e13a026b74ff95751b05b0630_square_s.png?v=1788745300" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | ノンレム睡眠『レン』の配信Room🎷🌌💐 | 👁 245]🐇
+https://shard902-cdn.showroom-txlive.com/live/20007330_sr_f52b6c020f28186351bb33b31aa12835c16d4342b2e7e1a9_576548_main_ll.m3u8
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/14961f38b27c67d71b3caed972b987fc4a6d6cdfff3bc650a6aa08250696e1a7_square_s.jpeg?v=1750466510" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | ちゃびんそん | 👁 12]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_005ce076d8b1be74f4851de6c23056eec9eb495e8c689c33_553462_main_ll.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 39m | 【応援感謝🙏】ともきちるーむ【両声】 | 👁 166]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_e0e36ff4da91279653b172553731d280bf2a9682227074ca_268821_main_ll.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 39m | 愛音のん【きゅんぱに！】 | 👁 114]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_b56665232998a0c60f54455b62d8d410c110837db9166b0f_566625_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/8058d13c7516ca41c8774d8f3e82451a011b51c3faaa9cbcf0fe4d59b0d9fac2_square_s.jpeg?v=1791609169" group-title="ADA MY PACAR LIVE",🐇[LIVE 40m | あすか | 👁 641]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_68392978bed57edafeeea83a6276b2bc00fedd19b3b85e04_579867_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/4562360c905f56889845caa8ddbcabaf316eb82b742371fd99bc50468f901280_square_s.png?v=1791253540" group-title="ADA MY PACAR LIVE",🐇[LIVE 41m | 爽桃大人女子lovely🎀🐰🩷room | 👁 84]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/4562360c905f56889845caa8ddbcabaf316eb82b742371fd99bc50468f901280_square_s.png?v=1791253540" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | 爽桃大人女子lovely🎀🐰🩷room | 👁 272]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_a2c7a10652dac56c560ae81baecb96c5e83ae67e7a3475a2_520174_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/c0200c50e9958fc5c36c900c98c5a918d8907b9e8b592fb1c05cccbb5e308093_square_s.png?v=1790963332" group-title="ADA MY PACAR LIVE",🐇[LIVE 42m | 赤松愛莉👠🕯 #ミスサークル2026 | 👁 1066]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_de3b5c1581f23d8c963cc89c4a167fa536a096f53a5656f5_573255_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/2700a5518a3b858ea84b8aa59cb473a9c91a5a7673567b2a20aea58200e83d80_square_s.png?v=1790506206" group-title="ADA MY PACAR LIVE",🐇[LIVE 44m | あいか♥️🌹 | 👁 539]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/2700a5518a3b858ea84b8aa59cb473a9c91a5a7673567b2a20aea58200e83d80_square_s.png?v=1790506206" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | あいか♥️🌹 | 👁 1082]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_b56c61230c5a0ef01c151e87e6b760df91f5e6bdc7a0cda9_576412_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/224705df11484a554ac90bd66f18a09ea63a5575805636375b5385e76e25ee80_square_s.jpeg?v=1786749747" group-title="ADA MY PACAR LIVE",🐇[LIVE 44m | 斉藤せな | 👁 81]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_e1a9bc5838556cb8c0e330b02e1c49c199671132d39e05d4_575400_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/ea8000c4a460b29d57da2fcc92f9d21dd505ade5954cf8d5dc4072ea9bfe348e_square_s.png?v=1791376142" group-title="ADA MY PACAR LIVE",🐇[LIVE 45m | のの🐈‍⬛🐾 | 👁 248]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_8d594d1fa713f9c64ae883fd7ec8ef9ce44e7498bd24f579_497988_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/821dd2d1d4b67144339fb4426545ffd76ac788871942261996124f7e42b8ff54_square_s.png?v=1791300494" group-title="ADA MY PACAR LIVE",🐇[LIVE 45m | 上野紗奈 12日から決勝 Debut Audition | 👁 388]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/821dd2d1d4b67144339fb4426545ffd76ac788871942261996124f7e42b8ff54_square_s.png?v=1791300494" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | 上野紗奈 12日から決勝 Debut Audition | 👁 792]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_57a1e0ba03f4031c7af6e3b00637130d2d697dd547453125_571943_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/7c8dcd04a7743142bbea0549f0c57e04afdbb9830ab01f6cfeeee15ae27a4c4c_square_s.jpeg?v=1789962265" group-title="ADA MY PACAR LIVE",🐇[LIVE 46m | ♡👑🎼 ᵈᵕ̈ 🛋🥣ゴンのカラオケルーム | 👁 202]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_551264b9b026e72a14a96690a4812b0c9731c017d994b20e_554524_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/8acaa6f1e7076529910381984908d646a320fa1bfd6f07cfe1a763b213b07091_square_s.jpeg?v=1791170902" group-title="ADA MY PACAR LIVE",🐇[LIVE 47m | あも/Claire♡Dolls | 👁 231]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_bcb66c538ce2ccad522487232288c847af236126ee2f5ee2_542644_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/27c75d99d71c12c4a44cd2654158bc30df1bf2bf42e6c1f6b67d8f8239b18266_square_s.jpeg?v=1791604138" group-title="ADA MY PACAR LIVE",🐇[LIVE 52m | 花宮みか No.071 PrettyChuu AD | 👁 902]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/27c75d99d71c12c4a44cd2654158bc30df1bf2bf42e6c1f6b67d8f8239b18266_square_s.jpeg?v=1791604138" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | 花宮みか No.071 PrettyChuu AD | 👁 1349]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_ad6514b9940a347fd0383b0f0a5e75f33ce73d52c7f2d865_578127_main_ll.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 55m | ゆめ NMB48 第12期生追加オーディションNo.156 | 👁 1040]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_e4788608b269b95ff35e5d98586ce28eede26350d04614b8_577056_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/df66dae15fa7d7807457e7027b8772e72d2286535381f617be543b3d08e5bf20_square_s.png?v=1790806295" group-title="ADA MY PACAR LIVE",🐇[LIVE 57m | 華凜🦝🍨ルーム強化🔥考え中集め中 | 👁 408]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_bf020038a244efb2d29bf2b4f07b4d83096c9ac5b83606ee_412454_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/b68c80b582bdc8fdabdac700440224bd03bb4681f9bb3ed6876e3d78c297f74a_square_s.jpeg?v=1788435077" group-title="ADA MY PACAR LIVE",🐇[LIVE 58m | 超絶ブルーベリーの舘 | 👁 358]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_abab7f87e12f9afce21df6f32147905220125c6a5d82e1e0_554709_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/040f489fd38210c4f5a5e284681c40b565b6290699a94d5ea72f39372e4e9f3c_square_s.jpeg?v=1791294113" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | おめでとうイベ🍰🎈くまきらroom🧸🌟 | 👁 730]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_251b29ab6b694a14e0030f785d2bc7cb476d6fc437cadbbf_551035_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/9c7e2f0bf37b6654f3e479c13c0d143590a6a3c90f1d5a0056af2bb441869a4f_square_s.png?v=1786805993" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | 櫻井玲架(れいか) #フレキャン2026 | 👁 208]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_dd10aea003cd01da5fed3b2ee35f653ada78d7b6c1227396_574772_main_ll.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | 【今月チーム入り120人目標】水香の香水ルーム | 👁 465]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_0d69e33b2abd90d713b16fd99be02a9f13337a0c400e6cf5_489860_main_ll.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | 🍧🍰🍫🍮アバター配布ルーム（錬金術師ミル） | 👁 468]🐇
+#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | 🍧🍰🍫🍮アバター配布ルーム（錬金術師ミル） | 👁 647]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_e25b05f9ff6a960604be5c4717b83f026354e4b460b3a70b_265278_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/80f82bd48fe25d2bc5d45bbcf8d15620de393a774f6297880f36986667d0521c_square_s.jpeg?v=1791448043" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | ちーの放課後保健室🐥🍒🍷 | 👁 792]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/80f82bd48fe25d2bc5d45bbcf8d15620de393a774f6297880f36986667d0521c_square_s.jpeg?v=1791448043" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | ちーの放課後保健室🐥🍒🍷 | 👁 1548]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_1c50b090165317d90dcac91a5ada47cdba64e1c1b27f98f8_495385_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/2049d9598fce30f2c947d422c5f0ad1c49fd0e653d386c946ab7f8e0398f490f_square_s.png?v=1787216767" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | haisaiozisanのおしゃべり部屋 | 👁 73]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/2049d9598fce30f2c947d422c5f0ad1c49fd0e653d386c946ab7f8e0398f490f_square_s.png?v=1787216767" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | haisaiozisanのおしゃべり部屋 | 👁 137]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_d8007f048df60e55aed2e15c349e0f4dc7781077eed8d345_568761_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/50ddb151a6e777cee21364f94345ba3af37df19a7dcceafe0a6dc32b1d462ec5_square_s.jpeg?v=1791672051" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | ポエム新落語作家:いろはの咲 | 👁 15]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/50ddb151a6e777cee21364f94345ba3af37df19a7dcceafe0a6dc32b1d462ec5_square_s.jpeg?v=1791672051" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | ポエム新落語作家:いろはの咲 | 👁 22]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_5ecca3f12f39af84c3ad21b0923f42c059fb52312830f63d_556660_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/87765eb5202a069876e1478c87641c8984a65f0541c10ef5681e63dc8f3c2ac0_square_s.png?v=1789568155" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | かなこん【カラオケおじさん】 | 👁 509]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_9111f50c4c96f4664a0cb79a4e82b2c7f7659a42f98542b8_541294_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/0e2121d0bf115e121358ec1418eef5b35d5ba53326d95be3667e95cc54b4dc6c_square_s.png?v=1791192481" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | 【🏰💕】あんずにゃは静かに配信したい！ | 👁 797]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_afb308495f53c24646c6ea86f208c8f1e110f61c85d1aafa_468428_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/8bdea5b4bff41354258ca2ac6df336a492df8d09b4ee83e48072f7d0450cf51c_square_s.jpeg?v=1791396315" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | 11月舞台💚🦸‍♀️瀬川羽衣 新人声優ﾌｫﾛﾜｰ820🤧 | 👁 485]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_130311b367bc07f2981e5b22333de86bcd1af7e31414399e_509696_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/0da9638d7360e7955609c2cf2e0ed50aebf60d86bacb5873a694dc86a8c5c0cb_square_s.jpeg?v=1791198776" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | 【🌺声優イベ🌺】ru…の言葉落書き部屋 | 👁 893]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/0da9638d7360e7955609c2cf2e0ed50aebf60d86bacb5873a694dc86a8c5c0cb_square_s.jpeg?v=1791198776" group-title="ADA MY PACAR LIVE",🐇[LIVE 2h | 【🌺声優イベ🌺】ru…の言葉落書き部屋 | 👁 1346]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_9d7d16563fbdf06ad200d0339728b927cdd9dbbece2f9c4e_390183_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/5a83790de58f71deb5d6b308c8990e0f18dac7a4cdcc0583052481aa014952ff_square_s.png?v=1791466934" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | 【新アバター配布中】りょうの歌ときどきゲーム稀に料理 | 👁 545]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/5a83790de58f71deb5d6b308c8990e0f18dac7a4cdcc0583052481aa014952ff_square_s.png?v=1791466934" group-title="ADA MY PACAR LIVE",🐇[LIVE 2h | 【新アバター配布中】りょうの歌ときどきゲーム稀に料理 | 👁 868]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_90feafe17e4452e34b2c69a387a3fbaee649302682ccf64c_334461_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/194f940ba442bdf5a89ee37da81f7ec1edf95fc550cbd35f94548487260a9be3_square_s.png?v=1750897825" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | 気だるくいい感じで | 👁 14]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/194f940ba442bdf5a89ee37da81f7ec1edf95fc550cbd35f94548487260a9be3_square_s.png?v=1750897825" group-title="ADA MY PACAR LIVE",🐇[LIVE 2h | 気だるくいい感じで | 👁 19]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_42e412c76c14afa60079c091ee4f1a3ba2c3153042f17fc5_229078_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/e66abf3fe1bc09db1c1ce83a8f0c0cfbe69002c3bf9c5168dca3f8304d7ee626_square_s.png?v=1791620224" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | つばさ🪽ラブバラードを歌う人 | 👁 895]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_41f075f3a3150f5a9cd979e5405744db7a1b6b0e7fcc69bc_528605_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/a4463468f801c4d4cfe7b273e2fe2529cf64fc317fbeea4b4e92689db41f4316_square_s.png?v=1789356990" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | おでん🍢✨️ | 👁 73]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_eac94b894356251968d992f11ecce5bd9c67e57c1c1a4c1e_579430_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/adfc05b57f3bd33ed2f9fc87eba0dc4ba013e4d8722b6cb30f62853a15b14e0b_square_s.png?v=1791570989" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | ぜんぜん応援たりない。 | 👁 136]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/adfc05b57f3bd33ed2f9fc87eba0dc4ba013e4d8722b6cb30f62853a15b14e0b_square_s.png?v=1791570989" group-title="ADA MY PACAR LIVE",🐇[LIVE 2h | ぜんぜん応援たりない。 | 👁 204]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_0208252279262612f2b6a006419d1c433774bcd52f76e9f4_545279_main_ll.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | うみみん | 👁 45]🐇
+#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 2h | うみみん | 👁 63]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_36b053e2b5ee07cf3c6591aed1747051f6a8cf21f642d13d_573536_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/f45ae70f9c5f511677889796eac12a528c535e1978e6180928c91e792272909a_square_s.jpeg?v=1790582048" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | ちびらる🌹💍ஐ‬⋆*私らしく生きる🧚🏻🫶 | 👁 79]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_f15d61a4833235587b9b0e29585d84e9f07195e586cd63c7_563997_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/046d81bb0bc70460ea3e10763fdb3367a2e4f7e0180deb0b417ab7e70c902dd1_square_s.jpeg?v=1788432734" group-title="ADA MY PACAR LIVE",🐇[LIVE 1h | まい👼✨️ | 👁 319]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_95562b7e4008a8e6925cb7c5133b494d9e89a4ca9679fba9_576529_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/693bd50caec44814fcd4508fe3c2dd0eaeaa0c0aa3981adffde08c6b8921fc42_square_s.png?v=1791650566" group-title="ADA MY PACAR LIVE",🐇[LIVE 2h | 12日~iito決勝🔥すずのすーべにあ🎐🎶  | 👁 1389]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_8fa7e7f45c9a292b30e689af35666250e2e8e37b5bebef47_561065_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/452b9e7173ef4611e1d3cceb3348778c5ce664f2f5fbae855b79da9043b036f3_square_s.jpeg?v=1791673742" group-title="ADA MY PACAR LIVE",🐇[LIVE 2h | 12日〜超絶ガチ着物ガール🔥星来⭐️🎀 | 👁 3789]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_b9ae8e0a1517da2b3b8c08f1d24a64eac1fe9c4894bb5de9_521297_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/866637f8ad4c371d17d2d492369d6f6745a2ba79c60f8ba8e3ed9460dffb29fd_square_s.png?v=1791498856" group-title="ADA MY PACAR LIVE",🐇[LIVE 2h | 【ガチイベ中】のんきにのんびりしてない　のんルーム🌼🎶 | 👁 1377]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_bd0ef99b5c17785c167fac02d53b8cd48f20a9769d8d35cb_532293_main_ll.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 2h | まこじぃのまこちゃんねる！ | 👁 141]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_73ff18a62ea748093a22b3ed03021c134aab2c5ce28ed066_58980_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/cd06f6f126bff396706397e3e26497525efb8d84380d136bc2a3be191120d00d_square_s.png?v=1791673638" group-title="ADA MY PACAR LIVE",🐇[LIVE 2h | 【龍が如く５　夢、叶えし者】十六夜のおまけの人生 | 👁 567]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/cd06f6f126bff396706397e3e26497525efb8d84380d136bc2a3be191120d00d_square_s.png?v=1791673638" group-title="ADA MY PACAR LIVE",🐇[LIVE 2h | 【龍が如く５　夢、叶えし者】十六夜のおまけの人生 | 👁 847]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_cd70319a08e2236dbb7ff02adf19f8c3a1ec9a68ae9a7dfc_312763_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/799bf80d16448eaa26dcfd7399349e8400ee6bcb55bf2ede891d2c6f42f49b1a_square_s.png?v=1791664563" group-title="ADA MY PACAR LIVE",🐇[LIVE 2h | ✅はちゃめちゃぞ〜ん | 👁 267]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/799bf80d16448eaa26dcfd7399349e8400ee6bcb55bf2ede891d2c6f42f49b1a_square_s.png?v=1791664563" group-title="ADA MY PACAR LIVE",🐇[LIVE 2h | ✅はちゃめちゃぞ〜ん | 👁 447]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_2e18a127099e148178cbef5178bde5684a804d9a57154a5f_319682_main_ll.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 2h | おおすかてんちょ～の店長室 #ありがたTV | 👁 193]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_b45f04fcb9a1508a765cbe52c75e96f64755872bd15ec5c0_191002_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/5dba689854dae5382000afe5d4cd50382953186762114752eef3d40550f447b4_square_s.jpeg?v=1791671586" group-title="ADA MY PACAR LIVE",🐇[LIVE 2h | 《新アバ配布》🍊あまいさんち🏠わんだふるDAYS🍀︎ | 👁 1811]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/5dba689854dae5382000afe5d4cd50382953186762114752eef3d40550f447b4_square_s.jpeg?v=1791671586" group-title="ADA MY PACAR LIVE",🐇[LIVE 3h | 《新アバ配布》🍊あまいさんち🏠わんだふるDAYS🍀︎ | 👁 2483]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_7c7a3ad811f66102bb3701e00ab0b0efd249329f99f02738_303895_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/9210bf77bde2cb4ac1be38dc5e36b6fc0551cc08c0887c21ea7e7e39a994624c_square_s.jpeg?v=1791600221" group-title="ADA MY PACAR LIVE",🐇[LIVE 2h | 宮野苺花 No.097 PrettyChuu AD | 👁 3462]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_277511221ca8619cb8e668f527db6b8edd2f5fcf68a596e4_578153_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/ed5972159497fe261f421b55a5dc5cb7c64a1585d24572657dbe1c52f5989d0e_square_s.png?v=1791258641" group-title="ADA MY PACAR LIVE",🐇[LIVE 2h | 初見さん大歓迎👑まだ終わらない夢の続きを💗みゅうにゃ♥えみり | 👁 1113]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/ed5972159497fe261f421b55a5dc5cb7c64a1585d24572657dbe1c52f5989d0e_square_s.png?v=1791258641" group-title="ADA MY PACAR LIVE",🐇[LIVE 3h | 初見さん大歓迎👑まだ終わらない夢の続きを💗みゅうにゃ♥えみり | 👁 1805]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_068f66dab5eea775d4fd9eef8ae4563004e093a9f1c5d8fa_354607_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/0e242e76d1b10e491418024a34349d912ee26627b729dfa795cda53c9c576794_square_s.jpeg?v=1791669681" group-title="ADA MY PACAR LIVE",🐇[LIVE 3h | #ガチイベ最終日かちゃこのるーむ🎵 | 👁 1319]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_59f2b3c6be6e817b0015531c33bbb1a1ce82d30c484591e4_526510_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/594ccf4190791fdd915902d8476d6490929e122dc86f4a249a6485fb78ff85a9_square_s.png?v=1791363658" group-title="ADA MY PACAR LIVE",🐇[LIVE 3h | きたさん//バラエティルーム | 👁 3206]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_b2bf5e5263424b6a3f25c15c18c94abf30d7efd6763dba63_460252_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/8aa24e58b6c2670ab840e13590b7692324a1f876ef1f856f7f31d1414c7a5ace_square_s.jpeg?v=1790693005" group-title="ADA MY PACAR LIVE",🐇[LIVE 3h | 佐藤未来 No.012 平成リバイバルAD | 👁 2343]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_b8adc2cf284a4e030f58f5268cf2072ee2af916a46bedafb_579461_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/e4966abd3728e3119fc1fe112fe0c900b14998d1b3dcbbb0d1a53c25cc0f563f_square_s.jpeg?v=1776122796" group-title="ADA MY PACAR LIVE",🐇[LIVE 3h | ねくらラジオ | 👁 239]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_706fee773ba772c8bab33c45edb13b8e6321f3b7fb469ab1_556136_main_ll.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ADA MY PACAR LIVE",🐇[LIVE 4h | 齋藤心陽 No.055 平成リバイバルAD | 👁 5545]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_4d58915faef676f50a2ef80fdac2744f628967f3e85fa6cc_579504_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/cf4ef377c8888657124c45278b8b134b47c73e5d8d903f5f4753140fd5b5f466_square_s.jpeg?v=1790195763" group-title="ADA MY PACAR LIVE",🐇[LIVE 4h | 🌹新住人様、大大大募集🌹  Mica Room  | 👁 3591]🐇
-https://shard902-cdn.showroom-txlive.com/live/20007330_sr_97438fe5a4b976748009f51d5bd5f1c32bf6fdb42ba1b59a_485431_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/516baa5246613c31e12b2bd53f0a710eabb5e0014d330ace48d2005f7fa00fab_square_s.png?v=1791459004" group-title="ADA MY PACAR LIVE",🐇[LIVE 4h | さくら🌸🐻学習室 | 👁 4601]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/516baa5246613c31e12b2bd53f0a710eabb5e0014d330ace48d2005f7fa00fab_square_s.png?v=1791459004" group-title="ADA MY PACAR LIVE",🐇[LIVE 5h | さくら🌸🐻学習室 | 👁 5717]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_881da33de9d2cf82b12ae9711d73deca847baf4c8f9aaca9_531388_main_ll.m3u8
-#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/26dd9ac22920df3c896d52fdd92d764c2ef91ebe3afc406feff39c9c61bd091f_square_s.png?v=1791427831" group-title="ADA MY PACAR LIVE",🐇[LIVE 4h | ︎︎☁️︎︎のんちゃんるーむ︎🤍 9月5日誕生日🎂ガチ | 👁 3655]🐇
+#EXTINF:-1 tvg-logo="https://static.showroom-live.com/image/room/cover/26dd9ac22920df3c896d52fdd92d764c2ef91ebe3afc406feff39c9c61bd091f_square_s.png?v=1791427831" group-title="ADA MY PACAR LIVE",🐇[LIVE 5h | ︎︎☁️︎︎のんちゃんるーむ︎🤍 9月5日誕生日🎂ガチ | 👁 4037]🐇
 https://shard902-cdn.showroom-txlive.com/live/20007330_sr_29160d1e50257005f6f61c8b046c563961ad8ae2821d4715_495167_main_ll.m3u8
