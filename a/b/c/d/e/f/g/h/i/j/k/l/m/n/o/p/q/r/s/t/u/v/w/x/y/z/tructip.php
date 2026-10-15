@@ -10,11 +10,23 @@ https://live.dyrur1.com/live/14426925_9c559b53fcc6ecf0dc2b5472b9ef8990_autoChang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tructiep-hd.club/
 #EXTVLCOPT:http-origin=https://tructiep-hd.club
+https://live3.dyrur1.com/live/14232732_7088c56d25baf7a4ab05f4abdcf5959e_autoChange.m3u8?auth_key=1792088974-0-0-ef41d74caf892c776a3c995320813343
+
+#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [21:00 15/10] TRỰC TIẾP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tructiep-hd.club/
+#EXTVLCOPT:http-origin=https://tructiep-hd.club
 https://live2.dyrur1.com/live/13534418_e9352933b979c4a02272d3f2a344029a_autoChange.m3u8?auth_key=1792088975-0-0-5f9c92bb6681e806bdaf69e3cb8c6802
 
 #EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [21:00 15/10] TRỰC TIẾP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tructiep-hd.club/
 #EXTVLCOPT:http-origin=https://tructiep-hd.club
-https://live3.dyrur1.com/live/14232732_7088c56d25baf7a4ab05f4abdcf5959e_autoChange.m3u8?auth_key=1792088974-0-0-ef41d74caf892c776a3c995320813343
+https://live1.dyrur1.com/live/14143529_1d1b259f16f81533a0d726efbd18323b_autoChange.m3u8?auth_key=1792088975-0-0-4d04f663310727180b7e0cdeb047e50d
+
+#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [21:00 15/10] TRỰC TIẾP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://tructiep-hd.club/
+#EXTVLCOPT:http-origin=https://tructiep-hd.club
+https://live.dyrur1.com/live/13534413_accf7942055846392dcb7ffd1bd4f0a7_autoChange.m3u8?auth_key=1792088975-0-0-1acac77d278f5ccc047423e358a060d8
 
