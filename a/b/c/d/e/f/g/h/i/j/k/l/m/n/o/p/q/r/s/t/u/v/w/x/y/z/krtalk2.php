@@ -7,7 +7,7 @@ https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.05
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.3BgONl4lQCeZ.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/d7c9a3ede0fa351aaa38ae8975c39138.webp" group-title="MY PACAR LIVE",🐇[LIVE 52m | Jey Jaeruk | 👁 93] ingfokan perLAGUan!🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.8FvWmuGsJoeB.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/9e9484dd130b968ce71cb55f040ddd00.webp" group-title="MY PACAR LIVE",🐇[LIVE 59m | Alya Insyirah | 👁 2216] ngobrol ngobroll!!💕💕🐇
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/9e9484dd130b968ce71cb55f040ddd00.webp" group-title="MY PACAR LIVE",🐇[LIVE 1h | Alya Insyirah | 👁 2216] ngobrol ngobroll!!💕💕🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.7f5nwBalkbHS.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/36839dae4434ca41c1ddcc1433a139ef.webp" group-title="MY PACAR LIVE",🐇[LIVE 1h | Laluna | Kuroten Idol | 👁 262] yipp yapp🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.mgoWULKHxBr1.m3u8
