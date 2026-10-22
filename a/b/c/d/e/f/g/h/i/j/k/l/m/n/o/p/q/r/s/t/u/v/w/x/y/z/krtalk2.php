@@ -1,7 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="MY PACAR LIVE",🐇ayok donasi server playlist IPTV agar server tetap aktif🐇
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/82d054e4340c07549bcd56fde00926a9.webp" group-title="MY PACAR LIVE",🐇[LIVE 6m | Sona JKT48 | 👁 530] Hai semuanya🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.wb9FCylf9CC6.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/3f4eec5638d9e2584393cea2ac773598.webp" group-title="MY PACAR LIVE",🐇[LIVE 58m | Jazzy JKT48 | 👁 2327] HEY HEY HEY ANIME DISINI🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.3IswtNd98GcQ.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/38d9912ead630bb19c74510601d1aa19.webp" group-title="MY PACAR LIVE",🐇[LIVE 24m | Rara JKT48 | 👁 955] Ngobrolll🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.MzJvAVsJnOdF.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/fb4319bd51e852e354646cb884178f36.webp" group-title="MY PACAR LIVE",🐇[LIVE 29m | Zasa indomodel | 👁 125] Olga biar bisa kuat gunung lagi🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ys4OHV8sDwsT.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/1d366fca1daaf5c19f0de6ecebf376a4.webp" group-title="MY PACAR LIVE",🐇[LIVE 39m | Maxine JKT48 | 👁 2114] lesgolesgo🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.e24XJUgQfCvY.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/d51627a7c3ac56a9dadc9cfa7b92d5d3.webp" group-title="MY PACAR LIVE",🐇[LIVE 40m | Cila | Karafuru Idol Group | 👁 422] hi hiiii🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.1almm84bFIEI.m3u8
