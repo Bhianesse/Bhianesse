@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [12:00 25/10] TRỰC TIẾP
+#EXTINF:-1 tvg-logo="https://tructiep-hd.club/public/figma/logo.png?v=1" group-title="TRUCTIP LIVE", [21:00 25/10] TRỰC TIẾP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tructiep-hd.club/
 #EXTVLCOPT:http-origin=https://tructiep-hd.club
-https://live5.dyrur1.com/live/13897437_3d949b762f04b627365a8c64fefb0562_autoChange.m3u8?auth_key=1792924175-0-0-1d08a663b69761bff301079ea49595bb
+https://live4.dyrur1.com/live/14040140_1e935c25e23cff285a29a076c2f5ee33_autoChange.m3u8?auth_key=1792953082-0-0-83de7fb5f4cf14b05def72c9c741d7fc
 
