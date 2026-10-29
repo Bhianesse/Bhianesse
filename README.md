@@ -125,10 +125,10 @@ Muhammad Farhan Nazkham Albhiansyah
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhianesse&hide_border=false&theme=neon&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" align="right" width = "41%">
         </a> -->
         <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-            <img width="120%" alt="Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=Bhianesse&theme=redical">
+            <img width="120%" alt="Stats" src="https://www.star-history.com/?repos=bhianesse%2Fbhianesse&type=timeline&logscale=&releases=&legend=top-left">
         </a>
         <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-            <img width="120%" alt="GraphStats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhianesse&theme=2077">
+            <img width="120%" alt="GraphStats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhianesse&theme=2077">
     </p>
 </div>
 <br>
@@ -136,7 +136,7 @@ Muhammad Farhan Nazkham Albhiansyah
 <h1 align="center"> My contributions game 🐍🎮</h1>
 
 ![](https://raw.githubusercontent.com/Bhianesse/Bhianesse/refs/heads/main/img/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-        <img src="https://raw.githubusercontent.com/Bhianesse/Bhianesse/refs/heads/main/img/github-contribution-grid-snake-dark.svg" width="500"/>
+        <img src="https://raw.githubusercontent.com/Bhianesse/Bhianesse/main/img/github-contribution-grid-snake-dark.svg" width="500"/>
 <br>
 
 <h2 align ="center"> 📝 Contact me 📝</h2>
