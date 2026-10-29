@@ -119,15 +119,15 @@ Muhammad Farhan Nazkham Albhiansyah
         </a> -->
         <a href="https://github-readme-streak-stats.herokuapp.com">
             <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhianesse&theme=neon&hide_border=false&date_format=%5BY%20%5DM%20j">
-        </a><!--change language to japanese locale=jp-->
-<!--         <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <!--change language to japanese locale=jp-->
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
             <img width="50%" align="left"alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Bhianesse&theme=radical&row=4&column=4">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhianesse&hide_border=false&theme=neon&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" align="right" width = "41%">
         </a> -->
-        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-            <img width="120%" alt="Stats" src="https://www.star-history.com/?repos=bhianesse%2Fbhianesse&type=timeline&logscale=&releases=&legend=top-left">
+        <a href="https://trakteer.id/mybhianesse0">
+            <img width="120%" alt="Stats" src="https://www.star-history.com/?repos=Bhianesse%2FBhianesse&type=timeline&logscale=&releases=&legend=top-left">
         </a>
-        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <a href="https://trakteer.id/mybhianesse0">
             <img width="120%" alt="GraphStats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhianesse&theme=2077">
     </p>
 </div>
@@ -142,7 +142,7 @@ Muhammad Farhan Nazkham Albhiansyah
 <h2 align ="center"> 📝 Contact me 📝</h2>
 <br> 
 <div align="center">
-    <a href="https://github.com/Bhianesse" target="_blank">
+    <a href="https://trakteer.id/mybhianesse0" target="_blank">
         <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;">
     </a>
     <a href="https://trakteer.id/mybhianesse0" target="_blank">
@@ -160,7 +160,7 @@ Muhammad Farhan Nazkham Albhiansyah
     <div align="center">
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8c3c3cbd-7a4c-43da-b1cb-0a207be30230/dixdo22-7f42f7c1-1344-4843-8334-4cbbb22cd9bb.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi84YzNjM2NiZC03YTRjLTQzZGEtYjFjYi0wYTIwN2JlMzAyMzAvZGl4ZG8yMi03ZjQyZjdjMS0xMzQ0LTQ4NDMtODMzNC00Y2JiYjIyY2Q5YmIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.XjOv2uL_Lllb4IACFJE0-TG6ij6mhCeK99mwXcmcC88" width="500"/>
            <div align="center">
-        <img src="https://viiip.kitashinsaku.com:443/0.php" width="500"/>
+        <img src="https://mirror-uploads.trakteer.id/images/avatar/ava-wL03JzqfV3b5WtiQIjztBhu3X7qy4gb71747418059.png" width="500"/>
     </div>
 </div>
 <br> 
