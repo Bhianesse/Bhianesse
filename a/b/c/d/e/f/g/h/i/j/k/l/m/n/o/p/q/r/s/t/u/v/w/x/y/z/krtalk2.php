@@ -1,9 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="MY PACAR LIVE",🐇ayok donasi server playlist IPTV agar server tetap aktif🐇
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/53b8a4711a79eab234ecd9ff458cc038.webp" group-title="MY PACAR LIVE",🐇[LIVE 25m | Jeni || Megami | 👁 49] mam🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GPKDQyqG2uNZ.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/1315bb136e6367b28076db6355378911.webp" group-title="MY PACAR LIVE",🐇[LIVE 56m | Lia JKT48 | 👁 3455] Ayo ngobrol bareng!🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ZEhAbERTyvxy.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/347cc781bfbc3ca6de09902a4ba9d840.webp" group-title="MY PACAR LIVE",🐇[LIVE 1h | gitavara - | 👁 3611] hiiiiiya :3🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.Dngioj5piqys.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/b464a4ebd8de6aba33de83d60b9921d2.webp" group-title="MY PACAR LIVE",🐇[LIVE 1h | Delynn JKT48 | 👁 7050] haiii🐇
+https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.5j4KMiUb4eXE.m3u8
