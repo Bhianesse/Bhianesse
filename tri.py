@@ -21,8 +21,8 @@ BATCH_SIZE = 3
 WORKFLOW_LIST = [
     "krtalk2.yml", "krtalk3.yml",
     "krtalk4.yml", "krtalk6.yml",
-    "bonmua.yml", "xolax.yml",
-    "tructip.yml", "ulangin.yml",
+    "tructip.yml", "xolax.yml",
+    "rd0.yml",
 ]
 
 # 👉
@@ -31,7 +31,7 @@ temp = []
 
 for wf in WORKFLOW_LIST:
 
-    if wf == "ulangin.yml":
+    if wf == "rd0.yml":
         if temp:
             WORKFLOW_GROUPS.append(temp)
             temp = []
