@@ -123,12 +123,9 @@ Muhammad Farhan Nazkham Albhiansyah
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Bhianesse/Bhianesse&type=timeline&logscale&legend=top-left" />
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Bhianesse/Bhianesse&type=timeline&logscale&legend=top-left" />
  </picture>
-</a>
+
 
 <a href="https://trakteer.id/mybhianesse0">
-            <img width="120%" alt="Stats" src="https://www.star-history.com/?repos=Bhianesse%2FBhianesse&type=timeline&logscale=&releases=&legend=top-left">
-        </a>
-        <a href="https://trakteer.id/mybhianesse0">
             <img width="120%" alt="GraphStats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhianesse&theme=2077">
     </p>
 </div>
