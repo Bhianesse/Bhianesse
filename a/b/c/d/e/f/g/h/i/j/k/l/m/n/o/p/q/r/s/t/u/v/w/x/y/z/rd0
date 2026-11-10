@@ -85,20 +85,20 @@ https://cc1.streammaximum.com:2280/stream
 http://dadamore2.ddo.jp:8000/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/3b08d880-897f-4bef-ac16-42b0b6b4d93e/image/?u=1713948450000",group-title="radio j-pop-rock",Radio Hayama 配信中
 http://server10.reliastream.com:8073/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a122be96-59d3-4127-bc66-bfb02cc3abf7/image/?u=1713905363000",group-title="radio j-pop-rock",J-Pop Powerplay 配信中
-http://kathy.torontocast.com:3560/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/67f9dbef-cbaf-432f-86ac-ab6fc02653a0/image/?u=1713873237000",group-title="radio j-pop-rock",All Classical Piano Chamber Works and Concertos 配信中
+https://mpc1.mediacp.eu/stream/allchamberwithpiano
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/80983ae9-bb02-422a-bf3f-dee3ca0fd672/image/?u=1713873237000",group-title="radio j-pop-rock",J-Pop Powerplay Kawaii 配信中
 http://kathy.torontocast.com:3060/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/80daf77f-5636-4b29-a926-63cc860da89d/image/?u=1713905363000",group-title="radio j-pop-rock",Japan Hits - Asia DREAM Radio 配信中
 http://cast1.torontocast.com/JHits
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/67f9dbef-cbaf-432f-86ac-ab6fc02653a0/image/?u=1713873237000",group-title="radio j-pop-rock",All Classical Piano Chamber Works and Concertos 配信中
-https://mpc1.mediacp.eu/stream/allchamberwithpiano
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a122be96-59d3-4127-bc66-bfb02cc3abf7/image/?u=1713905363000",group-title="radio j-pop-rock",J-Pop Powerplay 配信中
+http://kathy.torontocast.com:3560/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/bf6f4469-74bc-4d5d-98fc-f4a9d26d431b/image/?u=1713873237000",group-title="radio j-pop-rock",AFN 360 Hot AC 配信中
 https://playerservices.streamtheworld.com/api/livestream-redirect/AFN_HOTP_SC
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ea38f639-27f4-41cc-9418-f96544c3aa8a/image/?u=1713873237000",group-title="radio j-pop-rock",Hiroaki FM 配信中
-http://cassini.shoutca.st:8000/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e6b20d6f-1660-4ba7-86c5-d1405ad9f6b4/image/?u=1713937709000",group-title="radio j-pop-rock",JPHiP Radio 配信中
 http://radio.jphip.com:8800/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ea38f639-27f4-41cc-9418-f96544c3aa8a/image/?u=1713873237000",group-title="radio j-pop-rock",Hiroaki FM 配信中
+http://cassini.shoutca.st:8000/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/3c916566-a845-43c1-9847-9bfae139bba4/image/?u=1769755357000",group-title="radio j-pop-rock",Mercigod Radio
 http://122.155.0.201:9000/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5944a69b-295b-4c59-8444-1be9206322d5/image/?u=1734427318000",group-title="radio j-pop-rock",Super Tokio
@@ -109,24 +109,24 @@ https://stream.radio.co/s71a30a170/listen
 https://kathy.torontocast.com:3350/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f2e6c549-642f-4427-ba03-952bdcf13e3c/image/?u=1733927134000",group-title="radio j-pop-rock",All Classical Piano Chamber Works and Concertos
 https://mpc1.mediacp.eu/stream/allchamberwithpiano/stream/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/147baf51-9c52-497a-b8b4-8b5d89cf13dc/image/?u=1769694841000",group-title="radio j-pop-rock",Nonstop Casiopea
-http://hyades.shoutca.st:8551/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/316ffd6c-14f6-4fdb-b2ca-fb26b8edd0fd/image/?u=1713873237000",group-title="radio j-pop-rock",AFN 360 Country 配信中
 https://playerservices.streamtheworld.com/api/livestream-redirect/AFN_CTYP_SC
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/41c91e3f-f317-425f-b3fa-61be2beb4161/image/?u=1733927134000",group-title="radio j-pop-rock",An Opera Celebration
-https://mpc1.mediacp.eu/stream/beethoveninsequence/stream/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4084c6d2-18d1-4d56-bbc2-59245f381567/image/?u=1734427318000",group-title="radio j-pop-rock",Nonstop Casiopea - Fusion Radio
 http://hyades.shoutca.st:8551
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/41c91e3f-f317-425f-b3fa-61be2beb4161/image/?u=1733927134000",group-title="radio j-pop-rock",An Opera Celebration
+https://mpc1.mediacp.eu/stream/beethoveninsequence/stream/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/147baf51-9c52-497a-b8b4-8b5d89cf13dc/image/?u=1769694841000",group-title="radio j-pop-rock",Nonstop Casiopea
+http://hyades.shoutca.st:8551/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5d257c96-8205-4f9c-9a5e-2b42d1b99d6a/image/?u=1713937709000",group-title="radio j-pop-rock",An Opera Celebration 配信中
 https://mpc1.mediacp.eu/stream/beethoveninsequence
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/73b503df-af1a-4fca-beb4-efc79278380c/image/?u=1733927134000",group-title="radio j-pop-rock",All US and UK No. 1 Hits
 https://mpc1.mediacp.eu:8040/stream/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/86af07f9-c527-46b0-999c-071ed0839194/image/?u=1713873237000",group-title="radio j-pop-rock",Gyusyabu - Retro AC GAME Radio 配信中
 http://gyusyabu.ddo.jp:8100/;stream.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/d8a3631b-c8f1-4ead-ad06-0c62a20f915d/image/?u=1713937709000",group-title="radio j-pop-rock",Japanimradio - Osaka 配信中
-https://streaming.live365.com/a22572
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/bd3239ba-1e5d-4515-8fed-1ac600dd02b7/image/?u=1713873237000",group-title="radio j-pop-rock",Nonstop Casiopea 配信中
 http://hyades.shoutca.st:8551/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/d8a3631b-c8f1-4ead-ad06-0c62a20f915d/image/?u=1713937709000",group-title="radio j-pop-rock",Japanimradio - Osaka 配信中
+https://streaming.live365.com/a22572
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/b0031219-9429-445e-b954-510bc4400f46/image/?u=1733927134000",group-title="radio j-pop-rock",All Classical New Releases
 https://mpc1.mediacp.eu/stream/allclassicalnewreleases/stream/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/fe0b1951-0a30-4609-9216-827bad382f4e/image/?u=1713873237000",group-title="radio j-pop-rock",AFN 360 Legacy 配信中
@@ -393,44 +393,44 @@ http://hdv3.nkansai.tv/nirai
 http://s6.webradio-hosting.com:8050/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/d4524fd8-0b9b-46a4-a426-09c09aa9e59f/image/?u=1713873237000",group-title="radio j-pop-rock",はつかいち / 広島県 hatsukaichi FM 配信中
 https://musicbird-hls.leanstream.co/musicbird/JCB083.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/02cf24a8-b1a6-4196-bf1c-d5553d2090bd/image/?u=1770056012000",group-title="radio j-pop-rock",asia DREAM radio - Japan Hits
-https://quincy.torontocast.com:2020/stream.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/090ec5aa-54d0-4410-8442-82c5236c57b8/image/?u=1770056012000",group-title="radio j-pop-rock",J1 HITS
 https://jenny.torontocast.com:2000/stream/J1HITS?_=538100
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/22664097-fada-462e-8dab-f39786780133/image/?u=1713905363000",group-title="radio j-pop-rock",エフエム宝塚83.5 (FM Takarazuka) 配信中
 https://musicbird.leanstream.co/JCB071-MP3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/21fece77-9763-4223-8f01-358adbddeac7/image/?u=1770045035000",group-title="radio j-pop-rock",Nonstop Casiopea
 https://nonstopcasiopea.radioca.st/
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/203ee96f-a1e1-44d3-a84d-bbd89af9c20c/image/?u=1701695574000",group-title="radio j-pop-rock",Tokyo Rose Radio
+http://bluford.torontocast.com:8006/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/02cf24a8-b1a6-4196-bf1c-d5553d2090bd/image/?u=1770056012000",group-title="radio j-pop-rock",asia DREAM radio - Japan Hits
+https://quincy.torontocast.com:2020/stream.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/34193b5d-bcd2-4e91-80af-a2720e83eae2/image/?u=1713937709000",group-title="radio j-pop-rock",むさしのFM 78.2 配信中
 https://musicbird-hls.leanstream.co/musicbird/JCB032.stream/playlist.m3u8?args=web_03
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/32d5e5ac-e196-4451-9193-bd41a7961556/image/?u=1770045035000",group-title="radio j-pop-rock",J1 Gold (HTTP)
 http://jenny.torontocast.com:8062/
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/3ab76538-663d-4377-87f1-d3a56dacb63c/image/?u=1713873237000",group-title="radio j-pop-rock",なとらじ FM 80.1 配信中
-https://mtist.as.smartstream.ne.jp/30092/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/6d2fda6e-fcf6-4c37-b02a-eb98bc4f7158/image/?u=1713937709000",group-title="radio j-pop-rock",えふえむ・エヌ・ワン (FM N1) 配信中
-https://hls.fmn1.jp/fmn1/live01.m3u8
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/6bec7a47-88df-4cfd-8292-a9ef56386617/image/?u=1734681158000",group-title="radio j-pop-rock",Radio Shiga
-https://sv10.hdradios.net:21920/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/67717aff-e1a7-4967-9dd0-426bfa1d67d7/image/?u=1713873237000",group-title="radio j-pop-rock",Radio-f Jcba 配信中
-https://musicbird-hls.leanstream.co/musicbird/JCB041.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/203ee96f-a1e1-44d3-a84d-bbd89af9c20c/image/?u=1701695574000",group-title="radio j-pop-rock",Tokyo Rose Radio
-http://bluford.torontocast.com:8006/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/34333224-6080-48b8-a63c-b647f531e037/image/?u=1713937709000",group-title="radio j-pop-rock",FM軽井沢 (FM KARUIZAWA) 配信中
 https://musicbird-hls.leanstream.co/musicbird/JCB108.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8262d020-4e27-4079-99b3-f4f96aa4d8ee/image/?u=1713873237000",group-title="radio j-pop-rock",三角山放送局 (Sankakuyama Radio) 配信中
-https://mtist.as.smartstream.ne.jp/30005/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a0520fe4-c34c-4c8b-ade5-8ae02e71cd03/image/?u=1701696573000",group-title="radio j-pop-rock",Voice of the Planet Ottava
-http://voiceoftheplanet.out.airtime.pro:8000/voiceoftheplanet_a
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8e7be4d2-dbe5-465a-8757-0d59cdc6c489/image/?u=1734681158000",group-title="radio j-pop-rock",AshiyaRadio〜アシヤ・ラヂヲ〜
-https://s3.radio.co/sc8d895604/listen
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/7edc5265-534f-4a45-9ae8-b34550578559/image/?u=1734681158000",group-title="radio j-pop-rock",J1 Radio Extra
-https://jenny.torontocast.com:2000/stream/J1XTRA
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/3ab76538-663d-4377-87f1-d3a56dacb63c/image/?u=1713873237000",group-title="radio j-pop-rock",なとらじ FM 80.1 配信中
+https://mtist.as.smartstream.ne.jp/30092/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/7b4091ef-304b-4806-bba2-f04a5caa4463/image/?u=1713937709000",group-title="radio j-pop-rock",エフエム会津 76.2 (FM Aizu) 配信中
 http://hdv3.nkansai.tv/aizu
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/6bec7a47-88df-4cfd-8292-a9ef56386617/image/?u=1734681158000",group-title="radio j-pop-rock",Radio Shiga
+https://sv10.hdradios.net:21920/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/6d2fda6e-fcf6-4c37-b02a-eb98bc4f7158/image/?u=1713937709000",group-title="radio j-pop-rock",えふえむ・エヌ・ワン (FM N1) 配信中
+https://hls.fmn1.jp/fmn1/live01.m3u8
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8e7be4d2-dbe5-465a-8757-0d59cdc6c489/image/?u=1734681158000",group-title="radio j-pop-rock",AshiyaRadio〜アシヤ・ラヂヲ〜
+https://s3.radio.co/sc8d895604/listen
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/67717aff-e1a7-4967-9dd0-426bfa1d67d7/image/?u=1713873237000",group-title="radio j-pop-rock",Radio-f Jcba 配信中
+https://musicbird-hls.leanstream.co/musicbird/JCB041.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/7edc5265-534f-4a45-9ae8-b34550578559/image/?u=1734681158000",group-title="radio j-pop-rock",J1 Radio Extra
+https://jenny.torontocast.com:2000/stream/J1XTRA
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8262d020-4e27-4079-99b3-f4f96aa4d8ee/image/?u=1713873237000",group-title="radio j-pop-rock",三角山放送局 (Sankakuyama Radio) 配信中
+https://mtist.as.smartstream.ne.jp/30005/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/987dffac-52d9-4ca7-98c9-e5ac1088e1df/image/?u=1770056012000",group-title="radio j-pop-rock",WVVV V96.9
 https://ice5.securenetsystems.net/WVVVFM
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a31b9132-2deb-45bb-a01f-58883ab03f56/image/?u=1713873237000",group-title="radio j-pop-rock",ぎのわんシティFM (Ginowan City FM) 配信中
 https://mtist.as.smartstream.ne.jp/30098/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a0520fe4-c34c-4c8b-ade5-8ae02e71cd03/image/?u=1701696573000",group-title="radio j-pop-rock",Voice of the Planet Ottava
+http://voiceoftheplanet.out.airtime.pro:8000/voiceoftheplanet_a
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/b891a9c7-3d0b-47b1-b848-3680e167a8de/image/?u=1734594414000",group-title="radio j-pop-rock",Gyusyabu - Retro PC Game Radio
 http://gyusyabu.ddo.jp:8000/;stream.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/b8a4641e-3ac5-4cbd-a40d-2db8fcd6bbc2/image/?u=1713937709000",group-title="radio j-pop-rock",Retro PC GAME Streaming Radio 配信中
@@ -439,10 +439,10 @@ http://gyusyabu.ddo.jp:8000/;
 https://stream.gensokyoradio.net/1
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/cecd1397-9eb3-4e5f-afee-3b00d6bcf433/image/?u=1713873237000",group-title="radio j-pop-rock",調布FM (Chofu FM) 配信中
 https://mtist.as.smartstream.ne.jp/30039/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e8dd33b1-f663-4c52-8731-727824b0a592/image/?u=1713905363000",group-title="radio j-pop-rock",Radio Loveat 配信中
-http://hdv3.nkansai.tv/toyota
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f6df06eb-5900-11ea-be63-52543be04c81/image/?u=1701696749000",group-title="radio j-pop-rock",NHK华语·韩语广播
 https://nhkworld.webcdn.stream.ne.jp/www11/radiojapan/all/263945/live_s.m3u8
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e8dd33b1-f663-4c52-8731-727824b0a592/image/?u=1713905363000",group-title="radio j-pop-rock",Radio Loveat 配信中
+http://hdv3.nkansai.tv/toyota
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/48aa20f0-c759-4a6c-9fe4-c292baba2f16/image/?u=1734681158000",group-title="radio j-pop-rock",RCV FM
 http://centova.svdns.com.br:25286/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/14e6f59a-79c4-4532-ad66-ed1e10cea2aa/image/?u=1713937709000",group-title="radio j-pop-rock",エフエムつやま FM 78.0 配信中
@@ -631,14 +631,14 @@ https://pu.klikhost.com/proxy/guntur/stream/;
 http://stream.heartline.co.id:8000/heartline_tangerang
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/02b21ac6-19a0-441f-ab17-af638d1e7e00/image/?u=1769694841000",group-title="radio music my id",Radio Opini Solo
 http://a12.siar.us:8120/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/17065686-fd36-44e0-9a08-6735c251db63/image/?u=1733927134000",group-title="radio music my id",Smooth 99.5 FM
-https://svara-stream.radioddns.net/jakarta_smoothfm_mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/883c3b86-af5a-49db-835f-90df20ca6c1d/image/?u=1733927134000",group-title="radio music my id",105.6 FM Rasika USA
 https://svara-stream.radioddns.net/rasikafm_stereo
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/44089bf2-41bf-44e9-9618-32429bd53ce4/image/?u=1769694841000",group-title="radio music my id",Unimma FM
-http://45.64.97.82:8048/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/17065686-fd36-44e0-9a08-6735c251db63/image/?u=1733927134000",group-title="radio music my id",Smooth 99.5 FM
+https://svara-stream.radioddns.net/jakarta_smoothfm_mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/39de358a-2e21-46f8-9fb0-1b727ee9289f/image/?u=1713873237000",group-title="radio music my id",Jedag_Jedug Online langsung
 https://stream-68.zeno.fm/rudtpbce6ehvv
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/44089bf2-41bf-44e9-9618-32429bd53ce4/image/?u=1769694841000",group-title="radio music my id",Unimma FM
+http://45.64.97.82:8048/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/946e5009-02e7-45b2-93b9-51522a5aab9d/image/?u=1769694841000",group-title="radio music my id",UTY FM Medari
 http://secure.streaming.id:8000/utyfmedari
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a7f05a1e-f579-4270-968d-d85aba31e327/image/?u=1733992248000",group-title="radio music my id",VOKS Radio Bali 102FM
@@ -647,20 +647,20 @@ https://svara-stream.radioddns.net/bali_voksradio_102fm
 https://stream.radiojar.com/9k28wsbu5k8uv
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/027337ad-a0ba-4552-a376-31417269cf10/image/?u=1769694841000",group-title="radio music my id",Mooxa Radio
 http://a6.siar.us:8010/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/71fb493c-8ee5-4963-8b4f-d3c419b8e5fc/image/?u=1713937709000",group-title="radio music my id",Ninetysix Radio langsung
-https://c4.siar.us:8950/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/734be9b1-c0b8-4c44-a7a6-8606e45aff8c/image/?u=1733927134000",group-title="radio music my id",Delta FM Yogyakarta
-https://s1.cloudmu.id/listen/delta_fm/radio.mp3/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/6ef79460-3912-4f20-8191-d0ce42c8f388/image/?u=1713905363000",group-title="radio music my id",95.1 KIS FM langsung
 https://wz.mari.co.id:1936/web_kisfm/kisfm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a7d5db89-9717-4306-9b38-3100ee21f205/image/?u=1713905363000",group-title="radio music my id",Play99ers 100.0 FM langsung
-https://a2.siar.us/listen/play99ers/radio.mp3?refresh=1674232302500
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/734be9b1-c0b8-4c44-a7a6-8606e45aff8c/image/?u=1733927134000",group-title="radio music my id",Delta FM Yogyakarta
+https://s1.cloudmu.id/listen/delta_fm/radio.mp3/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/71fb493c-8ee5-4963-8b4f-d3c419b8e5fc/image/?u=1713937709000",group-title="radio music my id",Ninetysix Radio langsung
+https://c4.siar.us:8950/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a0e75c68-a26c-41ef-8c0e-07443869b26d/image/?u=1769755357000",group-title="radio music my id",Radio Muha Sukoharjo
 http://b3.stri.my.id:4320/radio
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/d46395c3-6b58-412f-8ed7-a3ef4dd78a28/image/?u=1769688878000",group-title="radio music my id",Bens Radio
-http://streaming.bensradio.com:8522/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a7d5db89-9717-4306-9b38-3100ee21f205/image/?u=1713905363000",group-title="radio music my id",Play99ers 100.0 FM langsung
+https://a2.siar.us/listen/play99ers/radio.mp3?refresh=1674232302500
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c6c4242f-346f-44a4-aadb-1ffe3ff266b1/image/?u=1713873237000",group-title="radio music my id",Woman Radio 94.3 FM langsung
 http://live.indostreamserver.com:8014/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/d46395c3-6b58-412f-8ed7-a3ef4dd78a28/image/?u=1769688878000",group-title="radio music my id",Bens Radio
+http://streaming.bensradio.com:8522/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/15bb9dd1-7249-4142-baab-c45327822736/image/?u=1733927134000",group-title="radio music my id",Trax FM Jakarta
 https://stream.radiojar.com/rrqf78p3bnzuv
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/10d8e030-6288-424f-a148-8d8f33d2492a/image/?u=1713937709000",group-title="radio music my id",Musmob Radio langsung
@@ -885,114 +885,108 @@ https://void.idserverhost.com/8054/stream
 https://stream.radiojar.com/qv4muvhswk8uv
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ecaa334d-9d2f-4502-af04-7284c91f1e44/image/?u=1769755357000",group-title="radio music my id",Karavan FM
 http://i.klikhost.com:8190/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/36d85358-b289-49bc-b686-062364824fd7/image/?u=1713873237000",group-title="radio music my id",Radio Bali - Menara FM 102.8 langsung
-https://c1.siar.us:10280/menarafmbali
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/370a5dff-15b7-40c2-86c6-a5ab54ce3be4/image/?u=1769694841000",group-title="radio music my id",EBS 105.9 FM
-http://streaming.suzanafm.com:8100/radio
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/35cc5a65-d16c-4313-8b55-c912c942ed23/image/?u=1733927134000",group-title="radio music my id",89.5 JIZ FM
-https://pu.klikhost.com/proxy/jizfm/stream/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5c61ca7e-2013-4b06-bb9b-f3708b19aa25/image/?u=1713873237000",group-title="radio music my id",Hard Rock FM 89.7 - Surabaya langsung
 http://n02.radiojar.com/yg8ne2v80k8uv?rj-tok=AAABhcXFFPQAoJIg1YPZKW1jxQ&rj-ttl=5
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/3a50b5b6-1415-493d-8f31-3020e3bee5ea/image/?u=1713873237000",group-title="radio music my id",Rasika FM Semarang langsung
-https://svara-stream.radioddns.net:8443/rasikasemarang_stereo
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/6d4b19c5-556f-4620-86ac-089baaae536e/image/?u=1769694841000",group-title="radio music my id",Tua Tua Keledai Radio
+https://tuatuakeledai.medisy.id/listen/tuatuakeledai/radio.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4599b928-8ec1-487b-afbf-9717be0064bc/image/?u=1713937709000",group-title="radio music my id",Cassta Media langsung
 https://a5.siar.us/listen/casstamedia/stream?refresh=1711388073271
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/47134933-1305-465e-a684-e4d35555202d/image/?u=1769694841000",group-title="radio music my id",Beat Radio Indonesia
 http://stream.beatradioid.com:8000/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/26aae940-09cb-4571-a027-c7b1e6b0e5f1/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Batam
-http://stream-node0.rri.co.id:9125/rribatampro2.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/2eb60772-0446-43a3-b0b8-0e2228d49a03/image/?u=1769755357000",group-title="radio music my id",Radio Pandawa FM
-http://void.idserverhost.com:8042/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/2ee4b748-f6cc-47af-adce-79f3c86e1e5b/image/?u=1713873237000",group-title="radio music my id",Mettaswara Soft Rock langsung
-https://mettaswara.com:8700/slowrock
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/55d1dadb-31cb-469d-b0c7-a7e6859a85a4/image/?u=1713873237000",group-title="radio music my id",Angling Darma FM - Tulungagung langsung
 http://s4.vinhostmedia.com:8000/adfm
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/2cf211fe-c80f-4117-b830-9ad4195d0e90/image/?u=1733927134000",group-title="radio music my id",94.8 DJFM Surabaya
-https://svara-stream.radioddns.net/surabaya_djfm_
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/2b40104f-d535-49ad-9ce3-7340a599b93c/image/?u=1713873237000",group-title="radio music my id",NBS FM langsung
-https://svara-stream.radioddns.net:8443/sukabumi_nbsfm
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/282ec3cf-964b-4e64-ad5e-675e5b99a2b5/image/?u=1713905363000",group-title="radio music my id",Sky Radio Indonesia langsung
-http://45.64.97.82:8273/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/29697473-de26-41a2-ae8b-8f8705b67d8d/image/?u=1713873237000",group-title="radio music my id",She Radio 99.6 FM langsung
-https://stream.radiosaku.com/radio/sheradio.ogg
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/36d85358-b289-49bc-b686-062364824fd7/image/?u=1713873237000",group-title="radio music my id",Radio Bali - Menara FM 102.8 langsung
+https://c1.siar.us:10280/menarafmbali
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/370a5dff-15b7-40c2-86c6-a5ab54ce3be4/image/?u=1769694841000",group-title="radio music my id",EBS 105.9 FM
+http://streaming.suzanafm.com:8100/radio
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/3a50b5b6-1415-493d-8f31-3020e3bee5ea/image/?u=1713873237000",group-title="radio music my id",Rasika FM Semarang langsung
+https://svara-stream.radioddns.net:8443/rasikasemarang_stereo
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/35cc5a65-d16c-4313-8b55-c912c942ed23/image/?u=1733927134000",group-title="radio music my id",89.5 JIZ FM
+https://pu.klikhost.com/proxy/jizfm/stream/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/3b943183-15bb-46a5-8aff-1baeab6f8547/image/?u=1713873237000",group-title="radio music my id",Gajahmada 102.4 FM langsung
 https://server.radioimeldafm.co.id/radio/8040/gajahmadafm
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/3bd92e2b-1058-45c1-9c87-250e6c6ef81f/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Lampung
 http://stream-node1.rri.co.id:9112/web-rrilampungpro2.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4f627cb1-4636-453b-a878-28f4a27ce31f/image/?u=1713873237000",group-title="radio music my id",Radio Swaragama 101.7 FM langsung
-http://jkt.jogjastreamers.com:8000/swaragama456789stereo
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4f90b05b-f07c-4737-ba62-e4e74fc6c550/image/?u=1769688878000",group-title="radio music my id",Wijaya FM
-http://wijayafm.onlivestreaming.net:9880/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/62dc5373-c6ee-4819-9880-acec24f2955d/image/?u=1713905363000",group-title="radio music my id",Glow Radio Id langsung
 http://stream-47.zeno.fm/0qn5ukqes18uv?zs=EZfW-lrrRNis71ovnjPLEA
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/63d2bbba-4d49-48fe-801e-ee92b674a02d/image/?u=1736338651000",group-title="radio music my id",DRFM Radio
 https://drnetworks.id:8443/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/2280aa07-77ab-47be-bb0c-bc51e439be9c/image/?u=1713873237000",group-title="radio music my id",96.8 Radio Gemilang FM langsung
-http://103.115.104.62:8000/studio?typeportmount=s1_6649_stream_614344791
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/0b94ff68-df9b-4179-b057-b2bc798f2e2c/image/?u=1713873237000",group-title="radio music my id",Suara Pasuruan langsung
-http://103.120.218.22:8088/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1e3eb946-7cc7-4d65-aa3d-bd8069e4d77e/image/?u=1713937709000",group-title="radio music my id",EL John FM Pangkalpinang langsung
-http://108.59.7.153:25306/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1045623b-03e6-4a13-96d5-b184962b5d40/image/?u=1713873237000",group-title="radio music my id",Hard Rock FM 87.8 - Bali langsung
-http://n07.radiojar.com/9k28wsbu5k8uv?rj-tok=AAABhcWeOYMAcemygxQU24IxGQ&rj-ttl=5
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1a83a0b0-b97c-457b-a8e5-5416d0d961f2/image/?u=1713905363000",group-title="radio music my id",Suara Sidoarjo langsung
-http://audio.suarasidoarjo.id:8002/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/0a0a3252-b98e-40dc-a675-102338b2dd9b/image/?u=1769755357000",group-title="radio music my id",Arif Channel
-http://ig.idstreamer.com/listen/arif_channel/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/61d172f4-7b5c-4f9a-aa90-3a451ead4147/image/?u=1713905363000",group-title="radio music my id",Star FM Bangka langsung
+http://109.169.76.104:3183/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4f627cb1-4636-453b-a878-28f4a27ce31f/image/?u=1713873237000",group-title="radio music my id",Radio Swaragama 101.7 FM langsung
+http://jkt.jogjastreamers.com:8000/swaragama456789stereo
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4f90b05b-f07c-4737-ba62-e4e74fc6c550/image/?u=1769688878000",group-title="radio music my id",Wijaya FM
+http://wijayafm.onlivestreaming.net:9880/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/047fee41-a542-48eb-85af-bacb67b26a5c/image/?u=1713905363000",group-title="radio music my id",Motion Radio 97.5 FM langsung
 https://cast1.my-control-panel.com/proxy/radioso2/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a0dcbf6b-9ecf-418d-a296-d00e8ddee872/image/?u=1713873237000",group-title="radio music my id",MGT FM 101.1 langsung
-http://s1.gntr.net/listen/mgtradio/mgtradio
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a139c7e1-3509-4603-bdaa-12bb9679afb3/image/?u=1713937709000",group-title="radio music my id",Kiwari Radio langsung
-http://streaming.hostgila.com:7776/
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/0a0a3252-b98e-40dc-a675-102338b2dd9b/image/?u=1769755357000",group-title="radio music my id",Arif Channel
+http://ig.idstreamer.com/listen/arif_channel/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/2eb60772-0446-43a3-b0b8-0e2228d49a03/image/?u=1769755357000",group-title="radio music my id",Radio Pandawa FM
+http://void.idserverhost.com:8042/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/2ee4b748-f6cc-47af-adce-79f3c86e1e5b/image/?u=1713873237000",group-title="radio music my id",Mettaswara Soft Rock langsung
+https://mettaswara.com:8700/slowrock
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/2cf211fe-c80f-4117-b830-9ad4195d0e90/image/?u=1733927134000",group-title="radio music my id",94.8 DJFM Surabaya
+https://svara-stream.radioddns.net/surabaya_djfm_
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/7c42a9db-6841-462b-b332-b5c1afc5d74a/image/?u=1713873237000",group-title="radio music my id",Wijaya 103.5 FM langsung
+http://wijayafm.onlivestreaming.net:9880/103,50%20Wijayaaaaaaa
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8e90164e-a80d-4313-939f-dc1a08c25481/image/?u=1769755357000",group-title="radio music my id",Radio RONA MKB
+http://void.idserverhost.com:8036/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/9d038aa7-a7d1-4703-8ecf-9747847177e6/image/?u=1769755357000",group-title="radio music my id",RRI - Pro2 Sungai Liat
+http://stream-node2.rri.co.id:9314/web-rrisngliatpro2.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/9a2f62fd-7227-447d-bc27-b9b34893b7e0/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Wamena
+http://stream-node1.rri.co.id:9224/rriwamenapro2.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8a6d4b33-211e-47be-9daa-a633012c4058/image/?u=1733927134000",group-title="radio music my id",Female Radio Jakarta
+https://s1.cloudmu.id/listen/female_radio/radio.mp3/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/764a5db7-9e97-47d6-a9af-227f32a5a875/image/?u=1713905363000",group-title="radio music my id",N Radio langsung
+https://s3.alhastream.com:3200/radio
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/770291d6-1f94-463d-912e-86e6a5f63aa8/image/?u=1713873237000",group-title="radio music my id",EBS 105.9 FM langsung
+http://streaming.suzanafm.com:8100/;stream.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/947617ce-8cfa-44f6-9a82-a85dddbb8670/image/?u=1713905363000",group-title="radio music my id",Suara Gandewa langsung
+http://45.64.97.82:8460/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8408cdc6-328c-4e8f-9bfe-0506d7299bb3/image/?u=1733927134000",group-title="radio music my id",K2 - 911 FM
+https://a3.alhastream.com:1230/kijangkencana
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/93a5cab9-9e05-4967-a03f-76efc29b23c8/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Sorong
+http://stream-node1.rri.co.id:9217/rrisorongpro2.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/0b94ff68-df9b-4179-b057-b2bc798f2e2c/image/?u=1713873237000",group-title="radio music my id",Suara Pasuruan langsung
+http://103.120.218.22:8088/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1a83a0b0-b97c-457b-a8e5-5416d0d961f2/image/?u=1713905363000",group-title="radio music my id",Suara Sidoarjo langsung
+http://audio.suarasidoarjo.id:8002/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/26aae940-09cb-4571-a027-c7b1e6b0e5f1/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Batam
+http://stream-node0.rri.co.id:9125/rribatampro2.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1e3eb946-7cc7-4d65-aa3d-bd8069e4d77e/image/?u=1713937709000",group-title="radio music my id",EL John FM Pangkalpinang langsung
+http://108.59.7.153:25306/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/282ec3cf-964b-4e64-ad5e-675e5b99a2b5/image/?u=1713905363000",group-title="radio music my id",Sky Radio Indonesia langsung
+http://45.64.97.82:8273/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/29697473-de26-41a2-ae8b-8f8705b67d8d/image/?u=1713873237000",group-title="radio music my id",She Radio 99.6 FM langsung
+https://stream.radiosaku.com/radio/sheradio.ogg
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1045623b-03e6-4a13-96d5-b184962b5d40/image/?u=1713873237000",group-title="radio music my id",Hard Rock FM 87.8 - Bali langsung
+http://n07.radiojar.com/9k28wsbu5k8uv?rj-tok=AAABhcWeOYMAcemygxQU24IxGQ&rj-ttl=5
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/2280aa07-77ab-47be-bb0c-bc51e439be9c/image/?u=1713873237000",group-title="radio music my id",96.8 Radio Gemilang FM langsung
+http://103.115.104.62:8000/studio?typeportmount=s1_6649_stream_614344791
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/2b40104f-d535-49ad-9ce3-7340a599b93c/image/?u=1713873237000",group-title="radio music my id",NBS FM langsung
+https://svara-stream.radioddns.net:8443/sukabumi_nbsfm
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/aa1c511a-3201-4337-94f2-8d99ba29b1e6/image/?u=1733927134000",group-title="radio music my id",Buka Radio
 https://buka.sh/radio/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/aa3d199b-5122-402d-a218-0565390bfda5/image/?u=1769755357000",group-title="radio music my id",KPFM Samarinda
 http://u18.klikhost.com:7830/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/aa70eb59-1908-4683-9f7b-ee8e5057ea9b/image/?u=1769694841000",group-title="radio music my id",Peace Radio 102.4 FM
 http://svara-stream.radioddns.net:8900/ciamis_pissfm_stereo
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/9d038aa7-a7d1-4703-8ecf-9747847177e6/image/?u=1769755357000",group-title="radio music my id",RRI - Pro2 Sungai Liat
-http://stream-node2.rri.co.id:9314/web-rrisngliatpro2.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/93a5cab9-9e05-4967-a03f-76efc29b23c8/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Sorong
-http://stream-node1.rri.co.id:9217/rrisorongpro2.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/947617ce-8cfa-44f6-9a82-a85dddbb8670/image/?u=1713905363000",group-title="radio music my id",Suara Gandewa langsung
-http://45.64.97.82:8460/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/9a2f62fd-7227-447d-bc27-b9b34893b7e0/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Wamena
-http://stream-node1.rri.co.id:9224/rriwamenapro2.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/7c42a9db-6841-462b-b332-b5c1afc5d74a/image/?u=1713873237000",group-title="radio music my id",Wijaya 103.5 FM langsung
-http://wijayafm.onlivestreaming.net:9880/103,50%20Wijayaaaaaaa
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8e90164e-a80d-4313-939f-dc1a08c25481/image/?u=1769755357000",group-title="radio music my id",Radio RONA MKB
-http://void.idserverhost.com:8036/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/6d4b19c5-556f-4620-86ac-089baaae536e/image/?u=1769694841000",group-title="radio music my id",Tua Tua Keledai Radio
-https://tuatuakeledai.medisy.id/listen/tuatuakeledai/radio.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8a6d4b33-211e-47be-9daa-a633012c4058/image/?u=1733927134000",group-title="radio music my id",Female Radio Jakarta
-https://s1.cloudmu.id/listen/female_radio/radio.mp3/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/61d172f4-7b5c-4f9a-aa90-3a451ead4147/image/?u=1713905363000",group-title="radio music my id",Star FM Bangka langsung
-http://109.169.76.104:3183/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/764a5db7-9e97-47d6-a9af-227f32a5a875/image/?u=1713905363000",group-title="radio music my id",N Radio langsung
-https://s3.alhastream.com:3200/radio
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/770291d6-1f94-463d-912e-86e6a5f63aa8/image/?u=1713873237000",group-title="radio music my id",EBS 105.9 FM langsung
-http://streaming.suzanafm.com:8100/;stream.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8408cdc6-328c-4e8f-9bfe-0506d7299bb3/image/?u=1733927134000",group-title="radio music my id",K2 - 911 FM
-https://a3.alhastream.com:1230/kijangkencana
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a0dcbf6b-9ecf-418d-a296-d00e8ddee872/image/?u=1713873237000",group-title="radio music my id",MGT FM 101.1 langsung
+http://s1.gntr.net/listen/mgtradio/mgtradio
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a139c7e1-3509-4603-bdaa-12bb9679afb3/image/?u=1713937709000",group-title="radio music my id",Kiwari Radio langsung
+http://streaming.hostgila.com:7776/
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c27957cb-b02b-49d1-887c-03bcfa327a0b/image/?u=1713873237000",group-title="radio music my id",Prambors FM 105.1 Makassar langsung
+https://rust.mrngroup.co/listen/prambors_makasar/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/b15d2573-0b5b-4d1a-9898-6880710f4343/image/?u=1713905363000",group-title="radio music my id",Radio Del FM langsung
 http://i.klikhost.com:8130/
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/b7c52652-b552-4762-95cc-c43e378a7700/image/?u=1733927134000",group-title="radio music my id",Radio Dahlia
 https://svara-stream.radioddns.net/bandung_dahliafm
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/b48fa524-7dc3-4293-b2f3-811942efbc51/image/?u=1713873237000",group-title="radio music my id",Kampar Radio Online langsung
 https://a.alhastream.com:1050/radio
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c27957cb-b02b-49d1-887c-03bcfa327a0b/image/?u=1713873237000",group-title="radio music my id",Prambors FM 105.1 Makassar langsung
-https://rust.mrngroup.co/listen/prambors_makasar/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e14842f1-befe-4629-bec4-e6dd946da6fa/image/?u=1733992248000",group-title="radio music my id",88.9 FM Rasika Pekalongan
-https://svara-stream.radioddns.net/rasikapekalongan_mono
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f5944c6d-007a-425e-b1a9-82dbc041ce5b/image/?u=1769755357000",group-title="radio music my id",Kiss FM Jember
-http://i.klikhost.com:8894/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/cd48844a-9898-44f8-b01d-58c580415f35/image/?u=1769755357000",group-title="radio music my id",Tirta Radio
-http://i.klikhost.com:8660/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c816053b-5e03-4140-a568-c0d0b374f2a2/image/?u=1769694841000",group-title="radio music my id",City Guide 91.1 FM
 https://cityguide911fm.com/radio/audio.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/daac9b9d-024a-4db0-bc8e-103bd36949b2/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Padang
-http://stream-node0.rri.co.id:9111/rripadangpro2.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/cd48844a-9898-44f8-b01d-58c580415f35/image/?u=1769755357000",group-title="radio music my id",Tirta Radio
+http://i.klikhost.com:8660/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/d8fc834a-ee05-47ab-ad39-7596cf3b031f/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Semarang
 http://stream-node0.rri.co.id:9016/web-rrisemarangpro2.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ef8d79b2-6167-416f-98d6-00763296252a/image/?u=1713905363000",group-title="radio music my id",Radio Guyub Rukun FM langsung
@@ -1001,260 +995,266 @@ https://i.klikhost.com/8708/live
 https://stream.radiojar.com/hnf2cbv80k8uv
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/dbf08590-0fac-4f81-bccf-8595fdf4e965/image/?u=1713873237000",group-title="radio music my id",Bahana FM langsung
 https://stream.cloudmu.id/listen/bahana_fm/radio.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/dea438c3-02a5-4ed7-bcba-6abf11414720/image/?u=1713905363000",group-title="radio music my id",IMI Radio langsung
-https://a4.asurahosting.com:7070/radio.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/dea8a21f-fdf8-4d11-9aa0-221ef9a58959/image/?u=1769755357000",group-title="radio music my id",O-Nine 93 FM
-http://ics.streamingmurah.com:8086/live
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/daac9b9d-024a-4db0-bc8e-103bd36949b2/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Padang
+http://stream-node0.rri.co.id:9111/rripadangpro2.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f5944c6d-007a-425e-b1a9-82dbc041ce5b/image/?u=1769755357000",group-title="radio music my id",Kiss FM Jember
+http://i.klikhost.com:8894/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f500bba7-3bdc-42cb-85e4-3c586d879524/image/?u=1713944809000",group-title="radio music my id",Radio Seribatu - Komodo langsung
 https://komodo.out.airtime.pro:8000/komodo_a
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f3e81a4a-dd79-4e9f-9849-189ffa123219/image/?u=1713905363000",group-title="radio music my id",Radio Cosmo Bandung langsung
-http://scg.streamingmurah.com:8074/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f558df83-b03a-4857-9295-8e9dc292ed91/image/?u=1713905363000",group-title="radio music my id",Master FM Ternate langsung
 http://live.indostreamserver.com:8242/stream?nocache=1347&type=http
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f3e81a4a-dd79-4e9f-9849-189ffa123219/image/?u=1713905363000",group-title="radio music my id",Radio Cosmo Bandung langsung
+http://scg.streamingmurah.com:8074/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e14842f1-befe-4629-bec4-e6dd946da6fa/image/?u=1733992248000",group-title="radio music my id",88.9 FM Rasika Pekalongan
+https://svara-stream.radioddns.net/rasikapekalongan_mono
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e64b6b9c-5f65-4986-98c5-58e9cf769728/image/?u=1713873237000",group-title="radio music my id",Hot 93.2 FM langsung
 https://wz.mari.co.id:1936/web_hotfm/hotfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ffaacc63-37c9-42cb-b6e2-bec6242b4b5f/image/?u=1733992248000",group-title="radio music my id",Shelter 95.3 FM
 https://svara-stream.radioddns.net/cirebon_sheltercirebon_stereo
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/dea438c3-02a5-4ed7-bcba-6abf11414720/image/?u=1713905363000",group-title="radio music my id",IMI Radio langsung
+https://a4.asurahosting.com:7070/radio.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/dea8a21f-fdf8-4d11-9aa0-221ef9a58959/image/?u=1769755357000",group-title="radio music my id",O-Nine 93 FM
+http://ics.streamingmurah.com:8086/live
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/05e8d84e-f304-47e9-ac73-725aa5db19fd/image/?u=1713905363000",group-title="radio music my id",Solata langsung
 https://a.alhastream.com:1030/radio
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/0170c5be-56f0-48f0-9509-453197d087e9/image/?u=1733992248000",group-title="radio music my id",Pesona Moderato FM
-https://svara-stream.radioddns.net/madiun_moderato_
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/01a8e7b2-2de1-4c8b-8932-2c7f689e86c5/image/?u=1733927134000",group-title="radio music my id",PTPN Radio Solo
-https://ssg.streamingmurah.com:8040/stream/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/0f8917c9-acd8-4f20-aa87-57d4feaf6267/image/?u=1713873237000",group-title="radio music my id",SS FM 105.2 langsung
-http://radiossfm.com:9000/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/329d7567-50fb-4106-abc3-7bd9c294cd0a/image/?u=1713905363000",group-title="radio music my id",Radio Suara Jember langsung
-https://s3.alhastream.com:8360/radio
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1ab75c6b-4d0f-4a4c-b5ab-2996094de5ac/image/?u=1713937709000",group-title="radio music my id",Radio Persada Pemalang langsung
 https://a2.siar.us/listen/persada936_fm/radio.mp3?refresh=1674234440832
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1a46afcc-0439-4b10-9e76-599822a336d2/image/?u=1733992248000",group-title="radio music my id",Suara Mahakam
 https://i.klikhost.com:8010/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/0f8917c9-acd8-4f20-aa87-57d4feaf6267/image/?u=1713873237000",group-title="radio music my id",SS FM 105.2 langsung
+http://radiossfm.com:9000/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1ecc6705-1e38-49cf-bfd7-7512b1f1a6ed/image/?u=1713873237000",group-title="radio music my id",Radio Teman Sejati langsung
+http://sci.streamingmurah.com:8094/stream/1/
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1edba694-b3e4-48e7-905b-74b5b6eca50c/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Yogyakarta
+http://stream-node0.rri.co.id:9017/web-rrijogjapro2.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/29f79420-774f-4add-bb8a-ebe19c9c50db/image/?u=1794227376000",group-title="radio music my id",hikarisungchan
 https://stream.zeno.fm/5s1an54hsi6uv
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/2817597c-a2ca-4c63-96ce-93491edd1787/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Palu
-http://stream-node1.rri.co.id:9114/web-rripalupro2.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/329d7567-50fb-4106-abc3-7bd9c294cd0a/image/?u=1713905363000",group-title="radio music my id",Radio Suara Jember langsung
+https://s3.alhastream.com:8360/radio
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/60cfd571-b925-43c3-862c-898d7f670251/image/?u=1733992248000",group-title="radio music my id",Hard Rock FM Bandung
+http://stream.radiojar.com/fnex9bkswk8uv
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/35373bd5-8b6c-4f0f-b418-6c26a6878d57/image/?u=1733927134000",group-title="radio music my id",Radio Muara Jakarta
+https://ssg.streamingmurah.com:8778/stream/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/356fc1db-95d4-4454-a635-8e146472d0b5/image/?u=1769694841000",group-title="radio music my id",Style Radio 94.6 FM
+http://stream.stylefmtasik.com:9460/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/495395d9-aa85-4b05-a0fa-13e07213f502/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Palembang
+http://stream-node0.rri.co.id:9013/web-rripalembangpro2.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/2cd50163-0d45-4370-b010-c491e73f040f/image/?u=1713873237000",group-title="radio music my id",Radio Citra 102.6 FM Lubuklinggau langsung
 https://rise.citrafm.com/live
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/39906cad-083f-415b-b44b-62ff6d6dc4bc/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Serui
+http://stream-node1.rri.co.id:9222/rriseruipro2.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4f7568e9-ef79-4792-876a-488faed473a6/image/?u=1769694841000",group-title="radio music my id",Aditya FM Pekanbaru
+http://i.klikhost.com:8302/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4493fafa-b813-41c1-a050-601632452228/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Bukittinggi
 http://stream-node1.rri.co.id:9216/rribkttinggipro2.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/438cef35-ba47-404b-8e10-3d0a6c273052/image/?u=1733992248000",group-title="radio music my id",RJM FM
 http://live.rjmfm.com:8078/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/6bd4b89b-fca8-43b8-864a-a72b97ceb26d/image/?u=1713905363000",group-title="radio music my id",D'OZ Radio Bali langsung
-https://streaming.ozradiojakarta.com:8443/ozradiobali
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/52a31800-68b0-4397-b994-8789ea7964b5/image/?u=1713905363000",group-title="radio music my id",IndieFM Radio Semarang langsung
-https://sv7.alhastream.com/listen/station_13/indieFMradio
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4f7568e9-ef79-4792-876a-488faed473a6/image/?u=1769694841000",group-title="radio music my id",Aditya FM Pekanbaru
-http://i.klikhost.com:8302/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/60cfd571-b925-43c3-862c-898d7f670251/image/?u=1733992248000",group-title="radio music my id",Hard Rock FM Bandung
-http://stream.radiojar.com/fnex9bkswk8uv
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/39906cad-083f-415b-b44b-62ff6d6dc4bc/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Serui
-http://stream-node1.rri.co.id:9222/rriseruipro2.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/495395d9-aa85-4b05-a0fa-13e07213f502/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Palembang
-http://stream-node0.rri.co.id:9013/web-rripalembangpro2.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/64091553-dfdf-44a2-8d72-f2a31daa08de/image/?u=1769694841000",group-title="radio music my id",Bharata Radio 738
-http://sgp1.onlivestreaming.net:8800/live
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/572b16de-3ae8-4c36-90c2-8a0cc2303b20/image/?u=1713873237000",group-title="radio music my id",Radio Airmen 107.9 FM langsung
 https://void.idserverhost.com:8024/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/56e81153-469b-4864-a6ee-93a490a0c391/image/?u=1713905363000",group-title="radio music my id",VOKS Radio Bali 102 FM langsung
 http://svara-stream.radioddns.net:8000/Bali_voksradio_102fm
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/56ed2331-ccf9-48e1-989b-ce7777091879/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Merauke
 http://stream-node1.rri.co.id:9136/web-rrimeraukepro2.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/66b857dd-a2c8-4cc2-ad72-8e753db5ed3c/image/?u=1733927134000",group-title="radio music my id",Fress FM Radionet
-https://free.rcast.net/65347/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1ecc6705-1e38-49cf-bfd7-7512b1f1a6ed/image/?u=1713873237000",group-title="radio music my id",Radio Teman Sejati langsung
-http://sci.streamingmurah.com:8094/stream/1/
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1edba694-b3e4-48e7-905b-74b5b6eca50c/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Yogyakarta
-http://stream-node0.rri.co.id:9017/web-rrijogjapro2.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/2817597c-a2ca-4c63-96ce-93491edd1787/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Palu
+http://stream-node1.rri.co.id:9114/web-rripalupro2.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/30844628-a259-48e7-8bdc-10ac40d3ec44/image/?u=1769755357000",group-title="radio music my id",RRI - Pro2 Fak Fak
 http://stream-node2.rri.co.id:9321/rrifakfakpro2.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/35373bd5-8b6c-4f0f-b418-6c26a6878d57/image/?u=1733927134000",group-title="radio music my id",Radio Muara Jakarta
-https://ssg.streamingmurah.com:8778/stream/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/356fc1db-95d4-4454-a635-8e146472d0b5/image/?u=1769694841000",group-title="radio music my id",Style Radio 94.6 FM
-http://stream.stylefmtasik.com:9460/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/80e41e37-dec7-43ec-842a-ea56b2e91e7f/image/?u=1713873237000",group-title="radio music my id",Radio Kosmonita langsung
-http://202.58.200.26:1055/live
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/9c37abdd-45e2-487f-979e-986d71140b43/image/?u=1769755357000",group-title="radio music my id",RRI - Pro2 Sibolga
-http://stream-node0.rri.co.id:9121/rrisibolgapro2.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/52a31800-68b0-4397-b994-8789ea7964b5/image/?u=1713905363000",group-title="radio music my id",IndieFM Radio Semarang langsung
+https://sv7.alhastream.com/listen/station_13/indieFMradio
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/64091553-dfdf-44a2-8d72-f2a31daa08de/image/?u=1769694841000",group-title="radio music my id",Bharata Radio 738
+http://sgp1.onlivestreaming.net:8800/live
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/0170c5be-56f0-48f0-9509-453197d087e9/image/?u=1733992248000",group-title="radio music my id",Pesona Moderato FM
+https://svara-stream.radioddns.net/madiun_moderato_
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/01a8e7b2-2de1-4c8b-8932-2c7f689e86c5/image/?u=1733927134000",group-title="radio music my id",PTPN Radio Solo
+https://ssg.streamingmurah.com:8040/stream/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8ef893ac-5011-44b6-bb3d-2bf8b0916d6e/image/?u=1713873237000",group-title="radio music my id",B90 RADIO ONLINE PALEMBANG langsung
+http://onair.b90radio.com:8069/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/6bd4b89b-fca8-43b8-864a-a72b97ceb26d/image/?u=1713905363000",group-title="radio music my id",D'OZ Radio Bali langsung
+https://streaming.ozradiojakarta.com:8443/ozradiobali
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8c8aaa69-15a9-4107-be79-6bfa9c083751/image/?u=1713937709000",group-title="radio music my id",KISI 93.4 FM langsung
 http://live.serverstreaming.net:9340/kisifm
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8bc2a559-5921-45a4-a112-27945cf7c93c/image/?u=1713937709000",group-title="radio music my id",LODIKO MuLo langsung
 https://stream-30.zeno.fm/v5efxxecx5quv
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8bc922ea-7598-4d3b-977c-a9d63a0fde6f/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Purwokerto
 http://stream-node0.rri.co.id:9119/web-rripurwokertopro2.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/80e41e37-dec7-43ec-842a-ea56b2e91e7f/image/?u=1713873237000",group-title="radio music my id",Radio Kosmonita langsung
+http://202.58.200.26:1055/live
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8a760a31-3833-413e-8412-8023c05eb599/image/?u=1733927134000",group-title="radio music my id",Persada 93.6 FM
 https://a2.siar.us:8260/radio.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8ef893ac-5011-44b6-bb3d-2bf8b0916d6e/image/?u=1713873237000",group-title="radio music my id",B90 RADIO ONLINE PALEMBANG langsung
-http://onair.b90radio.com:8069/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/95e6b969-c051-4ac7-9469-bc30ea02c637/image/?u=1713873237000",group-title="radio music my id",Mettaswara Throwback 70 langsung
-https://mettaswara.com:8700/throw70
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/66b857dd-a2c8-4cc2-ad72-8e753db5ed3c/image/?u=1733927134000",group-title="radio music my id",Fress FM Radionet
+https://free.rcast.net/65347/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/99cf84cd-b3d1-4b2d-9850-da2257350dbb/image/?u=1769694841000",group-title="radio music my id",Mfm Malang
 http://mfm.isowae.com:8111/studio.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/98506f18-9897-4cd5-b1ac-b2dca05117e9/image/?u=1713873237000",group-title="radio music my id",Mettaswara Koplo langsung
-https://mettaswara.com:8700/koplo
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/99f1a48a-2ba4-4f06-9a89-d4b82a2392b7/image/?u=1769694841000",group-title="radio music my id",KeiLove FM
 http://s3.alhastream.com:8440/keilove
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/95e6b969-c051-4ac7-9469-bc30ea02c637/image/?u=1713873237000",group-title="radio music my id",Mettaswara Throwback 70 langsung
+https://mettaswara.com:8700/throw70
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/98506f18-9897-4cd5-b1ac-b2dca05117e9/image/?u=1713873237000",group-title="radio music my id",Mettaswara Koplo langsung
+https://mettaswara.com:8700/koplo
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/9c37abdd-45e2-487f-979e-986d71140b43/image/?u=1769755357000",group-title="radio music my id",RRI - Pro2 Sibolga
+http://stream-node0.rri.co.id:9121/rrisibolgapro2.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a515c6a4-7064-4643-aa26-51f2c8c6a36a/image/?u=1713937709000",group-title="radio music my id",Ofa Radio langsung
 http://scure.streaming.id:8888/ofaradio
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a9574dfd-4c39-4bc9-8f02-079c648e20b6/image/?u=1713873237000",group-title="radio music my id",Mustang 88 FM langsung
-https://wz.mari.co.id:1936/web_mustangfm/mustangfm/media_w868078402_64190.ts
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a579eab4-085d-4b8e-bd72-5acf9c7c7bf7/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Jakarta
 http://stream-node1.rri.co.id:9025/rrijakartapro2.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c74737ed-db39-4c38-bb31-f1b0fc6cc379/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Kupang
-http://stream-node2.rri.co.id:9213/rrikupangpro2.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c949442f-29b2-42fc-9189-e8871fbcf585/image/?u=1769755357000",group-title="radio music my id",Radio Purnamasidi Wonosobo
-http://45.64.97.82:8084/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a9574dfd-4c39-4bc9-8f02-079c648e20b6/image/?u=1713873237000",group-title="radio music my id",Mustang 88 FM langsung
+https://wz.mari.co.id:1936/web_mustangfm/mustangfm/media_w868078402_64190.ts
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/b6e75eee-e414-4771-8c2f-9c1801466057/image/?u=1733927134000",group-title="radio music my id",91.7 VoKS Radio Bandung
 https://svara-stream.radioddns.net/bandung_voksradio
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c0169423-dd7b-4827-ae83-32691633c5fd/image/?u=1713873237000",group-title="radio music my id",Prameswara FM langsung
-http://c3.siar.us:10390/live
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/b558fff7-08a7-4d23-aaa3-b29c5b602614/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Jember
 http://stream-node2.rri.co.id:9340/web-rrijemberpro2.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ce10c198-7698-4ba4-92f3-23b8d04c5872/image/?u=1713873237000",group-title="radio music my id",Bonk Kenks Nostalgic Online Radio - CH 2 langsung
-https://stream01-ssl.arenastreaming.com:8023/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/fac9fc59-628a-4cde-a80a-140d3b390a39/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Tarakan
 http://stream-node2.rri.co.id:9323/web-rritarakanpro2.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/d3437f5b-338b-4ee5-b887-71b383825115/image/?u=1713873237000",group-title="radio music my id",OZ Radio Bandung langsung
-http://45.64.97.211:1031/;?ver=607511
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/df446b37-1b56-408b-b727-f7a0b5f2efb2/image/?u=1713873237000",group-title="radio music my id",Breeze Evolution Radio langsung
 http://216.126.231.159:1040/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/df614339-4825-4e25-93a3-ad49ea183c52/image/?u=1713873237000",group-title="radio music my id",Rama Radio 104.7 FM langsung
 http://rama-cianjur.simaya.net.id:1250/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ecfe9579-0288-43ab-b964-931e06dbe6f0/image/?u=1713873237000",group-title="radio music my id",Prambors FM 99.2 Solo langsung
-https://masima.rastream.com/masima-pramborssolo
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ce10c198-7698-4ba4-92f3-23b8d04c5872/image/?u=1713873237000",group-title="radio music my id",Bonk Kenks Nostalgic Online Radio - CH 2 langsung
+https://stream01-ssl.arenastreaming.com:8023/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/d5c93e7f-ac6c-454e-b659-93df01c6d676/image/?u=1713873237000",group-title="radio music my id",Muarasipongi langsung
 https://mpc1.mediacp.eu:8014/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/d505ef2f-d9b3-4590-bcd3-98db7aa77d46/image/?u=1713873237000",group-title="radio music my id",OZ Radio Banda Ace langsung
 http://103.29.212.166:9968/;stream/1
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/dc7653aa-6bcb-4ba3-8f52-497ba2ee9e75/image/?u=1733927134000",group-title="radio music my id",Prima Radio Surabaya
-https://svara-stream.radioddns.net/surabaya_prima
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/efa3d04d-6841-4555-9868-7d04e95aac11/image/?u=1733992248000",group-title="radio music my id",98.3 FM I-Radio Medan
-https://stream.radiojar.com/hkuevehswk8uv
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f14715aa-218f-4f06-9694-03ece5c7675e/image/?u=1713937709000",group-title="radio music my id",OZDiscoland Radio langsung
 http://45.64.97.211:9874/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/14befb33-9894-4654-a4e4-c32c3bed0cc5/image/?u=1713905363000",group-title="radio music my id",Mataram Radio City langsung
-https://a12.siar.us/radio/8010/radio.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1024b97a-6117-441f-8929-e6787ddb2676/image/?u=1713873237000",group-title="radio music my id",Prambors FM 98.4 Bandung langsung
-https://stream-41.zeno.fm/aq3bcwkgpchvv?zs=b5vIHPrUR9amZjLbAG-lPQ
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/10dde10a-6ba2-4fa7-be37-62ac5269d722/image/?u=1713937709000",group-title="radio music my id",Radio Seribatu - Volcano langsung
-http://volcano.out.airtime.pro:8000/volcano_a
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1622a2c3-01ce-44f2-b417-42ef92a7e555/image/?u=1713905363000",group-title="radio music my id",Raka 98.8 FM langsung
-https://cast2.my-control-panel.com/proxy/radioso5/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/efa3d04d-6841-4555-9868-7d04e95aac11/image/?u=1733992248000",group-title="radio music my id",98.3 FM I-Radio Medan
+https://stream.radiojar.com/hkuevehswk8uv
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c74737ed-db39-4c38-bb31-f1b0fc6cc379/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Kupang
+http://stream-node2.rri.co.id:9213/rrikupangpro2.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c949442f-29b2-42fc-9189-e8871fbcf585/image/?u=1769755357000",group-title="radio music my id",Radio Purnamasidi Wonosobo
+http://45.64.97.82:8084/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/dc7653aa-6bcb-4ba3-8f52-497ba2ee9e75/image/?u=1733927134000",group-title="radio music my id",Prima Radio Surabaya
+https://svara-stream.radioddns.net/surabaya_prima
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c0169423-dd7b-4827-ae83-32691633c5fd/image/?u=1713873237000",group-title="radio music my id",Prameswara FM langsung
+http://c3.siar.us:10390/live
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/d3437f5b-338b-4ee5-b887-71b383825115/image/?u=1713873237000",group-title="radio music my id",OZ Radio Bandung langsung
+http://45.64.97.211:1031/;?ver=607511
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ecfe9579-0288-43ab-b964-931e06dbe6f0/image/?u=1713873237000",group-title="radio music my id",Prambors FM 99.2 Solo langsung
+https://masima.rastream.com/masima-pramborssolo
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/3481dbd2-969b-4d59-b369-6a6f9e453ff5/image/?u=1733992248000",group-title="radio music my id",FBI Radio
+https://fbi.siar.us:8100/live
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/44b2f390-7d23-41e6-b3a0-bcaddb66eb6f/image/?u=1769694841000",group-title="radio music my id",Passopati FM
+http://live.citrafmradio.com:9494/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/24f17da6-7359-4f9c-872f-be80c198266a/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Mataram
+http://stream-node1.rri.co.id:9113/rrimatarampro2.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/358940a9-4b40-49d0-b544-ca4b1b950770/image/?u=1713905363000",group-title="radio music my id",Unisi Radio 104.5 FM langsung
+http://studio1.indostreamers.com:8002/stream/1/
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4bf179e6-1118-466d-bcc6-400a356c9f00/image/?u=1769755357000",group-title="radio music my id",Swameka FM 101.1 Nabire
+http://streaming.classynetradio.com:8030/swamekaHD
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4c79b311-2a81-46b5-9e3e-d878fa9660f5/image/?u=1713873237000",group-title="radio music my id",Voks Radio Bandung langsung
+https://svara-stream.radioddns.net:8443/bandung_voksradio
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1f96ee1e-b9a0-4660-a443-1a829ce709c4/image/?u=1713873237000",group-title="radio music my id",KLCBS 100.4 FM langsung
 http://s3.vinhostmedia.com:1055/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/2f93b151-3937-495e-86cf-96791176da31/image/?u=1769688878000",group-title="radio music my id",Paramuda Radio
 http://i.klikhost.com:8332/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/3f06af5e-d2a7-4e3c-83d8-df891e4c70ca/image/?u=1769694841000",group-title="radio music my id",Kumala FM
 http://ina.vinhostmedia.com:8000/kumalaradio
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5635b05a-6c63-4d3b-8cd0-fd03c738899a/image/?u=1713873237000",group-title="radio music my id",Suzana 91.3 FM langsung
-http://streaming.suzanafm.com:8000/;stream.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/24f17da6-7359-4f9c-872f-be80c198266a/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Mataram
-http://stream-node1.rri.co.id:9113/rrimatarampro2.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1ab7b079-99ff-4257-9474-26db1590ee29/image/?u=1713937709000",group-title="radio music my id",Bahana 104.5 FM langsung
+http://bahanafm.onlivestreaming.net:10450/live
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/14befb33-9894-4654-a4e4-c32c3bed0cc5/image/?u=1713905363000",group-title="radio music my id",Mataram Radio City langsung
+https://a12.siar.us/radio/8010/radio.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1622a2c3-01ce-44f2-b417-42ef92a7e555/image/?u=1713905363000",group-title="radio music my id",Raka 98.8 FM langsung
+https://cast2.my-control-panel.com/proxy/radioso5/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/2a74447d-79f5-44ab-94d6-254789cce8fa/image/?u=1733927134000",group-title="radio music my id",Radio Mercury Surabaya
+https://svara-stream.radioddns.net/surabaya_mercuryfm-aac
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/3c26d5f9-5e4a-44d3-b163-5ba72ca433a6/image/?u=1713873237000",group-title="radio music my id",Firza Radio Padang langsung
 https://listen6.myradio24.com/27342
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/56bcba84-5c47-4f2a-bee9-f055f20f73fd/image/?u=1769755357000",group-title="radio music my id",RRI - Pro2 Banten
-http://stream-node0.rri.co.id:9036/web-rribantenpro2.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5872106a-4e86-45ed-b15e-040fe08539e1/image/?u=1769755357000",group-title="radio music my id",RRI - Pro2 Ambon
-http://stream-node2.rri.co.id:9315/web-rriambonpro2.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/44b2f390-7d23-41e6-b3a0-bcaddb66eb6f/image/?u=1769694841000",group-title="radio music my id",Passopati FM
-http://live.citrafmradio.com:9494/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1024b97a-6117-441f-8929-e6787ddb2676/image/?u=1713873237000",group-title="radio music my id",Prambors FM 98.4 Bandung langsung
+https://stream-41.zeno.fm/aq3bcwkgpchvv?zs=b5vIHPrUR9amZjLbAG-lPQ
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/10dde10a-6ba2-4fa7-be37-62ac5269d722/image/?u=1713937709000",group-title="radio music my id",Radio Seribatu - Volcano langsung
+http://volcano.out.airtime.pro:8000/volcano_a
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5b99955f-4e56-4d72-9606-5ae936feeeab/image/?u=1769755357000",group-title="radio music my id",SKIPFM Palu
 http://uk5freenew.listen2myradio.com:28551/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5b0f4303-3fda-4ebf-8371-86833ee369f1/image/?u=1713873237000",group-title="radio music my id",Tebet Radio FM langsung
 https://c4.siar.us:8074/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/2a74447d-79f5-44ab-94d6-254789cce8fa/image/?u=1733927134000",group-title="radio music my id",Radio Mercury Surabaya
-https://svara-stream.radioddns.net/surabaya_mercuryfm-aac
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4bf179e6-1118-466d-bcc6-400a356c9f00/image/?u=1769755357000",group-title="radio music my id",Swameka FM 101.1 Nabire
-http://streaming.classynetradio.com:8030/swamekaHD
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4c79b311-2a81-46b5-9e3e-d878fa9660f5/image/?u=1713873237000",group-title="radio music my id",Voks Radio Bandung langsung
-https://svara-stream.radioddns.net:8443/bandung_voksradio
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1ab7b079-99ff-4257-9474-26db1590ee29/image/?u=1713937709000",group-title="radio music my id",Bahana 104.5 FM langsung
-http://bahanafm.onlivestreaming.net:10450/live
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/358940a9-4b40-49d0-b544-ca4b1b950770/image/?u=1713905363000",group-title="radio music my id",Unisi Radio 104.5 FM langsung
-http://studio1.indostreamers.com:8002/stream/1/
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/3481dbd2-969b-4d59-b369-6a6f9e453ff5/image/?u=1733992248000",group-title="radio music my id",FBI Radio
-https://fbi.siar.us:8100/live
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/56bcba84-5c47-4f2a-bee9-f055f20f73fd/image/?u=1769755357000",group-title="radio music my id",RRI - Pro2 Banten
+http://stream-node0.rri.co.id:9036/web-rribantenpro2.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5635b05a-6c63-4d3b-8cd0-fd03c738899a/image/?u=1713873237000",group-title="radio music my id",Suzana 91.3 FM langsung
+http://streaming.suzanafm.com:8000/;stream.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5edce5d5-f3c6-421a-8bf1-db7307c3e2bd/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Gorontalo
 http://stream-node1.rri.co.id:9115/web-rrigorontalopro2.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/6a6c22aa-6714-4942-89f0-32ee0060e64f/image/?u=1713873237000",group-title="radio music my id",NAGASWARA World langsung
 https://live.nagaswarafm.com/nagaswaraworld/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/7b65c495-8175-4370-9b9f-87b14d109076/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Pekanbaru
 http://stream-node0.rri.co.id:9012/web-rripekanbarupro2.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a9b26892-81d2-4f29-a894-ce9d6abb0aad/image/?u=1713873237000",group-title="radio music my id",Kiara FM IKIP Padang langsung
-https://stream.theradiohub.com/?mount=%2Fproxy%2Fkiarafm%3Fmp%3D%2F1&port=80&server=eu1.fastcast4u.com&type=mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8a08d04e-f1bd-43d4-8e90-983c8523fecb/image/?u=1713905363000",group-title="radio music my id",Lembaga Penyiaran Publik Lokal Radio Magetan Indah langsung
-https://lppl.magetan.go.id:9001/live
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/afdfd06c-de09-4bca-a4c4-d4cd2dac4a8d/image/?u=1713873237000",group-title="radio music my id",FeMale Radio 97.9 FM langsung
-https://s1.cloudmu.id/listen/female_radio/radio.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8e2c0c53-ab7e-4922-b039-295c0aa03b3e/image/?u=1713873237000",group-title="radio music my id",Radio Kencana langsung
-https://stream.radiokencana.com/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/997e17c0-f457-4f3d-993c-262ac73a01ef/image/?u=1769694841000",group-title="radio music my id",Radio Wijang Songko
-http://static-s8.xajist.com:8787/live
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5872106a-4e86-45ed-b15e-040fe08539e1/image/?u=1769755357000",group-title="radio music my id",RRI - Pro2 Ambon
+http://stream-node2.rri.co.id:9315/web-rriambonpro2.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/85ebe8b0-f2ff-432d-a8c9-ebe47110aca8/image/?u=1713873237000",group-title="radio music my id",Mettaswara Disco langsung
 https://mettaswara.com:8700/disco
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8780c338-0e4f-458b-aa48-f17eb04f71f4/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Surabaya
-http://stream-node0.rri.co.id:9018/web-rrisurabayapro2.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8ad6559b-fbf7-4e01-a22b-bec330edad48/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Makassar
 http://stream-node0.rri.co.id:9022/rrimakasarpro2.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8aa1575a-de4f-4a58-96ac-53b418e95924/image/?u=1769688878000",group-title="radio music my id",103.1 Gen FM Surabaya
 http://ic.mari.co.id:8000/gensbyfm
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/9fce7d0e-f7cb-4561-a019-c572e4fb7109/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Banda Aceh
 http://stream-node2.rri.co.id:9214/rribandaacehpro2.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ed98360e-d124-43a0-ab13-ed56356772f0/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Malang
-http://stream-node2.rri.co.id:9218/rrimalangpro2.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ed71031e-2534-4f0a-863c-f00b78b9aec7/image/?u=1769755357000",group-title="radio music my id",Serasan Radio 100.8 FM
-http://i.klikhost.com:8114/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ec40ff48-a698-4546-a39f-5a3effb5925e/image/?u=1733927134000",group-title="radio music my id",Ragasakti FM
-https://live4.rs3fm.com:8001/rs3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/da6db654-43bf-4bf0-ba32-56a70115dcb1/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Jambi
-http://stream-node1.rri.co.id:9211/web-rrijambipro2.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/d7a14b30-f603-4422-b8af-d33429d60b37/image/?u=1713873237000",group-title="radio music my id",Gen FM 98.7 langsung
-https://wz.mari.co.id:1936/web_genfm/genfm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c007a437-97b2-4038-a7d3-96da8498f73f/image/?u=1713873237000",group-title="radio music my id",Kotaperak FM 94.6 langsung
-http://203.30.236.2:9460/;%20stream.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/bf4fcbf8-698e-48dd-b35a-0f32d6505782/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Samarinda
-http://stream-node1.rri.co.id:9116/rrisamarindapro2.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/d1587d68-93be-461c-affb-b8ba84efd6c9/image/?u=1713905363000",group-title="radio music my id",MNC Trijaya Surabaya langsung
-https://live.indostreamserver.com:8074/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/d18a73ae-5310-4336-b7f7-8012756a1ba6/image/?u=1769755357000",group-title="radio music my id",RRI - Pro2 Tahuna
-http://stream-node2.rri.co.id:9316/rritahunapro2.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/d24693b1-8baf-4161-9427-b96ca219173e/image/?u=1769688878000",group-title="radio music my id",Radio Tidar Sakti
-http://pu.klikhost.com:8770/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/eeec2279-23cc-484b-89e8-74db2aeae8a8/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Madiun
-http://stream-node2.rri.co.id:9318/rrimadiunpro2.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/bb3a9a20-98fa-4028-8bfb-37a28df43c6c/image/?u=1713937709000",group-title="radio music my id",CBS FM Magelang langsung
-http://sci.streamingmurah.com:8315/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8a08d04e-f1bd-43d4-8e90-983c8523fecb/image/?u=1713905363000",group-title="radio music my id",Lembaga Penyiaran Publik Lokal Radio Magetan Indah langsung
+https://lppl.magetan.go.id:9001/live
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a9b26892-81d2-4f29-a894-ce9d6abb0aad/image/?u=1713873237000",group-title="radio music my id",Kiara FM IKIP Padang langsung
+https://stream.theradiohub.com/?mount=%2Fproxy%2Fkiarafm%3Fmp%3D%2F1&port=80&server=eu1.fastcast4u.com&type=mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/afdfd06c-de09-4bca-a4c4-d4cd2dac4a8d/image/?u=1713873237000",group-title="radio music my id",FeMale Radio 97.9 FM langsung
+https://s1.cloudmu.id/listen/female_radio/radio.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8e2c0c53-ab7e-4922-b039-295c0aa03b3e/image/?u=1713873237000",group-title="radio music my id",Radio Kencana langsung
+https://stream.radiokencana.com/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8780c338-0e4f-458b-aa48-f17eb04f71f4/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Surabaya
+http://stream-node0.rri.co.id:9018/web-rrisurabayapro2.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/997e17c0-f457-4f3d-993c-262ac73a01ef/image/?u=1769694841000",group-title="radio music my id",Radio Wijang Songko
+http://static-s8.xajist.com:8787/live
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/bb7deeb2-c2a5-45bf-b810-53446817a1f8/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Ternate
 http://stream-node2.rri.co.id:9215/rriternatepro2.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/dae440fa-1406-48a8-ba40-ff3fa31cabe9/image/?u=1713873237000",group-title="radio music my id",Radio Cakra langsung
-http://dengerin.radiocakrabandung.com:8905/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f2c81718-6e84-428f-a6bf-b818a6409663/image/?u=1769755357000",group-title="radio music my id",Radio dBs 101.9 FM
-http://i.klikhost.net:8612/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f2265aa0-cf45-44ab-8a66-ba6557984db8/image/?u=1733927134000",group-title="radio music my id",Alternatif Radio
-https://void.idserverhost.com/8016/stream/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/cf9bd5c4-c670-4296-9131-1f943353f440/image/?u=1713873237000",group-title="radio music my id",Radio Kardopa langsung
-https://i.klikhost.com/8602/;stream.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/cfb51a8f-e8c6-4440-ac65-e904785815e5/image/?u=1769694841000",group-title="radio music my id",RBFM Samarinda
-http://i.klikhost.com:8204/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/bb3a9a20-98fa-4028-8bfb-37a28df43c6c/image/?u=1713937709000",group-title="radio music my id",CBS FM Magelang langsung
+http://sci.streamingmurah.com:8315/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e22915f8-0c73-4467-a84c-17063e092ce4/image/?u=1713905363000",group-title="radio music my id",E-Radio Streaming langsung
 http://s7.alhastream.com/radio/8150/radio
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e1ca9906-948b-4ca5-91f1-56ef54fb78a5/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Kendari
 http://stream-node2.rri.co.id:9313/rrikendaripro2.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/b4d93333-6cf8-4583-8d40-21ff75626c65/image/?u=1769694841000",group-title="radio music my id",Unisi 104.5 FM
 http://studio1.indostreamers.com:8002/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e0bc7adf-7719-4d13-ae06-ea68f608dff4/image/?u=1713873237000",group-title="radio music my id",Good Radio langsung
+http://goodradiojakarta.com:8000/GoodRadio
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/b2a83501-9ce9-41a2-b86c-79bdff10323f/image/?u=1713873237000",group-title="radio music my id",Bharata radio langsung
 https://c1.siar.us:8800/live
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/b0653a8f-8daf-44d3-bd95-7c23b7003aa1/image/?u=1769694841000",group-title="radio music my id",Radio Galuh
 https://stream.yaomiakba.com/galuhfm
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c59770f8-fc0b-4c0f-a600-7cab7d907fea/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Meulaboh
 http://stream-node2.rri.co.id:9325/web-rrimeulabohpro2.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e0bc7adf-7719-4d13-ae06-ea68f608dff4/image/?u=1713873237000",group-title="radio music my id",Good Radio langsung
-http://goodradiojakarta.com:8000/GoodRadio
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/fd71f089-0bec-44ff-b377-98cc69537d4b/image/?u=1713944809000",group-title="radio music my id",Prambors FM 102.2 Jakarta langsung
-https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM_SC?dist=pramborsweb&pname=tdwidgets
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f75af3c5-58a1-4825-b3e3-cdff26bacccf/image/?u=1713873237000",group-title="radio music my id",Volare FM 103.4 langsung
-https://streaming.volarefm.com/
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/d18a73ae-5310-4336-b7f7-8012756a1ba6/image/?u=1769755357000",group-title="radio music my id",RRI - Pro2 Tahuna
+http://stream-node2.rri.co.id:9316/rritahunapro2.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/d24693b1-8baf-4161-9427-b96ca219173e/image/?u=1769688878000",group-title="radio music my id",Radio Tidar Sakti
+http://pu.klikhost.com:8770/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/d7a14b30-f603-4422-b8af-d33429d60b37/image/?u=1713873237000",group-title="radio music my id",Gen FM 98.7 langsung
+https://wz.mari.co.id:1936/web_genfm/genfm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/dae440fa-1406-48a8-ba40-ff3fa31cabe9/image/?u=1713873237000",group-title="radio music my id",Radio Cakra langsung
+http://dengerin.radiocakrabandung.com:8905/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/da6db654-43bf-4bf0-ba32-56a70115dcb1/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Jambi
+http://stream-node1.rri.co.id:9211/web-rrijambipro2.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c007a437-97b2-4038-a7d3-96da8498f73f/image/?u=1713873237000",group-title="radio music my id",Kotaperak FM 94.6 langsung
+http://203.30.236.2:9460/;%20stream.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/bf4fcbf8-698e-48dd-b35a-0f32d6505782/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Samarinda
+http://stream-node1.rri.co.id:9116/rrisamarindapro2.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/cf9bd5c4-c670-4296-9131-1f943353f440/image/?u=1713873237000",group-title="radio music my id",Radio Kardopa langsung
+https://i.klikhost.com/8602/;stream.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/d1587d68-93be-461c-affb-b8ba84efd6c9/image/?u=1713905363000",group-title="radio music my id",MNC Trijaya Surabaya langsung
+https://live.indostreamserver.com:8074/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/cfb51a8f-e8c6-4440-ac65-e904785815e5/image/?u=1769694841000",group-title="radio music my id",RBFM Samarinda
+http://i.klikhost.com:8204/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ec40ff48-a698-4546-a39f-5a3effb5925e/image/?u=1733927134000",group-title="radio music my id",Ragasakti FM
+https://live4.rs3fm.com:8001/rs3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/fd1aeeb3-849d-488e-865c-1a6b205bbb3d/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Singaraja
 http://stream-node2.rri.co.id:9240/rrisingarajapro2.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/fd71f089-0bec-44ff-b377-98cc69537d4b/image/?u=1713944809000",group-title="radio music my id",Prambors FM 102.2 Jakarta langsung
+https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM_SC?dist=pramborsweb&pname=tdwidgets
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ed71031e-2534-4f0a-863c-f00b78b9aec7/image/?u=1769755357000",group-title="radio music my id",Serasan Radio 100.8 FM
+http://i.klikhost.com:8114/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/eeec2279-23cc-484b-89e8-74db2aeae8a8/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Madiun
+http://stream-node2.rri.co.id:9318/rrimadiunpro2.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ed98360e-d124-43a0-ab13-ed56356772f0/image/?u=1769694841000",group-title="radio music my id",RRI - Pro2 Malang
+http://stream-node2.rri.co.id:9218/rrimalangpro2.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f75af3c5-58a1-4825-b3e3-cdff26bacccf/image/?u=1713873237000",group-title="radio music my id",Volare FM 103.4 langsung
+https://streaming.volarefm.com/
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f2c81718-6e84-428f-a6bf-b818a6409663/image/?u=1769755357000",group-title="radio music my id",Radio dBs 101.9 FM
+http://i.klikhost.net:8612/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f2265aa0-cf45-44ab-8a66-ba6557984db8/image/?u=1733927134000",group-title="radio music my id",Alternatif Radio
+https://void.idserverhost.com/8016/stream/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/65594fa1-c185-4e9f-bc07-a4701c3e2e90/image/?u=1766987633000",group-title="radio music my id",Radio Music Indonesia
 https://stream.zeno.fm/wvq442iwm6ztv
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5bad2069-beca-46c6-b04e-acb763d9a6b9/image/?u=1727218762000",group-title="radio music my id",Opium x Yeat Station by Drago
@@ -1947,14 +1947,14 @@ http://streaming.an-nashihah.com:8822/;stream.nsv
 https://b.alhastream.com:5140/radio
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/fb19cfc3-4839-11ea-a860-52543be04c81/image/?u=1770043279000",group-title="radio music my id",Suara Muslim Surabaya
 http://pu.klikhost.com:8052/
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/fde09f41-dddf-4651-aa16-db0f83f4558c/image/?u=1701696536000",group-title="radio music my id",Foster FM Pati
+https://i.klikhost.com/9182/;radio.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ec18384d-b9c8-4856-9525-dc88947b8c5f/image/?u=1734594414000",group-title="radio music my id",Padang FM 102.6
 https://stream2.jejestreaming.com:8032/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/dc053190-be20-4c56-adaa-8debb55f484d/image/?u=1734594414000",group-title="radio music my id",RSB FM 89.8
 https://a2.siar.us/radio/8480/radio.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/dd385a39-5f8a-4ada-a015-ef50c57ebd67/image/?u=1769694841000",group-title="radio music my id",RRI - Pro1 Jayapura
 http://stream-node0.rri.co.id:9023/rrijayapurapro1.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/fde09f41-dddf-4651-aa16-db0f83f4558c/image/?u=1701696536000",group-title="radio music my id",Foster FM Pati
-https://i.klikhost.com/9182/;radio.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1116fd33-0e0f-4bc2-9e57-ad20386572f1/image/?u=1734681158000",group-title="radio music my id",Inayah 100.8 FM
 https://a2.alhastream.com/listen/station_38/radio
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/38b44e7e-08c7-4cc3-8009-af581b223689/image/?u=1713873237000",group-title="radio music my id",I-Radio Banjarmasin langsung
@@ -3065,6 +3065,10 @@ https://i.klikhost.com/8622/;stream
 http://live.serverstreaming.net/tjandrafm
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e70f0649-bf93-4cdd-8141-c9b3a5cbd176/image/?u=1734681158000",group-title="radio music my id",Kharisma FM 95.5
 http://kharismafm.id.myradio.web.id:9550/kharismafm
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/fff32bf2-775c-4a63-aa81-678a8a5c3732/image/?u=1713873237000",group-title="radio music my id",93.8 FM Megaswara Kulonprogo langsung
+http://203.30.236.2:9382/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/fefe9830-08af-49c5-bc3e-1d0b3b879706/image/?u=1770045035000",group-title="radio music my id",Akurat FM Solo
+http://c1.siar.us:9350/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/df8fe16d-e948-4d6a-9ae9-1d833269c031/image/?u=1713905363000",group-title="radio music my id",Dreamers Radio langsung
 https://live.dreamers.id:8443/live
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/def964ba-88bd-4c6d-97f7-d79134753f29/image/?u=1734708994000",group-title="radio music my id",RRI Pro 1 FM 89.2
@@ -3077,10 +3081,6 @@ http://streaming.radiomediafm.com:8400/;
 https://stream-node1.rri.co.id/streaming/40/9040/rrimanadopro1.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f8c5c4fa-2896-4a9b-9a12-92a50fba4f6f/image/?u=1769688878000",group-title="radio music my id",Suara Surabaya FM 100
 http://c5.siar.us:8000/live
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/fefe9830-08af-49c5-bc3e-1d0b3b879706/image/?u=1770045035000",group-title="radio music my id",Akurat FM Solo
-http://c1.siar.us:9350/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/fff32bf2-775c-4a63-aa81-678a8a5c3732/image/?u=1713873237000",group-title="radio music my id",93.8 FM Megaswara Kulonprogo langsung
-http://203.30.236.2:9382/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/031d5842-358b-44a6-8d16-72746114b29e/image/?u=1734681158000",group-title="radio music my id",Radio Slawi FM 99.3
 https://i.klikhost.com/9032/;radio.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/06590214-b2bd-43b1-ba6c-c20436191fcd/image/?u=1734594414000",group-title="radio music my id",Japanese Music ID
@@ -3465,140 +3465,146 @@ http://45.64.97.82:8778/stream/1/
 https://sc.cityradio.id/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/fe4f385c-28fb-4ae4-8140-a3eb3e19c53e/image/?u=1734427318000",group-title="radio music my id",Radio IsyKarima
 http://65.109.81.84:7749/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/17e008d8-d459-4972-b3ac-afc6b4b9224e/image/?u=1769694841000",group-title="radio music my id",RRI - Pro1 Pontianak
-http://stream-node1.rri.co.id:9212/rripontianakpro1.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/180a9db6-730d-498e-8964-a3dba0ba43e8/image/?u=1734681158000",group-title="radio music my id",Tafidu FM
-https://void.idserverhost.com/8050/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/22ab6691-ae34-4a67-a2f9-c7be02e24c05/image/?u=1701699755000",group-title="radio music my id",Prombes Radio
-http://sv.prombesradio.my.id:8000/radio.aac
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/09126321-f742-4986-9101-2813076c90b9/image/?u=1734594414000",group-title="radio music my id",RRI Pro 2 Kendari FM 90.8
+https://stream-node2.rri.co.id/streaming/13/9313/rrikendaripro2.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/13a7c073-b759-4351-a105-64dced71dcf0/image/?u=1701696995000",group-title="radio music my id",Persada 97.2 FM Lamongan Baru
+http://c4.siar.us:8038/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/15c48b23-7b43-4834-b7c0-f938fda00fdd/image/?u=1713873237000",group-title="radio music my id",Simfoni FM langsung
+https://i.klikhost.com/9160/;radio.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/12de6910-c000-40b8-b828-3009d94981ee/image/?u=1734681158000",group-title="radio music my id",RRI Pro 1 FM 90.3
+https://stream-node0.rri.co.id/streaming/36/9036/rribouvenpro1.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1307a419-e8fb-489b-95a1-548ea74b7889/image/?u=1734594414000",group-title="radio music my id",Radio DMS 102.7 FM
+https://a3.alhastream.com:1290/dms
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/155dbbe1-26be-4f94-a125-9537a976923d/image/?u=1734594414000",group-title="radio music my id",IKI Radio
+https://a1.siar.us/listen/ikiradio/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/05583496-13d7-4a60-a2a6-17d7069c6f19/image/?u=1734594414000",group-title="radio music my id",Pro 1 RRI 96.7 FM
+https://stream-node0.rri.co.id/streaming/19/9019/rribanjarmasinpro1.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/12913f54-1f23-4594-856e-556df441c97c/image/?u=1770045035000",group-title="radio music my id",ananda radio bandung
+http://sx.alhasmedia.com/radio/8220/radio
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/12596b0c-bc75-402a-94a7-cf1b07740ee8/image/?u=1769694841000",group-title="radio music my id",RRI - Pro4 Manado
+http://stream-node1.rri.co.id:9040/web-rrimanadopro4.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/0113aa7d-e6f6-4bb0-998e-aef9fd84c7e9/image/?u=1734594414000",group-title="radio music my id",RRI Pro 2 FM 99.0
+https://stream-node0.rri.co.id/streaming/19/9119/rripurwokertopro2.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/027cb75a-49f1-4b56-bf89-9c22783051cb/image/?u=1713873237000",group-title="radio music my id",Radio Islam Melayu langsung
+http://104.7.66.64:8008/;?icy=http
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/0b526804-206f-485d-a997-a7b828e0150b/image/?u=1713873237000",group-title="radio music my id",UB Radio langsung
+http://live.ub.ac.id:8000/admin
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/0ad680c7-404d-42ce-b7af-aa08e17b2948/image/?u=1734681158000",group-title="radio music my id",Radio Idola 96.6FM
+https://stream.bskmedia.co.id/radio/8230/idola
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/0af0a123-6f1d-4b8f-88bc-8c168b9d1f76/image/?u=1734594414000",group-title="radio music my id",Pass FM 105.2
+https://i.klikhost.com/8268/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1bdb7538-d6af-4c77-ab1e-d51185aa9384/image/?u=1770045035000",group-title="radio music my id",89.2 FM Jakarta, Campur sari
+https://a8.siar.us/listen/campursari/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/222be7d3-60db-448d-b028-2ee85bcae2da/image/?u=1713937709000",group-title="radio music my id",MADU FM Trenggalek (MDS) langsung
 https://stream-54.zeno.fm/z1bs88ttrfhvv
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/34d70031-7576-413b-bd3b-1c9465698654/image/?u=1735841614000",group-title="radio music my id",Prambors 102.2
-https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/2118364f-d930-4d54-83f4-4e9914a72c1b/image/?u=1734681158000",group-title="radio music my id",BAT Radio PSKD Indonesia
+https://servidor14-3.brlogic.com:7696/live
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/31eb975a-9229-4227-870c-88ba4c29ad02/image/?u=1769688878000",group-title="radio music my id",Gajahmada FM Semarang
 http://111.68.27.246:8040/gajahmadafm
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/45d6a745-b8fa-4953-a4f7-634a29c8bdca/image/?u=1769694841000",group-title="radio music my id",RRI - Pro1 Ternate
-http://stream-node2.rri.co.id:9215/rriternatepro1.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/462f6ff9-6745-4af2-a5df-342f1dbc898f/image/?u=1734594414000",group-title="radio music my id",Satu Radio FM 105.4
-https://assunnah.radio.yufid.com/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4599ffa9-b17a-4bbf-8b7d-17f362e5f411/image/?u=1713873237000",group-title="radio music my id",Karimata FM langsung
-https://s3.alhastream.com:8440/karimatafm
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/316baac2-014c-4437-ad8f-a8618269a158/image/?u=1701698397000",group-title="radio music my id",Radio Indah Siar
+https://az1.radioislam.my.id:8110/radio.mp3;stream/1
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/515692d4-a402-4b73-8d0f-26f6238f57f0/image/?u=1733927134000",group-title="radio music my id",Radio Rodja Kendari
+https://cast5.my-control-panel.com/proxy/dikman/stream/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5235d2b6-46fe-4cca-b1bb-bc0aa24da744/image/?u=1736320192000",group-title="radio music my id",Breakers Radio Streaming
+https://sx.alhastream.com/listen/station_31/radio
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5096e4e8-fcb4-4e4d-abf6-1bcd2269f8e6/image/?u=1734594414000",group-title="radio music my id",Suargo FM
+https://c4.siar.us/proxy/suargofm/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/2690635d-be65-4211-b71b-192395317c74/image/?u=1701695443000",group-title="radio music my id",Sahabat Kehidupan FM Madiun
 http://i.klikhost.com:8246/;rojer.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/196f2e35-1d17-4a1d-9542-917f5c3284e4/image/?u=1769694841000",group-title="radio music my id",RRI - Pro4 Bengkulu
+http://stream-node2.rri.co.id:9311/rribengkulupro4.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/3d34b910-6d36-46b0-af90-cac53011594e/image/?u=1713873237000",group-title="radio music my id",Radio Bonansa FM langsung
+https://stream-44.zeno.fm/r6wjacdijwovv?zs=VUlQe-Z8R-SjL1HGu6HPnw
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/3f7fbe9a-feba-455d-b911-bbd89b9b90d1/image/?u=1769755357000",group-title="radio music my id",RRI - Pro1 Tual
+http://stream-node2.rri.co.id:9322/rritualpro1.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/3e255be3-36ef-423f-a919-787d313199b0/image/?u=1701697520000",group-title="radio music my id",Prestasi FM Jakarta
+http://u.klikhost.com:7128/stream/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/3f4b0ad2-83b7-476c-b755-6fd82415393a/image/?u=1733992248000",group-title="radio music my id",Radio Cahaya FM
+https://stream.cahayafm.com:8443/cahaya.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/55ea61bd-a099-4d51-9512-75894baf588a/image/?u=1733927134000",group-title="radio music my id",98 Maya FM Bandung
+https://svara-stream.radioddns.net/bandung_mayafm_mono
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/53882b52-fd1c-40cb-af92-e1ff21ec741e/image/?u=1734594414000",group-title="radio music my id",Insania FM 103.4
+https://stream-sg1.galuhmedia.co.id:8060/1034palu
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/169126c9-4a47-4d71-ad0b-3b9d64fa5a62/image/?u=1701698711000",group-title="radio music my id",Arbes 101 FM Padang
+http://161.97.175.204:8000/live
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/22ab6691-ae34-4a67-a2f9-c7be02e24c05/image/?u=1701699755000",group-title="radio music my id",Prombes Radio
+http://sv.prombesradio.my.id:8000/radio.aac
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/3b127f55-3e54-4821-93d2-3017c8e8a4bb/image/?u=1734681158000",group-title="radio music my id",Mas FM 104.5
+https://svara-stream.radioddns.net/malang_masfm_
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/394dac71-7b3d-4c41-87ea-942ca351f7d1/image/?u=1734594414000",group-title="radio music my id",Irama Streaming Radio
+https://a3.siar.us/listen/net/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/57250441-2ca9-4299-aeb7-7346560b95dc/image/?u=1713873237000",group-title="radio music my id",PBS FM 104.8 langsung
+http://live.indostreamserver.com:8002/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/583d1a05-1ae2-44ad-9c84-e29cfc819ebe/image/?u=1701697514000",group-title="radio music my id",Megaswara
+http://live.mgstv.co.id:8002/1/;stream.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5850a615-11f8-41d9-9bdc-f033b9963a01/image/?u=1769694841000",group-title="radio music my id",Seila 104.3 FM
+http://c4.siar.us:8102/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5779a601-5698-454d-b329-4b6b648f662b/image/?u=1733927134000",group-title="radio music my id",Global FM Surabaya
+https://svara-stream.radioddns.net/surabaya_globalfm_
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5794e1c7-e3aa-47c0-9ead-d243c27e9ac2/image/?u=1734961998000",group-title="radio music my id",MNC Trijaya FM 87.6
+https://live.mnctrijayamandailingnatal.com:8122/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/579e5c86-c76e-4e47-b287-0bcf224ba0dd/image/?u=1713905363000",group-title="radio music my id",Eight Radio langsung
+https://s3.vinhostmedia.com/9894/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/368d13ab-9905-47fa-847a-3d5f2dd8b6b2/image/?u=1734594414000",group-title="radio music my id",Insania FM 88.7
 https://stream-sg1.galuhmedia.co.id/listen/insaniasorong/887sorong
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/37a4b89f-3bf9-4a3f-a698-f7823394f7a7/image/?u=1734681158000",group-title="radio music my id",PPIA Banyuwangi
 https://live1.indostreamserver.com/8120/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4d3e5165-470a-45e4-b405-afdce32fb09e/image/?u=1713873237000",group-title="radio music my id",Radio Favorit Streaming langsung
-https://stream-ssl.arenastreaming.com:8009/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4d91b0d3-4dd1-4221-981d-9d27cdbf3400/image/?u=1734681158000",group-title="radio music my id",SRadio 98.2 FM
-https://pu.klikhost.com/proxy/solagracia2/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4b369748-43d8-4e79-977d-2673b27b6136/image/?u=1770121446000",group-title="radio music my id",PTPN Solo
-https://ssg.streamingmurah.com:8040/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/13a7c073-b759-4351-a105-64dced71dcf0/image/?u=1701696995000",group-title="radio music my id",Persada 97.2 FM Lamongan Baru
-http://c4.siar.us:8038/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/2118364f-d930-4d54-83f4-4e9914a72c1b/image/?u=1734681158000",group-title="radio music my id",BAT Radio PSKD Indonesia
-https://servidor14-3.brlogic.com:7696/live
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/316baac2-014c-4437-ad8f-a8618269a158/image/?u=1701698397000",group-title="radio music my id",Radio Indah Siar
-https://az1.radioislam.my.id:8110/radio.mp3;stream/1
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/499e7245-76f2-4468-bb26-ebbe99c9c107/image/?u=1734594414000",group-title="radio music my id",Radio Swadesi Jepara 100.9 FM
-https://stream.swadesifm.com/radio/8030/radio.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/45d6a745-b8fa-4953-a4f7-634a29c8bdca/image/?u=1769694841000",group-title="radio music my id",RRI - Pro1 Ternate
+http://stream-node2.rri.co.id:9215/rriternatepro1.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4599ffa9-b17a-4bbf-8b7d-17f362e5f411/image/?u=1713873237000",group-title="radio music my id",Karimata FM langsung
+https://s3.alhastream.com:8440/karimatafm
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5bb6f6c4-13cf-49ba-8cc5-255837f79418/image/?u=1734681158000",group-title="radio music my id",Radio Angkasa Tujuh
+https://ssg.streamingmurah.com:8062/stream/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5c8b1952-7d93-4204-bb29-ef297b8cc338/image/?u=1734594414000",group-title="radio music my id",Brava Radio FM 103.8
+https://n04.radiojar.com/5k7t0rq3bnzuv.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/462f6ff9-6745-4af2-a5df-342f1dbc898f/image/?u=1734594414000",group-title="radio music my id",Satu Radio FM 105.4
+https://assunnah.radio.yufid.com/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/48e2be8c-dbec-496e-9fd2-20da8946d4e6/image/?u=1734681158000",group-title="radio music my id",Radio Utari FM 101
 https://s5.alhastream.com:8220/radio
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/196f2e35-1d17-4a1d-9542-917f5c3284e4/image/?u=1769694841000",group-title="radio music my id",RRI - Pro4 Bengkulu
-http://stream-node2.rri.co.id:9311/rribengkulupro4.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1bdb7538-d6af-4c77-ab1e-d51185aa9384/image/?u=1770045035000",group-title="radio music my id",89.2 FM Jakarta, Campur sari
-https://a8.siar.us/listen/campursari/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/17e008d8-d459-4972-b3ac-afc6b4b9224e/image/?u=1769694841000",group-title="radio music my id",RRI - Pro1 Pontianak
+http://stream-node1.rri.co.id:9212/rripontianakpro1.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/180a9db6-730d-498e-8964-a3dba0ba43e8/image/?u=1734681158000",group-title="radio music my id",Tafidu FM
+https://void.idserverhost.com/8050/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/2b96f59f-55b3-4cb1-b6d3-f8e1119950d5/image/?u=1734681158000",group-title="radio music my id",KiswahNET
+https://c4.siar.us:8065/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/2981fa6b-523b-410c-99c1-b9ff9d81a08e/image/?u=1713937709000",group-title="radio music my id",SMK PGRI 1 langsung
+http://s2.voscast.com:10638/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/41352c7f-31d8-43a6-83c9-38beae2a172b/image/?u=1734594414000",group-title="radio music my id",Smart FM 101.1
+https://cast2.my-control-panel.com/proxy/radios15/live
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/421d1bf1-dd21-4278-83dc-45d9b6586b35/image/?u=1734594414000",group-title="radio music my id",Impact Pas FM 100.5
+https://i.klikhost.com:9624/stream/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/41c3393a-f87b-4c6a-89ce-0c1e483ca061/image/?u=1769694841000",group-title="radio music my id",RRI - Pro1 Yogyakarta
+http://stream-node0.rri.co.id:9017/web-rrijogjapro1.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/499e7245-76f2-4468-bb26-ebbe99c9c107/image/?u=1734594414000",group-title="radio music my id",Radio Swadesi Jepara 100.9 FM
+https://stream.swadesifm.com/radio/8030/radio.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4b369748-43d8-4e79-977d-2673b27b6136/image/?u=1770121446000",group-title="radio music my id",PTPN Solo
+https://ssg.streamingmurah.com:8040/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1ac84ba2-91d9-4357-9bfa-3e172d693d10/image/?u=1734594414000",group-title="radio music my id",PFGRadio
+https://cloudstream.klikhost.net/radio/8000/64
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1adb7fe2-12a3-4896-bbbc-9a9203517303/image/?u=1713873237000",group-title="radio music my id",Rama 104.7 FM langsung
+https://i.klikhost.com/8330/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1882dcec-1b30-4103-9bb4-481f78783c56/image/?u=1769694841000",group-title="radio music my id",Suara Gratia FM
+http://scg.streamingmurah.com:8224/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/18939429-24a9-4d05-b59f-9f41cb423d08/image/?u=1701698431000",group-title="radio music my id",Prameswara 103.9 FM Lamongan
+http://prameswarafm.onlivestreaming.net:10390/live
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1d66cf9b-f62d-4e6c-a80d-77ece3f71505/image/?u=1713873237000",group-title="radio music my id",Beat Radio Indonesia langsung
 https://streaming.radio.co/sf61c46912/listen
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1da45087-7c6b-4c54-ba49-15156256bf15/image/?u=1734594414000",group-title="radio music my id",Aksi FM 93.9
 http://123.255.201.126:8020/aksifm
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1c915361-54aa-493f-ab35-837a9ac39f48/image/?u=1734594414000",group-title="radio music my id",Radio Suara Kudus 88 FM
 https://r2.siar.us:8700/suarakudus
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/2b96f59f-55b3-4cb1-b6d3-f8e1119950d5/image/?u=1734681158000",group-title="radio music my id",KiswahNET
-https://c4.siar.us:8065/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/41352c7f-31d8-43a6-83c9-38beae2a172b/image/?u=1734594414000",group-title="radio music my id",Smart FM 101.1
-https://cast2.my-control-panel.com/proxy/radios15/live
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/3f7fbe9a-feba-455d-b911-bbd89b9b90d1/image/?u=1769755357000",group-title="radio music my id",RRI - Pro1 Tual
-http://stream-node2.rri.co.id:9322/rritualpro1.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/3f4b0ad2-83b7-476c-b755-6fd82415393a/image/?u=1733992248000",group-title="radio music my id",Radio Cahaya FM
-https://stream.cahayafm.com:8443/cahaya.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/169126c9-4a47-4d71-ad0b-3b9d64fa5a62/image/?u=1701698711000",group-title="radio music my id",Arbes 101 FM Padang
-http://161.97.175.204:8000/live
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1ac84ba2-91d9-4357-9bfa-3e172d693d10/image/?u=1734594414000",group-title="radio music my id",PFGRadio
-https://cloudstream.klikhost.net/radio/8000/64
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1adb7fe2-12a3-4896-bbbc-9a9203517303/image/?u=1713873237000",group-title="radio music my id",Rama 104.7 FM langsung
-https://i.klikhost.com/8330/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/3b127f55-3e54-4821-93d2-3017c8e8a4bb/image/?u=1734681158000",group-title="radio music my id",Mas FM 104.5
-https://svara-stream.radioddns.net/malang_masfm_
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/394dac71-7b3d-4c41-87ea-942ca351f7d1/image/?u=1734594414000",group-title="radio music my id",Irama Streaming Radio
-https://a3.siar.us/listen/net/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/421d1bf1-dd21-4278-83dc-45d9b6586b35/image/?u=1734594414000",group-title="radio music my id",Impact Pas FM 100.5
-https://i.klikhost.com:9624/stream/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/41c3393a-f87b-4c6a-89ce-0c1e483ca061/image/?u=1769694841000",group-title="radio music my id",RRI - Pro1 Yogyakarta
-http://stream-node0.rri.co.id:9017/web-rrijogjapro1.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/15c48b23-7b43-4834-b7c0-f938fda00fdd/image/?u=1713873237000",group-title="radio music my id",Simfoni FM langsung
-https://i.klikhost.com/9160/;radio.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/155dbbe1-26be-4f94-a125-9537a976923d/image/?u=1734594414000",group-title="radio music my id",IKI Radio
-https://a1.siar.us/listen/ikiradio/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1882dcec-1b30-4103-9bb4-481f78783c56/image/?u=1769694841000",group-title="radio music my id",Suara Gratia FM
-http://scg.streamingmurah.com:8224/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/18939429-24a9-4d05-b59f-9f41cb423d08/image/?u=1701698431000",group-title="radio music my id",Prameswara 103.9 FM Lamongan
-http://prameswarafm.onlivestreaming.net:10390/live
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/2981fa6b-523b-410c-99c1-b9ff9d81a08e/image/?u=1713937709000",group-title="radio music my id",SMK PGRI 1 langsung
-http://s2.voscast.com:10638/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/3d34b910-6d36-46b0-af90-cac53011594e/image/?u=1713873237000",group-title="radio music my id",Radio Bonansa FM langsung
-https://stream-44.zeno.fm/r6wjacdijwovv?zs=VUlQe-Z8R-SjL1HGu6HPnw
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/3e255be3-36ef-423f-a919-787d313199b0/image/?u=1701697520000",group-title="radio music my id",Prestasi FM Jakarta
-http://u.klikhost.com:7128/stream/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/0113aa7d-e6f6-4bb0-998e-aef9fd84c7e9/image/?u=1734594414000",group-title="radio music my id",RRI Pro 2 FM 99.0
-https://stream-node0.rri.co.id/streaming/19/9119/rripurwokertopro2.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/027cb75a-49f1-4b56-bf89-9c22783051cb/image/?u=1713873237000",group-title="radio music my id",Radio Islam Melayu langsung
-http://104.7.66.64:8008/;?icy=http
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/05583496-13d7-4a60-a2a6-17d7069c6f19/image/?u=1734594414000",group-title="radio music my id",Pro 1 RRI 96.7 FM
-https://stream-node0.rri.co.id/streaming/19/9019/rribanjarmasinpro1.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/09126321-f742-4986-9101-2813076c90b9/image/?u=1734594414000",group-title="radio music my id",RRI Pro 2 Kendari FM 90.8
-https://stream-node2.rri.co.id/streaming/13/9313/rrikendaripro2.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/0ad680c7-404d-42ce-b7af-aa08e17b2948/image/?u=1734681158000",group-title="radio music my id",Radio Idola 96.6FM
-https://stream.bskmedia.co.id/radio/8230/idola
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/0b526804-206f-485d-a997-a7b828e0150b/image/?u=1713873237000",group-title="radio music my id",UB Radio langsung
-http://live.ub.ac.id:8000/admin
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/0af0a123-6f1d-4b8f-88bc-8c168b9d1f76/image/?u=1734594414000",group-title="radio music my id",Pass FM 105.2
-https://i.klikhost.com/8268/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/12913f54-1f23-4594-856e-556df441c97c/image/?u=1770045035000",group-title="radio music my id",ananda radio bandung
-http://sx.alhasmedia.com/radio/8220/radio
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/12596b0c-bc75-402a-94a7-cf1b07740ee8/image/?u=1769694841000",group-title="radio music my id",RRI - Pro4 Manado
-http://stream-node1.rri.co.id:9040/web-rrimanadopro4.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/12de6910-c000-40b8-b828-3009d94981ee/image/?u=1734681158000",group-title="radio music my id",RRI Pro 1 FM 90.3
-https://stream-node0.rri.co.id/streaming/36/9036/rribouvenpro1.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1307a419-e8fb-489b-95a1-548ea74b7889/image/?u=1734594414000",group-title="radio music my id",Radio DMS 102.7 FM
-https://a3.alhastream.com:1290/dms
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5235d2b6-46fe-4cca-b1bb-bc0aa24da744/image/?u=1736320192000",group-title="radio music my id",Breakers Radio Streaming
-https://sx.alhastream.com/listen/station_31/radio
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/34d70031-7576-413b-bd3b-1c9465698654/image/?u=1735841614000",group-title="radio music my id",Prambors 102.2
+https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4d3e5165-470a-45e4-b405-afdce32fb09e/image/?u=1713873237000",group-title="radio music my id",Radio Favorit Streaming langsung
+https://stream-ssl.arenastreaming.com:8009/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4d91b0d3-4dd1-4221-981d-9d27cdbf3400/image/?u=1734681158000",group-title="radio music my id",SRadio 98.2 FM
+https://pu.klikhost.com/proxy/solagracia2/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4e93452e-3d39-477a-b841-2ab15c38fb71/image/?u=1713873237000",group-title="radio music my id",Gobatak Radio langsung
 http://103.216.188.243:9970/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4fa96828-ef3f-462f-b056-f44a0959050f/image/?u=1713873237000",group-title="radio music my id",Bintang Tenggara langsung
 https://ssg.streamingmurah.com:9560/rbtfm
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5096e4e8-fcb4-4e4d-abf6-1bcd2269f8e6/image/?u=1734594414000",group-title="radio music my id",Suargo FM
-https://c4.siar.us/proxy/suargofm/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/53882b52-fd1c-40cb-af92-e1ff21ec741e/image/?u=1734594414000",group-title="radio music my id",Insania FM 103.4
-https://stream-sg1.galuhmedia.co.id:8060/1034palu
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4ebaa4e0-35e1-466d-b3a9-d349ae7f0537/image/?u=1734681158000",group-title="radio music my id",Suara Gratia FM 95.9
 https://ssg.streamingmurah.com:8224/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/63d77dfd-b151-4bf7-853c-9ffc43dc8d29/image/?u=1770121446000",group-title="radio music my id",Classy FM
-http://stream.classyfm.co.id:1034/stream.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/63acaf88-40a7-4008-9440-4ad6dd5f1577/image/?u=1734681158000",group-title="radio music my id",MQ FM 102.7
-https://mqfmstreaming.kamil.web.id/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/77d120b6-9f31-47a4-9573-7a78716fe795/image/?u=1735841614000",group-title="radio music my id",Retjo Buntung FM
-http://45.64.97.82:9940
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/7939155b-806d-4731-937d-e75143e944d0/image/?u=1713873237000",group-title="radio music my id",Insania FM langsung
-http://158.69.119.235:8056/
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/515692d4-a402-4b73-8d0f-26f6238f57f0/image/?u=1733927134000",group-title="radio music my id",Radio Rodja Kendari
-https://cast5.my-control-panel.com/proxy/dikman/stream/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5bb6f6c4-13cf-49ba-8cc5-255837f79418/image/?u=1734681158000",group-title="radio music my id",Radio Angkasa Tujuh
-https://ssg.streamingmurah.com:8062/stream/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5c8b1952-7d93-4204-bb29-ef297b8cc338/image/?u=1734594414000",group-title="radio music my id",Brava Radio FM 103.8
-https://n04.radiojar.com/5k7t0rq3bnzuv.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/6b612ed2-327f-44df-bb90-027bbdcf6925/image/?u=1734594414000",group-title="radio music my id",Kartika FM 101.7
 https://stream.pasopatiradio.com/kartikafm
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/6baadc30-f77f-49c0-ba74-cea63811bb95/image/?u=1713873237000",group-title="radio music my id",Urban Radio Bali langsung
@@ -3611,60 +3617,96 @@ http://45.64.97.211:8028/;
 https://ssg.streamingmurah.com:8094/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/6c7af235-74d9-4a6c-866a-3245e26eb6c9/image/?u=1701701504000",group-title="radio music my id",RRI Pro 2 Makassar
 https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro2.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/57250441-2ca9-4299-aeb7-7346560b95dc/image/?u=1713873237000",group-title="radio music my id",PBS FM 104.8 langsung
-http://live.indostreamserver.com:8002/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/55ea61bd-a099-4d51-9512-75894baf588a/image/?u=1733927134000",group-title="radio music my id",98 Maya FM Bandung
-https://svara-stream.radioddns.net/bandung_mayafm_mono
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5779a601-5698-454d-b329-4b6b648f662b/image/?u=1733927134000",group-title="radio music my id",Global FM Surabaya
-https://svara-stream.radioddns.net/surabaya_globalfm_
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5794e1c7-e3aa-47c0-9ead-d243c27e9ac2/image/?u=1734961998000",group-title="radio music my id",MNC Trijaya FM 87.6
-https://live.mnctrijayamandailingnatal.com:8122/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/579e5c86-c76e-4e47-b287-0bcf224ba0dd/image/?u=1713905363000",group-title="radio music my id",Eight Radio langsung
-https://s3.vinhostmedia.com/9894/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/6e3d1eea-7c9d-44b0-b1e0-0547d13670de/image/?u=1770056012000",group-title="radio music my id",KIARA MPC RADIO
-http://mpc1.mediacp.eu/stream/kiara-radio
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/70c95fc0-990d-4d96-8a91-d5220c892c9b/image/?u=1734594414000",group-title="radio music my id",Sangkakala 1062 AM
-http://radiosangkakala.alucio.net.id:7777/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/70abc402-ef45-42ae-84ce-daf16cea3ca9/image/?u=1770045035000",group-title="radio music my id",Radio Rodja 756 AM & 100.1 FM
-http://live2.radiorodja.com:8000/;stream.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/71af9153-7066-4c4e-8b09-8b5403e2f3d9/image/?u=1713905363000",group-title="radio music my id",M-StreamRadio langsung
-https://stream-44.zeno.fm/itrewiw6dvbuv?zs=d3QU6lI8TgKjXeV-Tytx-w
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/71b1e333-4f17-4f36-a3e6-4db406b105b0/image/?u=1734681158000",group-title="radio music my id",SR FM 107.8
-https://pu.klikhost.com/proxy/srfm/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/81eaaea1-5ba2-41fd-875b-72138c699a51/image/?u=1769694841000",group-title="radio music my id",96.7 FM IMI Radio
+http://a4.asurahosting.com:7070/radio.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8134038e-9484-42eb-95c7-cf6eb63f8ae9/image/?u=1770045035000",group-title="radio music my id",Radio Kasih
+https://onlineradiobox.com/json/id/kasih/play
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/673fc3f5-7ece-41c1-9944-df4a2e86d0c1/image/?u=1769694841000",group-title="radio music my id",RRI - Pro1 Gorontalo
+http://stream-node1.rri.co.id:9115/web-rrigorontalopro1.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/605f776b-87f9-4e0d-b9dc-392d7a7f0261/image/?u=1734681158000",group-title="radio music my id",Radio Muara Paranti FM 105.6
 https://ssg.streamingmurah.com:8308/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/60676ef7-d591-4799-878b-0d4f9e9a1cbe/image/?u=1769694841000",group-title="radio music my id",Pas FM Surabaya
 http://radio.wow.net.id:8102/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/583d1a05-1ae2-44ad-9c84-e29cfc819ebe/image/?u=1701697514000",group-title="radio music my id",Megaswara
-http://live.mgstv.co.id:8002/1/;stream.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5850a615-11f8-41d9-9bdc-f033b9963a01/image/?u=1769694841000",group-title="radio music my id",Seila 104.3 FM
-http://c4.siar.us:8102/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/673fc3f5-7ece-41c1-9944-df4a2e86d0c1/image/?u=1769694841000",group-title="radio music my id",RRI - Pro1 Gorontalo
-http://stream-node1.rri.co.id:9115/web-rrigorontalopro1.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/77d120b6-9f31-47a4-9573-7a78716fe795/image/?u=1735841614000",group-title="radio music my id",Retjo Buntung FM
+http://45.64.97.82:9940
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/7939155b-806d-4731-937d-e75143e944d0/image/?u=1713873237000",group-title="radio music my id",Insania FM langsung
+http://158.69.119.235:8056/
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/63d77dfd-b151-4bf7-853c-9ffc43dc8d29/image/?u=1770121446000",group-title="radio music my id",Classy FM
+http://stream.classyfm.co.id:1034/stream.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/63acaf88-40a7-4008-9440-4ad6dd5f1577/image/?u=1734681158000",group-title="radio music my id",MQ FM 102.7
+https://mqfmstreaming.kamil.web.id/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/71af9153-7066-4c4e-8b09-8b5403e2f3d9/image/?u=1713905363000",group-title="radio music my id",M-StreamRadio langsung
+https://stream-44.zeno.fm/itrewiw6dvbuv?zs=d3QU6lI8TgKjXeV-Tytx-w
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/71b1e333-4f17-4f36-a3e6-4db406b105b0/image/?u=1734681158000",group-title="radio music my id",SR FM 107.8
+https://pu.klikhost.com/proxy/srfm/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/70c95fc0-990d-4d96-8a91-d5220c892c9b/image/?u=1734594414000",group-title="radio music my id",Sangkakala 1062 AM
+http://radiosangkakala.alucio.net.id:7777/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/70abc402-ef45-42ae-84ce-daf16cea3ca9/image/?u=1770045035000",group-title="radio music my id",Radio Rodja 756 AM & 100.1 FM
+http://live2.radiorodja.com:8000/;stream.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/7547f3e1-b8d7-41bb-a7c7-39a9c73a81e6/image/?u=1713873237000",group-title="radio music my id",I-Radio Makassar langsung
 https://stream.radiojar.com/seqmzfeu5k8uv
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/763075cb-98c2-44fb-8a51-0d277df84018/image/?u=1713905363000",group-title="radio music my id",Music Lovers Lounge langsung
 https://rautemusik-de-hz-fal-stream16.radiohost.de/lounge?aw_0_req.userConsentV2=CPl1VAAPl1VAAAFADBENCzCsAP_AAE_AAAYgI9td_H__bW9j-f5_aft0eY1P9_rz7uQzDhfNk-4F3L_W_LwX52E7NF36tq4KmR4ku1LBIQNlHMHUDUmwaokVryHsak2cpSNKJ7BEknMZOydYGF9Pmxtj-QKY5v5_d3&ref=rm5beta
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8134038e-9484-42eb-95c7-cf6eb63f8ae9/image/?u=1770045035000",group-title="radio music my id",Radio Kasih
-https://onlineradiobox.com/json/id/kasih/play
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/93c47bb6-a555-43e3-be9c-4a35a007c2d1/image/?u=1713905363000",group-title="radio music my id",RSHD langsung
-http://rshd.hopto.org:8000/live
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/6e3d1eea-7c9d-44b0-b1e0-0547d13670de/image/?u=1770056012000",group-title="radio music my id",KIARA MPC RADIO
+http://mpc1.mediacp.eu/stream/kiara-radio
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/aa59007a-e169-11e8-a9cc-52543be04c81/image/?u=1701701529000",group-title="radio music my id",IMC Broadcasting
+http://server.jvhost.net:8021/live
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a9a89088-976a-4b39-8f71-1ef13b3d55f8/image/?u=1713873237000",group-title="radio music my id",Radio Swadesi Jepara 100.9 FM langsung
+http://radio.swadesijoss.com:8050/radio.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ab5a39a4-5ba9-4e3f-9894-da4e8a4e61f1/image/?u=1734681158000",group-title="radio music my id",Elshinta Bandung FM 89.3
+https://stream-ssl.arenastreaming.com:8005/bandung
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/90dc2aba-2136-43c2-81e4-e70d29b3571f/image/?u=1734681158000",group-title="radio music my id",RRI Pro 1 Cirebon FM 94.8
 https://stream-node2.rri.co.id/streaming/17/9317/rricirebonpro1.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/90e646c8-82b2-4e79-89d6-f608167b5ddd/image/?u=1734681158000",group-title="radio music my id",Bravo FM 107.7
 https://pu.klikhost.com/proxy/bravofm/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ade4fc56-5b21-4b3f-8994-2ce58c344e2e/image/?u=1735470887000",group-title="radio music my id",Radio Suara RH 99.9 FM
 https://live4.rs3fm.com:8000/radiorh
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ab5a39a4-5ba9-4e3f-9894-da4e8a4e61f1/image/?u=1734681158000",group-title="radio music my id",Elshinta Bandung FM 89.3
-https://stream-ssl.arenastreaming.com:8005/bandung
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/af8f121d-dfc0-41cc-8b87-30366fcaed31/image/?u=1713873237000",group-title="radio music my id",Matrix FM langsung
+http://live.radiomatrixfm.com:8000/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ae1778ea-7258-4a1b-9095-aa257800f5fc/image/?u=1734594414000",group-title="radio music my id",EBS FM 105.9
 https://streaming.suzanafm.com:8100/;stream.nsv
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/af3cf329-eb15-44aa-a774-8e1bf960a80d/image/?u=1770121446000",group-title="radio music my id",Prosalina FM
+https://i.klikhost.com/8618/stream?1708788698312
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8a222247-084d-48c0-8faa-b09ae7b8d991/image/?u=1713873237000",group-title="radio music my id",MQFM Bandung langsung
 http://streaming.mqfmnetwork.com:1027/relay
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8a39e300-23b3-40f1-95fd-41cd8a9df47b/image/?u=1770045035000",group-title="radio music my id",Beat Radio Bali
 https://c1.siar.us/radio/8030/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8a44851c-7456-489f-8cd6-131328605ea3/image/?u=1713873237000",group-title="radio music my id",Da Best Radio 101.1 FM langsung
 http://i.klikhost.com:9196/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8ef718ba-745c-4e78-9dfe-bbaceadf8a3b/image/?u=1735470887000",group-title="radio music my id",Play FM 97.5
+http://66.96.237.109:8000
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a4639e59-057a-407b-b335-1c1b994e5380/image/?u=1734594414000",group-title="radio music my id",Megaswara FM 100.8
+https://server.adyadigitalteknologi.com:8010/1/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a47e63d2-10d7-4db2-8b48-3867f51fb0e2/image/?u=1701697415000",group-title="radio music my id",90.9 global FM surabaya
+https://svara-stream.radioddns.net:8443/surabaya_globalfm_
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a693ddf2-d8df-4458-9f4b-22cb21d8ddbd/image/?u=1734681158000",group-title="radio music my id",Radio Syallom FM
+http://45.64.97.82:8233/stream/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a57d86a8-d87b-4018-bd60-be39343d4c68/image/?u=1713905363000",group-title="radio music my id",Jatim Radio Network langsung
+http://streaming.classynetradio.com:8040/love
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/93c47bb6-a555-43e3-be9c-4a35a007c2d1/image/?u=1713905363000",group-title="radio music my id",RSHD langsung
+http://rshd.hopto.org:8000/live
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/96061cb7-0601-11e8-ae97-52543be04c81/image/?u=1770045035000",group-title="radio music my id",EL SHADDAI FM SOLO
+http://shaddai.onlivestreaming.net:9130/live
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a3a5822a-df74-483c-a5b0-c7127a84391d/image/?u=1713873237000",group-title="radio music my id",Sasaraina FM langsung
+http://i.klikhost.com:8038/;radio.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/9657171c-07b7-4cb0-952e-c760edaf618a/image/?u=1734594414000",group-title="radio music my id",RDK FM
+https://a1.siar.us/listen/rdk/autodj.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/96786c08-4d3f-467a-8511-27bcc8b29257/image/?u=1713873237000",group-title="radio music my id",FIT Radio Bandung langsung
+http://115.178.48.43:9964/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/879d7bbe-af7a-4b27-9695-f5f5ee5f558f/image/?u=1734681158000",group-title="radio music my id",Radio Favorit Atambua
+http://s4.vinhostmedia.com:8000/favoritfm
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/896b0eda-d623-48e6-b55d-eaf067648465/image/?u=1701698057000",group-title="radio music my id",Radio Online Sulita
+http://198.178.123.8:7082/listen.pls
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/9a708418-e7f6-40b8-9591-dba919c55e06/image/?u=1734594414000",group-title="radio music my id",MyRadioID
+http://albireo.shoutca.st:8400/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/9cd22f6a-0ce8-4b6c-be91-568384622627/image/?u=1734594414000",group-title="radio music my id",INDj Radio
+https://s3.alhastream.com:8050/radio
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/9d566750-cba1-41fc-9400-02389a964f5f/image/?u=1734681158000",group-title="radio music my id",RRI Pro 2 Gorontalo FM 92.4
+https://stream-node1.rri.co.id/streaming/15/9115/rrigorontalopro2.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/9d56c619-a7db-4463-969f-c2111d15a1e1/image/?u=1713905363000",group-title="radio music my id",AR Radio Bali langsung
+https://live.radioarbali.com:8450/radioar
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/9c8d8bc1-c117-411d-a788-09c4c9c8c96e/image/?u=1713873237000",group-title="radio music my id",Sriwijaya Radio langsung
+http://sriwijaya.onlivestreaming.net:9430/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8c7e0a8d-eb80-498d-85ce-5d49f8f59601/image/?u=1713905363000",group-title="radio music my id",Radio Syiar Islam Perbatasan 94.6 FM langsung
 http://scg.streamingmurah.com:8197/;stream.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8b6d0fe9-c473-4a22-acc7-50c30264bc30/image/?u=1734681158000",group-title="radio music my id",Muara RPS 91.5 FM
@@ -3675,98 +3717,14 @@ https://svara-stream.radioddns.net:8443/surabaya_djfm_
 https://eu8.fastcast4u.com/proxy/drawer22/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/9e7d34ff-8920-4848-9d73-cb961bd5dd00/image/?u=1713873237000",group-title="radio music my id",Jateng Gayeng Radio langsung
 https://stream.onlineradio.jatengprov.go.id/listen/java_stream/radio.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8ef718ba-745c-4e78-9dfe-bbaceadf8a3b/image/?u=1735470887000",group-title="radio music my id",Play FM 97.5
-http://66.96.237.109:8000
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/aa59007a-e169-11e8-a9cc-52543be04c81/image/?u=1701701529000",group-title="radio music my id",IMC Broadcasting
-http://server.jvhost.net:8021/live
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a9a89088-976a-4b39-8f71-1ef13b3d55f8/image/?u=1713873237000",group-title="radio music my id",Radio Swadesi Jepara 100.9 FM langsung
-http://radio.swadesijoss.com:8050/radio.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a4639e59-057a-407b-b335-1c1b994e5380/image/?u=1734594414000",group-title="radio music my id",Megaswara FM 100.8
-https://server.adyadigitalteknologi.com:8010/1/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a47e63d2-10d7-4db2-8b48-3867f51fb0e2/image/?u=1701697415000",group-title="radio music my id",90.9 global FM surabaya
-https://svara-stream.radioddns.net:8443/surabaya_globalfm_
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a3a5822a-df74-483c-a5b0-c7127a84391d/image/?u=1713873237000",group-title="radio music my id",Sasaraina FM langsung
-http://i.klikhost.com:8038/;radio.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a693ddf2-d8df-4458-9f4b-22cb21d8ddbd/image/?u=1734681158000",group-title="radio music my id",Radio Syallom FM
-http://45.64.97.82:8233/stream/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a57d86a8-d87b-4018-bd60-be39343d4c68/image/?u=1713905363000",group-title="radio music my id",Jatim Radio Network langsung
-http://streaming.classynetradio.com:8040/love
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/81eaaea1-5ba2-41fd-875b-72138c699a51/image/?u=1769694841000",group-title="radio music my id",96.7 FM IMI Radio
-http://a4.asurahosting.com:7070/radio.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/896b0eda-d623-48e6-b55d-eaf067648465/image/?u=1701698057000",group-title="radio music my id",Radio Online Sulita
-http://198.178.123.8:7082/listen.pls
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/9657171c-07b7-4cb0-952e-c760edaf618a/image/?u=1734594414000",group-title="radio music my id",RDK FM
-https://a1.siar.us/listen/rdk/autodj.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/96786c08-4d3f-467a-8511-27bcc8b29257/image/?u=1713873237000",group-title="radio music my id",FIT Radio Bandung langsung
-http://115.178.48.43:9964/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/af8f121d-dfc0-41cc-8b87-30366fcaed31/image/?u=1713873237000",group-title="radio music my id",Matrix FM langsung
-http://live.radiomatrixfm.com:8000/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/af3cf329-eb15-44aa-a774-8e1bf960a80d/image/?u=1770121446000",group-title="radio music my id",Prosalina FM
-https://i.klikhost.com/8618/stream?1708788698312
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/96061cb7-0601-11e8-ae97-52543be04c81/image/?u=1770045035000",group-title="radio music my id",EL SHADDAI FM SOLO
-http://shaddai.onlivestreaming.net:9130/live
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/9cd22f6a-0ce8-4b6c-be91-568384622627/image/?u=1734594414000",group-title="radio music my id",INDj Radio
-https://s3.alhastream.com:8050/radio
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/9d566750-cba1-41fc-9400-02389a964f5f/image/?u=1734681158000",group-title="radio music my id",RRI Pro 2 Gorontalo FM 92.4
-https://stream-node1.rri.co.id/streaming/15/9115/rrigorontalopro2.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/9d56c619-a7db-4463-969f-c2111d15a1e1/image/?u=1713905363000",group-title="radio music my id",AR Radio Bali langsung
-https://live.radioarbali.com:8450/radioar
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/9c8d8bc1-c117-411d-a788-09c4c9c8c96e/image/?u=1713873237000",group-title="radio music my id",Sriwijaya Radio langsung
-http://sriwijaya.onlivestreaming.net:9430/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/879d7bbe-af7a-4b27-9695-f5f5ee5f558f/image/?u=1734681158000",group-title="radio music my id",Radio Favorit Atambua
-http://s4.vinhostmedia.com:8000/favoritfm
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/9a708418-e7f6-40b8-9591-dba919c55e06/image/?u=1734594414000",group-title="radio music my id",MyRadioID
-http://albireo.shoutca.st:8400/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/bb5b145e-d56e-47cc-9715-75b5276d3290/image/?u=1733927134000",group-title="radio music my id",Warna FM Padang
-https://a5.siar.us/listen/warna91.6fmpadang/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/bc637360-7286-419e-af31-e6c3616a4805/image/?u=1713873237000",group-title="radio music my id",Retjo Buntung FM 99.4 langsung
-https://ssg.streamingmurah.com:9940/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/bdd52885-0550-41b3-b0ae-2be273ba257c/image/?u=1769694841000",group-title="radio music my id",RRI - Pro1 Ranai
-http://stream-node0.rri.co.id:9124/rriranaipro1.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/cc27cf89-9adf-4d86-9edc-d4ae5bc0e7ae/image/?u=1769688878000",group-title="radio music my id",Radio MQFM Bandung
-http://mqfmstreaming.kamil.web.id:8200/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/cbc0a80d-5d89-484b-a982-31c054007d23/image/?u=1713937709000",group-title="radio music my id",City Radio Mandarin langsung
-https://live.cityradio.id/cr-mandarin.ogg
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e65760a6-296f-49df-89f2-8216137ae3ed/image/?u=1713937709000",group-title="radio music my id",Radio CitisFm langsung
-http://78.129.193.112:13463/;stream.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e71ef02a-5fa6-4a7a-8b4c-3c86180e56f0/image/?u=1734594414000",group-title="radio music my id",RRI Pro 1 FM 93.5
-https://stream-node0.rri.co.id/streaming/23/9023/rrijayapurapro1.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e5141366-cf58-43d9-a4ae-6b11ceeb5658/image/?u=1769694841000",group-title="radio music my id",RRI - Pro1 Jakarta
-http://stream-node1.rri.co.id:9025/rrijakartapro1.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e5a062de-0308-4a11-b140-7c18179fc084/image/?u=1701697580000",group-title="radio music my id",EBS FM
-http://202.43.173.188:8100/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ba97bbba-ae42-4071-9fea-f92023d23a2b/image/?u=1770045035000",group-title="radio music my id",Radio Wijang Songko
-https://static-s8.xajist.com:8787/live?title=Hello%20Dangdut%20RWS&timestamp=1701054762
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ba9b239a-7e0f-4c73-9bca-6c7d33b12e4b/image/?u=1734708994000",group-title="radio music my id",RRI Pro 4 AM 1197
-https://stream-node2.rri.co.id/streaming/12/9312/rripalangkarayapro4.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c0c9d2aa-4e30-447b-a61e-5d24a6e355ff/image/?u=1734594414000",group-title="radio music my id",RRI Pro1 Lhokseumawe 89.3 FM
+http://stream-node1.rri.co.id:9140/rrilhokseumawepro1.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c8995e75-c704-4ccc-93e7-c4f891f858c4/image/?u=1769755357000",group-title="radio music my id",Radio Bali United FM
 http://sgp1.onlivestreaming.net:10690/live
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c8043850-e3d2-4420-9adc-19874a368e1e/image/?u=1734681158000",group-title="radio music my id",KC10 87.9 FM
 http://180.178.108.98:8000/kc-10
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e495595b-42dc-4745-9d08-d4d48c1c8bb3/image/?u=1734594414000",group-title="radio music my id",Radio Islam Pemalang 2
-https://az1.radioislam.my.id/radio/8140/radio.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e4ac8d09-a88f-4946-a771-e58aaa938c90/image/?u=1713873237000",group-title="radio music my id",Radio Blambangan FM langsung
-http://streaming.blambanganfm.com:8000/blambanganfm.com
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e34acf8c-5298-4b9f-876d-d331c65410ca/image/?u=1734594414000",group-title="radio music my id",RRI Pro 4 92.4 FM
-https://stream-node1.rri.co.id/streaming/14/9114/rripalupro4.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e2864481-44b2-4f85-b500-6b5d25d10ddd/image/?u=1769694841000",group-title="radio music my id",Delta FM Surabaya
-http://s1.cloudmu.id:8030/radio.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/b53e33cf-7e33-4154-935f-7776490b8025/image/?u=1769694841000",group-title="radio music my id",RRI - Pro1 Jambi
-http://stream-node1.rri.co.id:9211/rrijambipro1.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c42207b0-53b3-4939-80e0-e9ea8a561420/image/?u=1736320192000",group-title="radio music my id",Radio Kencana Bandung 96.8
-http://i.klikhost.com:8822/
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c5e139d4-340c-4316-bdd2-b49ea2b584ea/image/?u=1701699700000",group-title="radio music my id",Suara Gracia FM Blitar
-http://u.klikhost.net:8000/suaragraciafm
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/de6a18a8-25fa-4c69-b45e-a426dfb0a2be/image/?u=1769694841000",group-title="radio music my id",RRI - Pro4 Denpasar
-http://stream-node0.rri.co.id:9021/web-rridenpasarpro4.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/dc4cb0cf-618f-4c28-9a67-6027e3d18038/image/?u=1713873237000",group-title="radio music my id",UpRadio langsung
-https://stream.tujuhcahaya.com/listen/upradio_semarang/radio.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/d361133f-e614-433e-8285-8a82b6083c8a/image/?u=1734681158000",group-title="radio music my id",Wijang Songko FM 99
-https://static-s8.xajist.com:8787/live
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/d1f18eae-7b12-4e40-8b98-966e95ae84b5/image/?u=1701699689000",group-title="radio music my id",Radio Seribatu
-http://radioseribatu.out.airtime.pro:8000/radioseribatu_a
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/d21d83d5-4274-48e1-84ab-3f0e9a197f1b/image/?u=1769694841000",group-title="radio music my id",RRI - Pro4 Lampung
-http://stream-node1.rri.co.id:9112/rrilampungpro4.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ea9a0b44-b47a-4685-b870-3c5fe72b7861/image/?u=1734594414000",group-title="radio music my id",DCS FM 100.5
+https://radioislamindonesia.com/dcsfm.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/d8b2952b-c5c1-4e5b-9ac2-b77a4367a2da/image/?u=1734681158000",group-title="radio music my id",Xtra FM 104.8
 https://i.klikhost.com/8864/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/d8caeff5-5f9d-41b1-8f2c-762f2b164b55/image/?u=1770104887000",group-title="radio music my id",Luhak Nan Tuo 102.5 FM
@@ -3777,54 +3735,96 @@ https://pu.klikhost.com:7044/live
 https://streaming.radiomuslim.com/index.html?sid=1/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/d80a922b-0892-4ac0-b9bb-0439bb6e46ff/image/?u=1770045035000",group-title="radio music my id",Radio Idola Semarang
 https://stream.radioidola.com/listen/idolafm/live
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/b1755cb1-ff7f-45de-b92c-fdf3aa78b685/image/?u=1734681158000",group-title="radio music my id",Megaswara FM 93.8
-https://server.adyadigitalteknologi.com:8010/6
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e495595b-42dc-4745-9d08-d4d48c1c8bb3/image/?u=1734594414000",group-title="radio music my id",Radio Islam Pemalang 2
+https://az1.radioislam.my.id/radio/8140/radio.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e4ac8d09-a88f-4946-a771-e58aaa938c90/image/?u=1713873237000",group-title="radio music my id",Radio Blambangan FM langsung
+http://streaming.blambanganfm.com:8000/blambanganfm.com
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e65760a6-296f-49df-89f2-8216137ae3ed/image/?u=1713937709000",group-title="radio music my id",Radio CitisFm langsung
+http://78.129.193.112:13463/;stream.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e71ef02a-5fa6-4a7a-8b4c-3c86180e56f0/image/?u=1734594414000",group-title="radio music my id",RRI Pro 1 FM 93.5
+https://stream-node0.rri.co.id/streaming/23/9023/rrijayapurapro1.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e5141366-cf58-43d9-a4ae-6b11ceeb5658/image/?u=1769694841000",group-title="radio music my id",RRI - Pro1 Jakarta
+http://stream-node1.rri.co.id:9025/rrijakartapro1.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e5a062de-0308-4a11-b140-7c18179fc084/image/?u=1701697580000",group-title="radio music my id",EBS FM
+http://202.43.173.188:8100/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/be8cec01-7ef9-4ab9-8e10-36aab7be53e6/image/?u=1713905363000",group-title="radio music my id",Lodiko SODONYO langsung
 https://mpc1.mediacp.eu:8014/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/bffe0959-edde-4adb-8b05-6a045317dca2/image/?u=1770056012000",group-title="radio music my id",Sonora FM Bandung
 https://streamingv2.shoutcast.com/sonora-bandung
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c0c9d2aa-4e30-447b-a61e-5d24a6e355ff/image/?u=1734594414000",group-title="radio music my id",RRI Pro1 Lhokseumawe 89.3 FM
-http://stream-node1.rri.co.id:9140/rrilhokseumawepro1.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/bdd52885-0550-41b3-b0ae-2be273ba257c/image/?u=1769694841000",group-title="radio music my id",RRI - Pro1 Ranai
+http://stream-node0.rri.co.id:9124/rriranaipro1.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/d361133f-e614-433e-8285-8a82b6083c8a/image/?u=1734681158000",group-title="radio music my id",Wijang Songko FM 99
+https://static-s8.xajist.com:8787/live
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/d0f82e74-4f6e-4c45-8829-a635541ca949/image/?u=1735841614000",group-title="radio music my id",Radio Bodeh26Fm 93.15
 http://scg.streamingmurah.com:9292/
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/cf41b684-69bf-46d9-9005-a3fa54fd0498/image/?u=1734594414000",group-title="radio music my id",Radio Raih Surga
-https://azuracast.iqbpn.com/listen/radio_raih_surga/radio.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ea9a0b44-b47a-4685-b870-3c5fe72b7861/image/?u=1734594414000",group-title="radio music my id",DCS FM 100.5
-https://radioislamindonesia.com/dcsfm.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e8b802b3-a1eb-490d-85fc-08faa63abdbb/image/?u=1734681158000",group-title="radio music my id",RRI Pro 2 FM 95.3
-https://stream-node0.rri.co.id/streaming/21/9021/rridenpasarpro2.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/fb89099a-f789-4984-9070-9812e5c7e27c/image/?u=1701695062000",group-title="radio music my id",Radio BFM Belitung
-https://play.bilitonesefm.com/listen/radiobfm/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/fbd8ea82-d1b2-4106-becd-c8946496bf36/image/?u=1734961998000",group-title="radio music my id",GSP FM 95.2
-https://stream.swadesifm.com/radio/8120/radio.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/fca771c8-3feb-4d3c-bef7-8bb99ddd38ab/image/?u=1769755357000",group-title="radio music my id",Radio Buana Asri Sragen
-http://stream-eu-nc.arenastreaming.com:6477/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/d1f18eae-7b12-4e40-8b98-966e95ae84b5/image/?u=1701699689000",group-title="radio music my id",Radio Seribatu
+http://radioseribatu.out.airtime.pro:8000/radioseribatu_a
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/d21d83d5-4274-48e1-84ab-3f0e9a197f1b/image/?u=1769694841000",group-title="radio music my id",RRI - Pro4 Lampung
+http://stream-node1.rri.co.id:9112/rrilampungpro4.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/efa784a7-52b0-46eb-b50b-96a33d03e326/image/?u=1713905363000",group-title="radio music my id",Radio Bamba Manurung langsung
 http://103.28.148.18:8504/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ee5f8a96-19dc-45b1-87a1-266055696a52/image/?u=1769694841000",group-title="radio music my id",RRI - Pro1 Kendari
 http://stream-node2.rri.co.id:9313/rrikendaripro1.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ee9856c5-2a0d-4f10-b8c2-44444dedf8a1/image/?u=1701695390000",group-title="radio music my id",Prambors FM Jakarta
 https://23743.live.streamtheworld.com/PRAMBORS_FM.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f6a76a35-a87b-4601-acfb-6f2a577a7626/image/?u=1701698736000",group-title="radio music my id",Flamboyan 99.6 FM Karawang
-https://i.klikhost.com/8236/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f4f9fdda-ed23-4971-b988-ad892472d87e/image/?u=1769694841000",group-title="radio music my id",RRI - Pro1 Ende
-http://stream-node1.rri.co.id:9223/web-rriendepro1.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f7ff9096-285c-4cf7-8639-46d439c316c9/image/?u=1734681158000",group-title="radio music my id",Andika FM 105.7
-https://r5.siar.us:1057/andikafm
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/bb5b145e-d56e-47cc-9715-75b5276d3290/image/?u=1733927134000",group-title="radio music my id",Warna FM Padang
+https://a5.siar.us/listen/warna91.6fmpadang/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/bc637360-7286-419e-af31-e6c3616a4805/image/?u=1713873237000",group-title="radio music my id",Retjo Buntung FM 99.4 langsung
+https://ssg.streamingmurah.com:9940/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ba97bbba-ae42-4071-9fea-f92023d23a2b/image/?u=1770045035000",group-title="radio music my id",Radio Wijang Songko
+https://static-s8.xajist.com:8787/live?title=Hello%20Dangdut%20RWS&timestamp=1701054762
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ba9b239a-7e0f-4c73-9bca-6c7d33b12e4b/image/?u=1734708994000",group-title="radio music my id",RRI Pro 4 AM 1197
+https://stream-node2.rri.co.id/streaming/12/9312/rripalangkarayapro4.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/dc4cb0cf-618f-4c28-9a67-6027e3d18038/image/?u=1713873237000",group-title="radio music my id",UpRadio langsung
+https://stream.tujuhcahaya.com/listen/upradio_semarang/radio.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f1379885-43ce-40a2-9b54-21e4326fccab/image/?u=1734594414000",group-title="radio music my id",SAS FM 107.9
+https://pu.klikhost.com/proxy/sasfm/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f1bd7bdb-44ae-4632-a021-60ee10f8f3e7/image/?u=1713873237000",group-title="radio music my id",V-Radio Jakarta 106.6 FM langsung
 http://202.147.199.100:8000/;stream.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f1e28c16-040e-4206-b6c3-fdb44ff26207/image/?u=1701699746000",group-title="radio music my id",mandarin station
 https://stream01-ssl.arenastreaming.com:8043/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f48b1cc7-8f3c-4047-9546-34cbfdc0b7de/image/?u=1769694841000",group-title="radio music my id",RRI - Pro1 Serui
-http://stream-node1.rri.co.id:9222/rriseruipro1.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f3c608c2-9878-4769-8096-1483da755876/image/?u=1734594414000",group-title="radio music my id",Media 90.1 FM
 https://streaming.radiomediafm.com:8400/;stream.nsv
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f358b099-5c1c-4652-9c4c-335ea5387091/image/?u=1734681158000",group-title="radio music my id",Gloria FM 97.4
 http://play.xajist.com:8180/stream/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f1379885-43ce-40a2-9b54-21e4326fccab/image/?u=1734594414000",group-title="radio music my id",SAS FM 107.9
-https://pu.klikhost.com/proxy/sasfm/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/b53e33cf-7e33-4154-935f-7776490b8025/image/?u=1769694841000",group-title="radio music my id",RRI - Pro1 Jambi
+http://stream-node1.rri.co.id:9211/rrijambipro1.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/cf41b684-69bf-46d9-9005-a3fa54fd0498/image/?u=1734594414000",group-title="radio music my id",Radio Raih Surga
+https://azuracast.iqbpn.com/listen/radio_raih_surga/radio.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e34acf8c-5298-4b9f-876d-d331c65410ca/image/?u=1734594414000",group-title="radio music my id",RRI Pro 4 92.4 FM
+https://stream-node1.rri.co.id/streaming/14/9114/rripalupro4.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e2864481-44b2-4f85-b500-6b5d25d10ddd/image/?u=1769694841000",group-title="radio music my id",Delta FM Surabaya
+http://s1.cloudmu.id:8030/radio.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/cc27cf89-9adf-4d86-9edc-d4ae5bc0e7ae/image/?u=1769688878000",group-title="radio music my id",Radio MQFM Bandung
+http://mqfmstreaming.kamil.web.id:8200/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/cbc0a80d-5d89-484b-a982-31c054007d23/image/?u=1713937709000",group-title="radio music my id",City Radio Mandarin langsung
+https://live.cityradio.id/cr-mandarin.ogg
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e8b802b3-a1eb-490d-85fc-08faa63abdbb/image/?u=1734681158000",group-title="radio music my id",RRI Pro 2 FM 95.3
+https://stream-node0.rri.co.id/streaming/21/9021/rridenpasarpro2.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/b1755cb1-ff7f-45de-b92c-fdf3aa78b685/image/?u=1734681158000",group-title="radio music my id",Megaswara FM 93.8
+https://server.adyadigitalteknologi.com:8010/6
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c5e139d4-340c-4316-bdd2-b49ea2b584ea/image/?u=1701699700000",group-title="radio music my id",Suara Gracia FM Blitar
+http://u.klikhost.net:8000/suaragraciafm
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c42207b0-53b3-4939-80e0-e9ea8a561420/image/?u=1736320192000",group-title="radio music my id",Radio Kencana Bandung 96.8
+http://i.klikhost.com:8822/
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/de6a18a8-25fa-4c69-b45e-a426dfb0a2be/image/?u=1769694841000",group-title="radio music my id",RRI - Pro4 Denpasar
+http://stream-node0.rri.co.id:9021/web-rridenpasarpro4.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f6a76a35-a87b-4601-acfb-6f2a577a7626/image/?u=1701698736000",group-title="radio music my id",Flamboyan 99.6 FM Karawang
+https://i.klikhost.com/8236/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f48b1cc7-8f3c-4047-9546-34cbfdc0b7de/image/?u=1769694841000",group-title="radio music my id",RRI - Pro1 Serui
+http://stream-node1.rri.co.id:9222/rriseruipro1.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/fbd8ea82-d1b2-4106-becd-c8946496bf36/image/?u=1734961998000",group-title="radio music my id",GSP FM 95.2
+https://stream.swadesifm.com/radio/8120/radio.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/fca771c8-3feb-4d3c-bef7-8bb99ddd38ab/image/?u=1769755357000",group-title="radio music my id",Radio Buana Asri Sragen
+http://stream-eu-nc.arenastreaming.com:6477/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f4f9fdda-ed23-4971-b988-ad892472d87e/image/?u=1769694841000",group-title="radio music my id",RRI - Pro1 Ende
+http://stream-node1.rri.co.id:9223/web-rriendepro1.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f7ff9096-285c-4cf7-8639-46d439c316c9/image/?u=1734681158000",group-title="radio music my id",Andika FM 105.7
+https://r5.siar.us:1057/andikafm
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/fae8e17c-5c1a-4b21-8043-c7c243a06325/image/?u=1769694841000",group-title="radio music my id",Amatron 3 FM
 http://51.79.167.17:7026/Amatron.aac/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/fb89099a-f789-4984-9070-9812e5c7e27c/image/?u=1701695062000",group-title="radio music my id",Radio BFM Belitung
+https://play.bilitonesefm.com/listen/radiobfm/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/82b46902-48c9-4f1c-b779-633c39309632/image/?u=1733837450000",group-title="radio music my id",Radio Sholawat
 https://stream.zeno.fm/us5bsznu3rptv
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICAs7rj-AsMCxIOU3RhdGlvblByb2ZpbGUYgICwtoXK-AgMogEEemVubw/image/?u=1660856482000",group-title="radio music my id",NUSA FM
@@ -3877,16 +3877,16 @@ https://stream.zeno.fm/fv3e0ghem98uv
 https://i.klikhost.com/8190/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/20093591-3838-4bb7-89d2-a23aafeff604/image/?u=1713873237000",group-title="radio music my id",Radio Maria Indonesia langsung
 http://dreamsiteradiocp.com:8062/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5f9da7e7-f8e2-4d20-a690-c4dae78961b2/image/?u=1769694841000",group-title="radio music my id",Radio Suara ITMI (RSI)
-http://s.stri.my.id:8190/radio
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/78db5b78-d5ff-4fe8-97cb-5584af9fa477/image/?u=1713873237000",group-title="radio music my id",Radio Murottal langsung
-https://stream-47.zeno.fm/agv8w1xp1uhvv?zs=1ePJ9DYIT6KWrd2_cc08sg
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4dfbfbfa-cc18-4a49-bf88-d1e3391dc476/image/?u=1713873237000",group-title="radio music my id",Voice 103.7 FM langsung
-http://pu.klikhost.com:8146/live
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/3dd5ebda-45cd-43ff-900a-ac754da7e710/image/?u=1769694841000",group-title="radio music my id",Radio Al-Hikmah FM
 http://live1.indostreamserver.com:8120/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5f9da7e7-f8e2-4d20-a690-c4dae78961b2/image/?u=1769694841000",group-title="radio music my id",Radio Suara ITMI (RSI)
+http://s.stri.my.id:8190/radio
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/7f4776fb-9099-4305-92b9-54dd9806dcc3/image/?u=1713905363000",group-title="radio music my id",Radio Cahaya langsung
 https://sukmben.radiogentara.com/radio/8090/cahaya64
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4dfbfbfa-cc18-4a49-bf88-d1e3391dc476/image/?u=1713873237000",group-title="radio music my id",Voice 103.7 FM langsung
+http://pu.klikhost.com:8146/live
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/78db5b78-d5ff-4fe8-97cb-5584af9fa477/image/?u=1713873237000",group-title="radio music my id",Radio Murottal langsung
+https://stream-47.zeno.fm/agv8w1xp1uhvv?zs=1ePJ9DYIT6KWrd2_cc08sg
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/9d55e9f2-e03e-42fb-b4d6-d392917164c9/image/?u=1713873237000",group-title="radio music my id",Radio Fajri langsung
 https://live.radioislam.xyz:7000/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ab97c112-e03e-4622-9432-bf7a1e6dcc07/image/?u=1713873237000",group-title="radio music my id",Excellent langsung
@@ -3895,10 +3895,10 @@ http://streaming.classynetradio.com:8060/EXCELLENT
 http://s7.alhastream.com/radio/8420/radio
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e87c832b-b1af-41fd-bbb1-4500fb0b9f7f/image/?u=1713905363000",group-title="radio music my id",paramita fm langsung
 http://162.210.196.140:14261/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f1ea6a9e-4150-4782-9e6d-3497dbf2a012/image/?u=1713937709000",group-title="radio music my id",Dakwah Sunnah langsung
-http://live.dakwahsunnah.com/;stream.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f3b7ce70-aef2-4798-8a03-e4e987a94ca3/image/?u=1769694841000",group-title="radio music my id",Suara Gracia FM
 http://pu.klikhost.com:8076/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f1ea6a9e-4150-4782-9e6d-3497dbf2a012/image/?u=1713937709000",group-title="radio music my id",Dakwah Sunnah langsung
+http://live.dakwahsunnah.com/;stream.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/19243525-75b5-4d77-8049-7a57cf254e64/image/?u=1713937709000",group-title="radio music my id",Radio Muria Jepara langsung
 https://r1.siar.us/listen/radiomuriajepara/radio.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/6110cd9e-8a20-4f37-b02d-e35f6c2e3a73/image/?u=1769755357000",group-title="radio music my id",Radio Lewi
@@ -3915,16 +3915,16 @@ https://pu.klikhost.com:8094/stream
 https://stream-64.zeno.fm/2awpqrwk3nhvv
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/88adb880-7900-45d8-90dc-d16b1a363c9f/image/?u=1713905363000",group-title="radio music my id",Radio Salafy Indonesia (Rasyid) langsung
 http://rasyidsalutama.radioislam.my.id:9044/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/39065463-2409-4b57-8caf-25efd91000a7/image/?u=1733927134000",group-title="radio music my id",Radio Tsania Bumiayu
-https://a10.siar.us:8280/radio.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5792a76e-e2b8-45c0-8f9f-6b06c86b6fa1/image/?u=1733927134000",group-title="radio music my id",Tritara 106.1 fm
 https://streaming.classynetradio.com:8060/TRITARA
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1151b5bf-c3d4-4b4f-b00a-699d1f6a3411/image/?u=1713905363000",group-title="radio music my id",Radio Mutiara Qur'an AM 1170 langsung
-https://radioislamindonesia.com/mutiaraquran.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/7b78c290-1240-4782-9251-4db826549464/image/?u=1769755357000",group-title="radio music my id",Vi-HOPE Radio
-http://vihope.i.streaming.id:8090/vihope
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/39065463-2409-4b57-8caf-25efd91000a7/image/?u=1733927134000",group-title="radio music my id",Radio Tsania Bumiayu
+https://a10.siar.us:8280/radio.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/6105c180-572c-4b3b-95db-5f2d9cf24c91/image/?u=1733927134000",group-title="radio music my id",Bethany FM
 https://pu.klikhost.com/proxy/bethanyfm/stream
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/7b78c290-1240-4782-9251-4db826549464/image/?u=1769755357000",group-title="radio music my id",Vi-HOPE Radio
+http://vihope.i.streaming.id:8090/vihope
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1151b5bf-c3d4-4b4f-b00a-699d1f6a3411/image/?u=1713905363000",group-title="radio music my id",Radio Mutiara Qur'an AM 1170 langsung
+https://radioislamindonesia.com/mutiaraquran.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c95b1229-a872-4c35-8bdb-9f1550356627/image/?u=1735841614000",group-title="radio music my id",Sangkakala 1062
 http://radiosangkakala.alucio.net.id:7777/
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/de4bdd44-1ff6-4ac2-abbd-9c5a6a2fe24b/image/?u=1713873237000",group-title="radio music my id",Radio Heartline Samarinda 94.4 FM langsung
@@ -4021,18 +4021,18 @@ https://mediaprima.rastream.com/mediaprima-hotfm
 https://d2kziuzkf9oizb.cloudfront.net/rd001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4edc28c7-be17-4db2-9ff0-c326c0efde79/image/?u=1733927134000",group-title="radio music my id",Eight FM
 https://stream.rcs.revma.com/qp0xrd9mtd3vv
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/7cbcf4e2-28c5-44c5-8f0d-2f2807243908/image/?u=1713905363000",group-title="radio music my id",Mediacorp CLASS 95 online
+https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95_PREM_SC?dist=MPL&pname=TDSdk
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/74a75642-e60d-4d6c-8de0-ef9eabe250d4/image/?u=1733927134000",group-title="radio music my id",RTM - Labuan FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/LABUAN_FM.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/9b82dab6-2376-466c-b297-326d2a72a9b9/image/?u=1733927134000",group-title="radio music my id",RTM - RED FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/RED_FM.mp3
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/7cbcf4e2-28c5-44c5-8f0d-2f2807243908/image/?u=1713905363000",group-title="radio music my id",Mediacorp CLASS 95 online
-https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95_PREM_SC?dist=MPL&pname=TDSdk
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c1b761fd-e830-4795-a19e-0af5e0b6d9f0/image/?u=1713905363000",group-title="radio music my id",Mediacorp Ria 897 online
-https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FM_PREM_SC
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/cadff50a-e3d3-4011-815c-7814f47d1075/image/?u=1733927134000",group-title="radio music my id",RTM - Asyik FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FM.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f31b8561-325c-4f16-bd12-e462f1c32b08/image/?u=1713905363000",group-title="radio music my id",Mediacorp YES 933 online
 https://playerservices.streamtheworld.com/api/livestream-redirect/YES933_PREM_SC?dist=MPL&pname=TDSdk&ttag=meid_seg%3As1672
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c1b761fd-e830-4795-a19e-0af5e0b6d9f0/image/?u=1713905363000",group-title="radio music my id",Mediacorp Ria 897 online
+https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FM_PREM_SC
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/197d85cc-4bc6-4c60-baab-a3c75c12f820/image/?u=1713873237000",group-title="radio music my id",CeriaFM online
 http://ceriafm.iradio.work:8080/;
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/af7fe705-06c5-4578-9949-76f792f3f6cc/image/?u=1713905363000",group-title="radio music my id",Mediacorp Oli 968 online
@@ -4043,10 +4043,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC
 https://usa3.fastcast4u.com/proxy/jeifm?mp=%2F1
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ede9312c-a5da-4873-a0f0-38a12eda3cd1/image/?u=1733927134000",group-title="radio music my id",Kool 101
 https://stream.rcs.revma.com/3930238mtd3vv/hls.m3u8
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/fba8a377-6cbb-49db-ac3a-6fcca88459c3/image/?u=1713873237000",group-title="radio music my id",ANF Radio online
-https://c19.radioboss.fm:8119/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f6ab4936-0480-4a49-9e0d-dccaadab750d/image/?u=1734096121000",group-title="radio music my id",Hamara Radio
 https://radio.adeeltek.com/listen/hamara/radio.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/fba8a377-6cbb-49db-ac3a-6fcca88459c3/image/?u=1713873237000",group-title="radio music my id",ANF Radio online
+https://c19.radioboss.fm:8119/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/399a5fa3-5e45-4ba7-962f-c0730004f899/image/?u=1741317344000",group-title="radio music my id",fire wall
 https://stream.zeno.fm/s24d4zhe5cvtv
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/47a381d4-c668-4ab4-84af-e5183fc4e064/image/?u=1704983871000",group-title="radio music my id",Dj Dugem
@@ -4247,54 +4247,54 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SELANGOR_FMAAC
 https://23733.live.streamtheworld.com/AI_FMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-044&dist=triton-web&tdsdk=js-2.9&swm=false&banners=300x250&burst-time=15&sbmid=14e59256-8ac2-410e-fb6a-e7ecadd935d8
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f3eff9f2-a907-47be-ac73-02621a7f162e/image/?u=1770045035000",group-title="radio music my id",Ceritera FM
 http://live.ceriterafm.my:8000/
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/36f3bc39-aa6d-49d9-96ed-b31dda707111/image/?u=1733927134000",group-title="radio music my id",A.F.O Radio
-https://stream.rcs.revma.com/8150ezy4bshvv
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/6ee52ee9-95c0-4e19-95fd-d9a9c345b7b3/image/?u=1770042481000",group-title="radio music my id",988 FM
+https://28103.live.streamtheworld.com/988_FMAAC.aac
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/48acf8da-70cc-4772-921e-882b7de60f1d/image/?u=1733927134000",group-title="radio music my id",RTM - Pahang FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/PAHANG_FMAAC.aac
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/6b8eda0c-a135-490d-9082-5fadafa22146/image/?u=1733927134000",group-title="radio music my id",RTM - Perak FM 95.6
+https://playerservices.streamtheworld.com/api/livestream-redirect/PERAK_FM.mp3
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/36f3bc39-aa6d-49d9-96ed-b31dda707111/image/?u=1733927134000",group-title="radio music my id",A.F.O Radio
+https://stream.rcs.revma.com/8150ezy4bshvv
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/3a3bb721-6382-4dfb-ac29-e7dfb4abda60/image/?u=1713873237000",group-title="radio music my id",Labuan FM online
 https://playerservices.streamtheworld.com/api/livestream-redirect/LABUAN_FMAAC_SC
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/38d6d6cc-e5b7-4615-b423-e12f655eb004/image/?u=1734594414000",group-title="radio music my id",Cats FM
 https://s4.yesstreaming.net:7019/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/276beca9-08f2-4de0-b4b1-57108f805f6d/image/?u=1734594414000",group-title="radio music my id",Terengganu FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/TERENGGANU_FMAAC.aac
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1125d228-f316-4af8-b35f-3ff633447b9d/image/?u=1713905363000",group-title="radio music my id",Kedah FM online
-https://playerservices.streamtheworld.com/api/livestream-redirect/KEDAH_FMAAC_SC?dist=triton-web&pname=StandardPlayerV4
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/07df31d6-9806-4910-a07a-e0609d82432c/image/?u=1733927134000",group-title="radio music my id",RTM - Sabah V FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SABAH_VFMAAC.aac
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/095ff7b8-e128-4bee-9b14-9e1b878b9627/image/?u=1734681158000",group-title="radio music my id",MACC FM
 https://listen.radioking.com/radio/560261/stream/619850
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a082a259-dcf9-4358-b9fb-12e90b1dd370/image/?u=1701697575000",group-title="radio music my id",BFM
-https://23743.live.streamtheworld.com/BFMAAC.aac
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/af44f63e-294a-4728-9db3-5b3ca424c6be/image/?u=1734681158000",group-title="radio music my id",Johor FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC.aac
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/959a9736-6540-41d9-930d-80c37180826c/image/?u=1701698465000",group-title="radio music my id",HITZ (Sabah)
-https://astro1.rastream.com/amp-hitz-kk.web
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/96237848-0601-11e8-ae97-52543be04c81/image/?u=1770043279000",group-title="radio music my id",Jazz Lounge
-http://eu8.fastcast4u.com:5068/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/6ee52ee9-95c0-4e19-95fd-d9a9c345b7b3/image/?u=1770042481000",group-title="radio music my id",988 FM
-https://28103.live.streamtheworld.com/988_FMAAC.aac
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/6b8eda0c-a135-490d-9082-5fadafa22146/image/?u=1733927134000",group-title="radio music my id",RTM - Perak FM 95.6
-https://playerservices.streamtheworld.com/api/livestream-redirect/PERAK_FM.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8823f152-d516-4f80-bac5-a8317ab1c123/image/?u=1769694841000",group-title="radio music my id",Radio Wanita4U.FM
 http://s1.cmesolution.my:5689/stream/;
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e3b6e7a1-659c-478e-bda5-5cdcd49fa9f0/image/?u=1713937709000",group-title="radio music my id",Kool FM online
-https://mediaprima.rastream.com/mediaprima-koolfm
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/96237848-0601-11e8-ae97-52543be04c81/image/?u=1770043279000",group-title="radio music my id",Jazz Lounge
+http://eu8.fastcast4u.com:5068/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/959a9736-6540-41d9-930d-80c37180826c/image/?u=1701698465000",group-title="radio music my id",HITZ (Sabah)
+https://astro1.rastream.com/amp-hitz-kk.web
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1125d228-f316-4af8-b35f-3ff633447b9d/image/?u=1713905363000",group-title="radio music my id",Kedah FM online
+https://playerservices.streamtheworld.com/api/livestream-redirect/KEDAH_FMAAC_SC?dist=triton-web&pname=StandardPlayerV4
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/276beca9-08f2-4de0-b4b1-57108f805f6d/image/?u=1734594414000",group-title="radio music my id",Terengganu FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/TERENGGANU_FMAAC.aac
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/af44f63e-294a-4728-9db3-5b3ca424c6be/image/?u=1734681158000",group-title="radio music my id",Johor FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOHOR_FMAAC.aac
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a082a259-dcf9-4358-b9fb-12e90b1dd370/image/?u=1701697575000",group-title="radio music my id",BFM
+https://23743.live.streamtheworld.com/BFMAAC.aac
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c10c5dba-c968-46ff-af30-bd100617c92c/image/?u=1713873237000",group-title="radio music my id",Radio Lagenda Best online
 https://rlbbest.radioca.st/stream
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e0df0fd4-d431-4c91-b40e-874187ff72cb/image/?u=1701696989000",group-title="radio music my id",MIX
-http://astro4.rastream.com/mix
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ce0cd0fe-58b2-4476-9b33-967e08c6acbd/image/?u=1713873237000",group-title="radio music my id",RTB Nasional FM online
-https://d2kziuzkf9oizb.cloudfront.net/rd005/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c432653e-6de0-45f9-a25f-8b4bc3e94820/image/?u=1713905363000",group-title="radio music my id",KL FM 97.2 online
 https://playerservices.streamtheworld.com/api/livestream-redirect/KL_FMAAC_SC
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/efa8d0f9-196c-457f-877b-134dbfe3ebae/image/?u=1701697582000",group-title="radio music my id",Mix FM
-http://astro2.rastream.com/mix
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ce0cd0fe-58b2-4476-9b33-967e08c6acbd/image/?u=1713873237000",group-title="radio music my id",RTB Nasional FM online
+https://d2kziuzkf9oizb.cloudfront.net/rd005/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/cea5fdae-649b-4cfa-89ef-36802428e0c3/image/?u=1701699653000",group-title="radio music my id",goXuan | 够Fun (88.9 / 107.6)
 https://astro3.rastream.com/astro-goxuan.web.hls/playlist.m3u8?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Agoxuan&lon=101.8069&lat=2.9983&playerid=Listen%20to%20GOXUAN%20on%20SYOK_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2Njk3MTM1NTIsImV4cCI6MTY2OTc5OTk1Mn0.QE74b2Qz_wsCDmJ_P0j0uMRAGNg-Eh58rgOg47mtpSk&lan=%5B%22zh%22%5D&setLanguage=true
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/efa8d0f9-196c-457f-877b-134dbfe3ebae/image/?u=1701697582000",group-title="radio music my id",Mix FM
+http://astro2.rastream.com/mix
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/cf63323d-37bc-4bf4-9bda-2e2c7e38bd4b/image/?u=1734681158000",group-title="radio music my id",Kedah FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KEDAH_FMAAC.aac
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f4d16900-8dab-4a18-9791-e23390e55f51/image/?u=1701697279000",group-title="radio music my id",HITZ
 http://astro4.rastream.com/hitz
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e3b6e7a1-659c-478e-bda5-5cdcd49fa9f0/image/?u=1713937709000",group-title="radio music my id",Kool FM online
+https://mediaprima.rastream.com/mediaprima-koolfm
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e0df0fd4-d431-4c91-b40e-874187ff72cb/image/?u=1701696989000",group-title="radio music my id",MIX
+http://astro4.rastream.com/mix
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e81d3779-ce6e-4418-aaf2-d0e747bb8b14/image/?u=1734594414000",group-title="radio music my id",Manis FM 90.6
 https://n07.rcs.revma.com/nzgauqq1v7zuv
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/04e77d9a-e238-4c1d-ac52-0471c41ff51f/image/?u=1701697567000",group-title="radio music my id",Lite (105.7)
@@ -4393,10 +4393,10 @@ https://censemedia.rastream.com/censemedia-cityplus.web.hls/playlist.m3u8
 http://astro4.rastream.com/myfm
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/e76978ea-2d2a-47cd-be5d-aabcbc267100/image/?u=1734594414000",group-title="radio music my id",Nasional FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FMAAC.aac
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/fdde6cdc-6a42-49c4-8804-1be9da41022b/image/?u=1770121446000",group-title="radio music my id",CITYPlus FM
-https://stream.rcs.revma.com/9ykdmcawe1bwv
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ff654a7d-5699-45b9-a143-19ca1392e97c/image/?u=1734594414000",group-title="radio music my id",KCFM
 https://radio.kcfm.org:8000/stream/;
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/fdde6cdc-6a42-49c4-8804-1be9da41022b/image/?u=1770121446000",group-title="radio music my id",CITYPlus FM
+https://stream.rcs.revma.com/9ykdmcawe1bwv
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQ2fOZtwgMCxIOU3RhdGlvblByb2ZpbGUYgIDQlbbUpwsMogEEemVubw/image/?u=1661201319000",group-title="radio music my id",PBN Radio Nurani
 https://stream.zeno.fm/2uyfsr25sm0uv
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c0a91a7c-9497-4fb5-954f-d777a9ef3c01/image/?u=1667115705000",group-title="radio music my id",SALAM FM
@@ -4465,10 +4465,10 @@ http://123.254.72.24:1935/fmlive/livestream/playlist.m3u8
 https://stream.zeno.fm/ueaf0hvhkqyuv
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/01038521-6bb1-429b-975d-f9ac18d9c5ce/image/?u=1734427318000",group-title="radio music kpop",락 발라드
 http://1.uicl.co.kr:8000/
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/456ecb79-2357-479f-9e93-aee35ffc0069/image/?u=1734594414000",group-title="radio music kpop",WBS 광주원음방송 107.9
-https://wbsradio2.kr/wbs-g
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/467fb057-3a67-4ac4-937c-614671089376/image/?u=1734594414000",group-title="radio music kpop",WBS 부산원음방송 104.9
 https://wbsradio2.kr/wbs-b
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/456ecb79-2357-479f-9e93-aee35ffc0069/image/?u=1734594414000",group-title="radio music kpop",WBS 광주원음방송 107.9
+https://wbsradio2.kr/wbs-g
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/962648d0-0601-11e8-ae97-52543be04c81/image/?u=1701698884000",group-title="radio music kpop",Gwangju Foreign Language Network 98.7 - English
 http://218.157.19.198:8000/
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c33603ce-5aae-4d25-8b39-61fb3ee9583e/image/?u=1733927134000",group-title="radio music kpop",대전극동방송FM
@@ -4479,10 +4479,10 @@ http://218.157.19.198:8000/;stream/1
 http://cast.oldpopcafe.net:7080/
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/16a80b6b-368c-45c4-833f-1662fd76687b/image/?u=1701698567000",group-title="radio music kpop",KNN부산 Power FM
 http://211.220.195.200:1935/live/mp4:KnnRadio1FM.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/aad439e9-062f-4d40-9b24-cdaef7de0f4a/image/?u=1701697554000",group-title="radio music kpop",트로트 콜센터
-http://live09.inlive.co.kr:10680/
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a88d226b-b751-4618-9add-cd5746c43f57/image/?u=1733927134000",group-title="radio music kpop",서울 CBS FM
 https://m-aac.cbs.co.kr/mweb_cbs981/_definst_/cbs981.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/aad439e9-062f-4d40-9b24-cdaef7de0f4a/image/?u=1701697554000",group-title="radio music kpop",트로트 콜센터
+http://live09.inlive.co.kr:10680/
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c2bdc589-e0a2-4bf9-8e43-48b17b7cbfc5/image/?u=1701696869000",group-title="radio music kpop",CBS Music FM Radio
 http://aac.cbs.co.kr:1935/cbs939/_definst_/cbs939.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/cfc32cc9-13e3-4461-a1f4-dd59d65d735c/image/?u=1769755357000",group-title="radio music kpop",Chongju AM
@@ -4515,22 +4515,22 @@ http://115.85.182.39/seongnamfm
 http://live07.inlive.co.kr:21110/
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/066839bb-e428-11e8-a9cc-52543be04c81/image/?u=1701700036000",group-title="radio music kpop",EBS TV-2
 http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1a512cf7-f77c-49c0-b42d-4e3db0656b6a/image/?u=1770045035000",group-title="radio music kpop",JeonjuFM
-http://radiostream.communityradio.kr/jcfm1
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4540380c-8d7c-49da-b0dc-699c1fb30ebc/image/?u=1701698509000",group-title="radio music kpop",ebs tune in
-https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/2b1b77a5-16d9-49eb-9359-38341f5674e4/image/?u=1770056012000",group-title="radio music kpop",Fred Film Radio(한국어)
 https://s10.webradio-hosting.com/proxy/fredradiokr/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4edaf384-7c48-4852-a390-c879e2fc41aa/image/?u=1770056012000",group-title="radio music kpop",SCN - Seongseo Community FM
 http://115.85.182.39/scnfm
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4540380c-8d7c-49da-b0dc-699c1fb30ebc/image/?u=1701698509000",group-title="radio music kpop",ebs tune in
+https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/6240eb3f-591b-4ac0-a0a2-25f84aec6f8e/image/?u=1733927134000",group-title="radio music kpop",포항극동방송FM
 https://mlive2.febc.net/live/phlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1a512cf7-f77c-49c0-b42d-4e3db0656b6a/image/?u=1770045035000",group-title="radio music kpop",JeonjuFM
+http://radiostream.communityradio.kr/jcfm1
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/7a72aa80-3902-4d73-a548-db81ac780240/image/?u=1770045035000",group-title="radio music kpop",Big B Radio - Kpop
 https://antares.dribbcast.com/proxy/kpop?mp=/s
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/deb1b405-4603-4365-a8b5-5db73384b376/image/?u=1734681158000",group-title="radio music kpop",Mapo FM 100.7
-http://onair.mapofm.net/mapofm
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c313bae3-0301-43e8-8c11-053b1a11ca3a/image/?u=1733927134000",group-title="radio music kpop",GFN Gwangju English Station
 http://218.157.19.198:8000
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/deb1b405-4603-4365-a8b5-5db73384b376/image/?u=1734681158000",group-title="radio music kpop",Mapo FM 100.7
+http://onair.mapofm.net/mapofm
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/3616f082-421d-4ec4-88f9-52d9a666a39d/image/?u=1733927134000",group-title="radio music kpop",서울극동방송FM
 https://mlive2.febc.net/live/seoulfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/44dc6d1c-abe5-402a-be20-3545a0a13101/image/?u=1770045035000",group-title="radio music kpop",Floyd Server (Rock Ballad...From 09/25/05)
@@ -4723,34 +4723,34 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FM_PRE
 https://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS_SC
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/11655864-67e6-428e-81b0-460963182a32/image/?u=1734594414000",group-title="radio music my id",Radio Chutney
 https://streamer.radio.co/sf30c61bda/listen
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1ada4b42-53e9-460f-8fa2-631c2c75801c/image/?u=1770045035000",group-title="radio music my id",GOLD 905
-https://22403.live.streamtheworld.com/GOLD905_SC
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/22ec5e58-b84e-407f-b21e-0c3abe74933c/image/?u=1733927134000",group-title="radio music my id",Capital 95.8 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FMAAC.aac?dist=streema
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/67c8fa3a-f3a1-4906-981a-c975bad0b08f/image/?u=1770045035000",group-title="radio music my id",Ufm 1003
-http://28093.live.streamtheworld.com/UFM_1003AAC.aac
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5738bb9c-41d1-4870-a6cd-139719d55a5e/image/?u=1734594414000",group-title="radio music my id",UFM1003
 https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/53834c47-3ea6-48ca-b1b4-8684e5b41f05/image/?u=1733927134000",group-title="radio music my id",PERGAS Radio
 https://s3.radio.co/saf69a95b8/listen
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/67c8fa3a-f3a1-4906-981a-c975bad0b08f/image/?u=1770045035000",group-title="radio music my id",Ufm 1003
+http://28093.live.streamtheworld.com/UFM_1003AAC.aac
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/1ada4b42-53e9-460f-8fa2-631c2c75801c/image/?u=1770045035000",group-title="radio music my id",GOLD 905
+https://22403.live.streamtheworld.com/GOLD905_SC
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/22ec5e58-b84e-407f-b21e-0c3abe74933c/image/?u=1733927134000",group-title="radio music my id",Capital 95.8 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FMAAC.aac?dist=streema
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8a829f28-9de5-43f2-bacb-84e37c0517f2/image/?u=1734427318000",group-title="radio music my id",Ria FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FMAAC.aac?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTczMzQ5NjM0NSwiaXNzIjoidGlzcnYifQ._plQmPMueqIfq4FkdZKDozSLi2zIoDqy9yuFYf0XDfI
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/8a9c4662-0b7c-11e9-a80b-52543be04c81/image/?u=1770045035000",group-title="radio music my id",Jia 883 Radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/9bb4c812-be47-49ff-a199-5c112ef70f26/image/?u=1770056012000",group-title="radio music my id",Power 98 Love Songs
-https://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/9a04ab83-0b7e-11e9-a80b-52543be04c81/image/?u=1701697284000",group-title="radio music my id",Money 893 Radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/eff51d17-59b3-4e93-89df-df1b24416d0c/image/?u=1770045035000",group-title="radio music my id",987
-https://playerservices.streamtheworld.com/api/livestream-redirect/987FM_PREM.aac
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/9bb4c812-be47-49ff-a199-5c112ef70f26/image/?u=1770056012000",group-title="radio music my id",Power 98 Love Songs
+https://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS.mp3
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/fa9609ad-1f6f-41a1-8e81-1000d9458dcf/image/?u=1770121446000",group-title="radio music my id",Radio Melody with Brother Bjorn
 http://ssl.geckohost.nz:9191/autodj
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/eff51d17-59b3-4e93-89df-df1b24416d0c/image/?u=1770045035000",group-title="radio music my id",987
+https://playerservices.streamtheworld.com/api/livestream-redirect/987FM_PREM.aac
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4b621a64-46d8-4115-a18a-740d0f161bad/image/?u=1770056012000",group-title="radio music my id",Radio Melody with Brother Bjorn
+https://ssl.geckohost.nz/proxy/bjorn?mp=/stream&1703130377563
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/722e9620-5c47-4139-b4ae-9d3a2ffd2bd5/image/?u=1770056012000",group-title="radio music my id",RIA 897
 https://22393.live.streamtheworld.com/RIA897FM_SC
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/6aaf4504-ec68-4b4a-b647-8ae148a98fa3/image/?u=1734594414000",group-title="radio music my id",Oli 968
 https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FM_PREM.aac
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/4b621a64-46d8-4115-a18a-740d0f161bad/image/?u=1770056012000",group-title="radio music my id",Radio Melody with Brother Bjorn
-https://ssl.geckohost.nz/proxy/bjorn?mp=/stream&1703130377563
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a47db721-73cc-4bb0-98b2-def29ec0461f/image/?u=1701697416000",group-title="radio music my id",963 Hao FM
 https://23683.live.streamtheworld.com/HAO_963_SC
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/d1048c00-20f9-40ed-be88-f49a37f2ebed/image/?u=1734594414000",group-title="radio music my id",96.3 好FM
@@ -4759,16 +4759,16 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92_SC
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/fff132f1-0b79-11e9-a80b-52543be04c81/image/?u=1701696664000",group-title="radio music my id",Love 972 Radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FMAAC.aac
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/7122f761-9a93-48be-834c-a3c718bb54f5/image/?u=1770045035000",group-title="radio music my id",Singapore Chinese POP YES FM 933
-https://22893.live.streamtheworld.com/YES933_SC?dist=radiosingapore
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/31710261-0b76-11e9-a80b-52543be04c81/image/?u=1770043279000",group-title="radio music my id",YES 933 Radio
-http://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC.aac
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/84ac5af8-3bff-4e68-8294-84a43a950d07/image/?u=1701697320000",group-title="radio music my id",Yes 933
-https://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC_SC
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/26b0c9ab-6b4a-463b-92c6-6e2d9c77e9bb/image/?u=1734594414000",group-title="radio music my id",Symphony 924
 https://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924_PREM.aac
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/31710261-0b76-11e9-a80b-52543be04c81/image/?u=1770043279000",group-title="radio music my id",YES 933 Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC.aac
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/a7661a44-fbc3-404c-8a9b-daefc562971d/image/?u=1734594414000",group-title="radio music my id",Radio JSR
 http://198.7.59.28:8078/stream?type=http&nocache=6
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/7122f761-9a93-48be-834c-a3c718bb54f5/image/?u=1770045035000",group-title="radio music my id",Singapore Chinese POP YES FM 933
+https://22893.live.streamtheworld.com/YES933_SC?dist=radiosingapore
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/84ac5af8-3bff-4e68-8294-84a43a950d07/image/?u=1701697320000",group-title="radio music my id",Yes 933
+https://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC_SC
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/dc87b35c-1c11-49d8-b8f3-265a329f5d72/image/?u=1734594414000",group-title="radio music my id",Kiss 92 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC.aac
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5fd25d46-374c-41b3-9f62-b6a85b28c90e/image/?u=1734594414000",group-title="radio music my id",Bisme Islamic Radio
@@ -4781,24 +4781,24 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95_PREM.a
 http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ec8dafec-03b5-49d7-934d-a70817e2755a/image/?u=1770056012000",group-title="radio music my id",987
 https://14033.live.streamtheworld.com/987FM_SC
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/0904b107-a8fe-45f2-b0c2-be45d1742115/image/?u=1701697334000",group-title="radio music my id",ONE FM 91.3 SPH AAC
-http://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913AAC.aac
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5027e04c-0b7a-11e9-a80b-52543be04c81/image/?u=1770045035000",group-title="radio music my id",Symphony 924 Radio
-http://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924AAC.aac
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/3ec21842-8504-4693-8a1f-82fefe263004/image/?u=1734594414000",group-title="radio music my id",Gold 905
 https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905_PREM.aac
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/82102b0e-68e9-411e-87b8-7cae36046096/image/?u=1770043279000",group-title="radio music my id",987FM
-https://22393.live.streamtheworld.com/987FM_PREM.aac
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/5027e04c-0b7a-11e9-a80b-52543be04c81/image/?u=1770045035000",group-title="radio music my id",Symphony 924 Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924AAC.aac
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/0904b107-a8fe-45f2-b0c2-be45d1742115/image/?u=1701697334000",group-title="radio music my id",ONE FM 91.3 SPH AAC
+http://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913AAC.aac
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/abbee82e-0b7b-11e9-a80b-52543be04c81/image/?u=1770045035000",group-title="radio music my id",SPH 963 Radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.aac
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/82102b0e-68e9-411e-87b8-7cae36046096/image/?u=1770043279000",group-title="radio music my id",987FM
+https://22393.live.streamtheworld.com/987FM_PREM.aac
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c325cc6e-a5c1-4cfd-ac99-921e67428eb4/image/?u=1734594414000",group-title="radio music my id",Naga FM
 https://live.nagafm.in:1065/stream
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/c787359f-0765-48d2-8909-d1f77b98c762/image/?u=1770121446000",group-title="radio music my id",Yes 933
 http://28453.live.streamtheworld.com/YES933AAC.aac
-#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ebfcfc58-034e-42f7-bfff-30cfc18cf7be/image/?u=1734594414000",group-title="radio music my id",Love 972
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM.mp3?dist=radiogarden
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/d4701af3-c791-45d2-bddf-db0f5b8dda0f/image/?u=1733927134000",group-title="radio music my id",Kiss92
 https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC.aac?dist=streema
+#EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/ebfcfc58-034e-42f7-bfff-30cfc18cf7be/image/?u=1734594414000",group-title="radio music my id",Love 972
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM.mp3?dist=radiogarden
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQg4-MyQkMCxIOU3RhdGlvblByb2ZpbGUYgICQ3bWzhAkMogEEemVubw/image/?u=1661671509000",group-title="radio music my id",FMC-TamilMinistries_Sermons, Singapore
 https://stream.zeno.fm/avmgrdfzb5zuv
 #EXTINF:-1 tvg-logo="https://proxy.zeno.fm/content/stations/f574dfc5-2292-4c84-8fdb-251faccd8f79/image/?u=1713964996000",group-title="radio music my id",Qur'an Radio بث حي
