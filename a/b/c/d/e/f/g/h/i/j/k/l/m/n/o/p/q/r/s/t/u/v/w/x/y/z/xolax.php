@@ -16,13 +16,7 @@ https://live2.jorvakstreamcache.com/live/channel7.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=565337ba005b2b16c7d6be4cbb20a872&wsABSTime=1794412511
-
-#EXTINF:-1 tvg-logo="https://static.xoilac365j.mobi/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hàn Quốc U19 vs Tajikistan U19 14:30 ngày 11/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel21.m3u8
+https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=a380392293126a635d918d38baa10c2e&wsABSTime=1794416785
 
 #EXTINF:-1 tvg-logo="https://static.xoilac365j.mobi/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Luxembourg U17 vs Italy U17 15:00 ngày 11/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -36,6 +30,12 @@ https://live2.jorvakstreamcache.com/live/channel8.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel17.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilac365j.mobi/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hàn Quốc U19 vs Tajikistan U19 14:30 ngày 11/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.jorvakstreamcache.com/live/channel21.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilac365j.mobi/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Maldives U17 vs Hồng Kông U17 15:00 ngày 11/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -48,17 +48,17 @@ https://live2.jorvakstreamcache.com/live/channel22.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel20.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilac365j.mobi/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Mông Cổ U17 vs Yemen U17 16:00 ngày 11/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel13.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilac365j.mobi/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ấn Độ vs Maldives 16:30 ngày 11/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilac365j.mobi/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Mông Cổ U17 vs Yemen U17 16:00 ngày 11/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.jorvakstreamcache.com/live/channel13.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilac365j.mobi/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Campuchia U17 vs Afghanistan U17 16:30 ngày 11/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -90,17 +90,17 @@ https://live2.jorvakstreamcache.com/live/channel11.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel10.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilac365j.mobi/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kawasaki Frontale vs Kashiwa Reysol 17:00 ngày 11/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilac365j.mobi/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Yokohama Marinos vs Kashima Antlers 17:00 ngày 11/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilac365j.mobi/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kawasaki Frontale vs Kashiwa Reysol 17:00 ngày 11/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilac365j.mobi/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Urawa Red vs Cerezo Osaka 17:30 ngày 11/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
