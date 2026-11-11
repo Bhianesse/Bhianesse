@@ -1,22 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilac365j.mobi/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kodagu FC vs FC United Stars 12:30 ngày 11/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel7.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilac365j.mobi/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Trung Quốc U19 vs Việt Nam U19 18:35 ngày 11/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilac365j.mobi/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kodagu FC vs FC United Stars 12:30 ngày 11/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.jorvakstreamcache.com/live/channel7.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilac365j.mobi/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Việt Nam vs Đài Loan 19:00 ngày 11/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=a964aea40160b8edf1d3ab355d0670a9&wsABSTime=1794409932
+https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=565337ba005b2b16c7d6be4cbb20a872&wsABSTime=1794412511
 
 #EXTINF:-1 tvg-logo="https://static.xoilac365j.mobi/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hàn Quốc U19 vs Tajikistan U19 14:30 ngày 11/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
