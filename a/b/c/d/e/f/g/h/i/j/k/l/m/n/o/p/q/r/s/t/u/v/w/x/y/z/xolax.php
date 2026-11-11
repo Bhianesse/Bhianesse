@@ -1,28 +1,22 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://static.xoilac365j.mobi/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Once Caldas vs Atl. Nacional 08:30 ngày 11/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.jorvakstreamcache.com/live/channel4.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilac365j.mobi/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Việt Nam vs Đài Loan 19:00 ngày 11/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=7ad23910b6e3d7de306177e8275e1045&wsABSTime=1794399057
+https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=3b926d4734a98d5351c4835f2ba49961&wsABSTime=1794403335
 
 #EXTINF:-1 tvg-logo="https://static.xoilac365j.mobi/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Trung Quốc U19 vs Việt Nam U19 18:35 ngày 11/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilac365j.mobi/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Unam Pumas vs Nữ Tigres 08:00 ngày 11/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel21.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilac365j.mobi/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Once Caldas vs Atl. Nacional 08:30 ngày 11/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel4.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilac365j.mobi/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Juarez vs Nữ Guadalajara 10:00 ngày 11/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -35,6 +29,12 @@ https://live2.jorvakstreamcache.com/live/channel17.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel7.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilac365j.mobi/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hàn Quốc U19 vs Tajikistan U19 14:30 ngày 11/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.jorvakstreamcache.com/live/channel21.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilac365j.mobi/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Luxembourg U17 vs Italy U17 15:00 ngày 11/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -118,7 +118,7 @@ https://live2.jorvakstreamcache.com/live/channel9.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel26/playlist.m3u8?wsSecret=56c0fe351e6fed61fa617b8a0267eacd&wsABSTime=1794399114
+https://live1.quickscoreboardz.com/live/channel26/playlist.m3u8?wsSecret=8f9a8a4fb8c2fbd8da142bc3c67faa89&wsABSTime=1794403382
 
 #EXTINF:-1 tvg-logo="https://static.xoilac365j.mobi/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Slovenia U19 vs Anh U19 19:00 ngày 11/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
