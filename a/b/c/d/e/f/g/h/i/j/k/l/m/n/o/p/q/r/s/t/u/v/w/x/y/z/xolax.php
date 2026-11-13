@@ -10,7 +10,7 @@ https://live2.jorvakstreamcache.com/live/channel23.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=4c37efa4b763c9cf4fc45e8fe1c5c550&wsABSTime=1794568134
+https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=c547a445c2cf32bad7c9b8e3b81d39fc&wsABSTime=1794572768
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Atletico Morelia vs Leones Negros 09:00 ngày 13/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -30,17 +30,17 @@ https://live2.jorvakstreamcache.com/live/channel14.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel17.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacvbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kodagu FC vs Technico FF 12:55 ngày 13/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacvbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Deren FC vs Central Stallions 15:00 ngày 13/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel12.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kodagu FC vs Technico FF 12:55 ngày 13/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Oakleigh Cannons vs Marconi Stallions 15:30 ngày 13/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
