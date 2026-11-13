@@ -10,7 +10,7 @@ https://live2.jorvakstreamcache.com/live/channel7.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=0ced5e55774f08939e68c25429c38857&wsABSTime=1794621010
+https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=a549710da63e0fe826474524b839acda&wsABSTime=1794631617
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ả Rập Xê Út vs Hàn Quốc 21:30 ngày 13/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -54,17 +54,17 @@ https://live2.jorvakstreamcache.com/live/channel15.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel19.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacvbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Thổ Nhĩ Kỳ U21 vs CH Séc U21 23:00 ngày 13/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel17.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacvbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Burkina Faso vs Mauritania 23:00 ngày 13/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Thổ Nhĩ Kỳ U21 vs CH Séc U21 23:00 ngày 13/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.jorvakstreamcache.com/live/channel17.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Phần Lan U21 vs Ireland U21 23:15 ngày 13/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -82,77 +82,77 @@ https://live2.jorvakstreamcache.com/live/channel23.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel30/playlist.m3u8?wsSecret=1b78a0a4cc227316861997eaa1a47ed5&wsABSTime=1794621046
+https://live1.quickscoreboardz.com/live/channel30/playlist.m3u8?wsSecret=6557c88a29058a66d1def8675e758fce&wsABSTime=1794631652
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Sahl Horan SC vs AL-Sareeh 22:00 ngày 13/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel6/playlist.m3u8?wsSecret=fd58ea03398ba5e911b13752f24ae01e&wsABSTime=1794621046
+https://live1.quickscoreboardz.com/live/channel6/playlist.m3u8?wsSecret=dccf6538b19fd9a027d57ce4dfb481b1&wsABSTime=1794631654
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Al Hashemeya vs Sama Al Sarhan 22:00 ngày 13/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel7/playlist.m3u8?wsSecret=b0da62eb71c35bb902d367264ce705ae&wsABSTime=1794621051
+https://live1.quickscoreboardz.com/live/channel7/playlist.m3u8?wsSecret=fd120fd1bbd3c5071db4b625b8ae9db9&wsABSTime=1794631658
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Al-Shabbab vs Bahrain SC 22:00 ngày 13/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel8/playlist.m3u8?wsSecret=fdc4649f72dc75de167199ef96029591&wsABSTime=1794621053
-
-#EXTINF:-1 tvg-logo="https://static.xoilacvbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FK Dubocica vs Proleter 023 23:00 ngày 13/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel16/playlist.m3u8?wsSecret=bc2edec7144c70344f967fabad611412&wsABSTime=1794621057
+https://live1.quickscoreboardz.com/live/channel8/playlist.m3u8?wsSecret=d64dd66ef9708ab8ad49f81660d7ff87&wsABSTime=1794631661
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Etehad Alreef vs Um Alhassam 22:00 ngày 13/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel9/playlist.m3u8?wsSecret=190ad1378f098cad6cdba3b608d3b4d7&wsABSTime=1794621057
+https://live1.quickscoreboardz.com/live/channel9/playlist.m3u8?wsSecret=b4169100dcf3fa7a9f977eb3c13d49f5&wsABSTime=1794631662
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FK Dubocica vs Proleter 023 23:00 ngày 13/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel16/playlist.m3u8?wsSecret=7fa4e363a391d358f069976092d58c9c&wsABSTime=1794631664
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ai Cập U17 vs Ma Rốc U17 23:00 ngày 13/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel18/playlist.m3u8?wsSecret=97e9a69eacb0fbcf6be5b43931c90b63&wsABSTime=1794621062
+https://live1.quickscoreboardz.com/live/channel18/playlist.m3u8?wsSecret=1845b00b3c62dc5253130476a2b7b1be&wsABSTime=1794631668
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ba Lan U21 vs Na Uy U21 23:30 ngày 13/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel20/playlist.m3u8?wsSecret=d1d10c260fca2d36e535386cd9c85957&wsABSTime=1794621064
+https://live1.quickscoreboardz.com/live/channel20/playlist.m3u8?wsSecret=db7e2cee7ecc78a1ace947defcc1e7db&wsABSTime=1794631671
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Al-Hala vs Al-Budaiya 23:30 ngày 13/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel21/playlist.m3u8?wsSecret=7ca55f18db2e5b941958e9d2a64d0f82&wsABSTime=1794621068
+https://live1.quickscoreboardz.com/live/channel21/playlist.m3u8?wsSecret=2889d63089514d68c1fad1c969cfb383&wsABSTime=1794631672
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Triglav Gorenjska vs NK Bilje 23:30 ngày 13/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel22/playlist.m3u8?wsSecret=9e569f224d7a12316bc1fd01b7a91162&wsABSTime=1794621069
+https://live1.quickscoreboardz.com/live/channel22/playlist.m3u8?wsSecret=0554f223ae90b126e59438ea94daec64&wsABSTime=1794631675
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Dravinja vs NK Krka 23:30 ngày 13/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel23/playlist.m3u8?wsSecret=6eecf29413208f70948623593772e57e&wsABSTime=1794621073
+https://live1.quickscoreboardz.com/live/channel23/playlist.m3u8?wsSecret=106ddaf8bb071172d94a856c08602c6c&wsABSTime=1794631677
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Đức U21 vs Bỉ U21 00:00 ngày 14/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel24/playlist.m3u8?wsSecret=f26de6e5bb0678b3debfa8e5532a7046&wsABSTime=1794621075
+https://live1.quickscoreboardz.com/live/channel24/playlist.m3u8?wsSecret=8d5d52049503e98a2bd634f0e6989144&wsABSTime=1794631680
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbi.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Znicz Pruszkow vs Sokol Kleczew 00:00 ngày 14/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel25/playlist.m3u8?wsSecret=b8ab287ba08cc12e5c220df1828bdf0c&wsABSTime=1794621080
+https://live1.quickscoreboardz.com/live/channel25/playlist.m3u8?wsSecret=28845ab790ee6a9309f68a815f7dab8f&wsABSTime=1794631682
 
