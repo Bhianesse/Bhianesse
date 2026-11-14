@@ -10,7 +10,7 @@ https://live2.jorvakstreamcache.com/live/channel1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=038599ba039487327f1cfdb972906305&wsABSTime=1794665974
+https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=6c07bfe2d78e2933ab4d9cfab19e8b97&wsABSTime=1794667580
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Việt Nam U19 vs Hàn Quốc U19 14:30 ngày 14/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -22,7 +22,7 @@ https://live2.jorvakstreamcache.com/live/channel5.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=5fe01e992e82fb21c81f5dfb8e96d508&wsABSTime=1794665986
+https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=a51d36997697e2694d094a1413bd94ad&wsABSTime=1794667589
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Melbourne Victory vs Nữ Adelaide United 11:00 ngày 14/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
