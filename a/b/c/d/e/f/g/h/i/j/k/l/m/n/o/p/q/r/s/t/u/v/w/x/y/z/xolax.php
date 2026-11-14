@@ -4,9 +4,9 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=e06f12e6034ddc3b1e7de74d1e30a93e&wsABSTime=1794696074
+https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=d85193841c23d3c2fe5617327af4d57d&wsABSTime=1794696459
 
-#EXTINF:-1 tvg-logo="https://static.xoilacvbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Việt Nam U23 vs Qatar U23 19:00 ngày 14/11
+#EXTINF:-1 tvg-logo="https://static.xoilacvbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Na Uy vs Xứ Wales 00:00 ngày 15/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
@@ -16,7 +16,7 @@ https://live2.jorvakstreamcache.com/live/channel1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=ccd88e47bcf7ebb04347037952263623&wsABSTime=1794696083
+https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=520b895a3a11a2e41a39ebbbdb85c401&wsABSTime=1794696467
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FK Valmiera vs Tukums-2000 18:00 ngày 14/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -24,7 +24,7 @@ https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=ccd88e47
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel8.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacvbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp UAE U17 vs Ma Cao U17 19:20 ngày 14/11
+#EXTINF:-1 tvg-logo="https://static.xoilacvbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp UAE U17 vs Ma Cao U17 18:20 ngày 14/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
@@ -48,17 +48,17 @@ https://live2.jorvakstreamcache.com/live/channel22.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacvbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Lào U17 vs Pakistan U17 19:00 ngày 14/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel24.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacvbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Thái Lan U17 vs Maldives U17 19:00 ngày 14/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Lào U17 vs Pakistan U17 19:00 ngày 14/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.jorvakstreamcache.com/live/channel24.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbh.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Anh U19 vs Belarus U19 19:00 ngày 14/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
