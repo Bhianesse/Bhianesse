@@ -1,40 +1,22 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Georgia vs Hungary 00:00 ngày 15/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=87d72f2c1c9d2801aed28c2de31a083a&wsABSTime=1794709913
+
 #EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Na Uy vs Xứ Wales 00:00 ngày 15/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kosovo vs Israel 21:00 ngày 14/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=b647b0a70cd1a88ab18b7cddef27003f&wsABSTime=1794705266
-
-#EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Georgia vs Hungary 00:00 ngày 15/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=fbc2203d39357700de38cea20c32bf97&wsABSTime=1794705276
-
-#EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Chelsea vs Nữ Manchester City 20:30 ngày 14/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel14.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bangladesh vs Pakistan 21:30 ngày 14/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel19.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Volga Ulyanovsk vs Torpedo Moscow 20:30 ngày 14/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel13.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bỉ U19 vs Kazakhstan U19 22:00 ngày 14/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -96,81 +78,99 @@ https://live2.jorvakstreamcache.com/live/channel8.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Thổ Nhĩ Kỳ U18 vs Đức U18 20:00 ngày 14/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=9d62457cea2ef05bddb31615fd14aa09&wsABSTime=1794705309
-
-#EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nagaland vs Gokulam Kerala FC 20:00 ngày 14/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel20/playlist.m3u8?wsSecret=4d1624cd94e7dee549dbdd100cd23b0d&wsABSTime=1794705309
-
-#EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Estonia U19 vs Thổ Nhĩ Kỳ U19 20:00 ngày 14/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel18/playlist.m3u8?wsSecret=8538c9b1a084f279db780302a02d7c91&wsABSTime=1794705313
-
-#EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Boulay vs Sochaux 20:30 ngày 14/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel23/playlist.m3u8?wsSecret=6527e3863fd3fe9903f2adf07f7982ce&wsABSTime=1794705315
-
-#EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Na Uy U17 vs Malta U17 20:30 ngày 14/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel24/playlist.m3u8?wsSecret=a8f7d47f3fe655ea637f7433a18cdfb7&wsABSTime=1794705318
-
-#EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Ba Lan U17 vs Anh U17 21:00 ngày 14/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel26/playlist.m3u8?wsSecret=b37eb5d74effc3881f3ed81e854f2412&wsABSTime=1794705319
-
-#EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Le Havre vs Nữ Paris FC 21:00 ngày 14/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel28/playlist.m3u8?wsSecret=321127b45f7a96a2f81705e7d4750e2a&wsABSTime=1794705322
-
-#EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Thụy Điển U17 vs Phần Lan U17 21:00 ngày 14/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel27/playlist.m3u8?wsSecret=0cd4b628a634ae3f9c49038f83f69571&wsABSTime=1794705325
-
-#EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ AS Roma vs Nữ Parma 21:00 ngày 14/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel25/playlist.m3u8?wsSecret=548dfd3ef3acf0a6247800c18c3303a1&wsABSTime=1794705328
-
-#EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bulgaria U19 vs Latvia U19 21:00 ngày 14/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel38/playlist.m3u8?wsSecret=710e6cebf76a304a425f0dedec8e6390&wsABSTime=1794705329
-
-#EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hy Lạp U19 vs Na Uy U19 21:00 ngày 14/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel37/playlist.m3u8?wsSecret=0049b53b9bed778200526614f23b9b68&wsABSTime=1794705333
-
 #EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Italy U19 vs Ukraine U19 21:30 ngày 14/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel1/playlist.m3u8?wsSecret=92c0ef66654a280b04c4f0b9a125e49d&wsABSTime=1794705335
+https://live1.quickscoreboardz.com/live/channel1/playlist.m3u8?wsSecret=f6e458b00975c0eb32f8c187ee2d5c2c&wsABSTime=1794709944
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Dinamo-2 Minsk vs Energetik Minsk 21:30 ngày 14/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel2/playlist.m3u8?wsSecret=2c94e30565fcdfc93b3f3ad92a2d5a2d&wsABSTime=1794705338
+https://live1.quickscoreboardz.com/live/channel2/playlist.m3u8?wsSecret=2f479e258cfadd0a29e8b19a954952f3&wsABSTime=1794709947
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Breitenrain vs Schaffhausen 21:30 ngày 14/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel3/playlist.m3u8?wsSecret=8f338d34b267b53cc743b5320a5e508e&wsABSTime=1794709950
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp PAOK Saloniki vs Partizan Belgrade 21:45 ngày 14/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel4/playlist.m3u8?wsSecret=47447f7b909ff79cc2cd2a5272274f23&wsABSTime=1794709952
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Serbia U17 vs Andorra U17 22:00 ngày 14/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel35/playlist.m3u8?wsSecret=dc09e020aa4bd32221dda42e21b37887&wsABSTime=1794709953
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Phần Lan U19 vs Iceland U19 22:00 ngày 14/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel6/playlist.m3u8?wsSecret=a138903031a9ed73c6f60b575ea0db30&wsABSTime=1794709956
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Thụy Điển U19 vs Lithuania U19 22:00 ngày 14/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel7/playlist.m3u8?wsSecret=c93628401aecb5aa7db76ea68cc4c1a3&wsABSTime=1794709959
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Serbia U19 vs Azerbaijan U19 22:00 ngày 14/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel8/playlist.m3u8?wsSecret=c5d0ef6e7bdfd6efb9dd5e630795bfd1&wsABSTime=1794709961
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Stockport County vs Reading 22:00 ngày 14/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel9/playlist.m3u8?wsSecret=405a8f7b6db38e648a007b5a6112f19f&wsABSTime=1794709963
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Borac Cacak vs FK Loznica 22:00 ngày 14/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel10/playlist.m3u8?wsSecret=230754c85d8fd0b057c4ab960fed6704&wsABSTime=1794709966
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Palestine vs Iran 22:00 ngày 14/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel13/playlist.m3u8?wsSecret=1e95339049d98bb6ffc0cfed505b1c87&wsABSTime=1794709968
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Choisy au Bac vs Caen 22:00 ngày 14/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel14/playlist.m3u8?wsSecret=2e1687068dac2b9676d692a9061581c8&wsABSTime=1794709970
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp NAC Breda vs Emmen 22:30 ngày 14/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel19/playlist.m3u8?wsSecret=59056fb312e9280151392a8fbff47115&wsABSTime=1794709972
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Al-Wasl SC vs Al-Nasr Dubai 22:30 ngày 14/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel64/playlist.m3u8?wsSecret=e040f72d180520923984c013cddc9cad&wsABSTime=1794709974
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hatta vs Al-Ain FC 22:30 ngày 14/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel17/playlist.m3u8?wsSecret=081b4ee04f9732a424453b5925fcd1c6&wsABSTime=1794709977
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvbn.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Đan Mạch U19 vs San Marino U19 22:30 ngày 14/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=1af883a979f1ff076e495ecc434c89a4&wsABSTime=1794709979
 
