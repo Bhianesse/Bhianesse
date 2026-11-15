@@ -4,13 +4,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=d2b3a19ef86006a832c49c12695b1c1d&wsABSTime=1794760999
-
-#EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Đảo Síp vs Montenegro 21:00 ngày 15/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel6.m3u8
+https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=6cacfe66121e67331b8b2f9c011861ae&wsABSTime=1794761324
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Phần Lan vs San Marino 00:00 ngày 16/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -18,11 +12,17 @@ https://live2.jorvakstreamcache.com/live/channel6.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Đảo Síp vs Montenegro 21:00 ngày 15/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.jorvakstreamcache.com/live/channel6.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Belarus vs Albania 00:00 ngày 16/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=0a3d305bb45061725681705d665a90fd&wsABSTime=1794761007
+https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=754164ac5b2270fd1d1ef7c8590e0054&wsABSTime=1794761332
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kataller Toyama vs Tokushima Vortis 12:00 ngày 15/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -66,12 +66,6 @@ https://live2.jorvakstreamcache.com/live/channel21.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel24.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kashiwa Reysol vs Kawasaki Frontale 15:00 ngày 15/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel15.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Inac Kobe vs Nữ Cerezo Osaka 15:00 ngày 15/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -84,11 +78,17 @@ https://live2.jorvakstreamcache.com/live/channel7.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel12.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kashiwa Reysol vs Kawasaki Frontale 15:00 ngày 15/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.jorvakstreamcache.com/live/channel15.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Chelyabinsk vs Veles Moscow 17:00 ngày 15/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001794717841-0-0-896dc3343df9668a2e0334d354800fbb
+https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001794718168-0-0-840ededc12fcf8ade0e632828ff4df32
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Dempo vs Chanmari FC 17:30 ngày 15/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -96,17 +96,17 @@ https://live2.domaincdn.cc/livecdn/channel-16.m3u8?auth_key=3000001794717841-0-0
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel9.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp CD Tondela vs SC Farense 18:00 ngày 15/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel8.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Alania Vladikavkaz vs Rodina-2 Moscow 17:00 ngày 15/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel23.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp CD Tondela vs SC Farense 18:00 ngày 15/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.jorvakstreamcache.com/live/channel8.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Real Sociedad vs Nữ Athletic Club 18:00 ngày 15/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
