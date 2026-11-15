@@ -4,37 +4,37 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel19/playlist.m3u8?wsSecret=f1feeb6ffdbfda457e545e93a9a2fdf9&wsABSTime=1794808683
-
-#EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Belarus vs Albania 00:00 ngày 16/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=e4b6650380258f76eedaac0a2f129d3b&wsABSTime=1794808683
-
-#EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Phần Lan vs San Marino 00:00 ngày 16/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bỉ vs Italy 02:45 ngày 16/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001794765490-0-0-c813d7734709cb6724babb5a2b735b0a
-
-#EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tây Ban Nha vs Anh 02:45 ngày 16/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794765492-0-0-e733bb5b1713d56948d4c7515678b73d
+https://live1.quickscoreboardz.com/live/channel19/playlist.m3u8?wsSecret=8de99d6580327f7c767b6753af7c6c2e&wsABSTime=1794813216
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Pháp vs Thổ Nhĩ Kỳ 02:45 ngày 16/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=235043b72d04d4b57c673e54cd4b56f0&wsABSTime=1794808692
+https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=0f9aad3461877edbd739c3d25f55352a&wsABSTime=1794813216
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bỉ vs Italy 02:45 ngày 16/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001794770017-0-0-67f45ac2d94fbf7ccf960e46bc8da4d5
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tây Ban Nha vs Anh 02:45 ngày 16/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001794770024-0-0-9bb43058ffada8021b8221937fd76efd
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kazakhstan vs Slovakia 22:00 ngày 16/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=e3e6ff4e09f64e912ded6696467af550&wsABSTime=1794813227
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Estonia vs Bulgaria 00:00 ngày 17/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Faroe Islands vs Moldova 22:00 ngày 16/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -46,7 +46,7 @@ https://live2.jorvakstreamcache.com/live/channel2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel6/playlist.m3u8?wsSecret=8586d20fd75be694f1a1cedb2cb5bdab&wsABSTime=1794808701
+https://live1.quickscoreboardz.com/live/channel6/playlist.m3u8?wsSecret=fb3c1c9f855c83abe4bdcf6ee8e0a945&wsABSTime=1794813234
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Lithuania vs Liechtenstein 00:00 ngày 17/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -54,17 +54,11 @@ https://live1.quickscoreboardz.com/live/channel6/playlist.m3u8?wsSecret=8586d20f
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel11.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp CD Comerciantes vs Sport Boys 01:00 ngày 16/11
+#EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Juan Pablo II vs Dep. Garcilaso 03:15 ngày 16/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel28.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Leones Negros vs Atletico Morelia 01:00 ngày 16/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel13.m3u8
+https://live2.jorvakstreamcache.com/live/channel8.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Danubio FC vs Liverpool URU 02:30 ngày 16/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -72,17 +66,17 @@ https://live2.jorvakstreamcache.com/live/channel13.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel22.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Juan Pablo II vs Dep. Garcilaso 03:15 ngày 16/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel8.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nacional Potosi vs Real Potosi 04:30 ngày 16/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel10.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Alianza Atletico vs Sporting Cristal 05:00 ngày 16/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.jorvakstreamcache.com/live/channel28.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Panama vs Curacao 06:00 ngày 16/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -125,4 +119,16 @@ https://live2.jorvakstreamcache.com/live/channel17.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel23.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp CH Séc U20 vs Đức U20 21:00 ngày 16/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.jorvakstreamcache.com/live/channel13.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Somalia vs Ghana 22:00 ngày 16/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.jorvakstreamcache.com/live/channel14.m3u8
 
