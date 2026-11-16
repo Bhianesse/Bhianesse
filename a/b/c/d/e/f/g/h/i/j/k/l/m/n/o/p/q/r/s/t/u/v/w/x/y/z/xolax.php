@@ -1,22 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tajikistan U19 vs Việt Nam U19 13:30 ngày 17/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel6.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Kyrgyzstan vs Việt Nam 19:00 ngày 17/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Wanderers FC vs CA Juventud 06:00 ngày 17/11
+#EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Tajikistan U19 vs Việt Nam U19 13:30 ngày 17/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel7.m3u8
+https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Trinidad and Tobago vs Antigua and Barbuda 07:00 ngày 17/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -66,17 +60,17 @@ https://live2.jorvakstreamcache.com/live/channel18.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel24.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Jordan U17 vs Iran U17 16:00 ngày 17/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Myanmar U17 vs Campuchia U17 15:30 ngày 17/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Jordan U17 vs Iran U17 16:00 ngày 17/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bắc Ireland U17 vs Đức U17 17:00 ngày 17/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -89,6 +83,12 @@ https://live2.jorvakstreamcache.com/live/channel28.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel15.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Uptown Rebels SC vs Parikrma FC 17:25 ngày 17/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.jorvakstreamcache.com/live/channel7.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvbj.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Serbia U17 vs Bồ Đào Nha U17 18:00 ngày 17/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
