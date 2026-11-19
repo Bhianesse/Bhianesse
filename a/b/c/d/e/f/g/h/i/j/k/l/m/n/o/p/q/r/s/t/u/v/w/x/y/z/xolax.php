@@ -4,12 +4,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001795110011-0-0-d0600e3542ab071c19674291a3092dae
-
-#EXTINF:-1 tvg-logo="https://static.xoilacvay.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Austria Wien vs Nữ Bayern Munchen 00:45 ngày 20/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvay.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Paris FC vs Nữ HB Koge 00:45 ngày 20/11
@@ -24,12 +18,6 @@ https://live2.jorvakstreamcache.com/live/channel16.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel13.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacvay.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Arsenal vs Nữ Lyon 03:00 ngày 20/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel6.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacvay.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp CD Argual Women vs Nữ Madrid CFF 01:00 ngày 20/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -40,13 +28,19 @@ https://live2.jorvakstreamcache.com/live/channel28.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=48ec3e9dc13eac30cefa444cfe1bd9da&wsABSTime=1795153224
+https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?wsSecret=2dc8586c7c45acd9c61b52b74017e104&wsABSTime=1795153615
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvay.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Arsenal vs Nữ Lyon 03:00 ngày 20/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvay.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Benfica vs Nữ AS Roma 03:00 ngày 20/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live1.quickscoreboardz.com/live/channel11/playlist.m3u8?wsSecret=69a351704e6e1f2991d6f510bcbc74cf&wsABSTime=1795153232
+https://live1.quickscoreboardz.com/live/channel11/playlist.m3u8?wsSecret=a893b3066d1dab2e231f2b51af65a47d&wsABSTime=1795153621
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvay.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Vasco da Gama vs Internacional RS 05:30 ngày 20/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -54,17 +48,17 @@ https://live1.quickscoreboardz.com/live/channel11/playlist.m3u8?wsSecret=69a3517
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel14.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacvay.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp São Paulo vs Fluminense RJ 07:30 ngày 20/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel18.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacvay.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Vitória BA vs RB Bragantino 05:30 ngày 20/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel22.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvay.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp São Paulo vs Fluminense RJ 07:30 ngày 20/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.jorvakstreamcache.com/live/channel18.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvay.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Orlando City vs FC Cincinnati 07:30 ngày 20/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -78,17 +72,35 @@ https://live2.jorvakstreamcache.com/live/channel5.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel19.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacvay.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ WS Wanderers vs Nữ Wellington Phoenix 12:50 ngày 20/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001795110438-0-0-c31d32a299940c7af0144674f403efb3
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvay.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Singapore U17 vs Palestine U17 14:30 ngày 20/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel3/playlist.m3u8?wsSecret=67eed340b0cf10f32a210128b684929f&wsABSTime=1795153639
+
 #EXTINF:-1 tvg-logo="https://static.xoilacvay.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Đài Loan U17 vs Hồng Kông U17 15:00 ngày 20/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacvay.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Yemen U17 vs Turkmenistan U17 15:00 ngày 20/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=579121f18da23e5341c113024f83bb8b&wsABSTime=1795153648
+
 #EXTINF:-1 tvg-logo="https://static.xoilacvay.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Garudayaksa FC vs Madura United 15:30 ngày 20/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domaincdn.cc/livecdn/channel-18.m3u8?auth_key=3000001795110062-0-0-fd1140e87a4a8394d8ad35174fbce716
+https://live2.domaincdn.cc/livecdn/channel-18.m3u8?auth_key=3000001795110451-0-0-451bf47d128435da8f9aeb70277f1f9a
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvay.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp PSS Sleman vs Arema FC 15:30 ngày 20/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
