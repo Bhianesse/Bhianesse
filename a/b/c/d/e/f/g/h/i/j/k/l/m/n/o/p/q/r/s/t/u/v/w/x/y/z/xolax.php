@@ -1,28 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacvaz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Grêmio RS vs Bahia BA 07:30 ngày 19/11
+#EXTINF:-1 tvg-logo="https://static.xoilacvaz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp CA Independente vs Tauro FC 08:30 ngày 19/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel35.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacvaz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Corinthians SP vs Botafogo RJ 07:30 ngày 19/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel21.m3u8
+https://live2.jorvakstreamcache.com/live/channel23.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvaz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Công An Hà Nội vs Johor Darul Takzim 19:30 ngày 19/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacvaz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp CA Independente vs Tauro FC 08:30 ngày 19/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel23.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvaz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Bangalore Dream United FC vs FC Agniputhra 12:25 ngày 19/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -60,17 +48,17 @@ https://live2.jorvakstreamcache.com/live/channel4.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel28.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacvaz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hal FC vs Real Bengaluru 17:25 ngày 19/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel8.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacvaz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Dempo vs Shillong Lajong FC 17:30 ngày 19/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel17.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvaz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hal FC vs Real Bengaluru 17:25 ngày 19/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.jorvakstreamcache.com/live/channel8.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvaz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Persib Bandung vs Shan United 19:00 ngày 19/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -95,6 +83,12 @@ https://live2.jorvakstreamcache.com/live/channel13.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel10.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvaz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp New Caledonia U17 vs Ecuador U17 20:00 ngày 19/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.jorvakstreamcache.com/live/channel21.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvaz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Pháp U17 vs Haiti U17 20:00 ngày 19/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
