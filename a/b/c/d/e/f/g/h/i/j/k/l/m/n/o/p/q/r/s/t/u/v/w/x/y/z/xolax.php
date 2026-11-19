@@ -30,23 +30,29 @@ https://live2.jorvakstreamcache.com/live/channel18.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel19.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacvaz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FK MOIK Baku vs Sabail FC 17:00 ngày 19/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel28.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacvaz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ Omiya Ardija vs Nữ Inac Kobe 16:00 ngày 19/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel4.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.xoilacvaz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp FK MOIK Baku vs Sabail FC 17:00 ngày 19/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.jorvakstreamcache.com/live/channel28.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.xoilacvaz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Hal FC vs Real Bengaluru 17:25 ngày 19/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel8.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvaz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Persib Bandung vs Shan United 19:00 ngày 19/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvaz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Dempo vs Shillong Lajong FC 17:30 ngày 19/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -59,12 +65,6 @@ https://live2.jorvakstreamcache.com/live/channel17.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel15.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.xoilacvaz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Persib Bandung vs Shan United 19:00 ngày 19/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel6.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvaz.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Al-Wasl SC vs Hatta 19:45 ngày 19/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
