@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.xoilacvay.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Seattle Sounders vs Real Salt Lake 10:00 ngày 20/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacvay.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ WS Wanderers vs Nữ Wellington Phoenix 12:50 ngày 20/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
@@ -17,6 +11,12 @@ https://live2.jorvakstreamcache.com/live/channel16.m3u8
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvay.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Seattle Sounders vs Real Salt Lake 10:00 ngày 20/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvay.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Yemen U17 vs Turkmenistan U17 15:00 ngày 20/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -34,7 +34,7 @@ https://live2.jorvakstreamcache.com/live/channel4.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domaincdn.cc/livecdn/channel-18.m3u8?auth_key=3000001795136555-0-0-572ed50f6d8001334f3121a48edc786a
+https://live2.domaincdn.cc/livecdn/channel-18.m3u8?auth_key=3000001795141168-0-0-4a16d93dd37f735d71b3b430cd9cd338
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvay.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp PSS Sleman vs Arema FC 15:30 ngày 20/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -48,17 +48,17 @@ https://live2.jorvakstreamcache.com/live/channel17.m3u8
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel20.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacvay.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Philippines U17 vs Afghanistan U17 15:30 ngày 20/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel23.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacvay.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Western Sydney Wanderers FC vs Adelaide United 15:40 ngày 20/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel15.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvay.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Philippines U17 vs Afghanistan U17 15:30 ngày 20/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.jorvakstreamcache.com/live/channel23.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvay.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Negeri Sembilan vs Kuching City FC 15:45 ngày 20/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
