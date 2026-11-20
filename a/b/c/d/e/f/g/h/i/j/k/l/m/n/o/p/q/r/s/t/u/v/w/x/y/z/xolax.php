@@ -6,17 +6,17 @@
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.xoilacvay.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Singapore U17 vs Palestine U17 14:30 ngày 20/11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xoilacct.tv/
-#EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.xoilacvay.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Nữ WS Wanderers vs Nữ Wellington Phoenix 12:50 ngày 20/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
 https://live2.jorvakstreamcache.com/live/channel16.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.xoilacvay.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Singapore U17 vs Palestine U17 14:30 ngày 20/11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xoilacct.tv/
+#EXTVLCOPT:http-origin=https://xoilacct.tv
+https://live2.jorvakstreamcache.com/live/channel19.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvay.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp Yemen U17 vs Turkmenistan U17 15:00 ngày 20/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
@@ -34,7 +34,7 @@ https://live2.jorvakstreamcache.com/live/channel4.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xoilacct.tv/
 #EXTVLCOPT:http-origin=https://xoilacct.tv
-https://live2.domaincdn.cc/livecdn/channel-18.m3u8?auth_key=3000001795145797-0-0-ffd85b0f05823e766593870034959db6
+https://live2.domaincdn.cc/livecdn/channel-18.m3u8?auth_key=3000001795148695-0-0-9cc8c03da56953a3fc55cb6cf035a8e6
 
 #EXTINF:-1 tvg-logo="https://static.xoilacvay.tv/images/logo-365.png?v=1" group-title="EVΕNTS", Link trực tiếp PSS Sleman vs Arema FC 15:30 ngày 20/11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
