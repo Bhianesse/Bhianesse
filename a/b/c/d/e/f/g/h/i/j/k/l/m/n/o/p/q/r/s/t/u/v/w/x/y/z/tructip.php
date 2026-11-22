@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Colo Colo vs Univ Catolica" tvg-logo="https://media2.16m50.tv/media/club/5158.webp" group-title="truct-tiep live",LIVE Colo Colo vs Univ Catolica [72']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/13457917_bbe67635de1bb97d8734a3380b16c4bd_autoChange.m3u8?auth_key=1795400974-0-0-626ce58921b12195f9e1dbfd272f2369
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Olimpia Asuncion vs Club Sportivo Trinidense" tvg-logo="https://media2.16m50.tv/media/club/646.webp" group-title="truct-tiep live",LIVE Olimpia Asuncion vs Club Sportivo Trinidense [66']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/14699563_cc5320f2cf0639237b7e90317a88c370_autoChange.m3u8?auth_key=1795400974-0-0-f865e867853abb12dcf1e9b90c5d4948
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Atletico Clube Goianiense vs Vila Nova" tvg-logo="https://media2.16m50.tv/media/club/4956.webp" group-title="truct-tiep live",LIVE Atletico Clube Goianiense vs Vila Nova [66']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -19,7 +11,7 @@ https://live.hztx2020.com/live/13391556_d9a73f85adaba1fb17f7a57ffa29876b_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14718512_bdcf3f4693589a346c44da5e9f848a19_autoChange.m3u8?auth_key=1795400974-0-0-d457d191bb0c2e9682ae36f550cef4c5
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Deportivo Metropolitano vs Deportivo La Guaira" tvg-logo="https://media2.16m50.tv/media/club/22385.webp" group-title="truct-tiep live",LIVE Deportivo Metropolitano vs Deportivo La Guaira [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Deportivo Metropolitano vs Deportivo La Guaira" tvg-logo="https://media2.16m50.tv/media/club/22385.webp" group-title="truct-tiep live",LIVE Deportivo Metropolitano vs Deportivo La Guaira [78']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live4.hztx2020.com/live/14601613_ad3e08644994b22ebb5dafc37a39677c_autoChange.m3u8?auth_key=1795400985-0-0-240b3bd81e4eb0a623555c3ba876c761
@@ -39,3 +31,15 @@ https://live.hztx2020.com/live/14669223_02b3bcef4166e5a436732fc4cf4d6bb0_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/13391554_d0a51295ae175f49c14828d55dfa6865_autoChange.m3u8?auth_key=1795400984-0-0-4be51eff8e9600a6590302db51345767
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Walter Ferretti vs HYH Export Sebaco FC" tvg-logo="https://media2.16m50.tv/media/club/574.webp" group-title="truct-tiep live",LIVE Walter Ferretti vs HYH Export Sebaco FC [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live2.hztx2020.com/live/76880312_b995cdbdaf267cb1f3866e89019a1ad6_autoChange.m3u8?auth_key=1795402749-0-0-e3fdb9f6cbb18b42e4b0004fea6c6c75
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Miami Heat vs Oklahoma City Thunder" tvg-logo="https://media2.16m50.tv/media/club/12397.webp" group-title="truct-tiep live",LIVE Miami Heat vs Oklahoma City Thunder [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14327065_7950ebbe22d59976a43222a1da7d1073_autoChange.m3u8?auth_key=1795402749-0-0-79bccb6e6aeccabcdd8947b4371cdf19
+#EXTINF:-1 tvg-id="" tvg-name="Club Deportivo Guadalajara vs Cruz Azul" tvg-logo="https://media2.16m50.tv/media/club/5305.webp" group-title="truct-tiep live",Club Deportivo Guadalajara vs Cruz Azul [06:07 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/13999778_3ef316f7f715677c7fa77956364e02d1_autoChange.m3u8?auth_key=1795402749-0-0-042d52f42291539209e8066899357878
