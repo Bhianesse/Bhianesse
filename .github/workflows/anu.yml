@@ -4,27 +4,42 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0,5,10,15,20,25,30,35,40,45,50,55 * * * *'
+  push:
+   branches: [main] 
 
 concurrency:
   group: runner-queue
-  cancel-in-progress: false
+  cancel-in-progress: true
+  queue: max   
 
 jobs:
   runner:
     runs-on: ubuntu-22.04
-    timeout-minutes: 360
+    timeout-minutes: 660
 
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
+      - name: ♪
+        uses: actions/checkout@v7
         with:
-          python-version: "3.11"
+          fetch-depth: 1
 
-      - run: pip install requests
+      - name: ♪
+        run: |
+          echo "${{ secrets.TRI_PY }}" | base64 -d > tri.py
+          chmod +x tri.py
+
+      - name: ♪
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.15"
+
+      - name: ♪
+        run: pip install requests
 
       - name: Run Tri Script
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python tri.py
+        run: python tri.py   
+
+        
