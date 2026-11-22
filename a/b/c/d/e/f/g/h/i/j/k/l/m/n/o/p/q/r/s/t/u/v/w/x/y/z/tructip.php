@@ -23,7 +23,7 @@ https://live2.hztx2020.com/live/76880312_b995cdbdaf267cb1f3866e89019a1ad6_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/13999778_3ef316f7f715677c7fa77956364e02d1_autoChange.m3u8?auth_key=1795404574-0-0-e1cde300b1c7a46d2280e9d98430092d
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Chicago Fire vs Charlotte FC" tvg-logo="https://media2.16m50.tv/media/club/5282.webp" group-title="truct-tiep live",LIVE Chicago Fire vs Charlotte FC [10']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Chicago Fire vs Charlotte FC" tvg-logo="https://media2.16m50.tv/media/club/5282.webp" group-title="truct-tiep live",LIVE Chicago Fire vs Charlotte FC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14666894_7525cff97062633b4bcab6c79a0ec38d_autoChange.m3u8?auth_key=1795404584-0-0-28fd8ab298ae88043aa36e71259052eb
