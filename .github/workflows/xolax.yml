@@ -75,10 +75,9 @@ jobs:
           chromedriver --version
 
       - name: ✓
-        env:
-          XOLAX_PY: ${{ secrets.XOLAX_PY }}
         run: |
-          echo "$XOLAX_PY" | base64 -d > xolax.py
+          echo "${{ secrets.XOLAX_PY }}" | base64 -d > xolax.py
+          chmod +x xolax.py
 
       - name: ✓
         run: xvfb-run python xolax.py --debug 
