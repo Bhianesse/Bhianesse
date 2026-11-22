@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE SCU Torreense vs Benfica" tvg-logo="https://media2.16m50.tv/media/club/2631.webp" group-title="truct-tiep live",LIVE SCU Torreense vs Benfica [66']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14623992_2a2ebc0ebaf96665fe8ec31a946c1808_autoChange.m3u8?auth_key=1795400974-0-0-5b8826fbe0f8a527b130cce14df0d08d
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Colo Colo vs Univ Catolica" tvg-logo="https://media2.16m50.tv/media/club/5158.webp" group-title="truct-tiep live",LIVE Colo Colo vs Univ Catolica [72']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -19,7 +15,7 @@ https://live2.hztx2020.com/live/14695702_ec595b1fe3574524d0d920132423722f_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/13391556_d9a73f85adaba1fb17f7a57ffa29876b_autoChange.m3u8?auth_key=1795400975-0-0-5b18c161e776a78e2bc5f80628cdcef5
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Nashville SC vs FC Cincinnati" tvg-logo="https://media2.16m50.tv/media/club/22251.webp" group-title="truct-tiep live",LIVE Nashville SC vs FC Cincinnati [59']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Nashville SC vs FC Cincinnati" tvg-logo="https://media2.16m50.tv/media/club/22251.webp" group-title="truct-tiep live",LIVE Nashville SC vs FC Cincinnati [58']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14718512_bdcf3f4693589a346c44da5e9f848a19_autoChange.m3u8?auth_key=1795400974-0-0-d457d191bb0c2e9682ae36f550cef4c5
