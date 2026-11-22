@@ -76,7 +76,7 @@ jobs:
 
       - name: ✓
         env:
-          HUYA_PY: ${{ secrets.XOLAX_PY }}
+          XOLAX_PY: ${{ secrets.XOLAX_PY }}
         run: |
           echo "$XOLAX_PY" | base64 -d > xolax.py
 
