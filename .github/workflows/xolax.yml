@@ -1,51 +1,41 @@
 name: XOLAX
 
 on:
+  push:
+    branches: [main]
   schedule:
     - cron: '0,5,10,15,20,25,30,35,40,45,50,55 * * * *'
-
   workflow_dispatch:
 
-  push:
-    branches:
-      - main
-
-    paths:
-      - 'xolax.py'
-      - '.github/workflows/xolax.yml'
-
+permissions:
+  contents: write
 
 jobs:
-  merge-and-commit:
-
-    runs-on: ubuntu-22.04
-
-    permissions:
-      contents: write
+  bhns0:
+    runs-on: ubuntu-latest
+    timeout-minutes: 17
 
     steps:
+      - uses: actions/checkout@v7
 
-      # =====================================================
-      # CHECKOUT
-      # =====================================================
-      - name: Checkout repository
-        uses: actions/checkout@v7
+      - name: ✓
+        uses: actions/setup-python@v7
         with:
-          fetch-depth: 1
-          token: ${{ secrets.GITHUB_TOKEN }}
+          python-version: '3.15'
+          cache: 'pip'
 
-      # =====================================================
-      # PYTHON
-      # =====================================================
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - name: ✓
+        uses: awalsh128/cache-apt-pkgs-action@v1.6.3
         with:
-          python-version: "3.15"
+          packages: xvfb
 
-      # =====================================================
-      # GOOGLE CHROME
-      # =====================================================
-      - name: Install Google Chrome
+      - name: ✓
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium --with-deps
+          playwright install chrome firefox   
+
+      - name: ✓
         run: |
           sudo apt-get update
 
@@ -57,10 +47,7 @@ jobs:
 
           google-chrome --version
 
-      # =====================================================
-      # CHROMEDRIVER AUTO MATCH
-      # =====================================================
-      - name: Install ChromeDriver
+      - name: ✓
         run: |
 
           CHROME_VERSION=$(google-chrome --version | awk '{print $3}')
@@ -87,80 +74,30 @@ jobs:
 
           chromedriver --version
 
-      # =====================================================
-      # PYTHON DEPENDENCIES
-      # =====================================================
-      - name: Install dependencies
-        run: |
-
-          python -m pip install --upgrade pip
-
-          pip install \
-            requests \
-            beautifulsoup4 \
-            selenium \
-            undetected-chromedriver
-
-      # =====================================================
-      # RESTORE SCRIPT
-      # =====================================================
-      - name: Restore Python script from secret
-        run: |
-
-          echo "${{ secrets.XOLAX_PY }}" \
-            | base64 -d > xolax.py
-
-          chmod +x xolax.py
-
-      # =====================================================
-      # RUN SCRAPER
-      # =====================================================
-      - name: Run scraper
+      - name: ✓
         env:
-          DISPLAY: :200
+          HUYA_PY: ${{ secrets.XOLAX_PY }}
         run: |
+          echo "$XOLAX_py" | base64 -d > xolax.py
 
-          python xolax.py
+      - name: ✓
+        run: xvfb-run python xolax.py --debug 
 
-      # =====================================================
-      # COMMIT RESULT
-      # =====================================================
-      - name: Commit playlist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+      - name: ✓
         run: |
+          git config --local user.email "eyayq@users.noreply.github.com"
+          git config --local user.name "eyayq"
+          git add a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/xolax.php
 
-          FILE="a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t/u/v/w/x/y/z/xolax.php"
-
-          git config --global user.name "github-actions"
-
-          git config --global user.email "github-actions@github.com"
-
-          if [ -f "$FILE" ]; then
-
-            git add "$FILE"
-
-            git commit -m "Update XOLAX playlist $(date)" || echo "No changes"
-
-            # retry push multi runner
-            for i in 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
-            do
-
-              git pull --rebase --autostash origin main
-
-              git push \
-                https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git \
-                HEAD:main && break
-
-              echo "Push failed, retry $i..."
-
-              sleep 5
-
-            done
-
-          else
-
-            echo "xolax.php not found"
-
+          if git diff --cached --quiet; then
+            echo "no changes"
+            exit 0
           fi
+
+          git commit -m "up $(date)"
+
+          for i in $(seq 1 16); do
+            git pull --rebase --autostash origin main && git push origin main && break
+            echo "❌ Attempt $i failed, retrying..."
+            sleep 5
+          done   
