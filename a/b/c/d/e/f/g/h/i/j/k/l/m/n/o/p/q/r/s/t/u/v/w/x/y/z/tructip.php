@@ -34,15 +34,15 @@ https://live1.hztx2020.com/live/14091301_3c83cfa6a48dbcc835f6315e306435a7_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE SCU Torreense vs Benfica" tvg-logo="https://media2.16m50.tv/media/club/2631.webp" group-title="truct-tiep live",LIVE SCU Torreense vs Benfica [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14623992_2a2ebc0ebaf96665fe8ec31a946c1808_autoChange.m3u8?auth_key=1795396015-0-0-9fecc6a64ab4e56999769ac446ab2da8
+https://live.hztx2020.com/live/14623992_2a2ebc0ebaf96665fe8ec31a946c1808_autoChange.m3u8?auth_key=1795396730-0-0-5bdefd761905d1f4b58f073d0cbe26da
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Colo Colo vs Univ Catolica" tvg-logo="https://media2.16m50.tv/media/club/5158.webp" group-title="truct-tiep live",LIVE Colo Colo vs Univ Catolica [5']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/13457917_bbe67635de1bb97d8734a3380b16c4bd_autoChange.m3u8?auth_key=1795396015-0-0-1a293a50c61eeeeb861a2dac7e28123a
+https://live2.hztx2020.com/live/13457917_bbe67635de1bb97d8734a3380b16c4bd_autoChange.m3u8?auth_key=1795396730-0-0-365db70bd161fef985e2f9c1ab908269
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Olimpia Asuncion vs Club Sportivo Trinidense" tvg-logo="https://media2.16m50.tv/media/club/646.webp" group-title="truct-tiep live",LIVE Olimpia Asuncion vs Club Sportivo Trinidense [2']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/14699563_cc5320f2cf0639237b7e90317a88c370_autoChange.m3u8?auth_key=1795396015-0-0-78f9212f984e30206d9ae4344f309005
+https://live3.hztx2020.com/live/14699563_cc5320f2cf0639237b7e90317a88c370_autoChange.m3u8?auth_key=1795396730-0-0-9b8d074f8c7f875c7dd6fb3ef6be4fdd
 #EXTINF:-1 tvg-id="" tvg-name="Deportivo Metropolitano vs Deportivo La Guaira" tvg-logo="https://media2.16m50.tv/media/club/22385.webp" group-title="truct-tiep live",Deportivo Metropolitano vs Deportivo La Guaira [04:30 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
