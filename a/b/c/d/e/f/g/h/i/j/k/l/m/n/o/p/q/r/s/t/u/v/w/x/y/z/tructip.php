@@ -31,14 +31,30 @@ https://live1.hztx2020.com/live/14682334_0e3364f35834144690659d9d1698f3f7_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14375781_ec5a008644f37bb2836715a6bf9822dc_autoChange.m3u8?auth_key=1795346978-0-0-1d2375592c28ba1235a72d2822f361b2
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Wuzhishan Team vs Ledong Team" tvg-logo="https://media2.16m50.tv/media/club/26268.webp" group-title="truct-tiep",LIVE Wuzhishan Team vs Ledong Team [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/zrkn6i1rjv1hwql_bb041f052d61f06bbcb1dfac08a70878_autoChange.m3u8?auth_key=1795348541-0-0-c992e4722e4c324335afeaf1e06c878d
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Dingnan United vs Guizhou Guiyang Athletic" tvg-logo="https://media2.16m50.tv/media/club/8749.webp" group-title="truct-tiep",LIVE Dingnan United vs Guizhou Guiyang Athletic [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live3.hztx2020.com/live/14670937_10a719de4ae64e34148c346f1ba301ac_autoChange.m3u8?auth_key=1795346979-0-0-31cfe4c788106ab1dcac5a3890ae1079
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Chengmai Team vs Danzhou Team" tvg-logo="https://media2.16m50.tv/media/club/26588.webp" group-title="truct-tiep",LIVE Chengmai Team vs Danzhou Team [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/ndqmli94125urkv_d74d2df9e42718ac5efca9e4840d262f_autoChange.m3u8?auth_key=1795348541-0-0-f50223b48bb45cb150c067472a414a72
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Seoul E-Land FC vs Chungnam Asan" tvg-logo="https://media2.16m50.tv/media/club/1990.webp" group-title="truct-tiep",LIVE Seoul E-Land FC vs Chungnam Asan [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/13533564_faf8167bdba5939f98a5d483e5dbd916_autoChange.m3u8?auth_key=1795346979-0-0-84043a264f8fa3d996dcf76d8de2c98f
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Lingao Team vs Baisha Team" tvg-logo="https://media2.16m50.tv/media/club/26259.webp" group-title="truct-tiep",LIVE Lingao Team vs Baisha Team [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/j374oi48ponbgqo_0479b33c3f274a2bb6484d778e3c9766_autoChange.m3u8?auth_key=1795348541-0-0-28f46e05f4a14203116b834f42c29ee0
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Tunchang Team vs Ding an Team" tvg-logo="https://media2.16m50.tv/media/club/26178.webp" group-title="truct-tiep",LIVE Tunchang Team vs Ding an Team [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/g6763ipng63ao7r_dae4a21acb4adb63316dca0b16ba24a4_autoChange.m3u8?auth_key=1795348541-0-0-71c804c73f24502582e70671c4e6b664
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Paju Frontier FC vs Cheonan City" tvg-logo="https://media2.16m50.tv/media/club/1984.webp" group-title="truct-tiep",LIVE Paju Frontier FC vs Cheonan City [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
