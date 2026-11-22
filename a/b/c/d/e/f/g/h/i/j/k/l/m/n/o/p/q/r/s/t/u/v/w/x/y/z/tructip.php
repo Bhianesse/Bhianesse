@@ -11,7 +11,7 @@ https://live.hztx2020.com/live/13391556_d9a73f85adaba1fb17f7a57ffa29876b_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14718512_bdcf3f4693589a346c44da5e9f848a19_autoChange.m3u8?auth_key=1795400974-0-0-d457d191bb0c2e9682ae36f550cef4c5
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Deportivo Metropolitano vs Deportivo La Guaira" tvg-logo="https://media2.16m50.tv/media/club/22385.webp" group-title="truct-tiep live",LIVE Deportivo Metropolitano vs Deportivo La Guaira [78']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Deportivo Metropolitano vs Deportivo La Guaira" tvg-logo="https://media2.16m50.tv/media/club/22385.webp" group-title="truct-tiep live",LIVE Deportivo Metropolitano vs Deportivo La Guaira [68']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live4.hztx2020.com/live/14601613_ad3e08644994b22ebb5dafc37a39677c_autoChange.m3u8?auth_key=1795400985-0-0-240b3bd81e4eb0a623555c3ba876c761
@@ -27,19 +27,15 @@ https://live2.hztx2020.com/live/14669212_110ba80322ca03784e8cf66036461b9a_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14669223_02b3bcef4166e5a436732fc4cf4d6bb0_autoChange.m3u8?auth_key=1795400984-0-0-69cf00c9fc3a0784e190144f951694ea
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Red Bull Bragantino vs Vasco da Gama Saf - RJ" tvg-logo="https://media2.16m50.tv/media/club/8139.webp" group-title="truct-tiep live",LIVE Red Bull Bragantino vs Vasco da Gama Saf - RJ [2']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Red Bull Bragantino vs Vasco da Gama Saf - RJ" tvg-logo="https://media2.16m50.tv/media/club/8139.webp" group-title="truct-tiep live",LIVE Red Bull Bragantino vs Vasco da Gama Saf - RJ [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/13391554_d0a51295ae175f49c14828d55dfa6865_autoChange.m3u8?auth_key=1795400984-0-0-4be51eff8e9600a6590302db51345767
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Walter Ferretti vs HYH Export Sebaco FC" tvg-logo="https://media2.16m50.tv/media/club/574.webp" group-title="truct-tiep live",LIVE Walter Ferretti vs HYH Export Sebaco FC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/76880312_b995cdbdaf267cb1f3866e89019a1ad6_autoChange.m3u8?auth_key=1795403230-0-0-92d8214cbd13ce3d65a590a920c8db36
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Miami Heat vs Oklahoma City Thunder" tvg-logo="https://media2.16m50.tv/media/club/12397.webp" group-title="truct-tiep live",LIVE Miami Heat vs Oklahoma City Thunder [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14327065_7950ebbe22d59976a43222a1da7d1073_autoChange.m3u8?auth_key=1795403230-0-0-a336488c66c548db828182f47a7019bc
+https://live2.hztx2020.com/live/76880312_b995cdbdaf267cb1f3866e89019a1ad6_autoChange.m3u8?auth_key=1795404108-0-0-076949aecef5616a31f6f2e0288256d8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Club Deportivo Guadalajara vs Cruz Azul" tvg-logo="https://media2.16m50.tv/media/club/5305.webp" group-title="truct-tiep live",LIVE Club Deportivo Guadalajara vs Cruz Azul [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/13999778_3ef316f7f715677c7fa77956364e02d1_autoChange.m3u8?auth_key=1795403230-0-0-3414d429e4b1b5b0a8323739dcaac852
+https://live.hztx2020.com/live/13999778_3ef316f7f715677c7fa77956364e02d1_autoChange.m3u8?auth_key=1795404109-0-0-37f58c567ddbd2cf29855dbe517c3e87
