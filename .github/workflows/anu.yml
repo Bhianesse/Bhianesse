@@ -9,13 +9,13 @@ on:
 
 concurrency:
   group: runner-queue
-  cancel-in-progress: true
+  cancel-in-progress: false
   queue: max   
 
 jobs:
   runner:
     runs-on: ubuntu-22.04
-    timeout-minutes: 660
+    timeout-minutes: 960
 
     steps:
       - name: ♪
