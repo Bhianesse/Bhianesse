@@ -78,7 +78,7 @@ jobs:
         env:
           HUYA_PY: ${{ secrets.XOLAX_PY }}
         run: |
-          echo "$XOLAX_py" | base64 -d > xolax.py
+          echo "$XOLAX_PY" | base64 -d > xolax.py
 
       - name: ✓
         run: xvfb-run python xolax.py --debug 
