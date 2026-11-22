@@ -11,10 +11,14 @@ https://live1.hztx2020.com/live/14682334_0e3364f35834144690659d9d1698f3f7_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14375781_ec5a008644f37bb2836715a6bf9822dc_autoChange.m3u8?auth_key=1795346978-0-0-1d2375592c28ba1235a72d2822f361b2
+#EXTINF:-1 tvg-id="" tvg-name="LIVE KB Stars Nữ vs Samsung Blue Minx Nữ" tvg-logo="https://media2.16m50.tv/media/club/27792.webp" group-title="truct-tiep",LIVE KB Stars Nữ vs Samsung Blue Minx Nữ [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14524765_aa1fa3088359854fe49c3e1bc0ffa7ca_autoChange.m3u8?auth_key=1795350107-0-0-a795cf3fe5753d0567a6f90e11324f0b
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Wuzhishan Team vs Ledong Team" tvg-logo="https://media2.16m50.tv/media/club/26268.webp" group-title="truct-tiep",LIVE Wuzhishan Team vs Ledong Team [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/zrkn6i1rjv1hwql_bb041f052d61f06bbcb1dfac08a70878_autoChange.m3u8?auth_key=1795349266-0-0-7f8203475461b55f70af641ea7ae7448
+https://live.hztx2020.com/live/zrkn6i1rjv1hwql_bb041f052d61f06bbcb1dfac08a70878_autoChange.m3u8?auth_key=1795350106-0-0-25325cecdc03a61189b7095dad452b1e
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Dingnan United vs Guizhou Guiyang Athletic" tvg-logo="https://media2.16m50.tv/media/club/8749.webp" group-title="truct-tiep",LIVE Dingnan United vs Guizhou Guiyang Athletic [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -22,16 +26,20 @@ https://live3.hztx2020.com/live/14670937_10a719de4ae64e34148c346f1ba301ac_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Chengmai Team vs Danzhou Team" tvg-logo="https://media2.16m50.tv/media/club/26588.webp" group-title="truct-tiep",LIVE Chengmai Team vs Danzhou Team [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/ndqmli94125urkv_d74d2df9e42718ac5efca9e4840d262f_autoChange.m3u8?auth_key=1795349266-0-0-450b6af72e580a3aa3ee18c4ec7d9ec9
+https://live1.hztx2020.com/live/ndqmli94125urkv_d74d2df9e42718ac5efca9e4840d262f_autoChange.m3u8?auth_key=1795350106-0-0-0793ef6cae3fde5a5258895c8113223f
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Seoul E-Land FC vs Chungnam Asan" tvg-logo="https://media2.16m50.tv/media/club/1990.webp" group-title="truct-tiep",LIVE Seoul E-Land FC vs Chungnam Asan [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/13533564_faf8167bdba5939f98a5d483e5dbd916_autoChange.m3u8?auth_key=1795346979-0-0-84043a264f8fa3d996dcf76d8de2c98f
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Lingao Team vs Baisha Team" tvg-logo="https://media2.16m50.tv/media/club/26259.webp" group-title="truct-tiep",LIVE Lingao Team vs Baisha Team [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/j374oi48ponbgqo_0479b33c3f274a2bb6484d778e3c9766_autoChange.m3u8?auth_key=1795350106-0-0-05b500011d6e63a17e5aeebc9219ffcd
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Tunchang Team vs Ding an Team" tvg-logo="https://media2.16m50.tv/media/club/26178.webp" group-title="truct-tiep",LIVE Tunchang Team vs Ding an Team [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/g6763ipng63ao7r_dae4a21acb4adb63316dca0b16ba24a4_autoChange.m3u8?auth_key=1795349266-0-0-6655117369f6d560c5a7365eaea61431
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Paju Frontier FC vs Cheonan City" tvg-logo="https://media2.16m50.tv/media/club/1984.webp" group-title="truct-tiep",LIVE Paju Frontier FC vs Cheonan City [1']
+https://live.hztx2020.com/live/g6763ipng63ao7r_dae4a21acb4adb63316dca0b16ba24a4_autoChange.m3u8?auth_key=1795350106-0-0-cf346cde379048fc277828e5a6eb1a1f
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Paju Frontier FC vs Cheonan City" tvg-logo="https://media2.16m50.tv/media/club/1984.webp" group-title="truct-tiep",LIVE Paju Frontier FC vs Cheonan City [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live5.hztx2020.com/live/13533563_15c8447199703a7afddf488a29894151_autoChange.m3u8?auth_key=1795346979-0-0-3bc73bd340f08f0cadebaf94c75613f0
