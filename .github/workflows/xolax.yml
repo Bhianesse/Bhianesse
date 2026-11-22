@@ -29,7 +29,7 @@ jobs:
       # CHECKOUT
       # =====================================================
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           fetch-depth: 1
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -40,7 +40,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.15"
 
       # =====================================================
       # GOOGLE CHROME
@@ -117,7 +117,7 @@ jobs:
       # =====================================================
       - name: Run scraper
         env:
-          DISPLAY: :99
+          DISPLAY: :200
         run: |
 
           python xolax.py
