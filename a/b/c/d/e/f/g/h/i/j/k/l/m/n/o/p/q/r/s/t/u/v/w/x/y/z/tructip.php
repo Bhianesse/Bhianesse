@@ -31,23 +31,23 @@ https://live1.hztx2020.com/live/14682334_0e3364f35834144690659d9d1698f3f7_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14375781_ec5a008644f37bb2836715a6bf9822dc_autoChange.m3u8?auth_key=1795346978-0-0-1d2375592c28ba1235a72d2822f361b2
-#EXTINF:-1 tvg-id="" tvg-name="Dingnan United vs Guizhou Guiyang Athletic" tvg-logo="https://media2.16m50.tv/media/club/8749.webp" group-title="truct-tiep",Dingnan United vs Guizhou Guiyang Athletic [14:30 WIB]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Dingnan United vs Guizhou Guiyang Athletic" tvg-logo="https://media2.16m50.tv/media/club/8749.webp" group-title="truct-tiep",LIVE Dingnan United vs Guizhou Guiyang Athletic [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live3.hztx2020.com/live/14670937_10a719de4ae64e34148c346f1ba301ac_autoChange.m3u8?auth_key=1795346979-0-0-31cfe4c788106ab1dcac5a3890ae1079
-#EXTINF:-1 tvg-id="" tvg-name="Seoul E-Land FC vs Chungnam Asan" tvg-logo="https://media2.16m50.tv/media/club/1990.webp" group-title="truct-tiep",Seoul E-Land FC vs Chungnam Asan [14:30 WIB]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Seoul E-Land FC vs Chungnam Asan" tvg-logo="https://media2.16m50.tv/media/club/1990.webp" group-title="truct-tiep",LIVE Seoul E-Land FC vs Chungnam Asan [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/13533564_faf8167bdba5939f98a5d483e5dbd916_autoChange.m3u8?auth_key=1795346979-0-0-84043a264f8fa3d996dcf76d8de2c98f
-#EXTINF:-1 tvg-id="" tvg-name="Paju Frontier FC vs Cheonan City" tvg-logo="https://media2.16m50.tv/media/club/1984.webp" group-title="truct-tiep",Paju Frontier FC vs Cheonan City [14:30 WIB]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Paju Frontier FC vs Cheonan City" tvg-logo="https://media2.16m50.tv/media/club/1984.webp" group-title="truct-tiep",LIVE Paju Frontier FC vs Cheonan City [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live5.hztx2020.com/live/13533563_15c8447199703a7afddf488a29894151_autoChange.m3u8?auth_key=1795346979-0-0-3bc73bd340f08f0cadebaf94c75613f0
-#EXTINF:-1 tvg-id="" tvg-name="Taiwan Power Company FC vs Tainan City Steel" tvg-logo="https://media2.16m50.tv/media/club/5491.webp" group-title="truct-tiep",Taiwan Power Company FC vs Tainan City Steel [14:30 WIB]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Taiwan Power Company FC vs Tainan City Steel" tvg-logo="https://media2.16m50.tv/media/club/5491.webp" group-title="truct-tiep",LIVE Taiwan Power Company FC vs Tainan City Steel [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14375784_153db77c5b3aaef85da0e987a0785788_autoChange.m3u8?auth_key=1795346979-0-0-5ffc175f9230bbe32ba521fa98b3921e
-#EXTINF:-1 tvg-id="" tvg-name="Taichung Rock FC vs Tatung FC" tvg-logo="https://media2.16m50.tv/media/club/5691.webp" group-title="truct-tiep",Taichung Rock FC vs Tatung FC [14:30 WIB]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Taichung Rock FC vs Tatung FC" tvg-logo="https://media2.16m50.tv/media/club/5691.webp" group-title="truct-tiep",LIVE Taichung Rock FC vs Tatung FC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14375782_2a8591262e2a35c1bbb897bdd97d32dc_autoChange.m3u8?auth_key=1795346979-0-0-ef5a89d66106c04651ad80acd51071c5
