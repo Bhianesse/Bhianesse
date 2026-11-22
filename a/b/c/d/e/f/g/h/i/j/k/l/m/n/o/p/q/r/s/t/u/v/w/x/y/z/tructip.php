@@ -43,6 +43,10 @@ https://live3.hztx2020.com/live/14699563_cc5320f2cf0639237b7e90317a88c370_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14695702_ec595b1fe3574524d0d920132423722f_autoChange.m3u8?auth_key=1795397296-0-0-d26b6abc705dd156971b95d160f6cf02
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Liga Dep Universitaria Quito vs Sociedad Deportiva Aucas" tvg-logo="https://media2.16m50.tv/media/club/5268.webp" group-title="truct-tiep live",LIVE Liga Dep Universitaria Quito vs Sociedad Deportiva Aucas [1']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/14462509_ddc56aa61e2ada3f8eb6aa3229aaaead_autoChange.m3u8?auth_key=1795398103-0-0-93571c1e5a078748cdba752c8ebe5747
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Fluminense - RJ vs Mirassol - SP" tvg-logo="https://media2.16m50.tv/media/club/14324.webp" group-title="truct-tiep live",LIVE Fluminense - RJ vs Mirassol - SP [2']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
