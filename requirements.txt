@@ -1,0 +1,10 @@
+requests
+curl-cffi<0.14
+playwright
+playwright-stealth>=2.0.0
+beautifulsoup4
+websockets
+pycryptodome
+yt-dlp
+selenium
+undetected-chromedriver
