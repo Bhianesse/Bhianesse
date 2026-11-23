@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Braga Women vs SL Benfica Women" tvg-logo="https://media2.16m50.tv/media/club/6727.webp" group-title="truct-tiep live",LIVE Braga Women vs SL Benfica Women [71']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/2423346_3a30c162ecccf1f89481afdb7cd00e92_autoChange.m3u8?auth_key=1795480189-0-0-ca5968269f632ce505d9e51035270fbb
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Vitesse Arnhem vs De Graafschap" tvg-logo="https://media2.16m50.tv/media/club/5916.webp" group-title="truct-tiep live",LIVE Vitesse Arnhem vs De Graafschap [71']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -27,23 +23,27 @@ https://live1.hztx2020.com/live/13998733_2e314b1c9fd57ec999a910b0776f77d5_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/13978151_76231f1ad338e3768b3580aa7722c645_autoChange.m3u8?auth_key=1795480187-0-0-a1c978b53a05d8ef8743ed0271c5f499
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Levante vs Elche CF" tvg-logo="https://media2.16m50.tv/media/club/4341.webp" group-title="truct-tiep live",LIVE Levante vs Elche CF [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Levante vs Elche CF" tvg-logo="https://media2.16m50.tv/media/club/4341.webp" group-title="truct-tiep live",LIVE Levante vs Elche CF [64']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14090786_a46880c9172f5a4e989b9640a3423626_autoChange.m3u8?auth_key=1795480188-0-0-1f822c5658238b48c7614b0a5f7bc721
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Santa Clara U23 vs Maritimo U23" tvg-logo="https://media2.16m50.tv/media/club/7602.webp" group-title="truct-tiep live",LIVE Santa Clara U23 vs Maritimo U23 [-3']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14194157_5b053a9fb9cd3e3d8614bccf435af800_autoChange.m3u8?auth_key=1795481973-0-0-c08707b3e6a60a59c84099c3bf5216b9
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Banfield Women vs Huracan Women" tvg-logo="https://media2.16m50.tv/media/club/9244.webp" group-title="truct-tiep live",LIVE Banfield Women vs Huracan Women [Đang đá]
+https://live1.hztx2020.com/live/14194157_5b053a9fb9cd3e3d8614bccf435af800_autoChange.m3u8?auth_key=1795482950-0-0-8772f2e7578a82a7f9f98f9c776cd8dc
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Banfield Women vs Huracan Women" tvg-logo="https://media2.16m50.tv/media/club/9244.webp" group-title="truct-tiep live",LIVE Banfield Women vs Huracan Women [64']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/14716296_40890326e0a21f728cd7a899fb795677_autoChange.m3u8?auth_key=1795481972-0-0-4fa98a50fe95f6a29e949719220ed0d1
+https://live3.hztx2020.com/live/14716296_40890326e0a21f728cd7a899fb795677_autoChange.m3u8?auth_key=1795482950-0-0-87c896c45357b8bde874b0ad21f02c13
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Brentford vs Everton" tvg-logo="https://media2.16m50.tv/media/club/7543.webp" group-title="truct-tiep live",LIVE Brentford vs Everton [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14533023_97acc95b03bf7b02f4a2447dfb066824_autoChange.m3u8?auth_key=1795480188-0-0-fa55891ce0e9bbaa58159aa1462f69f4
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Gimnasia La Plata vs Club Atlético Newell's Old Boys" tvg-logo="https://media2.16m50.tv/media/club/7259.webp" group-title="truct-tiep live",LIVE Gimnasia La Plata vs Club Atlético Newell's Old Boys [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Gimnasia La Plata vs Club Atlético Newell's Old Boys" tvg-logo="https://media2.16m50.tv/media/club/7259.webp" group-title="truct-tiep live",LIVE Gimnasia La Plata vs Club Atlético Newell's Old Boys [23']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14669218_cb67e5e26f9978a1ee00ae24c62fa0dc_autoChange.m3u8?auth_key=1795480188-0-0-64567416efd67dcfad6bc9aee5d9f10e
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Club Sportivo 2 de Mayo vs Sportivo San Lorenzo" tvg-logo="https://media2.16m50.tv/media/club/7379.webp" group-title="truct-tiep live",LIVE Club Sportivo 2 de Mayo vs Sportivo San Lorenzo [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14684802_156c422b4b2d5bd0f2bf3634d4d4238c_autoChange.m3u8?auth_key=1795482950-0-0-332e812cef177dea44d7053b7f694564
