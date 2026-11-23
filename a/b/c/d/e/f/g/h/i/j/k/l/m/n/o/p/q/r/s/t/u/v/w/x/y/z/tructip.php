@@ -27,31 +27,31 @@ https://live1.hztx2020.com/live/14228457_9902bd7b76b97ecd2a54f415ebca8604_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/71762452_62bf4dd05d827936d7ccb94286fb73d1_autoChange.m3u8?auth_key=1795457899-0-0-ee0f749f6f5a759d7687ebee71026d1b
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Braga U23 vs Leixoes U23" tvg-logo="https://media2.16m50.tv/media/club/69.webp" group-title="truct-tiep live",LIVE Braga U23 vs Leixoes U23 [1']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/14194148_a50b5380081779f20b7fe6f18f92ee15_autoChange.m3u8?auth_key=1795461313-0-0-1769ae9a8c3f83f693c6ed122919c34e
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Morocco U17 vs China U17" tvg-logo="https://media2.16m50.tv/media/club/10163.webp" group-title="truct-tiep live",LIVE Morocco U17 vs China U17 [-1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live5.hztx2020.com/live/71762526_7ad8481f99251e7e5aca9eb276f3f6c0_autoChange.m3u8?auth_key=1795460933-0-0-7d699630603b613bb33eae34d0a98354
+https://live5.hztx2020.com/live/71762526_7ad8481f99251e7e5aca9eb276f3f6c0_autoChange.m3u8?auth_key=1795461313-0-0-ce43f24f9ec3fe1abf75a62252c653e2
 #EXTINF:-1 tvg-id="" tvg-name="LIVE CSA Steaua Bucuresti vs Chindia Targoviste" tvg-logo="https://media2.16m50.tv/media/club/2391.webp" group-title="truct-tiep live",LIVE CSA Steaua Bucuresti vs Chindia Targoviste [2']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14669943_b52502c28c18e936411b0a761cf387ff_autoChange.m3u8?auth_key=1795460933-0-0-db73f44587fa1b2234ccc8180f1f83ff
+https://live.hztx2020.com/live/14669943_b52502c28c18e936411b0a761cf387ff_autoChange.m3u8?auth_key=1795461313-0-0-cf5282d29b736d7f8a7871fa1c23dee7
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Wadi Degla SC vs Ittihad Alexandria SC" tvg-logo="https://media2.16m50.tv/media/club/1656.webp" group-title="truct-tiep live",LIVE Wadi Degla SC vs Ittihad Alexandria SC [3']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14278110_e80a5ddc889a82d6530964499e9b9800_autoChange.m3u8?auth_key=1795460933-0-0-f7d0c53426d0e5340eb0bf99ff4efc01
+https://live2.hztx2020.com/live/14278110_e80a5ddc889a82d6530964499e9b9800_autoChange.m3u8?auth_key=1795461313-0-0-6bc8b8874cabaaf2b99238d3ba320e46
 #EXTINF:-1 tvg-id="" tvg-name="LIVE El Gounah vs Zamalek SC" tvg-logo="https://media2.16m50.tv/media/club/1655.webp" group-title="truct-tiep live",LIVE El Gounah vs Zamalek SC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/14278105_0e3df44ab6fc67d87849a78d36b9f44c_autoChange.m3u8?auth_key=1795460933-0-0-91034a8216118cf12dfb822aaf0dd5a8
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Asteras Aktor vs Aris Thessaloniki" tvg-logo="https://media2.16m50.tv/media/club/6545.webp" group-title="truct-tiep live",LIVE Asteras Aktor vs Aris Thessaloniki [1']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14176159_c4c9c462471ff68830d6116964314301_autoChange.m3u8?auth_key=1795460933-0-0-b2d8bb7b36ac3f7ceb2c170336cf5b62
+https://live3.hztx2020.com/live/14278105_0e3df44ab6fc67d87849a78d36b9f44c_autoChange.m3u8?auth_key=1795461313-0-0-d3d659dddcd7056900b2cf04595e4748
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Flamurtari vs KS Bylis" tvg-logo="https://media2.16m50.tv/media/club/7032.webp" group-title="truct-tiep live",LIVE Flamurtari vs KS Bylis [2']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live4.hztx2020.com/live/2436437_bb79b89a21dc628b7d48665048f37bcd_autoChange.m3u8?auth_key=1795460933-0-0-b8eded4eb9a1dd7ad632ee50ab0afa5f
+https://live4.hztx2020.com/live/2436437_bb79b89a21dc628b7d48665048f37bcd_autoChange.m3u8?auth_key=1795461313-0-0-fdb356c287ce6947022af3fad8957327
 #EXTINF:-1 tvg-id="" tvg-name="Jeddah Sports Club vs Damac" tvg-logo="https://media2.16m50.tv/media/club/7181.webp" group-title="truct-tiep live",Jeddah Sports Club vs Damac [22:15 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14228458_aa0fdaa39355d966362af5ea5b90b64e_autoChange.m3u8?auth_key=1795460934-0-0-1035f05f4bc7b9b7ecca60223b6483ca
+https://live.hztx2020.com/live/14228458_aa0fdaa39355d966362af5ea5b90b64e_autoChange.m3u8?auth_key=1795461283-0-0-867726b83b619123db74180e71e97cf6
