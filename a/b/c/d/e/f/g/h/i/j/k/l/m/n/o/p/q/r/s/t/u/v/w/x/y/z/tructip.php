@@ -11,3 +11,7 @@ https://live.hztx2020.com/live/13391553_f1b6ffcae82ee720c436211c8f244e10_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14699565_070498ad8e75850aef418873104c4e71_autoChange.m3u8?auth_key=1795490976-0-0-4f105fa27cb1874949034f3baa484937
+#EXTINF:-1 tvg-id="" tvg-name="Santos FC - SP vs Grêmio - RS" tvg-logo="https://media2.16m50.tv/media/club/14326.webp" group-title="truct-tiep live",Santos FC - SP vs Grêmio - RS [07:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/13391559_2ac297fa0ab9f1d1f6c7be2653740937_autoChange.m3u8?auth_key=1795492658-0-0-985003a5224501857b8a180d2fd1be7e
