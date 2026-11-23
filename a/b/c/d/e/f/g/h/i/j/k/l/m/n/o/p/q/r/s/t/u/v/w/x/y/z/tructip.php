@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Gimnasia La Plata vs Club Atlético Newell's Old Boys" tvg-logo="https://media2.16m50.tv/media/club/7259.webp" group-title="truct-tiep live",LIVE Gimnasia La Plata vs Club Atlético Newell's Old Boys [123']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Gimnasia La Plata vs Club Atlético Newell's Old Boys" tvg-logo="https://media2.16m50.tv/media/club/7259.webp" group-title="truct-tiep live",LIVE Gimnasia La Plata vs Club Atlético Newell's Old Boys [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14669218_cb67e5e26f9978a1ee00ae24c62fa0dc_autoChange.m3u8?auth_key=1795483779-0-0-af6474281b9f6aae44e81484d95cbfb1
