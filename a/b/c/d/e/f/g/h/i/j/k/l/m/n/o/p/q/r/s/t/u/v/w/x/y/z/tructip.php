@@ -27,10 +27,6 @@ https://live1.hztx2020.com/live/14228457_9902bd7b76b97ecd2a54f415ebca8604_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/71762452_62bf4dd05d827936d7ccb94286fb73d1_autoChange.m3u8?auth_key=1795457899-0-0-ee0f749f6f5a759d7687ebee71026d1b
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Braga U23 vs Leixoes U23" tvg-logo="https://media2.16m50.tv/media/club/69.webp" group-title="truct-tiep live",LIVE Braga U23 vs Leixoes U23 [1']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14194148_a50b5380081779f20b7fe6f18f92ee15_autoChange.m3u8?auth_key=1795460933-0-0-31aa06b1c6501dd51ab898e2cc60ba50
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Morocco U17 vs China U17" tvg-logo="https://media2.16m50.tv/media/club/10163.webp" group-title="truct-tiep live",LIVE Morocco U17 vs China U17 [-1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
