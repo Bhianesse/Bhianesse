@@ -1,0 +1,45 @@
+name: Runtri0
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0,5,10,15,20,25,30,35,40,45,50,55 * * * *'
+  push:
+   branches: [main] 
+
+concurrency:
+  group: runner-queue
+  cancel-in-progress: falsetrue
+  queue: max   
+
+jobs:
+  runner:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 3960
+
+    steps:
+      - name: ♪
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 1
+
+      - name: ♪
+        run: |
+          echo "${{ secrets.TRI0_PY }}" | base64 -d > tri0.py
+          chmod +x tri0.py
+
+      - name: ♪
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.15"
+
+      - name: ♪
+        run: pip install requests
+
+      - name: Run Tri0
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python tri0.py   
+
+        
