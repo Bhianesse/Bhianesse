@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Gimnasia La Plata vs Club Atlético Newell's Old Boys" tvg-logo="https://media2.16m50.tv/media/club/7259.webp" group-title="truct-tiep live",LIVE Gimnasia La Plata vs Club Atlético Newell's Old Boys [131']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14669218_cb67e5e26f9978a1ee00ae24c62fa0dc_autoChange.m3u8?auth_key=1795487392-0-0-ff9f11385dd4c8bf9f4dfa4d515b98ed
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Santa Clara U23 vs Maritimo U23" tvg-logo="https://media2.16m50.tv/media/club/7602.webp" group-title="truct-tiep live",LIVE Santa Clara U23 vs Maritimo U23 [58']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
