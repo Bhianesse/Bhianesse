@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Chicago Fire vs Charlotte FC" tvg-logo="https://media2.16m50.tv/media/club/5282.webp" group-title="truct-tiep live",LIVE Chicago Fire vs Charlotte FC [62']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14666894_7525cff97062633b4bcab6c79a0ec38d_autoChange.m3u8?auth_key=1795411773-0-0-eb7795324ac3530e9e1321f238213140
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Gimnasia y Tiro vs Tristan Suarez" tvg-logo="https://media2.16m50.tv/media/club/12030.webp" group-title="truct-tiep live",LIVE Gimnasia y Tiro vs Tristan Suarez [75']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -19,3 +15,7 @@ https://live.hztx2020.com/live/76880314_3a1aabc1bc2cd7d6a83a32a334ebd0c1_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/13999777_0d67289d994a7451b156faeebf95ee1b_autoChange.m3u8?auth_key=1795411772-0-0-9310b84c3c6f9d7216f42009fe36d736
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Vancouver Whitecaps vs Real Salt Lake" tvg-logo="https://media2.16m50.tv/media/club/5361.webp" group-title="truct-tiep live",LIVE Vancouver Whitecaps vs Real Salt Lake [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14718515_a4e8bb53bcd8a8c6d60d165e90447595_autoChange.m3u8?auth_key=1795411772-0-0-c5d5886c9fd84efbbe900b04ec5b7fb2
