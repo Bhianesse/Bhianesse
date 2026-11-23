@@ -6,8 +6,8 @@ https://live.hztx2020.com/live/13391557_b33d9d3c13d2aec1b088162bb5c92064_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Botafogo - RJ vs São Paulo - SP" tvg-logo="https://media2.16m50.tv/media/club/14323.webp" group-title="truct-tiep live",LIVE Botafogo - RJ vs São Paulo - SP [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/13391553_f1b6ffcae82ee720c436211c8f244e10_autoChange.m3u8?auth_key=1795490036-0-0-03504986cc6b6ff1caf839c13b7dad71
-#EXTINF:-1 tvg-id="" tvg-name="FC Nacional Asuncion vs Cerro Porteno" tvg-logo="https://media2.16m50.tv/media/club/941.webp" group-title="truct-tiep live",FC Nacional Asuncion vs Cerro Porteno [06:15 WIB]
+https://live.hztx2020.com/live/13391553_f1b6ffcae82ee720c436211c8f244e10_autoChange.m3u8?auth_key=1795490467-0-0-2c2fa0c4e92cefda4fbe65950668aab1
+#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Nacional Asuncion vs Cerro Porteno" tvg-logo="https://media2.16m50.tv/media/club/941.webp" group-title="truct-tiep live",LIVE FC Nacional Asuncion vs Cerro Porteno [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14699565_070498ad8e75850aef418873104c4e71_autoChange.m3u8?auth_key=1795490036-0-0-a714d7f4b7b7367765b2b8d121aee363
+https://live.hztx2020.com/live/14699565_070498ad8e75850aef418873104c4e71_autoChange.m3u8?auth_key=1795490467-0-0-9c42c4364dae2dea9acf0d14ee8d157d
