@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Senegal U17 vs Cuba U17" tvg-logo="https://media2.16m50.tv/media/club/16095.webp" group-title="truct-tiep live",LIVE Senegal U17 vs Cuba U17 [65']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/71762466_58d4c8df3a887e1d41b50df71e2c6066_autoChange.m3u8?auth_key=1795458479-0-0-b3016f958fbfdf546465359c7c0b531c
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Kickstart Karnataka FC Women vs East Bengal FC Women" tvg-logo="https://media2.16m50.tv/media/club/15436.webp" group-title="truct-tiep live",LIVE Kickstart Karnataka FC Women vs East Bengal FC Women [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
