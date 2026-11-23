@@ -7,7 +7,7 @@ https://live.hztx2020.com/live/14633292_ba0ea82f2a63d3ac8a3562bc77d93ac2_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14360630_54c94c124fb802387e1b31459f90b993_autoChange.m3u8?auth_key=1795440587-0-0-924285746d1f2d389b77a9cb94432e65
-#EXTINF:-1 tvg-id="" tvg-name="Chinland FC vs Ayeyawady united" tvg-logo="https://media2.16m50.tv/media/club/21956.webp" group-title="truct-tiep live",Chinland FC vs Ayeyawady united [16:30 WIB]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Chinland FC vs Ayeyawady united" tvg-logo="https://media2.16m50.tv/media/club/21956.webp" group-title="truct-tiep live",LIVE Chinland FC vs Ayeyawady united [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14360629_92507505afc1840888db817d631ff5ad_autoChange.m3u8?auth_key=1795440587-0-0-f04b0ffa77de26e222bbc113c367fcf1
