@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Internacional - RS vs Vitória - BA" tvg-logo="https://media2.16m50.tv/media/club/14862.webp" group-title="truct-tiep live",LIVE Internacional - RS vs Vitória - BA [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Internacional - RS vs Vitória - BA" tvg-logo="https://media2.16m50.tv/media/club/14862.webp" group-title="truct-tiep live",LIVE Internacional - RS vs Vitória - BA [70']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/13391557_b33d9d3c13d2aec1b088162bb5c92064_autoChange.m3u8?auth_key=1795490976-0-0-0b500f3031d33e20780fb9eb7b611d8e
