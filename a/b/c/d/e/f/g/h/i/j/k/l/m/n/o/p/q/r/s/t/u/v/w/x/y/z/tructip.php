@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE FK Chelyabinsk vs FC Leningradets" tvg-logo="https://media2.16m50.tv/media/club/2678.webp" group-title="truct-tiep live",LIVE FK Chelyabinsk vs FC Leningradets [66']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/2420368_699a5878d47119f5f3b784466d88e8c3_autoChange.m3u8?auth_key=1795462099-0-0-30609d48dafd46d54b73809f592ec8b9
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Al Jeel vs Al Saqer" tvg-logo="https://media2.16m50.tv/media/club/21942.webp" group-title="truct-tiep live",LIVE Al Jeel vs Al Saqer [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -23,7 +19,7 @@ https://live5.hztx2020.com/live/71762526_7ad8481f99251e7e5aca9eb276f3f6c0_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14669943_b52502c28c18e936411b0a761cf387ff_autoChange.m3u8?auth_key=1795462098-0-0-5cd94f16c7c1f385d7e3b48541c975f9
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Wadi Degla SC vs Ittihad Alexandria SC" tvg-logo="https://media2.16m50.tv/media/club/1656.webp" group-title="truct-tiep live",LIVE Wadi Degla SC vs Ittihad Alexandria SC [3']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Wadi Degla SC vs Ittihad Alexandria SC" tvg-logo="https://media2.16m50.tv/media/club/1656.webp" group-title="truct-tiep live",LIVE Wadi Degla SC vs Ittihad Alexandria SC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14278110_e80a5ddc889a82d6530964499e9b9800_autoChange.m3u8?auth_key=1795462100-0-0-bb6d5509f7e1fc9832ad89a4e80d4eb5
@@ -51,3 +47,19 @@ https://live.hztx2020.com/live/71762478_a7b8359aa36fa335672b6f3ae51e8170_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/71762476_72ae926b51a69e2d59f14371d573d7a9_autoChange.m3u8?auth_key=1795462098-0-0-b0ab7a0555006b0f0136749c38d00f0b
+#EXTINF:-1 tvg-id="" tvg-name="Al-Shamal Sports Club vs Al Ahli SC" tvg-logo="https://media2.16m50.tv/media/club/21940.webp" group-title="truct-tiep live",Al-Shamal Sports Club vs Al Ahli SC [23:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/14338682_c36099d220b29ef4f3d22e4c18839624_autoChange.m3u8?auth_key=1795463997-0-0-2b0eebbbcd5e09b0c22150560515ceb7
+#EXTINF:-1 tvg-id="" tvg-name="Tractor S.C. vs Al-Wasl SC" tvg-logo="https://media2.16m50.tv/media/club/1289.webp" group-title="truct-tiep live",Tractor S.C. vs Al-Wasl SC [23:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live3.hztx2020.com/live/14373677_3d5408f8ba7074678c16ae7aeca06044_autoChange.m3u8?auth_key=1795463997-0-0-1ff2319ac383f59fdb2c22614e391fe6
+#EXTINF:-1 tvg-id="" tvg-name="Al-Ain FC vs Esteghlal Tehran" tvg-logo="https://media2.16m50.tv/media/club/7994.webp" group-title="truct-tiep live",Al-Ain FC vs Esteghlal Tehran [23:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live2.hztx2020.com/live/14338893_d96f1add3475b2400ebb8060d3038976_autoChange.m3u8?auth_key=1795463997-0-0-5b4efcb8cdc6481d029c9f04719862ce
+#EXTINF:-1 tvg-id="" tvg-name="Vitesse Arnhem vs De Graafschap" tvg-logo="https://media2.16m50.tv/media/club/5916.webp" group-title="truct-tiep live",Vitesse Arnhem vs De Graafschap [02:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/13996432_ee96a2e10efc9b79423726149ce8497e_autoChange.m3u8?auth_key=1794156768-0-0-62330edb8850e056a1749131ae0c9d4f
