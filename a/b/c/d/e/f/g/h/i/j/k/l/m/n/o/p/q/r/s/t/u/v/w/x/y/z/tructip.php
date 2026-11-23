@@ -35,7 +35,7 @@ https://live2.hztx2020.com/live/13972159_8f281209cd47119738e2590799569663_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/13539314_47faba0ca90c748d74579f13b7161598_autoChange.m3u8?auth_key=1795472994-0-0-cc0eae0681d0463d20c56a50c6512014
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Orgryte vs Kalmar" tvg-logo="https://media2.16m50.tv/media/club/2794.webp" group-title="truct-tiep live",LIVE Orgryte vs Kalmar [1']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Orgryte vs Kalmar" tvg-logo="https://media2.16m50.tv/media/club/2794.webp" group-title="truct-tiep live",LIVE Orgryte vs Kalmar [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/13538396_1a7a1f943fedf391ceb1f0908b72c3fd_autoChange.m3u8?auth_key=1795472995-0-0-808bd9f1690751755dfdb080a1c9dff1
@@ -47,6 +47,10 @@ https://live1.hztx2020.com/live/14338718_dbc20f32a2b086c5868a757789408013_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14338668_493202c0ba90dc50674ee98884bbee63_autoChange.m3u8?auth_key=1795472994-0-0-4e7112d9c8b217f8cd83e5eaea8c3b51
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Sportivo Barracas vs Berazategui" tvg-logo="https://media2.16m50.tv/media/club/9261.webp" group-title="truct-tiep live",LIVE Sportivo Barracas vs Berazategui [6']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14712216_7fdd2613621b26419e5e9ac0f1b50ed0_autoChange.m3u8?auth_key=1795472994-0-0-e3de11bb6cfc56874ce900078b7c869d
 #EXTINF:-1 tvg-id="" tvg-name="Vitesse Arnhem vs De Graafschap" tvg-logo="https://media2.16m50.tv/media/club/5916.webp" group-title="truct-tiep live",Vitesse Arnhem vs De Graafschap [02:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
