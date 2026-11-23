@@ -35,10 +35,6 @@ https://live2.hztx2020.com/live/14704981_f012558f1745db59b75a24a2a37b3410_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/13998733_2e314b1c9fd57ec999a910b0776f77d5_autoChange.m3u8?auth_key=1795480187-0-0-b1f6931af3c8ecbfc908e2bff234df2e
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Monza vs Fiorentina" tvg-logo="https://media2.16m50.tv/media/club/3702.webp" group-title="truct-tiep live",LIVE Monza vs Fiorentina [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/13978151_76231f1ad338e3768b3580aa7722c645_autoChange.m3u8?auth_key=1795480187-0-0-a1c978b53a05d8ef8743ed0271c5f499
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Levante vs Elche CF" tvg-logo="https://media2.16m50.tv/media/club/4341.webp" group-title="truct-tiep live",LIVE Levante vs Elche CF [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -46,7 +42,7 @@ https://live1.hztx2020.com/live/14090786_a46880c9172f5a4e989b9640a3423626_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Banfield Women vs Huracan Women" tvg-logo="https://media2.16m50.tv/media/club/9244.webp" group-title="truct-tiep live",LIVE Banfield Women vs Huracan Women [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/14716296_40890326e0a21f728cd7a899fb795677_autoChange.m3u8?auth_key=1795481149-0-0-321274b3ca7fdf7a30698b92573afbb5
+https://live3.hztx2020.com/live/14716296_40890326e0a21f728cd7a899fb795677_autoChange.m3u8?auth_key=1795481267-0-0-8c6025ecfeb1848608280cfe604eba9e
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Brentford vs Everton" tvg-logo="https://media2.16m50.tv/media/club/7543.webp" group-title="truct-tiep live",LIVE Brentford vs Everton [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
