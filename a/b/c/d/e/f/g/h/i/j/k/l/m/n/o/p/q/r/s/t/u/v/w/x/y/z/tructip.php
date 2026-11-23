@@ -1,8 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE MEG vs Stride" tvg-logo="https://media2.16m50.tv/media/club/23689.webp" group-title="truct-tiep live",LIVE MEG vs Stride [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE MEG vs Stride" tvg-logo="https://media2.16m50.tv/media/club/23689.webp" group-title="truct-tiep live",LIVE MEG vs Stride [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14633292_ba0ea82f2a63d3ac8a3562bc77d93ac2_autoChange.m3u8?auth_key=1795436992-0-0-bc64ccdfe578c4381f5134cf5fdcc763
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Yangon City vs Hantharwady United" tvg-logo="https://media2.16m50.tv/media/club/22265.webp" group-title="truct-tiep live",LIVE Yangon City vs Hantharwady United [1']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14360630_54c94c124fb802387e1b31459f90b993_autoChange.m3u8?auth_key=1795439742-0-0-b100b4ff418dd357fb68c0c9baeb0765
 #EXTINF:-1 tvg-id="" tvg-name="Parikrma FC vs SC Bengaluru" tvg-logo="https://media2.16m50.tv/media/club/23468.webp" group-title="truct-tiep live",Parikrma FC vs SC Bengaluru [17:30 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
