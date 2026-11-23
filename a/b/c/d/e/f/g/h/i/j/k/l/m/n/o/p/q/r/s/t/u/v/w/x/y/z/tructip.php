@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Pyrgos AFC vs Marko" tvg-logo="https://media2.16m50.tv/media/club/10745.webp" group-title="truct-tiep live",LIVE Pyrgos AFC vs Marko [63']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14391417_0590f1a0b55c3c15006b36db7936180d_autoChange.m3u8?auth_key=1795458478-0-0-6fdcd11d09c366d47e5b1c9b043ed9b6
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Real Kashmir FC vs Dempo" tvg-logo="https://media2.16m50.tv/media/club/26480.webp" group-title="truct-tiep live",LIVE Real Kashmir FC vs Dempo [64']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
