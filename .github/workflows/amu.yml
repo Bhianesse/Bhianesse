@@ -9,7 +9,7 @@ on:
 
 concurrency:
   group: runner-queue
-  cancel-in-progress: falsetrue
+  cancel-in-progress: false
   queue: max   
 
 jobs:
