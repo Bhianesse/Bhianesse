@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Sportivo Barracas vs Berazategui" tvg-logo="https://media2.16m50.tv/media/club/9261.webp" group-title="truct-tiep live",LIVE Sportivo Barracas vs Berazategui [72']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14712216_7fdd2613621b26419e5e9ac0f1b50ed0_autoChange.m3u8?auth_key=1795480189-0-0-4bf2dac65efdbd53b2583e9e78f6d4a6
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Real Oruro vs Club Guabira" tvg-logo="https://media2.16m50.tv/media/club/2981.webp" group-title="truct-tiep live",LIVE Real Oruro vs Club Guabira [66']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -27,7 +23,7 @@ https://live2.hztx2020.com/live/14674470_db71319e831df790e692caabf75b7368_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14708077_38c0835b469234f46e79e7d9c0f5fa11_autoChange.m3u8?auth_key=1795480187-0-0-1f0409ba5e01cd639c2593bac3df8904
-#EXTINF:-1 tvg-id="" tvg-name="LIVE AD Ceuta vs Almeria" tvg-logo="https://media2.16m50.tv/media/club/6196.webp" group-title="truct-tiep live",LIVE AD Ceuta vs Almeria [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE AD Ceuta vs Almeria" tvg-logo="https://media2.16m50.tv/media/club/6196.webp" group-title="truct-tiep live",LIVE AD Ceuta vs Almeria [70']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14091300_eb12bd5573aaa57837cdd9dca7e177b7_autoChange.m3u8?auth_key=1795480187-0-0-ce3b666a78d9fdaeb3d40578a6dce010
@@ -47,6 +43,10 @@ https://live.hztx2020.com/live/13978151_76231f1ad338e3768b3580aa7722c645_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14090786_a46880c9172f5a4e989b9640a3423626_autoChange.m3u8?auth_key=1795480188-0-0-1f822c5658238b48c7614b0a5f7bc721
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Banfield Women vs Huracan Women" tvg-logo="https://media2.16m50.tv/media/club/9244.webp" group-title="truct-tiep live",LIVE Banfield Women vs Huracan Women [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live3.hztx2020.com/live/14716296_40890326e0a21f728cd7a899fb795677_autoChange.m3u8?auth_key=1795481149-0-0-321274b3ca7fdf7a30698b92573afbb5
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Brentford vs Everton" tvg-logo="https://media2.16m50.tv/media/club/7543.webp" group-title="truct-tiep live",LIVE Brentford vs Everton [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
