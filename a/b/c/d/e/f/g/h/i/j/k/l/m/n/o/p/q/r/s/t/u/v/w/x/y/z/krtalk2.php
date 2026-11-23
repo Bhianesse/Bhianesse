@@ -1,23 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://viiip.kitashinsaku.com/0.php" group-title="MY PACAR LIVE",🐇ayok donasi server playlist IPTV agar server tetap aktif🐇
 https://bhns.bhns.workers.dev/?url=http://tvq.tvx.org:80/CC///CC.php
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/345eced9c0f786354f3d61f86f78650d.webp" group-title="MY PACAR LIVE",🐇[LIVE 3m | Cila | Karafuru Idol Group | 👁 15] cila kakinya pegal🐇
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/345eced9c0f786354f3d61f86f78650d.webp" group-title="MY PACAR LIVE",🐇[LIVE 12m | Cila | Karafuru Idol Group | 👁 77] cila kakinya pegal🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.1almm84bFIEI.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/00114f68ce7271361767d5b1a8ec053b.webp" group-title="MY PACAR LIVE",🐇[LIVE 16m | Citra Ayu Pranajaya | 👁 336] Ayo ngobrol bareng!🐇
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/00114f68ce7271361767d5b1a8ec053b.webp" group-title="MY PACAR LIVE",🐇[LIVE 24m | Citra Ayu Pranajaya | 👁 577] Ayo ngobrol bareng!🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.eI1wSHYs8Jdj.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/dd676c42f83f8027bcc4b55b77e7b6b9.webp" group-title="MY PACAR LIVE",🐇[LIVE 16m | Mikaela JKT48 | 👁 1021] Ayo ngobrol bareng!🐇
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/dd676c42f83f8027bcc4b55b77e7b6b9.webp" group-title="MY PACAR LIVE",🐇[LIVE 24m | Mikaela JKT48 | 👁 1462] Ayo ngobrol bareng!🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.948DSG1qwIJH.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/9af3c2e39b62b5dffbccd7d33ba49e1e.webp" group-title="MY PACAR LIVE",🐇[LIVE 27m | Fritzy JKT48 | 👁 2101] HAI🐇
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/9af3c2e39b62b5dffbccd7d33ba49e1e.webp" group-title="MY PACAR LIVE",🐇[LIVE 36m | Fritzy JKT48 | 👁 2714] HAI🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.K9fM2uTS2hX3.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/6bf5ccd49bc3a66402f12e442b2140d0.webp" group-title="MY PACAR LIVE",🐇[LIVE 37m | Lana JKT48 | 👁 3420] Haii🐇
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/6bf5ccd49bc3a66402f12e442b2140d0.webp" group-title="MY PACAR LIVE",🐇[LIVE 45m | Lana JKT48 | 👁 4079] Haii🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.XcUYof208I6e.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/882689fd4cbcb03fc312f62d1ee0c8dc.webp" group-title="MY PACAR LIVE",🐇[LIVE 38m | Nana | Karafuru Idol Group | 👁 654] hewwoiiiee🐇
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/882689fd4cbcb03fc312f62d1ee0c8dc.webp" group-title="MY PACAR LIVE",🐇[LIVE 46m | Nana | Karafuru Idol Group | 👁 787] hewwoiiiee🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.qAyFRVWNG8bj.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/cdc2369f7f0e03675c915a1cd50faacd.webp" group-title="MY PACAR LIVE",🐇[LIVE 49m | Virgi JKT48 | 👁 2480] iya🐇
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/cdc2369f7f0e03675c915a1cd50faacd.webp" group-title="MY PACAR LIVE",🐇[LIVE 57m | Virgi JKT48 | 👁 2938] iya🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.9DxiaFf6lSom.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/e6121069df6a1b8172a59588f738e9c8.webp" group-title="MY PACAR LIVE",🐇[LIVE 1h | Gracie JKT48 | 👁 5065] hiii🐇
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/e6121069df6a1b8172a59588f738e9c8.webp" group-title="MY PACAR LIVE",🐇[LIVE 1h | Gracie JKT48 | 👁 5650] hiii🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.ztIO0UisaA3P.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/df0292fbb354094ed2594e0a7ea5429e.webp" group-title="MY PACAR LIVE",🐇[LIVE 1h | Intan JKT48 | 👁 8090] aku lg pake batik pekalongan?🐇
-https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.GEcz70BKlk0o.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/c7412018ac3036e78e69e7074d384175.webp" group-title="MY PACAR LIVE",🐇[LIVE 1h | Jey Jaeruk | 👁 2024] MonJey ♡🐇
+#EXTINF:-1 tvg-logo="https://cdn.idn.app/livestream/c7412018ac3036e78e69e7074d384175.webp" group-title="MY PACAR LIVE",🐇[LIVE 1h | Jey Jaeruk | 👁 2223] MonJey ♡🐇
 https://4b964ca68cf1.us-east-1.playback.live-video.net/api/video/v1/us-east-1.050891932989.channel.8FvWmuGsJoeB.m3u8
