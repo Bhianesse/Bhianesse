@@ -7,7 +7,7 @@ https://live2.hztx2020.com/live/73301470_7f9c3d9366f685e42c277704fd40ed67_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/73301468_b439cc4292bd6a016d81f601bde703cd_autoChange.m3u8?auth_key=1795447786-0-0-a9ac94ebacab7a605933f3f6501cf420
-#EXTINF:-1 tvg-id="" tvg-name="LIVE LNZ Cherkasy vs Polissya Zhytomyr" tvg-logo="https://media2.16m50.tv/media/club/19.webp" group-title="truct-tiep live",LIVE LNZ Cherkasy vs Polissya Zhytomyr [2']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE LNZ Cherkasy vs Polissya Zhytomyr" tvg-logo="https://media2.16m50.tv/media/club/19.webp" group-title="truct-tiep live",LIVE LNZ Cherkasy vs Polissya Zhytomyr [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14075759_febaee56ddbb235c30ecbf124aae18d4_autoChange.m3u8?auth_key=1795447785-0-0-8a69b14150a2dc37f8ccc33c43450ff2
