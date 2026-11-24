@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Barcelona vs Fenerbahce" tvg-logo="https://media2.16m50.tv/media/club/5061.webp" group-title="truct-tiep live",LIVE FC Barcelona vs Fenerbahce [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/14242697_0f2683b237bb7216ffee7e634ff28dd4_autoChange.m3u8?auth_key=1795572477-0-0-c08a2edd86784cc926a8232dd5eab6c5
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Chapecoense - SC vs Palmeiras - SP" tvg-logo="https://media2.16m50.tv/media/club/14332.webp" group-title="truct-tiep live",LIVE Chapecoense - SC vs Palmeiras - SP [66']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
