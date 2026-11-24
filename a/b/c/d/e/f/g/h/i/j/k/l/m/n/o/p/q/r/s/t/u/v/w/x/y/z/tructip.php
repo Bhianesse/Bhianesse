@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Felgueiras U23 vs Academico Viseu U23" tvg-logo="https://media2.16m50.tv/media/club/21863.webp" group-title="truct-tiep live",LIVE Felgueiras U23 vs Academico Viseu U23 [64']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/vrqwni4y3wdf4qn_cc8fd31ffaf93b7c48c864c2c9d5e452_autoChange.m3u8?auth_key=1795552074-0-0-a894b09e2a45cf09f1e8afe08dec7a5f
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Feyenoord U19 vs FC Porto U19" tvg-logo="https://media2.16m50.tv/media/club/13927.webp" group-title="truct-tiep live",LIVE Feyenoord U19 vs FC Porto U19 [63']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/vrqwni4w44oa4qn_c4cab9c8beae828f4039366964492dce_autoChange.m3u8?auth_key=1795552073-0-0-0551cd1b98a29c9c1c52fa6fed21037a
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Rio Ave U23 vs Uniao Leiria U23" tvg-logo="https://media2.16m50.tv/media/club/7599.webp" group-title="truct-tiep live",LIVE Rio Ave U23 vs Uniao Leiria U23 [68']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live5.hztx2020.com/live/9gklzi18rjgbm7x_4f4b5c6f1d73ee71b4c597e1fbd4af0a_autoChange.m3u8?auth_key=1795552074-0-0-708677b6fcc6d5f273cd3c05e60abc9a
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Smouha SC vs Bank El Ahly" tvg-logo="https://media2.16m50.tv/media/club/5039.webp" group-title="truct-tiep live",LIVE Smouha SC vs Bank El Ahly [73']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -23,7 +11,7 @@ https://live4.hztx2020.com/live/9gklzi182w2um7x_de667696412ea3e1a88a4dd9e3befb4d
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live3.hztx2020.com/live/l6kegir9o1lsv75_a03432fc53296671d9a1c3874295d484_autoChange.m3u8?auth_key=1795552073-0-0-3a3ac00136e6ed4baf3c0ffa8eeab6e6
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Honduras U17 vs Colombia U17" tvg-logo="https://media2.16m50.tv/media/club/15289.webp" group-title="truct-tiep live",LIVE Honduras U17 vs Colombia U17 [61']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Honduras U17 vs Colombia U17" tvg-logo="https://media2.16m50.tv/media/club/15289.webp" group-title="truct-tiep live",LIVE Honduras U17 vs Colombia U17 [62']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/j374oi0rm5lfgqo_ff1f181beb79095e92d12818d7b651b3_autoChange.m3u8?auth_key=1795552073-0-0-fbddaa92bdaf0365c2b1a8c55c60f1f0
@@ -39,15 +27,15 @@ https://live1.hztx2020.com/live/14346271_18b6ab1ea940feb41125fdceb91612fe_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14379436_cd144e98e7acdee58471f1e1c36d2730_autoChange.m3u8?auth_key=1795552075-0-0-56946222b2a516e0566ddd93afb5a6c0
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Zenit St. Petersburg vs Krylya Sovetov" tvg-logo="https://media2.16m50.tv/media/club/5563.webp" group-title="truct-tiep live",LIVE Zenit St. Petersburg vs Krylya Sovetov [4']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Zenit St. Petersburg vs Krylya Sovetov" tvg-logo="https://media2.16m50.tv/media/club/5563.webp" group-title="truct-tiep live",LIVE Zenit St. Petersburg vs Krylya Sovetov [3']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/2434622_0833d9591b6d8421a04bb8d058ccc268_autoChange.m3u8?auth_key=1795552073-0-0-318bf940ea5f34bcb8b0c017461a05fb
-#EXTINF:-1 tvg-id="" tvg-name="Al Duhail Sports Club vs Neom SC" tvg-logo="https://media2.16m50.tv/media/club/22171.webp" group-title="truct-tiep live",Al Duhail Sports Club vs Neom SC [00:00 WIB]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Al Duhail Sports Club vs Neom SC" tvg-logo="https://media2.16m50.tv/media/club/22171.webp" group-title="truct-tiep live",LIVE Al Duhail Sports Club vs Neom SC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14473446_ad4b992ba87134ed417186df6e90f577_autoChange.m3u8?auth_key=1795553738-0-0-d0a4cc5334c5347b6af3ad92572d8853
-#EXTINF:-1 tvg-id="" tvg-name="Torreense U23 vs Vizela U23" tvg-logo="https://media2.16m50.tv/media/club/7666.webp" group-title="truct-tiep live",Torreense U23 vs Vizela U23 [00:00 WIB]
+https://live1.hztx2020.com/live/14473446_ad4b992ba87134ed417186df6e90f577_autoChange.m3u8?auth_key=1795554055-0-0-59be0ff186d4f8ea032a122f5e7f4efa
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Torreense U23 vs Vizela U23" tvg-logo="https://media2.16m50.tv/media/club/7666.webp" group-title="truct-tiep live",LIVE Torreense U23 vs Vizela U23 [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14194156_0771b0b5d9ce922b7c3855a9beed0f72_autoChange.m3u8?auth_key=1795553739-0-0-205501b618b5791832116c4a6177b873
+https://live.hztx2020.com/live/14194156_0771b0b5d9ce922b7c3855a9beed0f72_autoChange.m3u8?auth_key=1795554055-0-0-06f5afdf3b7606d7bba1868550249d57
