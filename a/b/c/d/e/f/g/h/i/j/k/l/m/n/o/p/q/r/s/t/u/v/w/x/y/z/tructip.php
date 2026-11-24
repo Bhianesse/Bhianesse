@@ -3,10 +3,6 @@
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live3.hztx2020.com/live/l6kegir9o1lsv75_a03432fc53296671d9a1c3874295d484_autoChange.m3u8?auth_key=1795552073-0-0-3a3ac00136e6ed4baf3c0ffa8eeab6e6
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Honduras U17 vs Colombia U17" tvg-logo="https://media2.16m50.tv/media/club/15289.webp" group-title="truct-tiep live",LIVE Honduras U17 vs Colombia U17 [62']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/j374oi0rm5lfgqo_ff1f181beb79095e92d12818d7b651b3_autoChange.m3u8?auth_key=1795552073-0-0-fbddaa92bdaf0365c2b1a8c55c60f1f0
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Algeria U17 vs Montenegro U17" tvg-logo="https://media2.16m50.tv/media/club/10856.webp" group-title="truct-tiep live",LIVE Algeria U17 vs Montenegro U17 [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -19,15 +15,15 @@ https://live1.hztx2020.com/live/14346271_18b6ab1ea940feb41125fdceb91612fe_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14379436_cd144e98e7acdee58471f1e1c36d2730_autoChange.m3u8?auth_key=1795552075-0-0-56946222b2a516e0566ddd93afb5a6c0
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Zenit St. Petersburg vs Krylya Sovetov" tvg-logo="https://media2.16m50.tv/media/club/5563.webp" group-title="truct-tiep live",LIVE Zenit St. Petersburg vs Krylya Sovetov [4']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Zenit St. Petersburg vs Krylya Sovetov" tvg-logo="https://media2.16m50.tv/media/club/5563.webp" group-title="truct-tiep live",LIVE Zenit St. Petersburg vs Krylya Sovetov [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/2434622_0833d9591b6d8421a04bb8d058ccc268_autoChange.m3u8?auth_key=1795552073-0-0-318bf940ea5f34bcb8b0c017461a05fb
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Al Duhail Sports Club vs Neom SC" tvg-logo="https://media2.16m50.tv/media/club/22171.webp" group-title="truct-tiep live",LIVE Al Duhail Sports Club vs Neom SC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14473446_ad4b992ba87134ed417186df6e90f577_autoChange.m3u8?auth_key=1795554748-0-0-8f2c6dcfd02f26aa65d5b1be6a386eb3
+https://live1.hztx2020.com/live/14473446_ad4b992ba87134ed417186df6e90f577_autoChange.m3u8?auth_key=1795555575-0-0-d5e078c082cca6770e246b8224cf6cdd
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Torreense U23 vs Vizela U23" tvg-logo="https://media2.16m50.tv/media/club/7666.webp" group-title="truct-tiep live",LIVE Torreense U23 vs Vizela U23 [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14194156_0771b0b5d9ce922b7c3855a9beed0f72_autoChange.m3u8?auth_key=1795554748-0-0-21563fc8f8708d4ba0ee845f8fb5cc7e
+https://live.hztx2020.com/live/14194156_0771b0b5d9ce922b7c3855a9beed0f72_autoChange.m3u8?auth_key=1795555575-0-0-08ce7772f714a9e7a251ab3e8a0070d2
