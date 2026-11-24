@@ -3,7 +3,7 @@
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14338896_06ad5fd718fa0aab59cfa3419262c505_autoChange.m3u8?auth_key=1795530358-0-0-8dffccc98c1d2fa760b4e14115971412
-#EXTINF:-1 tvg-id="" tvg-name="LIVE LNZ Cherkasy U21 vs Polissya Zhytomyr U21" tvg-logo="https://media2.16m50.tv/media/club/5850.webp" group-title="truct-tiep live",LIVE LNZ Cherkasy U21 vs Polissya Zhytomyr U21 [3']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE LNZ Cherkasy U21 vs Polissya Zhytomyr U21" tvg-logo="https://media2.16m50.tv/media/club/5850.webp" group-title="truct-tiep live",LIVE LNZ Cherkasy U21 vs Polissya Zhytomyr U21 [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/zrkn6i4xen0hwql_735735d2fdcfe212adcdf7cdc9f048d2_autoChange.m3u8?auth_key=1795530729-0-0-08703d47fbead130aa8bfac0b450e7a1
@@ -14,7 +14,7 @@ https://live2.hztx2020.com/live/14338895_7bc52e60587ae7e0d922b5d040bc9d3e_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FC Agniputhra vs Hal FC" tvg-logo="https://media2.16m50.tv/media/club/23659.webp" group-title="truct-tiep live",LIVE FC Agniputhra vs Hal FC [4']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14643667_12ac5fa7fba9dd939a00b9978fe6e930_autoChange.m3u8?auth_key=1795533065-0-0-74e1110c194501d6cee7bbd0229b6698
+https://live.hztx2020.com/live/14643667_12ac5fa7fba9dd939a00b9978fe6e930_autoChange.m3u8?auth_key=1795533459-0-0-19326ee0f145f2ce871effc1e25d9a2a
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Samaleshwari SC vs FC Bengaluru United" tvg-logo="https://media2.16m50.tv/media/club/15360.webp" group-title="truct-tiep live",LIVE Samaleshwari SC vs FC Bengaluru United [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -22,4 +22,4 @@ https://live1.hztx2020.com/live/14592741_a23d59adab584b97444ae03bdbc13556_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Zhejiang Professional FC U20 vs Jiangsu Changjin" tvg-logo="https://media2.16m50.tv/media/club/15000.webp" group-title="truct-tiep live",LIVE Zhejiang Professional FC U20 vs Jiangsu Changjin [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/63kv9i6m5lxhx7e_6c5e460a7b1542ece668dbbdccbed667_autoChange.m3u8?auth_key=1795533064-0-0-6afc2df9e159fbfc914bfd91c90625d2
+https://live.hztx2020.com/live/63kv9i6m5lxhx7e_6c5e460a7b1542ece668dbbdccbed667_autoChange.m3u8?auth_key=1795533457-0-0-936adfdb6c9033716c4bd429437bfa52
