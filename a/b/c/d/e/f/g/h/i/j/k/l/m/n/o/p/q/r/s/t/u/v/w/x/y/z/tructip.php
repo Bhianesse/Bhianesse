@@ -18,16 +18,12 @@ https://live.hztx2020.com/live/14718806_87b9eea79a28faf58d146cc1fb6aeeee_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Kyoto Sanga vs Pohang Steelers" tvg-logo="https://media2.16m50.tv/media/club/5363.webp" group-title="truct-tiep live",LIVE Kyoto Sanga vs Pohang Steelers [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14338896_06ad5fd718fa0aab59cfa3419262c505_autoChange.m3u8?auth_key=1795530100-0-0-cdaf9e863f959f87a0878ccd44aaa82a
+https://live1.hztx2020.com/live/14338896_06ad5fd718fa0aab59cfa3419262c505_autoChange.m3u8?auth_key=1795530358-0-0-8dffccc98c1d2fa760b4e14115971412
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Daejeon Hana Citizen vs Beijing Guoan" tvg-logo="https://media2.16m50.tv/media/club/21889.webp" group-title="truct-tiep live",LIVE Daejeon Hana Citizen vs Beijing Guoan [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14338895_7bc52e60587ae7e0d922b5d040bc9d3e_autoChange.m3u8?auth_key=1795530100-0-0-377827d69da09513ac99cf981123a9a3
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Perth Lynx Nữ vs UC Capitals Women" tvg-logo="https://media2.16m50.tv/media/club/27941.webp" group-title="truct-tiep live",LIVE Perth Lynx Nữ vs UC Capitals Women [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14108445_a58912509393004e81fabea485d95f9f_autoChange.m3u8?auth_key=1795530100-0-0-04237f9e23ec08a21cab53e37f39b86b
+https://live2.hztx2020.com/live/14338895_7bc52e60587ae7e0d922b5d040bc9d3e_autoChange.m3u8?auth_key=1795530358-0-0-846080120ace7d66def9d387908564ba
 #EXTINF:-1 tvg-id="" tvg-name="Samaleshwari SC vs FC Bengaluru United" tvg-logo="https://media2.16m50.tv/media/club/15360.webp" group-title="truct-tiep live",Samaleshwari SC vs FC Bengaluru United [17:30 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14592741_a23d59adab584b97444ae03bdbc13556_autoChange.m3u8?auth_key=1795530101-0-0-9bf12adbed53226ac92c31ae92b898a0
+https://live1.hztx2020.com/live/14592741_a23d59adab584b97444ae03bdbc13556_autoChange.m3u8?auth_key=1795530358-0-0-f27fe42a911c77ad849ea3e376256ffd
