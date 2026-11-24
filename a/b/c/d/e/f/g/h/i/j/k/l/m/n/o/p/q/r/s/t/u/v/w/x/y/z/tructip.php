@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Besiktas Basketball vs Paris Basketball" tvg-logo="https://media2.16m50.tv/media/club/24764.webp" group-title="truct-tiep live",LIVE Besiktas Basketball vs Paris Basketball [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live4.hztx2020.com/live/14242702_2e2e524660c70b77effc83bbc9a190c3_autoChange.m3u8?auth_key=1795560468-0-0-8bd88af157b44d6628286342daa68ae2
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Al Duhail Sports Club vs Neom SC" tvg-logo="https://media2.16m50.tv/media/club/22171.webp" group-title="truct-tiep live",LIVE Al Duhail Sports Club vs Neom SC [64']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -7,14 +11,18 @@ https://live1.hztx2020.com/live/14473446_ad4b992ba87134ed417186df6e90f577_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14194156_0771b0b5d9ce922b7c3855a9beed0f72_autoChange.m3u8?auth_key=1795559290-0-0-e817f728dcebae54f819f4f48dbaa66d
-#EXTINF:-1 tvg-id="" tvg-name="LIVE FK Bodo/Glimt vs LASK Linz" tvg-logo="https://media2.16m50.tv/media/club/21882.webp" group-title="truct-tiep live",LIVE FK Bodo/Glimt vs LASK Linz [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE FK Bodo/Glimt vs LASK Linz" tvg-logo="https://media2.16m50.tv/media/club/21882.webp" group-title="truct-tiep live",LIVE FK Bodo/Glimt vs LASK Linz [62']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14388200_5cbdbddd71bbd07e9c5d02bd3ede9354_autoChange.m3u8?auth_key=1795559290-0-0-f81a5a0ac90120b7c6bddec305d8d460
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Galatasaray vs Aston Villa" tvg-logo="https://media2.16m50.tv/media/club/4729.webp" group-title="truct-tiep live",LIVE Galatasaray vs Aston Villa [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Galatasaray vs Aston Villa" tvg-logo="https://media2.16m50.tv/media/club/4729.webp" group-title="truct-tiep live",LIVE Galatasaray vs Aston Villa [62']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14388201_04033bbe4dcd3116cd6bb6fb8ce0f41c_autoChange.m3u8?auth_key=1795559290-0-0-0cff38e591321f73f9193e22f7ebfe12
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Sao Đỏ Beograd vs Virtus Pallacanestro Bologna" tvg-logo="https://media2.16m50.tv/media/club/26795.webp" group-title="truct-tiep live",LIVE Sao Đỏ Beograd vs Virtus Pallacanestro Bologna [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live3.hztx2020.com/live/14242701_4cd6d7136019d2deb4fe47163ae34109_autoChange.m3u8?auth_key=1795560468-0-0-5c3dffeef1b9fc08895caa82db10e9bd
 #EXTINF:-1 tvg-id="" tvg-name="LIVE El Mokawloon El Arab vs Olympic El Qanal" tvg-logo="https://media2.16m50.tv/media/club/899.webp" group-title="truct-tiep live",LIVE El Mokawloon El Arab vs Olympic El Qanal [-1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
