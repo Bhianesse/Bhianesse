@@ -1,29 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Abahani Limited Dhaka vs Fakirerpool Young Mens Club" tvg-logo="https://media2.16m50.tv/media/club/1017.webp" group-title="truct-tiep live",LIVE Abahani Limited Dhaka vs Fakirerpool Young Mens Club [66']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/j374oi489oltgqo_2e6bc44dfefe0e4894b744209f8909cc_autoChange.m3u8?auth_key=1795526977-0-0-563fd43fbe2c4c6ecf74794319f964b6
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Chattogram City FC vs Brothers Union" tvg-logo="https://media2.16m50.tv/media/club/14676.webp" group-title="truct-tiep live",LIVE Chattogram City FC vs Brothers Union [65']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14467031_71d644fc40439deb1df1982315767f0d_autoChange.m3u8?auth_key=1795526977-0-0-6795b2cce9c9f1ae5ffaa056f82ebd76
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Fortis FC vs Rahmatgonj MFS" tvg-logo="https://media2.16m50.tv/media/club/2245.webp" group-title="truct-tiep live",LIVE Fortis FC vs Rahmatgonj MFS [64']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14728040_dc0c01b9569c98c4460e0b646c61d168_autoChange.m3u8?auth_key=1795526977-0-0-aba262b7203c9da7c566c36b316a4bfd
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Ahrobiznes Volochysk vs FC Chernigiv" tvg-logo="https://media2.16m50.tv/media/club/2608.webp" group-title="truct-tiep live",LIVE Ahrobiznes Volochysk vs FC Chernigiv [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14718806_87b9eea79a28faf58d146cc1fb6aeeee_autoChange.m3u8?auth_key=1795526977-0-0-89f697b1393f858bb4346c0ea2f87b4a
+https://live.hztx2020.com/live/14718806_87b9eea79a28faf58d146cc1fb6aeeee_autoChange.m3u8?auth_key=1795530359-0-0-e6352a4247dde4a501010ad99e86ecf6
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Kyoto Sanga vs Pohang Steelers" tvg-logo="https://media2.16m50.tv/media/club/5363.webp" group-title="truct-tiep live",LIVE Kyoto Sanga vs Pohang Steelers [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14338896_06ad5fd718fa0aab59cfa3419262c505_autoChange.m3u8?auth_key=1795530358-0-0-8dffccc98c1d2fa760b4e14115971412
+#EXTINF:-1 tvg-id="" tvg-name="LIVE LNZ Cherkasy U21 vs Polissya Zhytomyr U21" tvg-logo="https://media2.16m50.tv/media/club/5850.webp" group-title="truct-tiep live",LIVE LNZ Cherkasy U21 vs Polissya Zhytomyr U21 [3']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live2.hztx2020.com/live/zrkn6i4xen0hwql_735735d2fdcfe212adcdf7cdc9f048d2_autoChange.m3u8?auth_key=1795530729-0-0-08703d47fbead130aa8bfac0b450e7a1
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Daejeon Hana Citizen vs Beijing Guoan" tvg-logo="https://media2.16m50.tv/media/club/21889.webp" group-title="truct-tiep live",LIVE Daejeon Hana Citizen vs Beijing Guoan [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14338895_7bc52e60587ae7e0d922b5d040bc9d3e_autoChange.m3u8?auth_key=1795530358-0-0-846080120ace7d66def9d387908564ba
-#EXTINF:-1 tvg-id="" tvg-name="Samaleshwari SC vs FC Bengaluru United" tvg-logo="https://media2.16m50.tv/media/club/15360.webp" group-title="truct-tiep live",Samaleshwari SC vs FC Bengaluru United [17:30 WIB]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Agniputhra vs Hal FC" tvg-logo="https://media2.16m50.tv/media/club/23659.webp" group-title="truct-tiep live",LIVE FC Agniputhra vs Hal FC [-2']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14643667_12ac5fa7fba9dd939a00b9978fe6e930_autoChange.m3u8?auth_key=1795531062-0-0-bf57ec15f39318917cc352d9989a0451
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Samaleshwari SC vs FC Bengaluru United" tvg-logo="https://media2.16m50.tv/media/club/15360.webp" group-title="truct-tiep live",LIVE Samaleshwari SC vs FC Bengaluru United [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14592741_a23d59adab584b97444ae03bdbc13556_autoChange.m3u8?auth_key=1795530358-0-0-f27fe42a911c77ad849ea3e376256ffd
