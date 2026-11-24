@@ -3,10 +3,6 @@
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14629140_93d7b0b4be6f06d700958c27023dbd08_autoChange.m3u8?auth_key=1795548588-0-0-c64f8b115f247d0017c77c90675728ea
-#EXTINF:-1 tvg-id="" tvg-name="LIVE East Bengal FC vs Al-Hussein SC (Irbid)" tvg-logo="https://media2.16m50.tv/media/club/723.webp" group-title="truct-tiep live",LIVE East Bengal FC vs Al-Hussein SC (Irbid) [63']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14346270_b479238cb11676ad4c7223242dbf0b8d_autoChange.m3u8?auth_key=1795548588-0-0-836046f9ef9eb8ad6ff5f848f0755bcb
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Sao Paulo U20 Women vs Criciuma U20 Women" tvg-logo="https://media2.16m50.tv/media/club/10209.webp" group-title="truct-tiep live",LIVE Sao Paulo U20 Women vs Criciuma U20 Women [69']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -19,7 +15,7 @@ https://live3.hztx2020.com/live/14512667_53a68c6500359a877906aa774d0076b0_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/2434620_464eb8acacc41bbd471f14ca5f2afef9_autoChange.m3u8?auth_key=1795548588-0-0-9d3691d39421b669e25a814fa6d00770
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Al Khaleej U21 vs Al-Ansar U21" tvg-logo="https://media2.16m50.tv/media/club/7934.webp" group-title="truct-tiep live",LIVE Al Khaleej U21 vs Al-Ansar U21 [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Al Khaleej U21 vs Al-Ansar U21" tvg-logo="https://media2.16m50.tv/media/club/7934.webp" group-title="truct-tiep live",LIVE Al Khaleej U21 vs Al-Ansar U21 [67']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14280967_05331218f85d7f680e13a37fee4cc5f7_autoChange.m3u8?auth_key=1795548590-0-0-75a0a46914014855c9ce7a29bafd365e
@@ -27,15 +23,15 @@ https://live1.hztx2020.com/live/14280967_05331218f85d7f680e13a37fee4cc5f7_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14280966_f7b398f76187c463d056820f806387db_autoChange.m3u8?auth_key=1795548590-0-0-0f5e145527e5b022c4071bef6d18765e
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Hajer vs Al-Tai" tvg-logo="https://media2.16m50.tv/media/club/1593.webp" group-title="truct-tiep live",LIVE Hajer vs Al-Tai [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Hajer vs Al-Tai" tvg-logo="https://media2.16m50.tv/media/club/1593.webp" group-title="truct-tiep live",LIVE Hajer vs Al-Tai [69']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14228461_e20231961da53a37665430b76892e34d_autoChange.m3u8?auth_key=1795548590-0-0-84a24a99d41f5d89c2e0f1e4af15608f
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Dominican Republic U17 vs Chile U17" tvg-logo="https://media2.16m50.tv/media/club/27842.webp" group-title="truct-tiep live",LIVE Dominican Republic U17 vs Chile U17 [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Dominican Republic U17 vs Chile U17" tvg-logo="https://media2.16m50.tv/media/club/27842.webp" group-title="truct-tiep live",LIVE Dominican Republic U17 vs Chile U17 [64']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/76774828_b2b6697a9f2395741d54b32ebd1b5979_autoChange.m3u8?auth_key=1795548590-0-0-1d9e32f12f4067bc20cd3be86dcbb532
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Al-Fateh U21 vs Al-Taawoun U21" tvg-logo="https://media2.16m50.tv/media/club/11777.webp" group-title="truct-tiep live",LIVE Al-Fateh U21 vs Al-Taawoun U21 [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Al-Fateh U21 vs Al-Taawoun U21" tvg-logo="https://media2.16m50.tv/media/club/11777.webp" group-title="truct-tiep live",LIVE Al-Fateh U21 vs Al-Taawoun U21 [68']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/73326528_188f0432413ebfd65850ceade1c69393_autoChange.m3u8?auth_key=1795548590-0-0-ea24359d22b891b58107543de0fd559f
@@ -75,11 +71,15 @@ https://live1.hztx2020.com/live/14194153_543c60de043a0622344d5035e0a06e34_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live3.hztx2020.com/live/14599326_3d089742ad481c2abd1e03ae1278bc89_autoChange.m3u8?auth_key=1795548588-0-0-c69201e945bfe7bfd7e752d6bc8a867d
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Ajman vs Al Ettifaq" tvg-logo="https://media2.16m50.tv/media/club/7662.webp" group-title="truct-tiep live",LIVE Ajman vs Al Ettifaq [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live2.hztx2020.com/live/14473445_869134d5f3cffde851ed5c4389fc18ec_autoChange.m3u8?auth_key=1795549227-0-0-1ece8ecfcf6acf3b32006484c6c2d02e
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Honduras U17 vs Colombia U17" tvg-logo="https://media2.16m50.tv/media/club/15289.webp" group-title="truct-tiep live",LIVE Honduras U17 vs Colombia U17 [-1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/71762614_5a15ea4a00246c05e07002ebdaea7970_autoChange.m3u8?auth_key=1795548911-0-0-c46844ff1b2cb77c91cf4bc7cc514dc9
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Algeria U17 vs Montenegro U17" tvg-logo="https://media2.16m50.tv/media/club/10856.webp" group-title="truct-tiep live",LIVE Algeria U17 vs Montenegro U17 [Đang đá]
+https://live1.hztx2020.com/live/71762614_5a15ea4a00246c05e07002ebdaea7970_autoChange.m3u8?auth_key=1795549227-0-0-7a801b20dddf4da3c331ef39b0285cf0
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Algeria U17 vs Montenegro U17" tvg-logo="https://media2.16m50.tv/media/club/10856.webp" group-title="truct-tiep live",LIVE Algeria U17 vs Montenegro U17 [-1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/71762586_d34176eed9cb66ec3d3bb0255a619f3a_autoChange.m3u8?auth_key=1795548911-0-0-1a83d73dbdf177a2fe0b1acc7ba02fac
+https://live.hztx2020.com/live/71762586_d34176eed9cb66ec3d3bb0255a619f3a_autoChange.m3u8?auth_key=1795549227-0-0-828d6cd1e4bb722265e73f5181727ae8
