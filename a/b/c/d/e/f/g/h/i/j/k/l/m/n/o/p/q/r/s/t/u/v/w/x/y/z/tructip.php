@@ -31,7 +31,7 @@ https://live.hztx2020.com/live/14228460_15a369b2b8a331d63df89f6073a6869a_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/71762596_ad036cc4afd1138383b69337c3b3c614_autoChange.m3u8?auth_key=1795541351-0-0-d7d294ec55e6a984adabf5b5f46b1723
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Costa Rica U17 vs Ireland U17" tvg-logo="https://media2.16m50.tv/media/club/15288.webp" group-title="truct-tiep live",LIVE Costa Rica U17 vs Ireland U17 [62']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Costa Rica U17 vs Ireland U17" tvg-logo="https://media2.16m50.tv/media/club/15288.webp" group-title="truct-tiep live",LIVE Costa Rica U17 vs Ireland U17 [61']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/71762540_c29459472ffe956cda9949e968337080_autoChange.m3u8?auth_key=1795541351-0-0-a6615cdb0603e910b0cadfaee7721913
@@ -43,10 +43,6 @@ https://live.hztx2020.com/live/14397034_9db39f152ac084e959cf253fc7a6f2bf_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/71762612_45dff2e85122c7c9fab0de3af180069f_autoChange.m3u8?auth_key=1795541352-0-0-a22672671da91a9f02998316a300b6b9
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Sreenidi Deccan vs Chanmari FC" tvg-logo="https://media2.16m50.tv/media/club/3390.webp" group-title="truct-tiep live",LIVE Sreenidi Deccan vs Chanmari FC [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/14592742_73a69a04df95ac9bf6951088246e6d13_autoChange.m3u8?auth_key=1795541352-0-0-aaabeddcba9b44877b411a43b7a4d993
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FC OKMK Olmaliq vs Navbahor Namangan" tvg-logo="https://media2.16m50.tv/media/club/1269.webp" group-title="truct-tiep live",LIVE FC OKMK Olmaliq vs Navbahor Namangan [4']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -63,3 +59,11 @@ https://live1.hztx2020.com/live/76363396_aac9dfa0344edd536097d906749821eb_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/71762598_2bcc2839ccf0bd3d4e83fce2d5277e1b_autoChange.m3u8?auth_key=1795541353-0-0-0fd84ccce346132507757d32bd32d8e4
+#EXTINF:-1 tvg-id="" tvg-name="LIVE East Bengal FC vs Al-Hussein SC (Irbid)" tvg-logo="https://media2.16m50.tv/media/club/723.webp" group-title="truct-tiep live",LIVE East Bengal FC vs Al-Hussein SC (Irbid) [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14346270_b479238cb11676ad4c7223242dbf0b8d_autoChange.m3u8?auth_key=1795542498-0-0-5e1b602aca022aa0fe684967dedea430
+#EXTINF:-1 tvg-id="" tvg-name="Northeast United FC vs SC Delhi" tvg-logo="https://media2.16m50.tv/media/club/24824.webp" group-title="truct-tiep live",Northeast United FC vs SC Delhi [21:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live3.hztx2020.com/live/14512667_53a68c6500359a877906aa774d0076b0_autoChange.m3u8?auth_key=1795542498-0-0-a9303325ef28f8f6ca461332969b2324
