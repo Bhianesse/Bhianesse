@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Zhejiang Professional FC U20 vs Jiangsu Changjin" tvg-logo="https://media2.16m50.tv/media/club/15000.webp" group-title="truct-tiep live",LIVE Zhejiang Professional FC U20 vs Jiangsu Changjin [65']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE LNZ Cherkasy U21 vs Polissya Zhytomyr U21" tvg-logo="https://media2.16m50.tv/media/club/5850.webp" group-title="truct-tiep live",LIVE LNZ Cherkasy U21 vs Polissya Zhytomyr U21 [117']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/63kv9i6m5lxhx7e_6c5e460a7b1542ece668dbbdccbed667_autoChange.m3u8?auth_key=1795537782-0-0-8e778aca80174e571fddf7d38ca69382
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Shanxi Xing Rui Nữ vs Wuhan Nữ" tvg-logo="https://media2.16m50.tv/media/club/27481.webp" group-title="truct-tiep live",LIVE Shanxi Xing Rui Nữ vs Wuhan Nữ [Đang đá]
+https://live2.hztx2020.com/live/zrkn6i4xen0hwql_735735d2fdcfe212adcdf7cdc9f048d2_autoChange.m3u8?auth_key=1795530729-0-0-08703d47fbead130aa8bfac0b450e7a1
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Al Raed U20 vs Al Shabab Youth" tvg-logo="https://media2.16m50.tv/media/club/4931.webp" group-title="truct-tiep live",LIVE Al Raed U20 vs Al Shabab Youth [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live5.hztx2020.com/live/14683556_e558412381e093a657cedda93033050f_autoChange.m3u8?auth_key=1795538902-0-0-fabafc086e2e4f6b168c32830a2c0d9b
+https://live2.hztx2020.com/live/vrqwni4w05rh4qn_7e211328a6199477f4d7c02b2a47e98d_autoChange.m3u8?auth_key=1795539828-0-0-c020eab8f51a0bd47ff47efc6a5ff105
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Al-Raed SFC vs Al Okhdood" tvg-logo="https://media2.16m50.tv/media/club/4916.webp" group-title="truct-tiep live",LIVE Al-Raed SFC vs Al Okhdood [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -39,3 +39,19 @@ https://live1.hztx2020.com/live/71762596_ad036cc4afd1138383b69337c3b3c614_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/71762540_c29459472ffe956cda9949e968337080_autoChange.m3u8?auth_key=1795537782-0-0-39a7058da78b33bc5b3f674baa293c5c
+#EXTINF:-1 tvg-id="" tvg-name="Como U20 vs AEK Athens U19" tvg-logo="https://media2.16m50.tv/media/club/26413.webp" group-title="truct-tiep live",Como U20 vs AEK Athens U19 [20:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/14397036_d4c79c5edd5462834fc09cdd7065a751_autoChange.m3u8?auth_key=1795539828-0-0-16917ec0daa22474cd271780b1fa9892
+#EXTINF:-1 tvg-id="" tvg-name="Arsenal U19 vs Borussia Dortmund U19" tvg-logo="https://media2.16m50.tv/media/club/23092.webp" group-title="truct-tiep live",Arsenal U19 vs Borussia Dortmund U19 [20:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14397034_9db39f152ac084e959cf253fc7a6f2bf_autoChange.m3u8?auth_key=1795539828-0-0-cdc9200d2c31ab3aa8ae9173f52ba0e6
+#EXTINF:-1 tvg-id="" tvg-name="Japan U17 vs Serbia U17" tvg-logo="https://media2.16m50.tv/media/club/9866.webp" group-title="truct-tiep live",Japan U17 vs Serbia U17 [20:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live2.hztx2020.com/live/71762612_45dff2e85122c7c9fab0de3af180069f_autoChange.m3u8?auth_key=1795539828-0-0-3cc639f637e010a56632e9c47bf07af9
+#EXTINF:-1 tvg-id="" tvg-name="Sreenidi Deccan vs Chanmari FC" tvg-logo="https://media2.16m50.tv/media/club/3390.webp" group-title="truct-tiep live",Sreenidi Deccan vs Chanmari FC [20:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live3.hztx2020.com/live/14592742_73a69a04df95ac9bf6951088246e6d13_autoChange.m3u8?auth_key=1795539828-0-0-31a4da6625fafe8c218db47172070ee7
