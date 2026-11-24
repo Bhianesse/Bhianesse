@@ -7,7 +7,7 @@ https://live1.hztx2020.com/live/14338896_06ad5fd718fa0aab59cfa3419262c505_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14338895_7bc52e60587ae7e0d922b5d040bc9d3e_autoChange.m3u8?auth_key=1795534080-0-0-65ff7298a5c9230d1ee197c9023cd3c7
-#EXTINF:-1 tvg-id="" tvg-name="LIVE LNZ Cherkasy U21 vs Polissya Zhytomyr U21" tvg-logo="https://media2.16m50.tv/media/club/5850.webp" group-title="truct-tiep live",LIVE LNZ Cherkasy U21 vs Polissya Zhytomyr U21 [66']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE LNZ Cherkasy U21 vs Polissya Zhytomyr U21" tvg-logo="https://media2.16m50.tv/media/club/5850.webp" group-title="truct-tiep live",LIVE LNZ Cherkasy U21 vs Polissya Zhytomyr U21 [76']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/zrkn6i4xen0hwql_735735d2fdcfe212adcdf7cdc9f048d2_autoChange.m3u8?auth_key=1795530729-0-0-08703d47fbead130aa8bfac0b450e7a1
