@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Agniputhra vs Hal FC" tvg-logo="https://media2.16m50.tv/media/club/23659.webp" group-title="truct-tiep live",LIVE FC Agniputhra vs Hal FC [69']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14643667_12ac5fa7fba9dd939a00b9978fe6e930_autoChange.m3u8?auth_key=1795534080-0-0-050e09fd279c18ab66133d25e3aa9acf
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Samaleshwari SC vs FC Bengaluru United" tvg-logo="https://media2.16m50.tv/media/club/15360.webp" group-title="truct-tiep live",LIVE Samaleshwari SC vs FC Bengaluru United [63']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14592741_a23d59adab584b97444ae03bdbc13556_autoChange.m3u8?auth_key=1795534080-0-0-d70cbda4b251c15ad0fe6bf50205e291
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Zhejiang Professional FC U20 vs Jiangsu Changjin" tvg-logo="https://media2.16m50.tv/media/club/15000.webp" group-title="truct-tiep live",LIVE Zhejiang Professional FC U20 vs Jiangsu Changjin [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -35,11 +27,11 @@ https://live1.hztx2020.com/live/14228459_cb9b9fc04f5c3e443d6efd43433e50f3_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14228460_15a369b2b8a331d63df89f6073a6869a_autoChange.m3u8?auth_key=1795537782-0-0-2777524f4eb3f2bcc7934a05ffe9d518
-#EXTINF:-1 tvg-id="" tvg-name="Venezuela U17 vs Romania U17" tvg-logo="https://media2.16m50.tv/media/club/10989.webp" group-title="truct-tiep live",Venezuela U17 vs Romania U17 [19:30 WIB]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Venezuela U17 vs Romania U17" tvg-logo="https://media2.16m50.tv/media/club/10989.webp" group-title="truct-tiep live",LIVE Venezuela U17 vs Romania U17 [-1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/71762596_ad036cc4afd1138383b69337c3b3c614_autoChange.m3u8?auth_key=1795537783-0-0-d197dc29ae43ecad7a0e35296a226ac4
-#EXTINF:-1 tvg-id="" tvg-name="Costa Rica U17 vs Ireland U17" tvg-logo="https://media2.16m50.tv/media/club/15288.webp" group-title="truct-tiep live",Costa Rica U17 vs Ireland U17 [19:30 WIB]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Costa Rica U17 vs Ireland U17" tvg-logo="https://media2.16m50.tv/media/club/15288.webp" group-title="truct-tiep live",LIVE Costa Rica U17 vs Ireland U17 [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/71762540_c29459472ffe956cda9949e968337080_autoChange.m3u8?auth_key=1795537782-0-0-39a7058da78b33bc5b3f674baa293c5c
