@@ -3,6 +3,10 @@
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/63kv9i6m5lxhx7e_6c5e460a7b1542ece668dbbdccbed667_autoChange.m3u8?auth_key=1795537782-0-0-8e778aca80174e571fddf7d38ca69382
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Shanxi Xing Rui Nữ vs Wuhan Nữ" tvg-logo="https://media2.16m50.tv/media/club/27481.webp" group-title="truct-tiep live",LIVE Shanxi Xing Rui Nữ vs Wuhan Nữ [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live5.hztx2020.com/live/14683556_e558412381e093a657cedda93033050f_autoChange.m3u8?auth_key=1795538902-0-0-fabafc086e2e4f6b168c32830a2c0d9b
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Al-Raed SFC vs Al Okhdood" tvg-logo="https://media2.16m50.tv/media/club/4916.webp" group-title="truct-tiep live",LIVE Al-Raed SFC vs Al Okhdood [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
