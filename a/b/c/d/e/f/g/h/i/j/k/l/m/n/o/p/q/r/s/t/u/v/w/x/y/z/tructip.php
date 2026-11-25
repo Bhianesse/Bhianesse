@@ -3,15 +3,11 @@
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14568701_14497381d04749e1c37d353b8e1fafd6_autoChange.m3u8?auth_key=1795645787-0-0-925b68f72dd7b6b004ea9d43fd082046
-#EXTINF:-1 tvg-id="" tvg-name="LIVE ASK Bravo Publikum vs Odranci" tvg-logo="https://media2.16m50.tv/media/club/22234.webp" group-title="truct-tiep live",LIVE ASK Bravo Publikum vs Odranci [60']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14659722_ddd9469debaad394b85d3270bc59a377_autoChange.m3u8?auth_key=1795645787-0-0-a33ebaf4d4f3d3d0744a85fa289d31f6
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Lokomotiv Moscow vs FK Rostov" tvg-logo="https://media2.16m50.tv/media/club/796.webp" group-title="truct-tiep live",LIVE Lokomotiv Moscow vs FK Rostov [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Lokomotiv Moscow vs FK Rostov" tvg-logo="https://media2.16m50.tv/media/club/796.webp" group-title="truct-tiep live",LIVE Lokomotiv Moscow vs FK Rostov [67']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/2436622_b0d67d02da9b4efb2717346dd62e368b_autoChange.m3u8?auth_key=1795645787-0-0-fad91eb1829e30b8539b82366da08d65
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Rubin Kazan vs Rodina Moscow" tvg-logo="https://media2.16m50.tv/media/club/6361.webp" group-title="truct-tiep live",LIVE Rubin Kazan vs Rodina Moscow [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Rubin Kazan vs Rodina Moscow" tvg-logo="https://media2.16m50.tv/media/club/6361.webp" group-title="truct-tiep live",LIVE Rubin Kazan vs Rodina Moscow [67']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/2437021_a6b951533e7075df6d3c57b27821ba65_autoChange.m3u8?auth_key=1795645796-0-0-921fa09997ce6af1a2583080d41cdfe6
