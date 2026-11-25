@@ -23,7 +23,7 @@ https://live1.hztx2020.com/live/14732094_e3e416f46266c3c4f1b6053ea9e9d1bd_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14581230_0f1f5f41fbc335d35f0ed8ef71ec6286_autoChange.m3u8?auth_key=1795613288-0-0-2addc755017a69093f8c9caf523a5605
-#EXTINF:-1 tvg-id="" tvg-name="FC Imabari vs Tegevajaro Miyazaki" tvg-logo="https://media2.16m50.tv/media/club/5421.webp" group-title="truct-tiep live",FC Imabari vs Tegevajaro Miyazaki [16:30 WIB]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Samgurali Tskhaltubo vs Torpedo Kutaisi" tvg-logo="https://media2.16m50.tv/media/club/21896.webp" group-title="truct-tiep live",LIVE FC Samgurali Tskhaltubo vs Torpedo Kutaisi [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14067926_c0cf3d122e4e53345aad6d3fe9fa8090_autoChange.m3u8?auth_key=1795613288-0-0-4aa4ccf778f1483dc04b041d50ef9734
+https://live.hztx2020.com/live/14599327_f8cc974c7e8042ea5b3d3dbc799ab736_autoChange.m3u8?auth_key=1795613863-0-0-bc59f185d65d3a4c83b8fd2412c008dd
