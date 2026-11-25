@@ -1,5 +1,5 @@
 
-name: MOSYEN
+name: MOZYEN
 
 on:
   schedule:
@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: MOSYEN-m3u
+  group: MOZYEN-m3u
   cancel-in-progress: false
 
 jobs:
@@ -35,12 +35,12 @@ jobs:
 
       - name: ✓
         run: |
-          echo "${{ secrets.MOSYEN_PY }}" | base64 -d > MOSYEN.py
-          chmod +x MOSYEN.py
+          echo "${{ secrets.MOZYEN_PY }}" | base64 -d > MOZYEN.py
+          chmod +x MOZYEN.py
 
       - name: ✓
         run: |
-          python MOSYEN.py
+          python MOZYEN.py
 
       - name: √
         env:
