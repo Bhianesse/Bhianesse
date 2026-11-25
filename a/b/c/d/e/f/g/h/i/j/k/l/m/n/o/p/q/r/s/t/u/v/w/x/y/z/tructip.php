@@ -3,10 +3,6 @@
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live3.hztx2020.com/live/14208411_5de471e736349d2ac75de7ba553f4891_autoChange.m3u8?auth_key=1795652971-0-0-81a39bd4474e20b14cd50ea2ce44ecdc
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Lanus Reserves vs River Plate Reserves" tvg-logo="https://media2.16m50.tv/media/club/9950.webp" group-title="truct-tiep live",LIVE Lanus Reserves vs River Plate Reserves [64']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live4.hztx2020.com/live/14720230_039c3c0ea9f0f8aea627d2cf65814770_autoChange.m3u8?auth_key=1795652971-0-0-2fdf71e433dd06106c4e5bc50beb5b36
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Pisa vs Modena" tvg-logo="https://media2.16m50.tv/media/club/5056.webp" group-title="truct-tiep live",LIVE Pisa vs Modena [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -19,7 +15,7 @@ https://live1.hztx2020.com/live/14208410_34ad550e600f8c13cd0efe084012e7bc_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14508317_4b043d6173ab61c0e6fd7a37879d262e_autoChange.m3u8?auth_key=1795652973-0-0-6af1e1f156bcef8b84e47ae20a790d7e
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Burnley vs Birmingham City" tvg-logo="https://media2.16m50.tv/media/club/9058.webp" group-title="truct-tiep live",LIVE Burnley vs Birmingham City [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Burnley vs Birmingham City" tvg-logo="https://media2.16m50.tv/media/club/9058.webp" group-title="truct-tiep live",LIVE Burnley vs Birmingham City [66']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14069157_32eae600fe21b8dacbdbc0093586ecf8_autoChange.m3u8?auth_key=1795652971-0-0-4c800d736f2021382c2a9dfa204736cd
@@ -27,7 +23,7 @@ https://live2.hztx2020.com/live/14069157_32eae600fe21b8dacbdbc0093586ecf8_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live5.hztx2020.com/live/14636632_3d7f90f3625c38187de2e1c136b430f6_autoChange.m3u8?auth_key=1795652971-0-0-68572c2ad5a4b34901cc3d39c3ec8609
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Folgore/Falciano vs SS Virtus" tvg-logo="https://media2.16m50.tv/media/club/6430.webp" group-title="truct-tiep live",LIVE Folgore/Falciano vs SS Virtus [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Folgore/Falciano vs SS Virtus" tvg-logo="https://media2.16m50.tv/media/club/6430.webp" group-title="truct-tiep live",LIVE Folgore/Falciano vs SS Virtus [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live4.hztx2020.com/live/14636630_07ab946903b8172b2b9cd855ef779e7b_autoChange.m3u8?auth_key=1795652971-0-0-d563dd437aa10449fcf4054389512d5c
@@ -51,11 +47,11 @@ https://live5.hztx2020.com/live/14388190_f1d2403e27f72ceb331c908bcad2d563_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14069156_a35926b1d736eeceac5dcfb438e79b20_autoChange.m3u8?auth_key=1795652971-0-0-beab5b92317527b8596eed03806dec79
-#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Shakhtar Donetsk vs Fenerbahce" tvg-logo="https://media2.16m50.tv/media/club/1078.webp" group-title="truct-tiep live",LIVE FC Shakhtar Donetsk vs Fenerbahce [2']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Shakhtar Donetsk vs Fenerbahce" tvg-logo="https://media2.16m50.tv/media/club/1078.webp" group-title="truct-tiep live",LIVE FC Shakhtar Donetsk vs Fenerbahce [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live4.hztx2020.com/live/14388188_ee172160a848eb432023f9b494f67652_autoChange.m3u8?auth_key=1795652971-0-0-c38a9adbc5a4b3c999d6f83ce4254aed
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Club Brugge vs Liverpool" tvg-logo="https://media2.16m50.tv/media/club/6055.webp" group-title="truct-tiep live",LIVE Club Brugge vs Liverpool [2']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Club Brugge vs Liverpool" tvg-logo="https://media2.16m50.tv/media/club/6055.webp" group-title="truct-tiep live",LIVE Club Brugge vs Liverpool [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live3.hztx2020.com/live/14388186_7a5ab783f32c0d60b9a840f68ed744e0_autoChange.m3u8?auth_key=1795652971-0-0-ef03ecfa05a45b2e06385310e89ecaa7
