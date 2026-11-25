@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="LIVE CA Talleres de Córdoba Reserves vs Estudiantes LP Reserves" tvg-logo="https://media2.16m50.tv/media/club/21869.webp" group-title="truct-tiep live",LIVE CA Talleres de Córdoba Reserves vs Estudiantes LP Reserves [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/14720231_be0fe391649abc57163e9aebef8a9797_autoChange.m3u8?auth_key=1795659223-0-0-413283748dccc119de7939829219873c
+https://live3.hztx2020.com/live/14720231_be0fe391649abc57163e9aebef8a9797_autoChange.m3u8?auth_key=1795660180-0-0-8319cf59d89951d46bb9431c33e41e04
 #EXTINF:-1 tvg-id="" tvg-name="LIVE UNAN Managua vs HYH Export Sebaco FC" tvg-logo="https://media2.16m50.tv/media/club/655.webp" group-title="truct-tiep live",LIVE UNAN Managua vs HYH Export Sebaco FC [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
