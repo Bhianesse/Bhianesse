@@ -31,3 +31,7 @@ https://live3.hztx2020.com/live/14208414_d32a26d5e8d8891806dd3e9e272d19e1_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live4.hztx2020.com/live/14278114_3b3dea245e8dd61b0c60020809c379d2_autoChange.m3u8?auth_key=1795645787-0-0-fb0913127705fee88ee6fe82dc1c9b61
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Al Taawoun vs Al Nahda SC" tvg-logo="https://media2.16m50.tv/media/club/1605.webp" group-title="truct-tiep live",LIVE Al Taawoun vs Al Nahda SC [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14346278_dc131e05ee4ffdec0069c61ccba64032_autoChange.m3u8?auth_key=1795645787-0-0-47a2ee65c16e89107a179e9be099dbd1
