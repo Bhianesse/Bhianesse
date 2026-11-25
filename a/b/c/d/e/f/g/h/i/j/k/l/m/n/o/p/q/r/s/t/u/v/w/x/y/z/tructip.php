@@ -6,4 +6,4 @@ https://live.hztx2020.com/live/14666898_bf1cb70e743f106f937961ad91d59223_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Giravanz Kitakyushu vs Zweigen Kanazawa FC" tvg-logo="https://media2.16m50.tv/media/club/1998.webp" group-title="truct-tiep live",LIVE Giravanz Kitakyushu vs Zweigen Kanazawa FC [3']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14247107_b3186bcd24a43fd5108635ff9e5322ea_autoChange.m3u8?auth_key=1795597910-0-0-ffc7e71f590d9bdeca733938331aecce
+https://live.hztx2020.com/live/14247107_b3186bcd24a43fd5108635ff9e5322ea_autoChange.m3u8?auth_key=1795598983-0-0-038edffc4ecdfaa3508892392ef7c0d7
