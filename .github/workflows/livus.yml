@@ -1,0 +1,68 @@
+
+name: LIVUS
+
+on:
+  schedule:
+    - cron: '0,5,10,15,20,25,30,35,40,45,50,55 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: LIVUS-m3u
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-24.04
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: ✓
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 1
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: ✓
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.15"
+
+      - name: ✓
+        run: |
+          pip install curl-cffi
+
+      - name: ✓
+        run: |
+          echo "${{ secrets.LIVUS_PY }}" | base64 -d > LIVUS.py
+          chmod +x LIVUS.py
+
+      - name: ✓
+        run: |
+          python LIVUS.py
+
+      - name: √
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          FILE="a/livus.gif"
+
+          git config --global user.name "eyayq"
+          git config --global user.email "eyayq@github.com"
+
+          if [ -f "$FILE" ]; then
+            git add "$FILE"
+            git commit -m "update $(date)" || echo "no changes"
+
+
+            for i in 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+            do
+              git pull --rebase --autostash origin main
+              git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:main && break
+              echo "Push failed, retry $i..."
+              sleep 5
+            done
+          else
+            echo "not found"
+          fi
