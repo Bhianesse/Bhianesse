@@ -1,16 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Lokomotiv Moscow vs FK Rostov" tvg-logo="https://media2.16m50.tv/media/club/796.webp" group-title="truct-tiep live",LIVE Lokomotiv Moscow vs FK Rostov [67']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/2436622_b0d67d02da9b4efb2717346dd62e368b_autoChange.m3u8?auth_key=1795645787-0-0-fad91eb1829e30b8539b82366da08d65
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Rubin Kazan vs Rodina Moscow" tvg-logo="https://media2.16m50.tv/media/club/6361.webp" group-title="truct-tiep live",LIVE Rubin Kazan vs Rodina Moscow [67']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/2437021_a6b951533e7075df6d3c57b27821ba65_autoChange.m3u8?auth_key=1795645796-0-0-921fa09997ce6af1a2583080d41cdfe6
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Sabah Baku vs FC Barcelona" tvg-logo="https://media2.16m50.tv/media/club/776.webp" group-title="truct-tiep live",LIVE Sabah Baku vs FC Barcelona [62']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14388192_b24ce2fc8e7c63f68b0246d81ed1bb30_autoChange.m3u8?auth_key=1795645787-0-0-438bb48a9bd6c490344038b8d577dfbe
 #EXTINF:-1 tvg-id="" tvg-name="LIVE SK Slavia Praha vs Villarreal CF" tvg-logo="https://media2.16m50.tv/media/club/19621.webp" group-title="truct-tiep live",LIVE SK Slavia Praha vs Villarreal CF [64']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -19,27 +11,11 @@ https://live.hztx2020.com/live/14388191_8017af05efd009b36bc19bed3ede8fe7_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live3.hztx2020.com/live/14208414_d32a26d5e8d8891806dd3e9e272d19e1_autoChange.m3u8?auth_key=1795645787-0-0-c59e3a0c3585d04db974d0fda29448b7
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Al Taawoun vs Al Nahda SC" tvg-logo="https://media2.16m50.tv/media/club/1605.webp" group-title="truct-tiep live",LIVE Al Taawoun vs Al Nahda SC [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Al Taawoun vs Al Nahda SC" tvg-logo="https://media2.16m50.tv/media/club/1605.webp" group-title="truct-tiep live",LIVE Al Taawoun vs Al Nahda SC [64']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14346278_dc131e05ee4ffdec0069c61ccba64032_autoChange.m3u8?auth_key=1795645787-0-0-47a2ee65c16e89107a179e9be099dbd1
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Mantova vs Arezzo" tvg-logo="https://media2.16m50.tv/media/club/362.webp" group-title="truct-tiep live",LIVE Mantova vs Arezzo [4']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/14208411_5de471e736349d2ac75de7ba553f4891_autoChange.m3u8?auth_key=1795648582-0-0-258bcb3f9dab0421f844c0edadfbc85e
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Lanus Reserves vs River Plate Reserves" tvg-logo="https://media2.16m50.tv/media/club/9950.webp" group-title="truct-tiep live",LIVE Lanus Reserves vs River Plate Reserves [-1']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live4.hztx2020.com/live/14720230_039c3c0ea9f0f8aea627d2cf65814770_autoChange.m3u8?auth_key=1795648583-0-0-c068fe843f89d7104c563ddb716e5aa3
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Pisa vs Modena" tvg-logo="https://media2.16m50.tv/media/club/5056.webp" group-title="truct-tiep live",LIVE Pisa vs Modena [2']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14208408_77b2e264a95e7fb4d91682a0580863c7_autoChange.m3u8?auth_key=1795648582-0-0-676d3849529edc1df672b8fb2c837455
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Padova vs Sampdoria" tvg-logo="https://media2.16m50.tv/media/club/3758.webp" group-title="truct-tiep live",LIVE Padova vs Sampdoria [4']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14208410_34ad550e600f8c13cd0efe084012e7bc_autoChange.m3u8?auth_key=1795648582-0-0-87f49faebd35cd7edf95824bcfeec43e
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Olympiacos Piraeus vs Hapoel Tel-Aviv" tvg-logo="https://media2.16m50.tv/media/club/7207.webp" group-title="truct-tiep live",LIVE Olympiacos Piraeus vs Hapoel Tel-Aviv [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14242695_0e00b8176e82dc1fffd5b6bb1e66348a_autoChange.m3u8?auth_key=1795648581-0-0-d8b9f298141fa3d0672d4f9b4a9bf65d
+https://live3.hztx2020.com/live/14208411_5de471e736349d2ac75de7ba553f4891_autoChange.m3u8?auth_key=1795649272-0-0-8c25c92c2bbe258f228b5f61b855418a
