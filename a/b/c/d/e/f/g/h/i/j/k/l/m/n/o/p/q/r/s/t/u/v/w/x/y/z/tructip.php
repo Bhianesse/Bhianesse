@@ -1,24 +1,72 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Reilac Shiga FC vs Kochi United" tvg-logo="https://media2.16m50.tv/media/club/5432.webp" group-title="truct-tiep live",LIVE Reilac Shiga FC vs Kochi United [45']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Reilac Shiga FC vs Kochi United" tvg-logo="https://media2.16m50.tv/media/club/5432.webp" group-title="truct-tiep live",LIVE Reilac Shiga FC vs Kochi United [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14247106_edb1fadf3c6b497413c3988c0d5612d1_autoChange.m3u8?auth_key=1795616977-0-0-c5866256372803ca820fc67110c6f465
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Shan United vs Thitsar Arman FC" tvg-logo="https://media2.16m50.tv/media/club/5551.webp" group-title="truct-tiep live",LIVE Shan United vs Thitsar Arman FC [45']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Shan United vs Thitsar Arman FC" tvg-logo="https://media2.16m50.tv/media/club/5551.webp" group-title="truct-tiep live",LIVE Shan United vs Thitsar Arman FC [62']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14360628_4c6f0a0114b92b64e540ed12d51308b6_autoChange.m3u8?auth_key=1795616977-0-0-7c5cbb4f3887c47c5992ed650d58f87e
-#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Samgurali Tskhaltubo vs Torpedo Kutaisi" tvg-logo="https://media2.16m50.tv/media/club/21896.webp" group-title="truct-tiep live",LIVE FC Samgurali Tskhaltubo vs Torpedo Kutaisi [45']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Yangon United vs Myawady" tvg-logo="https://media2.16m50.tv/media/club/7592.webp" group-title="truct-tiep live",LIVE Yangon United vs Myawady [63']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/14732094_e3e416f46266c3c4f1b6053ea9e9d1bd_autoChange.m3u8?auth_key=1795616977-0-0-0b4e22f204e309d1fca2739d14abb46d
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Rakhine United FC vs Manaw FC" tvg-logo="https://media2.16m50.tv/media/club/1048.webp" group-title="truct-tiep live",LIVE Rakhine United FC vs Manaw FC [62']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14581230_0f1f5f41fbc335d35f0ed8ef71ec6286_autoChange.m3u8?auth_key=1795616977-0-0-be4643040919796997bddce1b2190656
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Stride vs Technico FF" tvg-logo="https://media2.16m50.tv/media/club/23482.webp" group-title="truct-tiep live",LIVE Stride vs Technico FF [74']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14643670_7f2dd1145c34cb1fdd7f0e83a6a70f5f_autoChange.m3u8?auth_key=1795616978-0-0-cc310e3dcd809b557e62a6553b0f1da6
+#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Imabari vs Tegevajaro Miyazaki" tvg-logo="https://media2.16m50.tv/media/club/5421.webp" group-title="truct-tiep live",LIVE FC Imabari vs Tegevajaro Miyazaki [66']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/14067926_c0cf3d122e4e53345aad6d3fe9fa8090_autoChange.m3u8?auth_key=1795616978-0-0-b2e82b241f53e5e15d8649cbea99a324
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Vanraure Hachinohe FC vs Albirex Niigata" tvg-logo="https://media2.16m50.tv/media/club/5374.webp" group-title="truct-tiep live",LIVE Vanraure Hachinohe FC vs Albirex Niigata [65']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14067934_889efda9607d3ee9915f413414607856_autoChange.m3u8?auth_key=1795616978-0-0-6accda587d111a7f61d6c4381d6e8c76
+#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Samgurali Tskhaltubo vs Torpedo Kutaisi" tvg-logo="https://media2.16m50.tv/media/club/21896.webp" group-title="truct-tiep live",LIVE FC Samgurali Tskhaltubo vs Torpedo Kutaisi [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14599327_f8cc974c7e8042ea5b3d3dbc799ab736_autoChange.m3u8?auth_key=1795616978-0-0-04ea1150f449d0ae74428708d828bb5e
+#EXTINF:-1 tvg-id="" tvg-name="LIVE SC Sagamihara vs Ehime FC" tvg-logo="https://media2.16m50.tv/media/club/5390.webp" group-title="truct-tiep live",LIVE SC Sagamihara vs Ehime FC [64']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live2.hztx2020.com/live/14247105_2be570ccbd73b814758fc985365de795_autoChange.m3u8?auth_key=1795616978-0-0-1b40723dfa4873d2f83347c003e5b58e
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FC Osaka vs Tochigi SC" tvg-logo="https://media2.16m50.tv/media/club/1063.webp" group-title="truct-tiep live",LIVE FC Osaka vs Tochigi SC [3']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14247102_296e2a03402a48fe4286c4b0fae2e38b_autoChange.m3u8?auth_key=1795616979-0-0-1a145ec36b612e13855f11a20444248c
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Karpaty U19 vs Obolon Brovar Kiev U19" tvg-logo="https://media2.16m50.tv/media/club/21561.webp" group-title="truct-tiep live",LIVE Karpaty U19 vs Obolon Brovar Kiev U19 [6']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live3.hztx2020.com/live/73623558_1a86d7ca50a5c2ec98b0155aaf171f16_autoChange.m3u8?auth_key=1795616980-0-0-f270d862d9b0f864f3f6f39d7562a9de
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Fagiano Okayama vs Shimizu S-Pulse" tvg-logo="https://media2.16m50.tv/media/club/5362.webp" group-title="truct-tiep live",LIVE Fagiano Okayama vs Shimizu S-Pulse [4']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/14062061_02a565ecfaa3267f60f4f19085969a0e_autoChange.m3u8?auth_key=1795616977-0-0-ad5abc184e2cb57e3d887eb6412ddfda
+#EXTINF:-1 tvg-id="" tvg-name="LIVE JEF United Ichihara Chiba vs Nagoya Grampus" tvg-logo="https://media2.16m50.tv/media/club/1956.webp" group-title="truct-tiep live",LIVE JEF United Ichihara Chiba vs Nagoya Grampus [3']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14062058_c13819d86e7a2ecabe26ca35fa325091_autoChange.m3u8?auth_key=1795616995-0-0-ffad8ca44e7130f3b706644adf34d152
+#EXTINF:-1 tvg-id="" tvg-name="LIVE AC Nagano Parceiro vs Kagoshima United" tvg-logo="https://media2.16m50.tv/media/club/5415.webp" group-title="truct-tiep live",LIVE AC Nagano Parceiro vs Kagoshima United [4']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14247104_6f9e218c4aea7aec7fdb1c5c94489e2c_autoChange.m3u8?auth_key=1795616997-0-0-fd872dc2c7e88bdefed0e5d24f055089
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Gamba Osaka vs Port FC" tvg-logo="https://media2.16m50.tv/media/club/5452.webp" group-title="truct-tiep live",LIVE Gamba Osaka vs Port FC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14338898_d86454120151a90e6c29010359c2b3b7_autoChange.m3u8?auth_key=1795616998-0-0-4692f87ba959024aa440a758646bdef0
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Tochigi City vs Blaublitz Akita" tvg-logo="https://media2.16m50.tv/media/club/5418.webp" group-title="truct-tiep live",LIVE Tochigi City vs Blaublitz Akita [3']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live3.hztx2020.com/live/14067933_f89d0e22abbda738a02056da2810d90b_autoChange.m3u8?auth_key=1795616996-0-0-94c724fed80d269026a0522b249c47e4
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Renofa Yamaguchi vs Fukushima United FC" tvg-logo="https://media2.16m50.tv/media/club/2004.webp" group-title="truct-tiep live",LIVE Renofa Yamaguchi vs Fukushima United FC [3']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/14247100_d125adf45fb147d885171c9424ce51a0_autoChange.m3u8?auth_key=1795616997-0-0-5dd95c7ea4393fee13e7eccbbd3dc4b2
 #EXTINF:-1 tvg-id="" tvg-name="LIVE RB Omiya Ardija vs Tokushima Vortis" tvg-logo="https://media2.16m50.tv/media/club/2007.webp" group-title="truct-tiep live",LIVE RB Omiya Ardija vs Tokushima Vortis [3']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -27,6 +75,22 @@ https://live2.hztx2020.com/live/14067930_1a7daa1e78a8f930168adc78c975d283_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14067927_20822b2a0b5b71508f58b378c4477c42_autoChange.m3u8?auth_key=1795616996-0-0-5572643a1c1aa5ad1ad1c05b9a29e204
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Mito Hollyhock vs Tokyo Verdy" tvg-logo="https://media2.16m50.tv/media/club/2073.webp" group-title="truct-tiep live",LIVE Mito Hollyhock vs Tokyo Verdy [4']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live5.hztx2020.com/live/14062060_aa1de78905773634296c640514811bd2_autoChange.m3u8?auth_key=1795616995-0-0-04d04a79f2f1009c22068152c0b2f280
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Iwaki FC vs Kataller Toyama" tvg-logo="https://media2.16m50.tv/media/club/2006.webp" group-title="truct-tiep live",LIVE Iwaki FC vs Kataller Toyama [3']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14067928_f79243f1b42c270b37eb063bd198f161_autoChange.m3u8?auth_key=1795616996-0-0-b2e79357b79a5feb5817ce3d0bc99fe2
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Sagan Tosu vs Oita Trinita" tvg-logo="https://media2.16m50.tv/media/club/2005.webp" group-title="truct-tiep live",LIVE Sagan Tosu vs Oita Trinita [4']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live5.hztx2020.com/live/14067931_4644396b8c3cc31cf327be7977d423d4_autoChange.m3u8?auth_key=1795616996-0-0-bd01da561ddcf48623d52c35859c3d49
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Kamatamare Sanuki vs Gainare Tottori" tvg-logo="https://media2.16m50.tv/media/club/5420.webp" group-title="truct-tiep live",LIVE Kamatamare Sanuki vs Gainare Tottori [3']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14247099_a6f750a6ceea0775da0cc5695b91c158_autoChange.m3u8?auth_key=1795616997-0-0-058d8aa7ab6c3481fd48afca1f635bb2
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Shonan Bellmare vs Ventforet Kofu" tvg-logo="https://media2.16m50.tv/media/club/1989.webp" group-title="truct-tiep live",LIVE Shonan Bellmare vs Ventforet Kofu [3']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -35,11 +99,51 @@ https://live4.hztx2020.com/live/14067932_7e2cf1cb1dc3bdd5157c1fb78d135986_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live3.hztx2020.com/live/14067935_348cb4d1cef522db356e330ce7be0ce7_autoChange.m3u8?auth_key=1795616995-0-0-4fdf0cfb9ce02ed4501be212b481ad21
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Kashima Antlers vs Jeonbuk Hyundai Motors" tvg-logo="https://media2.16m50.tv/media/club/2108.webp" group-title="truct-tiep live",LIVE Kashima Antlers vs Jeonbuk Hyundai Motors [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/14338899_a512a8e2f3eece35c58b94fb851af11a_autoChange.m3u8?auth_key=1795616998-0-0-809e794cc793985c01a66a7f2ffbe34c
+#EXTINF:-1 tvg-id="" tvg-name="LIVE V-Varen Nagasaki vs Kawasaki Frontale" tvg-logo="https://media2.16m50.tv/media/club/5453.webp" group-title="truct-tiep live",LIVE V-Varen Nagasaki vs Kawasaki Frontale [3']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live4.hztx2020.com/live/14062063_440610518232846e20e643c4df66e0b7_autoChange.m3u8?auth_key=1795616995-0-0-c6f47033e8b0a24dc7e8dedf2e785694
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Avispa Fukuoka vs Yokohama F. Marinos" tvg-logo="https://media2.16m50.tv/media/club/2116.webp" group-title="truct-tiep live",LIVE Avispa Fukuoka vs Yokohama F. Marinos [4']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live3.hztx2020.com/live/14062057_373a7ea4c4d473cf83e7e8cc75f44d75_autoChange.m3u8?auth_key=1795616995-0-0-5c981764c2518ff7c417ab3234628390
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FC Tokyo vs Sanfrecce Hiroshima" tvg-logo="https://media2.16m50.tv/media/club/1992.webp" group-title="truct-tiep live",LIVE FC Tokyo vs Sanfrecce Hiroshima [4']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14062059_3330b322c22bb91f1c866d29950ce4c4_autoChange.m3u8?auth_key=1795616987-0-0-7850a4a4458d6e5b3f51ff18a6b819c2
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Nara Club vs Matsumoto Yamaga FC" tvg-logo="https://media2.16m50.tv/media/club/1064.webp" group-title="truct-tiep live",LIVE Nara Club vs Matsumoto Yamaga FC [3']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live5.hztx2020.com/live/14247101_03a8615787b733642ae27b70d53ec183_autoChange.m3u8?auth_key=1795616988-0-0-31f1daa4742183a486830a4d0333bcee
+#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Gifu vs Thespa Kusatsu Gunma" tvg-logo="https://media2.16m50.tv/media/club/5426.webp" group-title="truct-tiep live",LIVE FC Gifu vs Thespa Kusatsu Gunma [4']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live4.hztx2020.com/live/14247103_e81af763687e9021a41bf66e93716989_autoChange.m3u8?auth_key=1795616988-0-0-e64cf051bb19a7f2de725fc7a93f5d36
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FC Kharkiv U19 vs Oleksandria U19" tvg-logo="https://media2.16m50.tv/media/club/21886.webp" group-title="truct-tiep live",LIVE FC Kharkiv U19 vs Oleksandria U19 [10']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live4.hztx2020.com/live/73623554_48d36d7de097cb51031439f0d9f6cfc2_autoChange.m3u8?auth_key=1795616985-0-0-4c27debf420f3da500a1166abf136d3d
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Montedio Yamagata vs Jubilo Iwata" tvg-logo="https://media2.16m50.tv/media/club/5410.webp" group-title="truct-tiep live",LIVE Montedio Yamagata vs Jubilo Iwata [4']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live2.hztx2020.com/live/14067929_e4579cfbe5ba5726cd71f6f8213cd976_autoChange.m3u8?auth_key=1795616986-0-0-c247c2453c8cda0ed5c5f59180b40797
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Tainan City Steel vs Taichung Rock FC" tvg-logo="https://media2.16m50.tv/media/club/5480.webp" group-title="truct-tiep live",LIVE Tainan City Steel vs Taichung Rock FC [1']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/14582968_63936aa4894a9bdebc18e0cd722ed22e_autoChange.m3u8?auth_key=1795616985-0-0-2ed46ed43738bb768e6c47f9e1d0536c
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Mohammedan SC vs Rajasthan United FC" tvg-logo="https://media2.16m50.tv/media/club/2743.webp" group-title="truct-tiep live",LIVE Mohammedan SC vs Rajasthan United FC [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14592743_dc3f22679bdbeea86eb934efa1feafe6_autoChange.m3u8?auth_key=1795616985-0-0-476e0799a76c318f6d1781064c186058
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Urawa Red Diamonds vs Cerezo Osaka" tvg-logo="https://media2.16m50.tv/media/club/2072.webp" group-title="truct-tiep live",LIVE Urawa Red Diamonds vs Cerezo Osaka [4']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14062062_7cf846a040410a0df65b9a4b9830db8b_autoChange.m3u8?auth_key=1795616985-0-0-082ef1b26fd218d47a584966696dc4d3
+#EXTINF:-1 tvg-id="" tvg-name="Kryvbas vs Metalist 1925 Kharkiv" tvg-logo="https://media2.16m50.tv/media/club/3547.webp" group-title="truct-tiep live",Kryvbas vs Metalist 1925 Kharkiv [18:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.dyrur1.com/live/72409694_d90252518d6d862e0925eac5f59c2f39_autoChange.m3u8?auth_key=1789221817-0-0-517ec424a543ae68426509b551cc7752
