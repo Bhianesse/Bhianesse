@@ -67,10 +67,6 @@ https://live4.hztx2020.com/live/14068517_e3f7aabf95e5df8a026cb0854a409c63_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live5.hztx2020.com/live/14391846_33abab54bd97bab68ae6c2d3aabebd21_autoChange.m3u8?auth_key=1795739393-0-0-8ec4559d2070ad412159c929f6642626
-#EXTINF:-1 tvg-id="" tvg-name="LIVE SCU Torreense vs Celtic FC" tvg-logo="https://media2.16m50.tv/media/club/2631.webp" group-title="truct-tiep live",LIVE SCU Torreense vs Celtic FC [68']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14391952_8f8e87374f6bc02ad5766083be4b98d3_autoChange.m3u8?auth_key=1795739393-0-0-d3be666e4259ecffeb692f6268be7933
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Ferencvarosi TC vs NK Publikum Celje" tvg-logo="https://media2.16m50.tv/media/club/328.webp" group-title="truct-tiep live",LIVE Ferencvarosi TC vs NK Publikum Celje [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
