@@ -50,4 +50,4 @@ https://live.hztx2020.com/live/14326414_3b7eef49e8c62755f2a99c62caaa8d78_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Karvan Evlakh vs Mingachevir" tvg-logo="https://media2.16m50.tv/media/club/2566.webp" group-title="truct-tiep live",LIVE Karvan Evlakh vs Mingachevir [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/g6763i5gx2wto7r_a2f8f541a5ab8dda54a70750f399a302_autoChange.m3u8?auth_key=1795706259-0-0-e3435403898e74fcfc4ab83516f2ac8a
+https://live.hztx2020.com/live/g6763i5gx2wto7r_a2f8f541a5ab8dda54a70750f399a302_autoChange.m3u8?auth_key=1795706718-0-0-b956f7d5f49501ff879fe8b6590de13f
