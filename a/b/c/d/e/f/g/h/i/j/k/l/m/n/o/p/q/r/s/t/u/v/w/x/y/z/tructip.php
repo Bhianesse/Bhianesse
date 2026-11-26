@@ -6,4 +6,4 @@ https://live1.hztx2020.com/live/77028612_3aa39e9358bd8b42a34225148c09be85_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE São Paulo - SP vs Remo - PA" tvg-logo="https://media2.16m50.tv/media/club/14318.webp" group-title="truct-tiep live",LIVE São Paulo - SP vs Remo - PA [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14725409_6a509b2125e7e82270fd2e0dc441843c_autoChange.m3u8?auth_key=1795748975-0-0-e601701918177a0379ca013a3c7f883a
+https://live.hztx2020.com/live/14725409_6a509b2125e7e82270fd2e0dc441843c_autoChange.m3u8?auth_key=1795749111-0-0-6937e267e0ac15d02707a8b7be03b94a
