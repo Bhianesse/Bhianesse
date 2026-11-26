@@ -11,11 +11,11 @@ https://live4.hztx2020.com/live/2437017_f4641ac00cd010e11e931db2bed80a0a_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live5.hztx2020.com/live/14727999_45ea60fa269b298701baa76ab7077021_autoChange.m3u8?auth_key=1795670985-0-0-ffb13d7588a3d11ff748767847faacc5
-#EXTINF:-1 tvg-id="" tvg-name="LIVE CD Platense Municipal Zacatecoluca vs CD FAS" tvg-logo="https://media2.16m50.tv/media/club/7356.webp" group-title="truct-tiep live",LIVE CD Platense Municipal Zacatecoluca vs CD FAS [1']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE CD Platense Municipal Zacatecoluca vs CD FAS" tvg-logo="https://media2.16m50.tv/media/club/7356.webp" group-title="truct-tiep live",LIVE CD Platense Municipal Zacatecoluca vs CD FAS [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live3.hztx2020.com/live/14727925_2989814fc8656e633d7528cb978b1c22_autoChange.m3u8?auth_key=1795670985-0-0-51e86f06f1dd91ec041b5f3f1cb17d60
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Toluca vs Atlas" tvg-logo="https://media2.16m50.tv/media/club/7368.webp" group-title="truct-tiep live",LIVE Toluca vs Atlas [1']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Toluca vs Atlas" tvg-logo="https://media2.16m50.tv/media/club/7368.webp" group-title="truct-tiep live",LIVE Toluca vs Atlas [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14727188_f48484ce7e76b50d92185d5ddced05a3_autoChange.m3u8?auth_key=1795670985-0-0-4eb09098bac1218cc202d28ef3c66255
