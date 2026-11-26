@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Al-Arabi SC (Kuwait) vs Khaitan" tvg-logo="https://media2.16m50.tv/media/club/22553.webp" group-title="truct-tiep live",LIVE Al-Arabi SC (Kuwait) vs Khaitan [63']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14621680_3ec4b17d23b220d46ff78cea7191f07d_autoChange.m3u8?auth_key=1795732191-0-0-d70a528dd43f3ffe80bd8696bf102793
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Al Faisaly vs Diraiyah" tvg-logo="https://media2.16m50.tv/media/club/1620.webp" group-title="truct-tiep live",LIVE Al Faisaly vs Diraiyah [67']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14674364_277b35b58750de333e3f83902128eaf6_autoChange.m3u8?auth_key=1795732191-0-0-27253af32e9a87b9067a10bdd8121313
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Red Bull Salzburg vs Ararat-Armenia FC" tvg-logo="https://media2.16m50.tv/media/club/111.webp" group-title="truct-tiep live",LIVE Red Bull Salzburg vs Ararat-Armenia FC [62']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -34,7 +42,7 @@ https://live3.hztx2020.com/live/14391841_17497eb25931b7ab688cad9d5ab5f070_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Besiktas JK vs Hapoel Beer Sheva" tvg-logo="https://media2.16m50.tv/media/club/161.webp" group-title="truct-tiep live",LIVE Besiktas JK vs Hapoel Beer Sheva [34']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/14391934_b0ab62bb2a6d6e7785ec2f22f750bc16_autoChange.m3u8?auth_key=1795734050-0-0-0604f1e4072388da8be3ade2a6ddefa3
+https://live3.hztx2020.com/live/14391934_b0ab62bb2a6d6e7785ec2f22f750bc16_autoChange.m3u8?auth_key=1795734467-0-0-a8cb235a20b535285a472de8194ca0a4
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Dinamo Zagreb vs Bayer 04 Leverkusen" tvg-logo="https://media2.16m50.tv/media/club/131.webp" group-title="truct-tiep live",LIVE Dinamo Zagreb vs Bayer 04 Leverkusen [64']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -59,7 +67,7 @@ https://live2.hztx2020.com/live/14391840_14a6a93ed6cb981f5fbfd3ec0274c48a_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14391835_be484df2c3fd09d1b07cab969abfa1d8_autoChange.m3u8?auth_key=1795732191-0-0-8063ce95e449aa8416db15e49c78c48f
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Aalborg vs Esbjerg" tvg-logo="https://media2.16m50.tv/media/club/1390.webp" group-title="truct-tiep live",LIVE Aalborg vs Esbjerg [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Aalborg vs Esbjerg" tvg-logo="https://media2.16m50.tv/media/club/1390.webp" group-title="truct-tiep live",LIVE Aalborg vs Esbjerg [64']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/13995281_39ed3671d53f07e07522f01d92fc1c7d_autoChange.m3u8?auth_key=1795732193-0-0-5d6d8a7bb48a7ab6a62659a6a2e5e70d
