@@ -1,16 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Liban vs Nhật Bản" tvg-logo="https://media2.16m50.tv/media/club/22162.webp" group-title="truct-tiep live",LIVE Liban vs Nhật Bản [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14158930_9327eee1471cadcdfef51cec2b3cb5ec_autoChange.m3u8?auth_key=1795740277-0-0-b1d3fb8fb8d31497609f047b8cc32abf
 #EXTINF:-1 tvg-id="" tvg-name="LIVE TSG Hoffenheim vs Sturm Graz" tvg-logo="https://media2.16m50.tv/media/club/3835.webp" group-title="truct-tiep live",LIVE TSG Hoffenheim vs Sturm Graz [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live3.hztx2020.com/live/14391954_d563b9335c2c9377ac277a4fc946c143_autoChange.m3u8?auth_key=1795742973-0-0-dc8c7de92f9e237b8102a1cb0281bf72
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Crystal Palace vs Real Sociedad" tvg-logo="https://media2.16m50.tv/media/club/920.webp" group-title="truct-tiep live",LIVE Crystal Palace vs Real Sociedad [62']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live2.hztx2020.com/live/14391946_3570044e311da890669d7eb9febb23ce_autoChange.m3u8?auth_key=1795742973-0-0-6c838fd16bac43ad456956ec275fda03
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Juventus vs Omonia Nicosia FC" tvg-logo="https://media2.16m50.tv/media/club/5055.webp" group-title="truct-tiep live",LIVE Juventus vs Omonia Nicosia FC [64']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14391948_3499d047f41a379cb3574aefe9c792ca_autoChange.m3u8?auth_key=1795742973-0-0-5c77fd41d163284121ae5bf06a4c0615
+#EXTINF:-1 tvg-id="" tvg-name="LIVE NEC Nijmegen vs Stade Rennais FC" tvg-logo="https://media2.16m50.tv/media/club/7208.webp" group-title="truct-tiep live",LIVE NEC Nijmegen vs Stade Rennais FC [63']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14391949_5562e6d197ea778d134ded4a78fac1cf_autoChange.m3u8?auth_key=1795742973-0-0-9da47c5a14468b64350a09ce61745cbf
 #EXTINF:-1 tvg-id="" tvg-name="LIVE AC Sparta Praha vs AZ Alkmaar" tvg-logo="https://media2.16m50.tv/media/club/19376.webp" group-title="truct-tiep live",LIVE AC Sparta Praha vs AZ Alkmaar [62']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -67,3 +71,7 @@ https://live1.hztx2020.com/live/14391952_8f8e87374f6bc02ad5766083be4b98d3_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14391947_ae86f7086269d81a8bf4eeb40f95a548_autoChange.m3u8?auth_key=1795742973-0-0-3542c0812eb54dc8e7e56c404f7d24ae
+#EXTINF:-1 tvg-id="" tvg-name="Jalapa vs San Marcos FC" tvg-logo="https://media2.16m50.tv/media/club/968.webp" group-title="truct-tiep live",Jalapa vs San Marcos FC [05:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/77028612_3aa39e9358bd8b42a34225148c09be85_autoChange.m3u8?auth_key=1795744307-0-0-70c1394af47242d09c510afcbb71f9d8
