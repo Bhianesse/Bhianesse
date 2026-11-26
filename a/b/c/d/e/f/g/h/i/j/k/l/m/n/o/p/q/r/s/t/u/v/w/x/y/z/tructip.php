@@ -26,8 +26,12 @@ https://live.hztx2020.com/live/g6763i5gx2wto7r_a2f8f541a5ab8dda54a70750f399a302_
 #EXTINF:-1 tvg-id="" tvg-name="Preah Khan Reach Svay Rieng FC vs Machida Zelvia" tvg-logo="https://media2.16m50.tv/media/club/728.webp" group-title="truct-tiep live",Preah Khan Reach Svay Rieng FC vs Machida Zelvia [19:15 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14346283_7078f6b40bfea363da45f6e551cb0e9d_autoChange.m3u8?auth_key=1795709148-0-0-cf8e0f7bf65954afe95bc44d7c78133a
+https://live2.hztx2020.com/live/14346283_7078f6b40bfea363da45f6e551cb0e9d_autoChange.m3u8?auth_key=1795709260-0-0-138a9aeb11d704d9f966f0decfd575d7
+#EXTINF:-1 tvg-id="" tvg-name="Tai Po vs Adelaide United" tvg-logo="https://media2.16m50.tv/media/club/2516.webp" group-title="truct-tiep live",Tai Po vs Adelaide United [19:15 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/14346284_9618a8175b37027aeb466523a496463c_autoChange.m3u8?auth_key=1795709260-0-0-b6756eb02f9abbfea7e260fa744fd396
 #EXTINF:-1 tvg-id="" tvg-name="BG Pathum United vs Lion City Sailors" tvg-logo="https://media2.16m50.tv/media/club/5947.webp" group-title="truct-tiep live",BG Pathum United vs Lion City Sailors [19:15 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14346282_3339c8023f61ac625bff9567f645a507_autoChange.m3u8?auth_key=1795709148-0-0-2710ecd6ae6ba1e01bfd8898424ddc07
+https://live.hztx2020.com/live/14346282_3339c8023f61ac625bff9567f645a507_autoChange.m3u8?auth_key=1795709260-0-0-d4c50dc46150ce7323cfa6c8bb9fb1f9
