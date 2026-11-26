@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Qatar vs Hàn Quốc" tvg-logo="https://media2.16m50.tv/media/club/11149.webp" group-title="truct-tiep live",LIVE Qatar vs Hàn Quốc [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/o07dzsm9r6jsmkn_a1c02d9ede09137112352495b8f13ff4_autoChange.m3u8?auth_key=1795729540-0-0-8572894c886f4edea8c98e760c4a9262
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Croatia U17 vs Cuba U17" tvg-logo="https://media2.16m50.tv/media/club/11059.webp" group-title="truct-tiep live",LIVE Croatia U17 vs Cuba U17 [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -11,7 +15,7 @@ https://live.hztx2020.com/live/72578440_9d5d1feab5ac476f352409f2c53fc414_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/71762470_60179416f8ad44eba4be8362f96c6275_autoChange.m3u8?auth_key=1795728584-0-0-5846ca1e3869dc355f2d37b1c3373279
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Dynamo Moscow vs Fakel Voronezh" tvg-logo="https://media2.16m50.tv/media/club/1199.webp" group-title="truct-tiep live",LIVE Dynamo Moscow vs Fakel Voronezh [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Dynamo Moscow vs Fakel Voronezh" tvg-logo="https://media2.16m50.tv/media/club/1199.webp" group-title="truct-tiep live",LIVE Dynamo Moscow vs Fakel Voronezh [68']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/2436623_4e972182980787cc7f64599f5c9253dc_autoChange.m3u8?auth_key=1795728584-0-0-6fbc9762dfee059e56b902bbe5b6d4dd
@@ -23,55 +27,43 @@ https://live.hztx2020.com/live/14621680_3ec4b17d23b220d46ff78cea7191f07d_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14674364_277b35b58750de333e3f83902128eaf6_autoChange.m3u8?auth_key=1795728583-0-0-a23b3f38bd0a81a4a2a806ccb1f5281a
-#EXTINF:-1 tvg-id="" tvg-name="FC Viktoria Plzeň vs Benfica" tvg-logo="https://media2.16m50.tv/media/club/802.webp" group-title="truct-tiep live",FC Viktoria Plzeň vs Benfica [00:45 WIB]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Viktoria Plzeň vs Benfica" tvg-logo="https://media2.16m50.tv/media/club/802.webp" group-title="truct-tiep live",LIVE FC Viktoria Plzeň vs Benfica [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14391936_b036241765f95be03f613de4fea3f800_autoChange.m3u8?auth_key=1795729424-0-0-ed6e919f01206091585c43619e0bbd58
-#EXTINF:-1 tvg-id="" tvg-name="Olympiacos Piraeus vs AC Milan" tvg-logo="https://media2.16m50.tv/media/club/7207.webp" group-title="truct-tiep live",Olympiacos Piraeus vs AC Milan [00:45 WIB]
+https://live.hztx2020.com/live/14391936_b036241765f95be03f613de4fea3f800_autoChange.m3u8?auth_key=1795729550-0-0-fa9e5a2436cfe56eb29a1ff69fc68d44
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Olympiacos Piraeus vs AC Milan" tvg-logo="https://media2.16m50.tv/media/club/7207.webp" group-title="truct-tiep live",LIVE Olympiacos Piraeus vs AC Milan [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live5.hztx2020.com/live/14391938_3f1c1b8bfc634fdd987bc271f4d69f99_autoChange.m3u8?auth_key=1795729424-0-0-b63da8e0af3c73885e55ce2bcdb13627
-#EXTINF:-1 tvg-id="" tvg-name="Pafos FC vs Midtjylland" tvg-logo="https://media2.16m50.tv/media/club/4479.webp" group-title="truct-tiep live",Pafos FC vs Midtjylland [00:45 WIB]
+https://live5.hztx2020.com/live/14391938_3f1c1b8bfc634fdd987bc271f4d69f99_autoChange.m3u8?auth_key=1795729550-0-0-418abcd3c80e7e5537eef7eecaca3e24
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Pafos FC vs Midtjylland" tvg-logo="https://media2.16m50.tv/media/club/4479.webp" group-title="truct-tiep live",LIVE Pafos FC vs Midtjylland [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live5.hztx2020.com/live/14391842_627e3e92636c9c734bc75af4684a5eb6_autoChange.m3u8?auth_key=1795729420-0-0-a957d2cd53ab6a4c33c87e67207850d6
-#EXTINF:-1 tvg-id="" tvg-name="Brighton Hove Albion vs CS Universitatea Craiova" tvg-logo="https://media2.16m50.tv/media/club/389.webp" group-title="truct-tiep live",Brighton Hove Albion vs CS Universitatea Craiova [00:45 WIB]
+https://live5.hztx2020.com/live/14391842_627e3e92636c9c734bc75af4684a5eb6_autoChange.m3u8?auth_key=1795729551-0-0-47d80f42828ff01eebe799f724c9614c
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Brighton Hove Albion vs CS Universitatea Craiova" tvg-logo="https://media2.16m50.tv/media/club/389.webp" group-title="truct-tiep live",LIVE Brighton Hove Albion vs CS Universitatea Craiova [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live4.hztx2020.com/live/14391836_2d646e32d1f8d15a95e8edfec626b1dc_autoChange.m3u8?auth_key=1795729421-0-0-9b0c488316f87e5720b3656a5fea5408
-#EXTINF:-1 tvg-id="" tvg-name="FK Jablonec vs Lugano" tvg-logo="https://media2.16m50.tv/media/club/19363.webp" group-title="truct-tiep live",FK Jablonec vs Lugano [00:45 WIB]
+https://live4.hztx2020.com/live/14391836_2d646e32d1f8d15a95e8edfec626b1dc_autoChange.m3u8?auth_key=1795729551-0-0-67b9d59fc83e3b5fd296f7ded69a8e53
+#EXTINF:-1 tvg-id="" tvg-name="LIVE FK Jablonec vs Lugano" tvg-logo="https://media2.16m50.tv/media/club/19363.webp" group-title="truct-tiep live",LIVE FK Jablonec vs Lugano [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live4.hztx2020.com/live/14391838_bf69941355674bbaa571d7c229c8eada_autoChange.m3u8?auth_key=1795729424-0-0-facec5b66c34130feacc404074eeab41
-#EXTINF:-1 tvg-id="" tvg-name="RC Celta vs Bournemouth AFC" tvg-logo="https://media2.16m50.tv/media/club/1734.webp" group-title="truct-tiep live",RC Celta vs Bournemouth AFC [00:45 WIB]
+https://live4.hztx2020.com/live/14391838_bf69941355674bbaa571d7c229c8eada_autoChange.m3u8?auth_key=1795729551-0-0-2222e920a7d531f24626abe9f0ce3c91
+#EXTINF:-1 tvg-id="" tvg-name="LIVE RC Celta vs Bournemouth AFC" tvg-logo="https://media2.16m50.tv/media/club/1734.webp" group-title="truct-tiep live",LIVE RC Celta vs Bournemouth AFC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live4.hztx2020.com/live/14391941_dc76a6b8425f9c01beb121046a0aa04c_autoChange.m3u8?auth_key=1795729424-0-0-6c5f627f26b2be0a61e99abbc374e5c8
-#EXTINF:-1 tvg-id="" tvg-name="Besiktas JK vs Hapoel Beer Sheva" tvg-logo="https://media2.16m50.tv/media/club/161.webp" group-title="truct-tiep live",Besiktas JK vs Hapoel Beer Sheva [00:45 WIB]
+https://live4.hztx2020.com/live/14391941_dc76a6b8425f9c01beb121046a0aa04c_autoChange.m3u8?auth_key=1795729550-0-0-b52a32155c6027a8fbc3c11dafb32933
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Egnatia vs Lincoln Red Imps FC" tvg-logo="https://media2.16m50.tv/media/club/285.webp" group-title="truct-tiep live",LIVE Egnatia vs Lincoln Red Imps FC [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/14391934_b0ab62bb2a6d6e7785ec2f22f750bc16_autoChange.m3u8?auth_key=1795729424-0-0-059f01eb7fac3d3dfb986b83ccbf491e
-#EXTINF:-1 tvg-id="" tvg-name="Dinamo Zagreb vs Bayer 04 Leverkusen" tvg-logo="https://media2.16m50.tv/media/club/131.webp" group-title="truct-tiep live",Dinamo Zagreb vs Bayer 04 Leverkusen [00:45 WIB]
+https://live3.hztx2020.com/live/14391841_17497eb25931b7ab688cad9d5ab5f070_autoChange.m3u8?auth_key=1795729551-0-0-de97b7aa56085c03b84c32bf6f6cd8e6
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Besiktas JK vs Hapoel Beer Sheva" tvg-logo="https://media2.16m50.tv/media/club/161.webp" group-title="truct-tiep live",LIVE Besiktas JK vs Hapoel Beer Sheva [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14391937_19faa2697e0e7b295a6d0445df5214ba_autoChange.m3u8?auth_key=1795729424-0-0-6873439cd01425c239988476e75ba98d
-#EXTINF:-1 tvg-id="" tvg-name="Marseille vs Levski Sofia" tvg-logo="https://media2.16m50.tv/media/club/489.webp" group-title="truct-tiep live",Marseille vs Levski Sofia [00:45 WIB]
+https://live3.hztx2020.com/live/14391934_b0ab62bb2a6d6e7785ec2f22f750bc16_autoChange.m3u8?auth_key=1795729550-0-0-bc36b2059977288e6683412a92bfa1df
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Marseille vs Levski Sofia" tvg-logo="https://media2.16m50.tv/media/club/489.webp" group-title="truct-tiep live",LIVE Marseille vs Levski Sofia [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14391939_c5a06ece3377e21857165da74a2d008a_autoChange.m3u8?auth_key=1795729424-0-0-d891a31deb68794fdc609cf126fbe4b3
-#EXTINF:-1 tvg-id="" tvg-name="Brann vs Aarhus AGF" tvg-logo="https://media2.16m50.tv/media/club/6239.webp" group-title="truct-tiep live",Brann vs Aarhus AGF [00:45 WIB]
+https://live1.hztx2020.com/live/14391939_c5a06ece3377e21857165da74a2d008a_autoChange.m3u8?auth_key=1795729550-0-0-bb78c27b091fce68cf22874e2f63911e
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Brann vs Aarhus AGF" tvg-logo="https://media2.16m50.tv/media/club/6239.webp" group-title="truct-tiep live",LIVE Brann vs Aarhus AGF [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14391843_01a3e057886f1df4db3bd33fe6bf75af_autoChange.m3u8?auth_key=1795729424-0-0-6590f5da6c7b47da938093f13c518002
-#EXTINF:-1 tvg-id="" tvg-name="Union Saint-Gilloise vs Lech Poznan" tvg-logo="https://media2.16m50.tv/media/club/5049.webp" group-title="truct-tiep live",Union Saint-Gilloise vs Lech Poznan [00:45 WIB]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14391940_08c6f38d1f8182674ae394cadfb79088_autoChange.m3u8?auth_key=1795729423-0-0-518dfdb905a9cc6b2d8729a3fed06594
-#EXTINF:-1 tvg-id="" tvg-name="Heart of Midlothian F.C. vs AS Monaco" tvg-logo="https://media2.16m50.tv/media/club/21900.webp" group-title="truct-tiep live",Heart of Midlothian F.C. vs AS Monaco [00:45 WIB]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14391840_14a6a93ed6cb981f5fbfd3ec0274c48a_autoChange.m3u8?auth_key=1795729420-0-0-c3159a0e504ec62c835c4f8d55979874
-#EXTINF:-1 tvg-id="" tvg-name="AFC Ajax vs Thun" tvg-logo="https://media2.16m50.tv/media/club/4387.webp" group-title="truct-tiep live",AFC Ajax vs Thun [00:45 WIB]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14391835_be484df2c3fd09d1b07cab969abfa1d8_autoChange.m3u8?auth_key=1795729420-0-0-24787180e85caf73ca30a359e13f505b
+https://live2.hztx2020.com/live/14391843_01a3e057886f1df4db3bd33fe6bf75af_autoChange.m3u8?auth_key=1795729550-0-0-50d191017787bb1e3100f860d746cacd
