@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="LIVE TSG Hoffenheim vs Sturm Graz" tvg-logo="https://media2.16m50.tv/media/club/3835.webp" group-title="truct-tiep live",LIVE TSG Hoffenheim vs Sturm Graz [65']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live3.hztx2020.com/live/14391954_d563b9335c2c9377ac277a4fc946c143_autoChange.m3u8?auth_key=1795742973-0-0-dc8c7de92f9e237b8102a1cb0281bf72
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Sporting Braga vs KuPs" tvg-logo="https://media2.16m50.tv/media/club/4820.webp" group-title="truct-tiep live",LIVE Sporting Braga vs KuPs [60']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -39,10 +43,6 @@ https://live4.hztx2020.com/live/14391849_097ffd8bf7c64e25abd6892dffc47df8_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14391950_1c2a189cfe6daa9e6491dea7f6dd4948_autoChange.m3u8?auth_key=1795742973-0-0-413f667d0b1af3fc1dc65c6f4d47cf20
-#EXTINF:-1 tvg-id="" tvg-name="LIVE KAA Gent vs Crvena Zvezda" tvg-logo="https://media2.16m50.tv/media/club/6799.webp" group-title="truct-tiep live",LIVE KAA Gent vs Crvena Zvezda [64']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/14391848_677a102c73115426546e628e2e0dad58_autoChange.m3u8?auth_key=1795742974-0-0-50cbf1793507c05e9739a65e9752adfb
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Borac Banja Luka vs Atalanta" tvg-logo="https://media2.16m50.tv/media/club/4755.webp" group-title="truct-tiep live",LIVE Borac Banja Luka vs Atalanta [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -55,6 +55,10 @@ https://live1.hztx2020.com/live/14391851_640563b32781ddfffcd980fe39e65bc0_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14391844_12867329d0f1cded82cd9f04bc383c86_autoChange.m3u8?auth_key=1795742974-0-0-e41ffc166e7fcc4f0a566fcec481b9ce
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Doncaster Rovers vs Huddersfield Town" tvg-logo="https://media2.16m50.tv/media/club/4171.webp" group-title="truct-tiep live",LIVE Doncaster Rovers vs Huddersfield Town [64']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live4.hztx2020.com/live/14068517_e3f7aabf95e5df8a026cb0854a409c63_autoChange.m3u8?auth_key=1795742973-0-0-0e42d031ea5dddd9a89a6b789097a5fc
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Hajduk Split vs Sint-Truidense" tvg-logo="https://media2.16m50.tv/media/club/350.webp" group-title="truct-tiep live",LIVE Hajduk Split vs Sint-Truidense [67']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
