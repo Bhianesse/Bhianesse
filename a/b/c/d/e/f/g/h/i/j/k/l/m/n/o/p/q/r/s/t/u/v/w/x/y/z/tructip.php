@@ -46,16 +46,16 @@ https://live.hztx2020.com/live/14408934_26142453d1fab38cc0c5b408868c442c_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Kuching City FC vs Phnom Penh Crown FC" tvg-logo="https://media2.16m50.tv/media/club/3445.webp" group-title="truct-tiep live",LIVE Kuching City FC vs Phnom Penh Crown FC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/14346280_66860ca52c0dce1bd92f705f2ec49ab2_autoChange.m3u8?auth_key=1795702303-0-0-f3af1409afcad55a639c11bf949fbff6
+https://live3.hztx2020.com/live/14346280_66860ca52c0dce1bd92f705f2ec49ab2_autoChange.m3u8?auth_key=1795702546-0-0-fff0d768d1e138971a9e975c6593e5fd
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Shurtan Guzor vs Olympic MobiUz" tvg-logo="https://media2.16m50.tv/media/club/13330.webp" group-title="truct-tiep live",LIVE Shurtan Guzor vs Olympic MobiUz [2']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/77178198_dec3b725bf452a83d978b89edde1dcd9_autoChange.m3u8?auth_key=1795702305-0-0-a0e58eedfc1335271e81937f507e08b2
+https://live.hztx2020.com/live/77178198_dec3b725bf452a83d978b89edde1dcd9_autoChange.m3u8?auth_key=1795702548-0-0-927047ab707c6d69aba084fa4964dbd7
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Tampines Rovers FC vs Shanghai Shenhua" tvg-logo="https://media2.16m50.tv/media/club/740.webp" group-title="truct-tiep live",LIVE Tampines Rovers FC vs Shanghai Shenhua [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14346281_31ae223ac0dd6e771fd7313443379fd0_autoChange.m3u8?auth_key=1795702303-0-0-9a09c51e693b40b07342ed8eaa2a48f0
+https://live2.hztx2020.com/live/14346281_31ae223ac0dd6e771fd7313443379fd0_autoChange.m3u8?auth_key=1795702546-0-0-d0ab54c1ba9c45e5cfde774b45072d82
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Gangwon FC vs Kitchee" tvg-logo="https://media2.16m50.tv/media/club/21888.webp" group-title="truct-tiep live",LIVE Gangwon FC vs Kitchee [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14346279_3f5bbf75555f721bab935b8f0a7cc641_autoChange.m3u8?auth_key=1795702305-0-0-3210d39215e2425dc30cafd0cf297a3e
+https://live1.hztx2020.com/live/14346279_3f5bbf75555f721bab935b8f0a7cc641_autoChange.m3u8?auth_key=1795702548-0-0-410fb7806c9a11027afe4be4f8703cbe
