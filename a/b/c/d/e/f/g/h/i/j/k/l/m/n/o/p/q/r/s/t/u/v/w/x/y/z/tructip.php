@@ -23,19 +23,15 @@ https://live.hztx2020.com/live/14326414_3b7eef49e8c62755f2a99c62caaa8d78_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/g6763i5gx2wto7r_a2f8f541a5ab8dda54a70750f399a302_autoChange.m3u8?auth_key=1795706718-0-0-b956f7d5f49501ff879fe8b6590de13f
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Mông Cổ vs Indonesia" tvg-logo="https://media2.16m50.tv/media/club/21977.webp" group-title="truct-tiep live",LIVE Mông Cổ vs Indonesia [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14416858_ac49300bfeceaa00057e3f10631b333d_autoChange.m3u8?auth_key=1795705081-0-0-b05e7bc273724d62b4300cd765ef479b
 #EXTINF:-1 tvg-id="" tvg-name="Preah Khan Reach Svay Rieng FC vs Machida Zelvia" tvg-logo="https://media2.16m50.tv/media/club/728.webp" group-title="truct-tiep live",Preah Khan Reach Svay Rieng FC vs Machida Zelvia [19:15 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14346283_7078f6b40bfea363da45f6e551cb0e9d_autoChange.m3u8?auth_key=1795709338-0-0-4e97d363c33eeef0d1f3c029c1b7e752
+https://live2.hztx2020.com/live/14346283_7078f6b40bfea363da45f6e551cb0e9d_autoChange.m3u8?auth_key=1795709684-0-0-90c339fa7557ebcce637a7264680b82d
 #EXTINF:-1 tvg-id="" tvg-name="Tai Po vs Adelaide United" tvg-logo="https://media2.16m50.tv/media/club/2516.webp" group-title="truct-tiep live",Tai Po vs Adelaide United [19:15 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14346284_9618a8175b37027aeb466523a496463c_autoChange.m3u8?auth_key=1795709338-0-0-627aabc76ca47fb3277cd6462a3b6d77
+https://live1.hztx2020.com/live/14346284_9618a8175b37027aeb466523a496463c_autoChange.m3u8?auth_key=1795709684-0-0-f486d6a0d9b8a5b5a1048c397f80c6f3
 #EXTINF:-1 tvg-id="" tvg-name="BG Pathum United vs Lion City Sailors" tvg-logo="https://media2.16m50.tv/media/club/5947.webp" group-title="truct-tiep live",BG Pathum United vs Lion City Sailors [19:15 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14346282_3339c8023f61ac625bff9567f645a507_autoChange.m3u8?auth_key=1795709338-0-0-739ff4df7e84258b1caf3407292f1669
+https://live.hztx2020.com/live/14346282_3339c8023f61ac625bff9567f645a507_autoChange.m3u8?auth_key=1795709684-0-0-115ddeb3f3440cb3643b85b32b1907a0
