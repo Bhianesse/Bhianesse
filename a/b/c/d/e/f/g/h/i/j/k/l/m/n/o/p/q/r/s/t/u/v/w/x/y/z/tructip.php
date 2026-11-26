@@ -35,6 +35,10 @@ https://live3.hztx2020.com/live/14391953_facf736695ff0ed4365ca8b194eec8bb_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live5.hztx2020.com/live/14391847_f270f61b595cebcec70147636177e514_autoChange.m3u8?auth_key=1795739394-0-0-df89f37a6a447d120ae2a9bb29f03534
+#EXTINF:-1 tvg-id="" tvg-name="LIVE CSKA Sofia vs Trabzonspor" tvg-logo="https://media2.16m50.tv/media/club/107.webp" group-title="truct-tiep live",LIVE CSKA Sofia vs Trabzonspor [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live4.hztx2020.com/live/14391849_097ffd8bf7c64e25abd6892dffc47df8_autoChange.m3u8?auth_key=1795739393-0-0-91497ba3edc618045475017d7fcdee25
 #EXTINF:-1 tvg-id="" tvg-name="LIVE OFI Crete FC vs Anderlecht" tvg-logo="https://media2.16m50.tv/media/club/21949.webp" group-title="truct-tiep live",LIVE OFI Crete FC vs Anderlecht [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -67,3 +71,7 @@ https://live5.hztx2020.com/live/14391846_33abab54bd97bab68ae6c2d3aabebd21_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14391952_8f8e87374f6bc02ad5766083be4b98d3_autoChange.m3u8?auth_key=1795739393-0-0-d3be666e4259ecffeb692f6268be7933
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Ferencvarosi TC vs NK Publikum Celje" tvg-logo="https://media2.16m50.tv/media/club/328.webp" group-title="truct-tiep live",LIVE Ferencvarosi TC vs NK Publikum Celje [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14391947_ae86f7086269d81a8bf4eeb40f95a548_autoChange.m3u8?auth_key=1795739393-0-0-042484994e2c0b9c2a8671116d12549e
