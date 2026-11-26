@@ -23,6 +23,10 @@ https://live.hztx2020.com/live/14326409_44a8d06def2e63cb335e087c98df317e_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14527953_33d08dd1b51ff3e042c7823193fc29ac_autoChange.m3u8?auth_key=1795721122-0-0-5f16c19a4f8afcd2a725fc237bc08553
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Abha vs Al Shabab" tvg-logo="https://media2.16m50.tv/media/club/7173.webp" group-title="truct-tiep live",LIVE Abha vs Al Shabab [64']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14674363_9111779a2730b3691a91bd4aee309acf_autoChange.m3u8?auth_key=1795721120-0-0-b751960c47b9850fd6cd319a070be9fe
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FC Kairat Almaty vs Mjallby AIF" tvg-logo="https://media2.16m50.tv/media/club/2617.webp" group-title="truct-tiep live",LIVE FC Kairat Almaty vs Mjallby AIF [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -30,12 +34,12 @@ https://live2.hztx2020.com/live/14391834_d5530c0f1f58fcca64adb32b200a4bcd_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Croatia U17 vs Cuba U17" tvg-logo="https://media2.16m50.tv/media/club/11059.webp" group-title="truct-tiep live",LIVE Croatia U17 vs Cuba U17 [-1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/71762468_2423071a574489d208aecfdd867b3cfa_autoChange.m3u8?auth_key=1795724296-0-0-75eb5625ccfe5f8e3a4e02a04cdf5a4b
+https://live2.hztx2020.com/live/71762468_2423071a574489d208aecfdd867b3cfa_autoChange.m3u8?auth_key=1795724633-0-0-087c26645e48cc762ff383228333fb72
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FC Pari Nizhniy Novgorod vs Tekstilshchik Ivanovo" tvg-logo="https://media2.16m50.tv/media/club/4535.webp" group-title="truct-tiep live",LIVE FC Pari Nizhniy Novgorod vs Tekstilshchik Ivanovo [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/72578440_9d5d1feab5ac476f352409f2c53fc414_autoChange.m3u8?auth_key=1795724296-0-0-228c83b0576b41ccf42303560a7b517d
+https://live.hztx2020.com/live/72578440_9d5d1feab5ac476f352409f2c53fc414_autoChange.m3u8?auth_key=1795724633-0-0-1e61ced90db77c2e5a5a0343f2d8d2b3
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Tajikistan U17 vs Senegal U17" tvg-logo="https://media2.16m50.tv/media/club/10318.webp" group-title="truct-tiep live",LIVE Tajikistan U17 vs Senegal U17 [-1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/71762470_60179416f8ad44eba4be8362f96c6275_autoChange.m3u8?auth_key=1795724296-0-0-f208816a3ac2e8652f06da19b9b596bf
+https://live1.hztx2020.com/live/71762470_60179416f8ad44eba4be8362f96c6275_autoChange.m3u8?auth_key=1795724633-0-0-612eba8e263883aec5291020d8851a0c
