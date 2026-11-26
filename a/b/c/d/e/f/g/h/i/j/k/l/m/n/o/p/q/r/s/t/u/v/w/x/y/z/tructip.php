@@ -55,6 +55,10 @@ https://live2.hztx2020.com/live/14391843_01a3e057886f1df4db3bd33fe6bf75af_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14391940_08c6f38d1f8182674ae394cadfb79088_autoChange.m3u8?auth_key=1795735779-0-0-bbebd52f4db7522d32d5cc4edfd9c5ef
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Heart of Midlothian F.C. vs AS Monaco" tvg-logo="https://media2.16m50.tv/media/club/21900.webp" group-title="truct-tiep live",LIVE Heart of Midlothian F.C. vs AS Monaco [68']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live2.hztx2020.com/live/14391840_14a6a93ed6cb981f5fbfd3ec0274c48a_autoChange.m3u8?auth_key=1795735779-0-0-429ec87e9ac3d0376cd7ecb70bb6042c
 #EXTINF:-1 tvg-id="" tvg-name="LIVE AFC Ajax vs Thun" tvg-logo="https://media2.16m50.tv/media/club/4387.webp" group-title="truct-tiep live",LIVE AFC Ajax vs Thun [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
