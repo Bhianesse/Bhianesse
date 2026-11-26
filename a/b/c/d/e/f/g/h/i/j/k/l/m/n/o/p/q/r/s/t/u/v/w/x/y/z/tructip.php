@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Ural Yekaterinburg vs Arsenal Tula" tvg-logo="https://media2.16m50.tv/media/club/7417.webp" group-title="truct-tiep live",LIVE Ural Yekaterinburg vs Arsenal Tula [66']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Ural Yekaterinburg vs Arsenal Tula" tvg-logo="https://media2.16m50.tv/media/club/7417.webp" group-title="truct-tiep live",LIVE Ural Yekaterinburg vs Arsenal Tula [67']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/2423355_137fdc7d1dd23e4f49889333ac37aadd_autoChange.m3u8?auth_key=1795721121-0-0-134ecf81d21722fb9940a917143907ea
