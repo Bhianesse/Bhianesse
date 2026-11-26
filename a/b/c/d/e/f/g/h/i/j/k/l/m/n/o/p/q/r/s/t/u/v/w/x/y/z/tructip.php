@@ -11,7 +11,7 @@ https://live3.hztx2020.com/live/71762456_f5be1fae4f5dca8c4d0a25cfe328bc49_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/2438257_758088a1dcd40102d4ed7d7e79396d4e_autoChange.m3u8?auth_key=1795721121-0-0-39462364d436bf2294649d43eb69996d
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Uzbekistan U17 vs Italy U17" tvg-logo="https://media2.16m50.tv/media/club/10164.webp" group-title="truct-tiep live",LIVE Uzbekistan U17 vs Italy U17 [66']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Uzbekistan U17 vs Italy U17" tvg-logo="https://media2.16m50.tv/media/club/10164.webp" group-title="truct-tiep live",LIVE Uzbekistan U17 vs Italy U17 [64']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/71762458_6c627ab134f95e1dffb0ff9cef903700_autoChange.m3u8?auth_key=1795721121-0-0-653f91050a0525fbfd05bdbfe755cfe2
@@ -19,19 +19,19 @@ https://live2.hztx2020.com/live/71762458_6c627ab134f95e1dffb0ff9cef903700_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14674362_f0d56816a4fbb0af6955f72c3703b1e4_autoChange.m3u8?auth_key=1795721122-0-0-7bca26adfe467dc2ba71f4273861b04d
-#EXTINF:-1 tvg-id="" tvg-name="LIVE A.C.F. Gloria Bistrita vs CSM Slatina" tvg-logo="https://media2.16m50.tv/media/club/52.webp" group-title="truct-tiep live",LIVE A.C.F. Gloria Bistrita vs CSM Slatina [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE A.C.F. Gloria Bistrita vs CSM Slatina" tvg-logo="https://media2.16m50.tv/media/club/52.webp" group-title="truct-tiep live",LIVE A.C.F. Gloria Bistrita vs CSM Slatina [60']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14205984_2568d91f878dd9d6b1cd462a6109f46d_autoChange.m3u8?auth_key=1795721122-0-0-e7499e46c21db6f4ec67454bafa1add7
-#EXTINF:-1 tvg-id="" tvg-name="LIVE China U17 vs Fiji U17" tvg-logo="https://media2.16m50.tv/media/club/10317.webp" group-title="truct-tiep live",LIVE China U17 vs Fiji U17 [-1']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE China U17 vs Fiji U17" tvg-logo="https://media2.16m50.tv/media/club/10317.webp" group-title="truct-tiep live",LIVE China U17 vs Fiji U17 [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/71762528_888f1ee24b5476ca67677e455e9934a6_autoChange.m3u8?auth_key=1795721119-0-0-5791dde6e3a94f95455d0c227ec2be64
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Morocco U17 vs Spain U17" tvg-logo="https://media2.16m50.tv/media/club/10163.webp" group-title="truct-tiep live",LIVE Morocco U17 vs Spain U17 [-1']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Morocco U17 vs Spain U17" tvg-logo="https://media2.16m50.tv/media/club/10163.webp" group-title="truct-tiep live",LIVE Morocco U17 vs Spain U17 [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/71762530_af935caeddcdb2d658a6308ce6ce2cdb_autoChange.m3u8?auth_key=1795721122-0-0-99be2602babd7099e5aea17b864166a0
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Cebrayil vs FK MOIK Baku" tvg-logo="https://media2.16m50.tv/media/club/1087.webp" group-title="truct-tiep live",LIVE Cebrayil vs FK MOIK Baku [2']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Cebrayil vs FK MOIK Baku" tvg-logo="https://media2.16m50.tv/media/club/1087.webp" group-title="truct-tiep live",LIVE Cebrayil vs FK MOIK Baku [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14326409_44a8d06def2e63cb335e087c98df317e_autoChange.m3u8?auth_key=1795721119-0-0-c87011ff4f0187afdeb8db607374fb02
