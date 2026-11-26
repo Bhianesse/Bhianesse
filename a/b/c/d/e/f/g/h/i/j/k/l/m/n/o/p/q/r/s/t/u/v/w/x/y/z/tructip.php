@@ -19,11 +19,7 @@ https://live3.hztx2020.com/live/14727925_2989814fc8656e633d7528cb978b1c22_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14727188_f48484ce7e76b50d92185d5ddced05a3_autoChange.m3u8?auth_key=1795670985-0-0-4eb09098bac1218cc202d28ef3c66255
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Houston Rockets vs Phoenix suns" tvg-logo="https://media2.16m50.tv/media/club/12587.webp" group-title="truct-tiep live",LIVE Houston Rockets vs Phoenix suns [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14331394_479a4595fc10cbc6bd6f817078c2cb7a_autoChange.m3u8?auth_key=1795670869-0-0-4564126a5a80854a9257864a74c9ad12
-#EXTINF:-1 tvg-id="" tvg-name="Atletico Nacional Medellin vs Dep.Independiente Medellin" tvg-logo="https://media2.16m50.tv/media/club/647.webp" group-title="truct-tiep live",Atletico Nacional Medellin vs Dep.Independiente Medellin [08:30 WIB]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Atletico Nacional Medellin vs Dep.Independiente Medellin" tvg-logo="https://media2.16m50.tv/media/club/647.webp" group-title="truct-tiep live",LIVE Atletico Nacional Medellin vs Dep.Independiente Medellin [2']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14707593_9c835b6c56874d68ab00be599cffd74d_autoChange.m3u8?auth_key=1795670985-0-0-799e4407766e4c2f527ca6a56026b004
