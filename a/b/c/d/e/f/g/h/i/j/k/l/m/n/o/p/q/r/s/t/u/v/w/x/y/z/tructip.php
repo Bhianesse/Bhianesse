@@ -35,6 +35,10 @@ https://live.hztx2020.com/live/2423355_137fdc7d1dd23e4f49889333ac37aadd_autoChan
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live3.hztx2020.com/live/71762456_f5be1fae4f5dca8c4d0a25cfe328bc49_autoChange.m3u8?auth_key=1795716594-0-0-02b2887e1ab9d9585156ee9fffb7b4dd
+#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Orenburg vs Spartak Moscow" tvg-logo="https://media2.16m50.tv/media/club/20573.webp" group-title="truct-tiep live",LIVE FC Orenburg vs Spartak Moscow [3']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/2438257_758088a1dcd40102d4ed7d7e79396d4e_autoChange.m3u8?auth_key=1795716594-0-0-deafc90bf702aa6019e9126060ee5361
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Uzbekistan U17 vs Italy U17" tvg-logo="https://media2.16m50.tv/media/club/10164.webp" group-title="truct-tiep live",LIVE Uzbekistan U17 vs Italy U17 [-1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
