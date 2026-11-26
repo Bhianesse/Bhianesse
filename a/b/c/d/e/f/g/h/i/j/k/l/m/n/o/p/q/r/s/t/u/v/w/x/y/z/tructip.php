@@ -3,7 +3,7 @@
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14621680_3ec4b17d23b220d46ff78cea7191f07d_autoChange.m3u8?auth_key=1795732191-0-0-d70a528dd43f3ffe80bd8696bf102793
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Al Faisaly vs Diraiyah" tvg-logo="https://media2.16m50.tv/media/club/1620.webp" group-title="truct-tiep live",LIVE Al Faisaly vs Diraiyah [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Al Faisaly vs Diraiyah" tvg-logo="https://media2.16m50.tv/media/club/1620.webp" group-title="truct-tiep live",LIVE Al Faisaly vs Diraiyah [67']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14674364_277b35b58750de333e3f83902128eaf6_autoChange.m3u8?auth_key=1795732191-0-0-27253af32e9a87b9067a10bdd8121313
@@ -55,11 +55,11 @@ https://live2.hztx2020.com/live/14391843_01a3e057886f1df4db3bd33fe6bf75af_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14391940_08c6f38d1f8182674ae394cadfb79088_autoChange.m3u8?auth_key=1795732193-0-0-8339811a222ee8a383052f5abdb3417a
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Heart of Midlothian F.C. vs AS Monaco" tvg-logo="https://media2.16m50.tv/media/club/21900.webp" group-title="truct-tiep live",LIVE Heart of Midlothian F.C. vs AS Monaco [4']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Heart of Midlothian F.C. vs AS Monaco" tvg-logo="https://media2.16m50.tv/media/club/21900.webp" group-title="truct-tiep live",LIVE Heart of Midlothian F.C. vs AS Monaco [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14391840_14a6a93ed6cb981f5fbfd3ec0274c48a_autoChange.m3u8?auth_key=1795732191-0-0-4bb80c5f3473c4ca670157eb3c369acd
-#EXTINF:-1 tvg-id="" tvg-name="LIVE AFC Ajax vs Thun" tvg-logo="https://media2.16m50.tv/media/club/4387.webp" group-title="truct-tiep live",LIVE AFC Ajax vs Thun [1']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE AFC Ajax vs Thun" tvg-logo="https://media2.16m50.tv/media/club/4387.webp" group-title="truct-tiep live",LIVE AFC Ajax vs Thun [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14391835_be484df2c3fd09d1b07cab969abfa1d8_autoChange.m3u8?auth_key=1795732191-0-0-8063ce95e449aa8416db15e49c78c48f
