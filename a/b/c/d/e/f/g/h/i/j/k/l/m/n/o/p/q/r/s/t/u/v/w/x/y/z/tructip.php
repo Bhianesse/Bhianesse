@@ -2,4 +2,4 @@
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Jalapa vs San Marcos FC" tvg-logo="https://media2.16m50.tv/media/club/968.webp" group-title="truct-tiep live",LIVE Jalapa vs San Marcos FC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/77028612_3aa39e9358bd8b42a34225148c09be85_autoChange.m3u8?auth_key=1795746109-0-0-0fd13fded9d5017b19f3b81ae0d8bfac
+https://live1.hztx2020.com/live/77028612_3aa39e9358bd8b42a34225148c09be85_autoChange.m3u8?auth_key=1795746213-0-0-5c9361e7d3f34b596ac6fdb3e52f2ed4
