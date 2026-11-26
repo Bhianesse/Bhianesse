@@ -22,16 +22,16 @@ https://live.hztx2020.com/live/14674362_f0d56816a4fbb0af6955f72c3703b1e4_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE A.C.F. Gloria Bistrita vs CSM Slatina" tvg-logo="https://media2.16m50.tv/media/club/52.webp" group-title="truct-tiep live",LIVE A.C.F. Gloria Bistrita vs CSM Slatina [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14205984_2568d91f878dd9d6b1cd462a6109f46d_autoChange.m3u8?auth_key=1795719473-0-0-8e820c2025537ff4ae19cc32ec8fefec
+https://live.hztx2020.com/live/14205984_2568d91f878dd9d6b1cd462a6109f46d_autoChange.m3u8?auth_key=1795719511-0-0-4f6283b0230300ef46108999687eb29f
 #EXTINF:-1 tvg-id="" tvg-name="China U17 vs Fiji U17" tvg-logo="https://media2.16m50.tv/media/club/10317.webp" group-title="truct-tiep live",China U17 vs Fiji U17 [22:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/71762528_888f1ee24b5476ca67677e455e9934a6_autoChange.m3u8?auth_key=1795719473-0-0-b6e25ced8698b5700136a911c0438dcc
+https://live2.hztx2020.com/live/71762528_888f1ee24b5476ca67677e455e9934a6_autoChange.m3u8?auth_key=1795719511-0-0-fa10da776c7330cb1e5ed3d15f8ace5c
 #EXTINF:-1 tvg-id="" tvg-name="Morocco U17 vs Spain U17" tvg-logo="https://media2.16m50.tv/media/club/10163.webp" group-title="truct-tiep live",Morocco U17 vs Spain U17 [22:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/71762530_af935caeddcdb2d658a6308ce6ce2cdb_autoChange.m3u8?auth_key=1795719473-0-0-0886c56418fcc4bbf7923c0647e268d5
+https://live1.hztx2020.com/live/71762530_af935caeddcdb2d658a6308ce6ce2cdb_autoChange.m3u8?auth_key=1795719511-0-0-28b80d954d484ebf2b8dceda82972445
 #EXTINF:-1 tvg-id="" tvg-name="Al-Baqaa vs Al-Jazeera" tvg-logo="https://media2.16m50.tv/media/club/22567.webp" group-title="truct-tiep live",Al-Baqaa vs Al-Jazeera [22:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14527953_33d08dd1b51ff3e042c7823193fc29ac_autoChange.m3u8?auth_key=1795719473-0-0-849085b329bb16a71ecaa78445c8152c
+https://live.hztx2020.com/live/14527953_33d08dd1b51ff3e042c7823193fc29ac_autoChange.m3u8?auth_key=1795719511-0-0-bafa1b4b2988975a8d08e31be0aceac2
