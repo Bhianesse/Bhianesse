@@ -22,24 +22,24 @@ https://live.hztx2020.com/live/14674362_f0d56816a4fbb0af6955f72c3703b1e4_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE A.C.F. Gloria Bistrita vs CSM Slatina" tvg-logo="https://media2.16m50.tv/media/club/52.webp" group-title="truct-tiep live",LIVE A.C.F. Gloria Bistrita vs CSM Slatina [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14205984_2568d91f878dd9d6b1cd462a6109f46d_autoChange.m3u8?auth_key=1795719823-0-0-e215e6de3d30d3a442a329cfd246f071
+https://live.hztx2020.com/live/14205984_2568d91f878dd9d6b1cd462a6109f46d_autoChange.m3u8?auth_key=1795720188-0-0-a785ec1ffffdce3eccdecefbc01e96dc
 #EXTINF:-1 tvg-id="" tvg-name="LIVE China U17 vs Fiji U17" tvg-logo="https://media2.16m50.tv/media/club/10317.webp" group-title="truct-tiep live",LIVE China U17 vs Fiji U17 [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/71762528_888f1ee24b5476ca67677e455e9934a6_autoChange.m3u8?auth_key=1795719823-0-0-11e11687863422a1e3d3a826e72225b3
+https://live2.hztx2020.com/live/71762528_888f1ee24b5476ca67677e455e9934a6_autoChange.m3u8?auth_key=1795720188-0-0-24163958d65a0aac41914817b2760343
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Morocco U17 vs Spain U17" tvg-logo="https://media2.16m50.tv/media/club/10163.webp" group-title="truct-tiep live",LIVE Morocco U17 vs Spain U17 [-1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/71762530_af935caeddcdb2d658a6308ce6ce2cdb_autoChange.m3u8?auth_key=1795719823-0-0-6829a767626385b646080826ddd3ac10
+https://live1.hztx2020.com/live/71762530_af935caeddcdb2d658a6308ce6ce2cdb_autoChange.m3u8?auth_key=1795720188-0-0-224a697b453baee676620dcdad12b6b7
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Cebrayil vs FK MOIK Baku" tvg-logo="https://media2.16m50.tv/media/club/1087.webp" group-title="truct-tiep live",LIVE Cebrayil vs FK MOIK Baku [2']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14326409_44a8d06def2e63cb335e087c98df317e_autoChange.m3u8?auth_key=1795719823-0-0-2fa5b95b05b1dcfdb9d6cb686dbc62f5
+https://live.hztx2020.com/live/14326409_44a8d06def2e63cb335e087c98df317e_autoChange.m3u8?auth_key=1795720188-0-0-1bdb950dacd6dedfad921bf984df15bb
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Al-Baqaa vs Al-Jazeera" tvg-logo="https://media2.16m50.tv/media/club/22567.webp" group-title="truct-tiep live",LIVE Al-Baqaa vs Al-Jazeera [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14527953_33d08dd1b51ff3e042c7823193fc29ac_autoChange.m3u8?auth_key=1795719823-0-0-dda141a9f97ca267eff2f79aaa1a996c
+https://live.hztx2020.com/live/14527953_33d08dd1b51ff3e042c7823193fc29ac_autoChange.m3u8?auth_key=1795720188-0-0-3c184a9d2b792948b2befd3b51ea2262
 #EXTINF:-1 tvg-id="" tvg-name="Abha vs Al Shabab" tvg-logo="https://media2.16m50.tv/media/club/7173.webp" group-title="truct-tiep live",Abha vs Al Shabab [22:05 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14674363_9111779a2730b3691a91bd4aee309acf_autoChange.m3u8?auth_key=1795719824-0-0-8b194db5c8b72c2bfb16bda08a413354
+https://live.hztx2020.com/live/14674363_9111779a2730b3691a91bd4aee309acf_autoChange.m3u8?auth_key=1795720188-0-0-05c47943873c4ec1c4a4aedebb465e73
