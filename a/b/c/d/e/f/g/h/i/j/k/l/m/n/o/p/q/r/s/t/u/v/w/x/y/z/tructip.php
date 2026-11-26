@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Al-Arabi SC (Kuwait) vs Khaitan" tvg-logo="https://media2.16m50.tv/media/club/22553.webp" group-title="truct-tiep live",LIVE Al-Arabi SC (Kuwait) vs Khaitan [63']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14621680_3ec4b17d23b220d46ff78cea7191f07d_autoChange.m3u8?auth_key=1795732191-0-0-d70a528dd43f3ffe80bd8696bf102793
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Al Faisaly vs Diraiyah" tvg-logo="https://media2.16m50.tv/media/club/1620.webp" group-title="truct-tiep live",LIVE Al Faisaly vs Diraiyah [67']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
