@@ -15,6 +15,10 @@ https://live1.hztx2020.com/live/14391935_5dd0794325fa17c5cb73e4f70bacd2d4_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14391936_b036241765f95be03f613de4fea3f800_autoChange.m3u8?auth_key=1795732194-0-0-fdaded5e043e83a594cb05cf4f6828b0
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Olympiacos Piraeus vs AC Milan" tvg-logo="https://media2.16m50.tv/media/club/7207.webp" group-title="truct-tiep live",LIVE Olympiacos Piraeus vs AC Milan [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live5.hztx2020.com/live/14391938_3f1c1b8bfc634fdd987bc271f4d69f99_autoChange.m3u8?auth_key=1795732194-0-0-3d426928b2b49cb8b00ff0b1e0884317
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Pafos FC vs Midtjylland" tvg-logo="https://media2.16m50.tv/media/club/4479.webp" group-title="truct-tiep live",LIVE Pafos FC vs Midtjylland [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
