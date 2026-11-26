@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE China U17 vs Fiji U17" tvg-logo="https://media2.16m50.tv/media/club/10317.webp" group-title="truct-tiep live",LIVE China U17 vs Fiji U17 [63']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/oj7x9ix2lezs47g_add1477f9121aab6ea992cbb07d0ecee_autoChange.m3u8?auth_key=1795724975-0-0-0773053f1c9d1f228d1153d62b559877
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Morocco U17 vs Spain U17" tvg-logo="https://media2.16m50.tv/media/club/10163.webp" group-title="truct-tiep live",LIVE Morocco U17 vs Spain U17 [63']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live5.hztx2020.com/live/oj7x9ix2ldzb47g_69d2b1dfee9648fe27489c01239e00e6_autoChange.m3u8?auth_key=1795724975-0-0-bce63b4d1571970e85fd25821f4bca2f
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Cebrayil vs FK MOIK Baku" tvg-logo="https://media2.16m50.tv/media/club/1087.webp" group-title="truct-tiep live",LIVE Cebrayil vs FK MOIK Baku [68']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
