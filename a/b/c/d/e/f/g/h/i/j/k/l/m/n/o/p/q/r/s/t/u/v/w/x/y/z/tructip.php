@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Ural Yekaterinburg vs Arsenal Tula" tvg-logo="https://media2.16m50.tv/media/club/7417.webp" group-title="truct-tiep live",LIVE Ural Yekaterinburg vs Arsenal Tula [67']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Ural Yekaterinburg vs Arsenal Tula" tvg-logo="https://media2.16m50.tv/media/club/7417.webp" group-title="truct-tiep live",LIVE Ural Yekaterinburg vs Arsenal Tula [66']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/2423355_137fdc7d1dd23e4f49889333ac37aadd_autoChange.m3u8?auth_key=1795721121-0-0-134ecf81d21722fb9940a917143907ea
@@ -15,7 +15,7 @@ https://live1.hztx2020.com/live/2438257_758088a1dcd40102d4ed7d7e79396d4e_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/71762458_6c627ab134f95e1dffb0ff9cef903700_autoChange.m3u8?auth_key=1795721121-0-0-653f91050a0525fbfd05bdbfe755cfe2
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Al Fateh vs Al Riyadh" tvg-logo="https://media2.16m50.tv/media/club/14903.webp" group-title="truct-tiep live",LIVE Al Fateh vs Al Riyadh [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Al Fateh vs Al Riyadh" tvg-logo="https://media2.16m50.tv/media/club/14903.webp" group-title="truct-tiep live",LIVE Al Fateh vs Al Riyadh [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14674362_f0d56816a4fbb0af6955f72c3703b1e4_autoChange.m3u8?auth_key=1795721122-0-0-7bca26adfe467dc2ba71f4273861b04d
@@ -43,7 +43,7 @@ https://live.hztx2020.com/live/14527953_33d08dd1b51ff3e042c7823193fc29ac_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14674363_9111779a2730b3691a91bd4aee309acf_autoChange.m3u8?auth_key=1795721120-0-0-b751960c47b9850fd6cd319a070be9fe
-#EXTINF:-1 tvg-id="" tvg-name="FC Kairat Almaty vs Mjallby AIF" tvg-logo="https://media2.16m50.tv/media/club/2617.webp" group-title="truct-tiep live",FC Kairat Almaty vs Mjallby AIF [22:30 WIB]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Kairat Almaty vs Mjallby AIF" tvg-logo="https://media2.16m50.tv/media/club/2617.webp" group-title="truct-tiep live",LIVE FC Kairat Almaty vs Mjallby AIF [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14391834_d5530c0f1f58fcca64adb32b200a4bcd_autoChange.m3u8?auth_key=1795721120-0-0-a9598b790cf66aed2eeb2fbd9cf4ba4f
