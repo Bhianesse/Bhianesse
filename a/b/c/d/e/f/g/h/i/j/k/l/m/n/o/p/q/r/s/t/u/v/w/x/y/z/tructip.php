@@ -7,6 +7,10 @@ https://live1.hztx2020.com/live/71762480_bce1c7885fdd51cb8c8dd741d4db640f_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/71762482_ab13d11880a77e9f25554c26c14611bb_autoChange.m3u8?auth_key=1795717748-0-0-bc08d213a513767a94c815d7b82ef10f
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Ural Yekaterinburg vs Arsenal Tula" tvg-logo="https://media2.16m50.tv/media/club/7417.webp" group-title="truct-tiep live",LIVE Ural Yekaterinburg vs Arsenal Tula [2']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/2423355_137fdc7d1dd23e4f49889333ac37aadd_autoChange.m3u8?auth_key=1795717746-0-0-7931f283a91f7a1a319230547cb51094
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Jamaica U17 vs Cote d'Ivoire U17" tvg-logo="https://media2.16m50.tv/media/club/27722.webp" group-title="truct-tiep live",LIVE Jamaica U17 vs Cote d'Ivoire U17 [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
