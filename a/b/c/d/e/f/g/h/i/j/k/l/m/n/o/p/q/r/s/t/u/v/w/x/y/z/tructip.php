@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Kairat Almaty vs Mjallby AIF" tvg-logo="https://media2.16m50.tv/media/club/2617.webp" group-title="truct-tiep live",LIVE FC Kairat Almaty vs Mjallby AIF [62']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Qatar vs Hàn Quốc" tvg-logo="https://media2.16m50.tv/media/club/11149.webp" group-title="truct-tiep live",LIVE Qatar vs Hàn Quốc [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/527r3i4o8l2a47e_09f76ebdfd834eb260be04141ab537cb_autoChange.m3u8?auth_key=1795724975-0-0-ae8a650b94674871fa3f72ea1a3e0fa6
+https://live3.hztx2020.com/live/14158931_8392b4264b93fd52f7d73495fea109c6_autoChange.m3u8?auth_key=1795728106-0-0-d33dc87f571c0468825b0dae3f95aa17
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Croatia U17 vs Cuba U17" tvg-logo="https://media2.16m50.tv/media/club/11059.webp" group-title="truct-tiep live",LIVE Croatia U17 vs Cuba U17 [62']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -15,11 +15,11 @@ https://live.hztx2020.com/live/72578440_9d5d1feab5ac476f352409f2c53fc414_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/71762470_60179416f8ad44eba4be8362f96c6275_autoChange.m3u8?auth_key=1795724973-0-0-1eb5a6f6932ec370e66d9ad03506f9c6
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Dynamo Moscow vs Fakel Voronezh" tvg-logo="https://media2.16m50.tv/media/club/1199.webp" group-title="truct-tiep live",LIVE Dynamo Moscow vs Fakel Voronezh [3']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Dynamo Moscow vs Fakel Voronezh" tvg-logo="https://media2.16m50.tv/media/club/1199.webp" group-title="truct-tiep live",LIVE Dynamo Moscow vs Fakel Voronezh [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/2436623_4e972182980787cc7f64599f5c9253dc_autoChange.m3u8?auth_key=1795724988-0-0-9d82a3b9050c6b17a76303df3af7c383
-#EXTINF:-1 tvg-id="" tvg-name="Al-Arabi SC (Kuwait) vs Khaitan" tvg-logo="https://media2.16m50.tv/media/club/22553.webp" group-title="truct-tiep live",Al-Arabi SC (Kuwait) vs Khaitan [00:20 WIB]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Al-Arabi SC (Kuwait) vs Khaitan" tvg-logo="https://media2.16m50.tv/media/club/22553.webp" group-title="truct-tiep live",LIVE Al-Arabi SC (Kuwait) vs Khaitan [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14621680_3ec4b17d23b220d46ff78cea7191f07d_autoChange.m3u8?auth_key=1795728115-0-0-f611ac891efd5f464b4bc6e1b3874b15
