@@ -11,10 +11,6 @@ https://live.hztx2020.com/live/14391850_d1263de44baba4b03e726889d9a59d06_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14391946_3570044e311da890669d7eb9febb23ce_autoChange.m3u8?auth_key=1795742973-0-0-6c838fd16bac43ad456956ec275fda03
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Juventus vs Omonia Nicosia FC" tvg-logo="https://media2.16m50.tv/media/club/5055.webp" group-title="truct-tiep live",LIVE Juventus vs Omonia Nicosia FC [64']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14391948_3499d047f41a379cb3574aefe9c792ca_autoChange.m3u8?auth_key=1795742973-0-0-5c77fd41d163284121ae5bf06a4c0615
 #EXTINF:-1 tvg-id="" tvg-name="LIVE NEC Nijmegen vs Stade Rennais FC" tvg-logo="https://media2.16m50.tv/media/club/7208.webp" group-title="truct-tiep live",LIVE NEC Nijmegen vs Stade Rennais FC [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -31,10 +27,6 @@ https://live4.hztx2020.com/live/14391951_041ae952777c390bf54866fd3e8ddfc3_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live3.hztx2020.com/live/14391953_facf736695ff0ed4365ca8b194eec8bb_autoChange.m3u8?auth_key=1795742973-0-0-3a875e6df6e0ac033bcfa6fae45eea7a
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Inter Club d'Escaldes vs FC Copenhagen" tvg-logo="https://media2.16m50.tv/media/club/20551.webp" group-title="truct-tiep live",LIVE Inter Club d'Escaldes vs FC Copenhagen [62']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live5.hztx2020.com/live/14391847_f270f61b595cebcec70147636177e514_autoChange.m3u8?auth_key=1795742974-0-0-16dd7547c665bd643e93dedbe2fd22dd
 #EXTINF:-1 tvg-id="" tvg-name="LIVE CSKA Sofia vs Trabzonspor" tvg-logo="https://media2.16m50.tv/media/club/107.webp" group-title="truct-tiep live",LIVE CSKA Sofia vs Trabzonspor [66']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -43,6 +35,10 @@ https://live4.hztx2020.com/live/14391849_097ffd8bf7c64e25abd6892dffc47df8_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14391950_1c2a189cfe6daa9e6491dea7f6dd4948_autoChange.m3u8?auth_key=1795742973-0-0-413f667d0b1af3fc1dc65c6f4d47cf20
+#EXTINF:-1 tvg-id="" tvg-name="LIVE KAA Gent vs Crvena Zvezda" tvg-logo="https://media2.16m50.tv/media/club/6799.webp" group-title="truct-tiep live",LIVE KAA Gent vs Crvena Zvezda [64']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live3.hztx2020.com/live/14391848_677a102c73115426546e628e2e0dad58_autoChange.m3u8?auth_key=1795742974-0-0-50cbf1793507c05e9739a65e9752adfb
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Borac Banja Luka vs Atalanta" tvg-logo="https://media2.16m50.tv/media/club/4755.webp" group-title="truct-tiep live",LIVE Borac Banja Luka vs Atalanta [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
