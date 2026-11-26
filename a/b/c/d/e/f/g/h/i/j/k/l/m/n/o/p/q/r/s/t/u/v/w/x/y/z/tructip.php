@@ -27,6 +27,10 @@ https://live5.hztx2020.com/live/14391842_627e3e92636c9c734bc75af4684a5eb6_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live4.hztx2020.com/live/14391836_2d646e32d1f8d15a95e8edfec626b1dc_autoChange.m3u8?auth_key=1795732191-0-0-09b77ce42d9c5107f053fa7d38377199
+#EXTINF:-1 tvg-id="" tvg-name="LIVE FK Jablonec vs Lugano" tvg-logo="https://media2.16m50.tv/media/club/19363.webp" group-title="truct-tiep live",LIVE FK Jablonec vs Lugano [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live4.hztx2020.com/live/14391838_bf69941355674bbaa571d7c229c8eada_autoChange.m3u8?auth_key=1795732191-0-0-7f6fa38b3e83854ac28e1e49852f07e3
 #EXTINF:-1 tvg-id="" tvg-name="LIVE RC Celta vs Bournemouth AFC" tvg-logo="https://media2.16m50.tv/media/club/1734.webp" group-title="truct-tiep live",LIVE RC Celta vs Bournemouth AFC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
