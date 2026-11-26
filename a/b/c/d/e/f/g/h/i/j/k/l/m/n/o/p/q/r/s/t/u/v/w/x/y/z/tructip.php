@@ -1,16 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Mawlai SC vs Mawkhar SC" tvg-logo="https://media2.16m50.tv/media/club/15671.webp" group-title="truct-tiep live",LIVE Mawlai SC vs Mawkhar SC [68']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/77117326_e5d3db250c7c60d92830113dfa8ca7ae_autoChange.m3u8?auth_key=1795703385-0-0-6a23ebfdf87e3582daf0fc999e6bc852
 #EXTINF:-1 tvg-id="" tvg-name="LIVE South Melbourne vs Oakleigh Cannons" tvg-logo="https://media2.16m50.tv/media/club/2182.webp" group-title="truct-tiep live",LIVE South Melbourne vs Oakleigh Cannons [80']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14722468_aeeb0cb43c9a543cc4fe68b47a64171e_autoChange.m3u8?auth_key=1795703084-0-0-673357cc855c6b150e530e3defb91ecf
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Persekabpas Pasuruan vs PSN Ngada" tvg-logo="https://media2.16m50.tv/media/club/27294.webp" group-title="truct-tiep live",LIVE Persekabpas Pasuruan vs PSN Ngada [67']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/76713360_c6ab370a9863c903749f67ffb69de85f_autoChange.m3u8?auth_key=1795699793-0-0-e84893530ce87758b9edd1295cf14c13
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Regar-TadAZ Tursunzoda vs Sardor Tursunzoda" tvg-logo="https://media2.16m50.tv/media/club/1091.webp" group-title="truct-tiep live",LIVE Regar-TadAZ Tursunzoda vs Sardor Tursunzoda [67']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -31,14 +23,18 @@ https://live.hztx2020.com/live/63kv9ig6z3rux7e_c2ba454ddc83ab02f1ffc0a0bd92476e_
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14408934_26142453d1fab38cc0c5b408868c442c_autoChange.m3u8?auth_key=1795703084-0-0-3e8320fb8252c5cb0f596db3bc945f16
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Kuching City FC vs Phnom Penh Crown FC" tvg-logo="https://media2.16m50.tv/media/club/3445.webp" group-title="truct-tiep live",LIVE Kuching City FC vs Phnom Penh Crown FC [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Spain U16 vs USA U16" tvg-logo="https://media2.16m50.tv/media/club/7646.webp" group-title="truct-tiep live",LIVE Spain U16 vs USA U16 [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/14346280_66860ca52c0dce1bd92f705f2ec49ab2_autoChange.m3u8?auth_key=1795703085-0-0-d14a42ca2fef673a26e9092190ae1836
+https://live4.hztx2020.com/live/vmqy9iyj4jdtgk9_378f37ebbdac648df79ae60c7583c3d6_autoChange.m3u8?auth_key=1795702430-0-0-3eff843dcfbb9890f153a2f33680ce91
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Shurtan Guzor vs Olympic MobiUz" tvg-logo="https://media2.16m50.tv/media/club/13330.webp" group-title="truct-tiep live",LIVE Shurtan Guzor vs Olympic MobiUz [2']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/77178198_dec3b725bf452a83d978b89edde1dcd9_autoChange.m3u8?auth_key=1795703085-0-0-6ac5cdf3023f2ab0a965ad8241175647
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Kuching City FC vs Phnom Penh Crown FC" tvg-logo="https://media2.16m50.tv/media/club/3445.webp" group-title="truct-tiep live",LIVE Kuching City FC vs Phnom Penh Crown FC [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live3.hztx2020.com/live/14346280_66860ca52c0dce1bd92f705f2ec49ab2_autoChange.m3u8?auth_key=1795703085-0-0-d14a42ca2fef673a26e9092190ae1836
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Tampines Rovers FC vs Shanghai Shenhua" tvg-logo="https://media2.16m50.tv/media/club/740.webp" group-title="truct-tiep live",LIVE Tampines Rovers FC vs Shanghai Shenhua [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -47,7 +43,11 @@ https://live2.hztx2020.com/live/14346281_31ae223ac0dd6e771fd7313443379fd0_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14346279_3f5bbf75555f721bab935b8f0a7cc641_autoChange.m3u8?auth_key=1795703085-0-0-85916445c60aa9645c4ba102043d958e
-#EXTINF:-1 tvg-id="" tvg-name="Baku Sporting FK vs Shahdagh Qusar" tvg-logo="https://media2.16m50.tv/media/club/711.webp" group-title="truct-tiep live",Baku Sporting FK vs Shahdagh Qusar [17:30 WIB]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Baku Sporting FK vs Shahdagh Qusar" tvg-logo="https://media2.16m50.tv/media/club/711.webp" group-title="truct-tiep live",LIVE Baku Sporting FK vs Shahdagh Qusar [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14326414_3b7eef49e8c62755f2a99c62caaa8d78_autoChange.m3u8?auth_key=1795703081-0-0-d9ac84ed4090dbc4bce2988602ada61a
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Karvan Evlakh vs Mingachevir" tvg-logo="https://media2.16m50.tv/media/club/2566.webp" group-title="truct-tiep live",LIVE Karvan Evlakh vs Mingachevir [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/g6763i5gx2wto7r_a2f8f541a5ab8dda54a70750f399a302_autoChange.m3u8?auth_key=1795704943-0-0-94790d4f5980afd57ef504e7435fd410
