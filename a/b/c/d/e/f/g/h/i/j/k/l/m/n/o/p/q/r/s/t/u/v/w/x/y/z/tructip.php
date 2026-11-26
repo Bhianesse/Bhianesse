@@ -74,4 +74,4 @@ https://live.hztx2020.com/live/14391947_ae86f7086269d81a8bf4eeb40f95a548_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="Jalapa vs San Marcos FC" tvg-logo="https://media2.16m50.tv/media/club/968.webp" group-title="truct-tiep live",Jalapa vs San Marcos FC [05:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/77028612_3aa39e9358bd8b42a34225148c09be85_autoChange.m3u8?auth_key=1795744307-0-0-70c1394af47242d09c510afcbb71f9d8
+https://live1.hztx2020.com/live/77028612_3aa39e9358bd8b42a34225148c09be85_autoChange.m3u8?auth_key=1795744431-0-0-d2c5eb746b031835ee6db8b99746c248
