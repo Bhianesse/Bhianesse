@@ -23,6 +23,10 @@ https://live.hztx2020.com/live/14391949_5562e6d197ea778d134ded4a78fac1cf_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live5.hztx2020.com/live/14391945_7ba58d313199cbfdfafb6c1db4831f7f_autoChange.m3u8?auth_key=1795739393-0-0-561d63b468f3006367c4a7363851d63f
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Lyon vs Lillestrom" tvg-logo="https://media2.16m50.tv/media/club/923.webp" group-title="truct-tiep live",LIVE Lyon vs Lillestrom [63']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live4.hztx2020.com/live/14391951_041ae952777c390bf54866fd3e8ddfc3_autoChange.m3u8?auth_key=1795739393-0-0-ab64a3862528e8927b901b9a3f528f6d
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Sunderland vs Jagiellonia Bialystok" tvg-logo="https://media2.16m50.tv/media/club/6294.webp" group-title="truct-tiep live",LIVE Sunderland vs Jagiellonia Bialystok [64']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
