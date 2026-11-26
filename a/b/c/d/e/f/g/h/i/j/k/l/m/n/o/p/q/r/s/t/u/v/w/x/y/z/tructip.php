@@ -11,10 +11,6 @@ https://live2.hztx2020.com/live/71762468_2423071a574489d208aecfdd867b3cfa_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/72578440_9d5d1feab5ac476f352409f2c53fc414_autoChange.m3u8?auth_key=1795724973-0-0-9b229b90448fb6895e95f3941faff89c
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Qatar vs Hàn Quốc" tvg-logo="https://media2.16m50.tv/media/club/11149.webp" group-title="truct-tiep live",LIVE Qatar vs Hàn Quốc [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/14158931_8392b4264b93fd52f7d73495fea109c6_autoChange.m3u8?auth_key=1795727141-0-0-9fac968e80b41e0da6428ad9c0340bd1
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Tajikistan U17 vs Senegal U17" tvg-logo="https://media2.16m50.tv/media/club/10318.webp" group-title="truct-tiep live",LIVE Tajikistan U17 vs Senegal U17 [61']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
