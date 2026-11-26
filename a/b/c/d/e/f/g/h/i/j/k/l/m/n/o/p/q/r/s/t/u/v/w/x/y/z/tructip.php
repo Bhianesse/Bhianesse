@@ -50,7 +50,7 @@ https://live2.hztx2020.com/live/14391834_d5530c0f1f58fcca64adb32b200a4bcd_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="Croatia U17 vs Cuba U17" tvg-logo="https://media2.16m50.tv/media/club/11059.webp" group-title="truct-tiep live",Croatia U17 vs Cuba U17 [23:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/71762468_2423071a574489d208aecfdd867b3cfa_autoChange.m3u8?auth_key=1795723067-0-0-4d22d785f633e18b8dc5afbed1927e8f
+https://live2.hztx2020.com/live/71762468_2423071a574489d208aecfdd867b3cfa_autoChange.m3u8?auth_key=1795723127-0-0-eb70a8301d8756d1654837d68688a9e0
 #EXTINF:-1 tvg-id="" tvg-name="FC Pari Nizhniy Novgorod vs Tekstilshchik Ivanovo" tvg-logo="https://media2.16m50.tv/media/club/4535.webp" group-title="truct-tiep live",FC Pari Nizhniy Novgorod vs Tekstilshchik Ivanovo [23:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -58,4 +58,4 @@ https://live.hztx2020.com/live/72578440_9d5d1feab5ac476f352409f2c53fc414_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="Tajikistan U17 vs Senegal U17" tvg-logo="https://media2.16m50.tv/media/club/10318.webp" group-title="truct-tiep live",Tajikistan U17 vs Senegal U17 [23:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/71762470_60179416f8ad44eba4be8362f96c6275_autoChange.m3u8?auth_key=1795723067-0-0-edd5bde2356bb7f25ea90b4400b36ad7
+https://live1.hztx2020.com/live/71762470_60179416f8ad44eba4be8362f96c6275_autoChange.m3u8?auth_key=1795723127-0-0-1e1660813c7782c4d644dec67fcdfbbe
