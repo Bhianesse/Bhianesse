@@ -27,10 +27,6 @@ https://live1.hztx2020.com/live/71762480_bce1c7885fdd51cb8c8dd741d4db640f_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/71762482_ab13d11880a77e9f25554c26c14611bb_autoChange.m3u8?auth_key=1795717032-0-0-00298ee658d5894d1e76e6eb4dea9e6c
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Ural Yekaterinburg vs Arsenal Tula" tvg-logo="https://media2.16m50.tv/media/club/7417.webp" group-title="truct-tiep live",LIVE Ural Yekaterinburg vs Arsenal Tula [2']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/2423355_137fdc7d1dd23e4f49889333ac37aadd_autoChange.m3u8?auth_key=1795717030-0-0-f4c8aa1fcffdbc84a5dcf99732e652f3
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Jamaica U17 vs Cote d'Ivoire U17" tvg-logo="https://media2.16m50.tv/media/club/27722.webp" group-title="truct-tiep live",LIVE Jamaica U17 vs Cote d'Ivoire U17 [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -43,3 +39,7 @@ https://live1.hztx2020.com/live/2438257_758088a1dcd40102d4ed7d7e79396d4e_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/71762458_6c627ab134f95e1dffb0ff9cef903700_autoChange.m3u8?auth_key=1795717030-0-0-9fe5a778e773fe78f70839ae25b6daae
+#EXTINF:-1 tvg-id="" tvg-name="Al Fateh vs Al Riyadh" tvg-logo="https://media2.16m50.tv/media/club/14903.webp" group-title="truct-tiep live",Al Fateh vs Al Riyadh [21:25 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14674362_f0d56816a4fbb0af6955f72c3703b1e4_autoChange.m3u8?auth_key=1795717030-0-0-dcce9f1409e814df8594c0a9eee438ee
