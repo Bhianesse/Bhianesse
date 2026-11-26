@@ -31,3 +31,7 @@ https://live.hztx2020.com/live/14674362_f0d56816a4fbb0af6955f72c3703b1e4_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14205984_2568d91f878dd9d6b1cd462a6109f46d_autoChange.m3u8?auth_key=1795719120-0-0-a4e5da75d68a43470cc272fa8bc90f87
+#EXTINF:-1 tvg-id="" tvg-name="Al-Baqaa vs Al-Jazeera" tvg-logo="https://media2.16m50.tv/media/club/22567.webp" group-title="truct-tiep live",Al-Baqaa vs Al-Jazeera [22:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14527953_33d08dd1b51ff3e042c7823193fc29ac_autoChange.m3u8?auth_key=1795719120-0-0-cb1d8f5f1199d49d222eaa20bf78e251
