@@ -47,10 +47,6 @@ https://live4.hztx2020.com/live/14391838_bf69941355674bbaa571d7c229c8eada_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live4.hztx2020.com/live/14391941_dc76a6b8425f9c01beb121046a0aa04c_autoChange.m3u8?auth_key=1795729736-0-0-0dcbd61bc638ce58bb6da021527f70d5
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Egnatia vs Lincoln Red Imps FC" tvg-logo="https://media2.16m50.tv/media/club/285.webp" group-title="truct-tiep live",LIVE Egnatia vs Lincoln Red Imps FC [1']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/14391841_17497eb25931b7ab688cad9d5ab5f070_autoChange.m3u8?auth_key=1795729737-0-0-63de71191fd3852ba67a34bd85e998d9
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Besiktas JK vs Hapoel Beer Sheva" tvg-logo="https://media2.16m50.tv/media/club/161.webp" group-title="truct-tiep live",LIVE Besiktas JK vs Hapoel Beer Sheva [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
