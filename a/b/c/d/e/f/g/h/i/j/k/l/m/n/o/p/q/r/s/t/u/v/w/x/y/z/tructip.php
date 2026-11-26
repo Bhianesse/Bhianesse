@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Amman FC vs Maan" tvg-logo="https://media2.16m50.tv/media/club/22494.webp" group-title="truct-tiep live",LIVE Amman FC vs Maan [65']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14707497_b24675215fc2843c951cace39f4f64d6_autoChange.m3u8?auth_key=1795717360-0-0-d54b3c04cf1ad92fddcbc44d2bd871a3
-#EXTINF:-1 tvg-id="" tvg-name="LIVE El Entag Al Harby vs Kahraba Ismailia" tvg-logo="https://media2.16m50.tv/media/club/904.webp" group-title="truct-tiep live",LIVE El Entag Al Harby vs Kahraba Ismailia [68']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14178174_afcce452495ab64d6ccbeed3a9278d10_autoChange.m3u8?auth_key=1795717748-0-0-e13dea029dda9099cafda7be3bf6b88e
 #EXTINF:-1 tvg-id="" tvg-name="LIVE New Zealand U17 vs Belgium U17" tvg-logo="https://media2.16m50.tv/media/club/24444.webp" group-title="truct-tiep live",LIVE New Zealand U17 vs Belgium U17 [60']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -19,15 +11,15 @@ https://live.hztx2020.com/live/71762482_ab13d11880a77e9f25554c26c14611bb_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live3.hztx2020.com/live/71762456_f5be1fae4f5dca8c4d0a25cfe328bc49_autoChange.m3u8?auth_key=1795717746-0-0-586151c9f344db6d04431fe6852bffc8
-#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Orenburg vs Spartak Moscow" tvg-logo="https://media2.16m50.tv/media/club/20573.webp" group-title="truct-tiep live",LIVE FC Orenburg vs Spartak Moscow [4']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Orenburg vs Spartak Moscow" tvg-logo="https://media2.16m50.tv/media/club/20573.webp" group-title="truct-tiep live",LIVE FC Orenburg vs Spartak Moscow [3']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/2438257_758088a1dcd40102d4ed7d7e79396d4e_autoChange.m3u8?auth_key=1795717746-0-0-34997a628d56bb0a0ec878afe997de07
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Uzbekistan U17 vs Italy U17" tvg-logo="https://media2.16m50.tv/media/club/10164.webp" group-title="truct-tiep live",LIVE Uzbekistan U17 vs Italy U17 [1']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Uzbekistan U17 vs Italy U17" tvg-logo="https://media2.16m50.tv/media/club/10164.webp" group-title="truct-tiep live",LIVE Uzbekistan U17 vs Italy U17 [-1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/71762458_6c627ab134f95e1dffb0ff9cef903700_autoChange.m3u8?auth_key=1795717746-0-0-609ed9ec9aa4e9e26695a20e82d571b1
-#EXTINF:-1 tvg-id="" tvg-name="Al Fateh vs Al Riyadh" tvg-logo="https://media2.16m50.tv/media/club/14903.webp" group-title="truct-tiep live",Al Fateh vs Al Riyadh [21:25 WIB]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Al Fateh vs Al Riyadh" tvg-logo="https://media2.16m50.tv/media/club/14903.webp" group-title="truct-tiep live",LIVE Al Fateh vs Al Riyadh [2']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14674362_f0d56816a4fbb0af6955f72c3703b1e4_autoChange.m3u8?auth_key=1795717747-0-0-a0f236f8d8772a1bf78816630f88484d
