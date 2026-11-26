@@ -22,4 +22,4 @@ https://live.hztx2020.com/live/2436623_4e972182980787cc7f64599f5c9253dc_autoChan
 #EXTINF:-1 tvg-id="" tvg-name="Al-Arabi SC (Kuwait) vs Khaitan" tvg-logo="https://media2.16m50.tv/media/club/22553.webp" group-title="truct-tiep live",Al-Arabi SC (Kuwait) vs Khaitan [00:20 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14621680_3ec4b17d23b220d46ff78cea7191f07d_autoChange.m3u8?auth_key=1795727974-0-0-812b4982a27b510a3bf69e9ba26e744d
+https://live.hztx2020.com/live/14621680_3ec4b17d23b220d46ff78cea7191f07d_autoChange.m3u8?auth_key=1795728115-0-0-f611ac891efd5f464b4bc6e1b3874b15
