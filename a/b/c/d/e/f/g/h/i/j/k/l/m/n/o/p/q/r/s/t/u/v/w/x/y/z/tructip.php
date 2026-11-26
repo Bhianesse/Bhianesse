@@ -38,7 +38,7 @@ https://live5.hztx2020.com/live/14391842_627e3e92636c9c734bc75af4684a5eb6_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Brighton Hove Albion vs CS Universitatea Craiova" tvg-logo="https://media2.16m50.tv/media/club/389.webp" group-title="truct-tiep live",LIVE Brighton Hove Albion vs CS Universitatea Craiova [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live4.hztx2020.com/live/14391836_2d646e32d1f8d15a95e8edfec626b1dc_autoChange.m3u8?auth_key=1795730191-0-0-d6e538c0e1ea76423546525699ccb66b
+https://live4.hztx2020.com/live/14391836_2d646e32d1f8d15a95e8edfec626b1dc_autoChange.m3u8?auth_key=1795730496-0-0-955a6b43fb949690c341ac7d8df2274b
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FK Jablonec vs Lugano" tvg-logo="https://media2.16m50.tv/media/club/19363.webp" group-title="truct-tiep live",LIVE FK Jablonec vs Lugano [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
