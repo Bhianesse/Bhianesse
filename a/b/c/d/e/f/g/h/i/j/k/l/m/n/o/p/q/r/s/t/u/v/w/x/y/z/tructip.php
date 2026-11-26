@@ -6,7 +6,7 @@ https://live2.hztx2020.com/live/ndkz6i3pv45ixq3_edcd2ff7fb02b5f157307e9731502ebd
 #EXTINF:-1 tvg-id="" tvg-name="LIVE China U17 vs Fiji U17" tvg-logo="https://media2.16m50.tv/media/club/10317.webp" group-title="truct-tiep live",LIVE China U17 vs Fiji U17 [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/71762528_888f1ee24b5476ca67677e455e9934a6_autoChange.m3u8?auth_key=1795721119-0-0-5791dde6e3a94f95455d0c227ec2be64
+https://live.hztx2020.com/live/oj7x9ix2lezs47g_add1477f9121aab6ea992cbb07d0ecee_autoChange.m3u8?auth_key=1795724975-0-0-0773053f1c9d1f228d1153d62b559877
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Morocco U17 vs Spain U17" tvg-logo="https://media2.16m50.tv/media/club/10163.webp" group-title="truct-tiep live",LIVE Morocco U17 vs Spain U17 [64']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -30,7 +30,7 @@ https://live2.hztx2020.com/live/527r3i4o8l2a47e_09f76ebdfd834eb260be04141ab537cb
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Croatia U17 vs Cuba U17" tvg-logo="https://media2.16m50.tv/media/club/11059.webp" group-title="truct-tiep live",LIVE Croatia U17 vs Cuba U17 [2']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/71762468_2423071a574489d208aecfdd867b3cfa_autoChange.m3u8?auth_key=1795724872-0-0-05362263129a7e6645c2a95d040963b2
+https://live2.hztx2020.com/live/71762468_2423071a574489d208aecfdd867b3cfa_autoChange.m3u8?auth_key=1795724973-0-0-0567d21dfd313e95cad24e921a7faa60
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FC Pari Nizhniy Novgorod vs Tekstilshchik Ivanovo" tvg-logo="https://media2.16m50.tv/media/club/4535.webp" group-title="truct-tiep live",LIVE FC Pari Nizhniy Novgorod vs Tekstilshchik Ivanovo [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
