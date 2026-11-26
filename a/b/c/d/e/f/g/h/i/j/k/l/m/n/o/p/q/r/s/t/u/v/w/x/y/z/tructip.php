@@ -19,10 +19,6 @@ https://live3.hztx2020.com/live/69759igpelwfgk2_66ba9625932173f442100510646f07e1
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/527r3i4o8l2a47e_09f76ebdfd834eb260be04141ab537cb_autoChange.m3u8?auth_key=1795724975-0-0-ae8a650b94674871fa3f72ea1a3e0fa6
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Qatar vs Hàn Quốc" tvg-logo="https://media2.16m50.tv/media/club/11149.webp" group-title="truct-tiep live",LIVE Qatar vs Hàn Quốc [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/14158931_8392b4264b93fd52f7d73495fea109c6_autoChange.m3u8?auth_key=1795725957-0-0-1e2ad060dffdae60e5be42f02a3ecfb1
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Croatia U17 vs Cuba U17" tvg-logo="https://media2.16m50.tv/media/club/11059.webp" group-title="truct-tiep live",LIVE Croatia U17 vs Cuba U17 [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
