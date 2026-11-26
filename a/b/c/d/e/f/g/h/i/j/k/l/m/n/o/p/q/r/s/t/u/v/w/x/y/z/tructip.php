@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="LIVE TSG Hoffenheim vs Sturm Graz" tvg-logo="https://media2.16m50.tv/media/club/3835.webp" group-title="truct-tiep live",LIVE TSG Hoffenheim vs Sturm Graz [65']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live3.hztx2020.com/live/14391954_d563b9335c2c9377ac277a4fc946c143_autoChange.m3u8?auth_key=1795739380-0-0-43e0b29880a5637157aefb3e5201628c
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Sporting Braga vs KuPs" tvg-logo="https://media2.16m50.tv/media/club/4820.webp" group-title="truct-tiep live",LIVE Sporting Braga vs KuPs [60']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
