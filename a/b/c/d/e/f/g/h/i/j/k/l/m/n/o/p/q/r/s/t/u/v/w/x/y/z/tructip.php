@@ -51,6 +51,10 @@ https://live3.hztx2020.com/live/14391848_677a102c73115426546e628e2e0dad58_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14391845_45f9dd539e5e0a6ac245c990a741809b_autoChange.m3u8?auth_key=1795739393-0-0-e7ebcbaa54a14f124b78009ce260ddf9
+#EXTINF:-1 tvg-id="" tvg-name="LIVE SC Freiburg vs FC Twente Enschede" tvg-logo="https://media2.16m50.tv/media/club/3853.webp" group-title="truct-tiep live",LIVE SC Freiburg vs FC Twente Enschede [1']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/14391851_640563b32781ddfffcd980fe39e65bc0_autoChange.m3u8?auth_key=1795739393-0-0-3b53c829618d919220e6ea13b58b3235
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Nordsjaelland vs Panathinaikos" tvg-logo="https://media2.16m50.tv/media/club/9420.webp" group-title="truct-tiep live",LIVE Nordsjaelland vs Panathinaikos [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
