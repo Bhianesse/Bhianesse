@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Saudi Arabia vs Trung quốc" tvg-logo="https://media2.16m50.tv/media/club/11599.webp" group-title="truct-tiep live",LIVE Saudi Arabia vs Trung quốc [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14158932_fee79b16a648b74f413450444e70047d_autoChange.m3u8?auth_key=1795719121-0-0-624033318e927f03c333553e620a3cb1
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Ural Yekaterinburg vs Arsenal Tula" tvg-logo="https://media2.16m50.tv/media/club/7417.webp" group-title="truct-tiep live",LIVE Ural Yekaterinburg vs Arsenal Tula [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -26,8 +22,16 @@ https://live.hztx2020.com/live/14674362_f0d56816a4fbb0af6955f72c3703b1e4_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE A.C.F. Gloria Bistrita vs CSM Slatina" tvg-logo="https://media2.16m50.tv/media/club/52.webp" group-title="truct-tiep live",LIVE A.C.F. Gloria Bistrita vs CSM Slatina [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14205984_2568d91f878dd9d6b1cd462a6109f46d_autoChange.m3u8?auth_key=1795719120-0-0-a4e5da75d68a43470cc272fa8bc90f87
+https://live.hztx2020.com/live/14205984_2568d91f878dd9d6b1cd462a6109f46d_autoChange.m3u8?auth_key=1795719473-0-0-8e820c2025537ff4ae19cc32ec8fefec
+#EXTINF:-1 tvg-id="" tvg-name="China U17 vs Fiji U17" tvg-logo="https://media2.16m50.tv/media/club/10317.webp" group-title="truct-tiep live",China U17 vs Fiji U17 [22:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live2.hztx2020.com/live/71762528_888f1ee24b5476ca67677e455e9934a6_autoChange.m3u8?auth_key=1795719473-0-0-b6e25ced8698b5700136a911c0438dcc
+#EXTINF:-1 tvg-id="" tvg-name="Morocco U17 vs Spain U17" tvg-logo="https://media2.16m50.tv/media/club/10163.webp" group-title="truct-tiep live",Morocco U17 vs Spain U17 [22:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/71762530_af935caeddcdb2d658a6308ce6ce2cdb_autoChange.m3u8?auth_key=1795719473-0-0-0886c56418fcc4bbf7923c0647e268d5
 #EXTINF:-1 tvg-id="" tvg-name="Al-Baqaa vs Al-Jazeera" tvg-logo="https://media2.16m50.tv/media/club/22567.webp" group-title="truct-tiep live",Al-Baqaa vs Al-Jazeera [22:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14527953_33d08dd1b51ff3e042c7823193fc29ac_autoChange.m3u8?auth_key=1795719120-0-0-cb1d8f5f1199d49d222eaa20bf78e251
+https://live.hztx2020.com/live/14527953_33d08dd1b51ff3e042c7823193fc29ac_autoChange.m3u8?auth_key=1795719473-0-0-849085b329bb16a71ecaa78445c8152c
