@@ -30,7 +30,7 @@ https://live2.hztx2020.com/live/71762528_888f1ee24b5476ca67677e455e9934a6_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Morocco U17 vs Spain U17" tvg-logo="https://media2.16m50.tv/media/club/10163.webp" group-title="truct-tiep live",LIVE Morocco U17 vs Spain U17 [-1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/71762530_af935caeddcdb2d658a6308ce6ce2cdb_autoChange.m3u8?auth_key=1795720794-0-0-2e0463ff12a79a2c05c9fc4059c09919
+https://live1.hztx2020.com/live/71762530_af935caeddcdb2d658a6308ce6ce2cdb_autoChange.m3u8?auth_key=1795721122-0-0-99be2602babd7099e5aea17b864166a0
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Cebrayil vs FK MOIK Baku" tvg-logo="https://media2.16m50.tv/media/club/1087.webp" group-title="truct-tiep live",LIVE Cebrayil vs FK MOIK Baku [2']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
