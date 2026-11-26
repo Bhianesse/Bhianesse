@@ -27,10 +27,6 @@ https://live5.hztx2020.com/live/14391945_7ba58d313199cbfdfafb6c1db4831f7f_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live4.hztx2020.com/live/14391951_041ae952777c390bf54866fd3e8ddfc3_autoChange.m3u8?auth_key=1795739393-0-0-ab64a3862528e8927b901b9a3f528f6d
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Sunderland vs Jagiellonia Bialystok" tvg-logo="https://media2.16m50.tv/media/club/6294.webp" group-title="truct-tiep live",LIVE Sunderland vs Jagiellonia Bialystok [1']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/14391953_facf736695ff0ed4365ca8b194eec8bb_autoChange.m3u8?auth_key=1795739393-0-0-f4c7e27abb878325d534233f2eb68ffe
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Inter Club d'Escaldes vs FC Copenhagen" tvg-logo="https://media2.16m50.tv/media/club/20551.webp" group-title="truct-tiep live",LIVE Inter Club d'Escaldes vs FC Copenhagen [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
