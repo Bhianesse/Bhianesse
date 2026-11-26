@@ -15,11 +15,7 @@ https://live1.hztx2020.com/live/71762470_60179416f8ad44eba4be8362f96c6275_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/2436623_4e972182980787cc7f64599f5c9253dc_autoChange.m3u8?auth_key=1795724988-0-0-9d82a3b9050c6b17a76303df3af7c383
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Al-Arabi SC (Kuwait) vs Khaitan" tvg-logo="https://media2.16m50.tv/media/club/22553.webp" group-title="truct-tiep live",LIVE Al-Arabi SC (Kuwait) vs Khaitan [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14621680_3ec4b17d23b220d46ff78cea7191f07d_autoChange.m3u8?auth_key=1795728349-0-0-71e8f08878a6cefded8afde979f9b51c
 #EXTINF:-1 tvg-id="" tvg-name="Al Faisaly vs Diraiyah" tvg-logo="https://media2.16m50.tv/media/club/1620.webp" group-title="truct-tiep live",Al Faisaly vs Diraiyah [00:30 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14674364_277b35b58750de333e3f83902128eaf6_autoChange.m3u8?auth_key=1795728349-0-0-74c4e32a7e072b9c76c85e7dd95314e7
+https://live.hztx2020.com/live/14674364_277b35b58750de333e3f83902128eaf6_autoChange.m3u8?auth_key=1795728471-0-0-2295c2b137cff993f5836f168f6933a2
