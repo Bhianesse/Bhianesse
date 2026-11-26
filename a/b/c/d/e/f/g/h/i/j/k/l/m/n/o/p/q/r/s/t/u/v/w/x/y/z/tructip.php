@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Dynamo Moscow vs Fakel Voronezh" tvg-logo="https://media2.16m50.tv/media/club/1199.webp" group-title="truct-tiep live",LIVE Dynamo Moscow vs Fakel Voronezh [68']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/2436623_4e972182980787cc7f64599f5c9253dc_autoChange.m3u8?auth_key=1795728584-0-0-6fbc9762dfee059e56b902bbe5b6d4dd
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Al-Arabi SC (Kuwait) vs Khaitan" tvg-logo="https://media2.16m50.tv/media/club/22553.webp" group-title="truct-tiep live",LIVE Al-Arabi SC (Kuwait) vs Khaitan [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
