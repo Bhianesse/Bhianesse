@@ -15,7 +15,7 @@ https://live1.hztx2020.com/live/2438257_758088a1dcd40102d4ed7d7e79396d4e_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/71762458_6c627ab134f95e1dffb0ff9cef903700_autoChange.m3u8?auth_key=1795717746-0-0-609ed9ec9aa4e9e26695a20e82d571b1
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Al Fateh vs Al Riyadh" tvg-logo="https://media2.16m50.tv/media/club/14903.webp" group-title="truct-tiep live",LIVE Al Fateh vs Al Riyadh [2']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Al Fateh vs Al Riyadh" tvg-logo="https://media2.16m50.tv/media/club/14903.webp" group-title="truct-tiep live",LIVE Al Fateh vs Al Riyadh [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14674362_f0d56816a4fbb0af6955f72c3703b1e4_autoChange.m3u8?auth_key=1795717747-0-0-a0f236f8d8772a1bf78816630f88484d
