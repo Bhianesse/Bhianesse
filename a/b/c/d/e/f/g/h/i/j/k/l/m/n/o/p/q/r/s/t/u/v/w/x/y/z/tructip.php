@@ -39,10 +39,10 @@ https://live4.hztx2020.com/live/14391941_dc76a6b8425f9c01beb121046a0aa04c_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live3.hztx2020.com/live/14391841_17497eb25931b7ab688cad9d5ab5f070_autoChange.m3u8?auth_key=1795732191-0-0-2083d3336a48aac5d83a19a23ac0692e
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Besiktas JK vs Hapoel Beer Sheva" tvg-logo="https://media2.16m50.tv/media/club/161.webp" group-title="truct-tiep live",LIVE Besiktas JK vs Hapoel Beer Sheva [34']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Besiktas JK vs Hapoel Beer Sheva" tvg-logo="https://media2.16m50.tv/media/club/161.webp" group-title="truct-tiep live",LIVE Besiktas JK vs Hapoel Beer Sheva [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/14391934_b0ab62bb2a6d6e7785ec2f22f750bc16_autoChange.m3u8?auth_key=1795734834-0-0-2c688bf26b2913fa50bcbccf78c0ae1d
+https://live3.hztx2020.com/live/14391934_b0ab62bb2a6d6e7785ec2f22f750bc16_autoChange.m3u8?auth_key=1795734946-0-0-f6341e4ab10106cc869cf2f49aa9340a
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Dinamo Zagreb vs Bayer 04 Leverkusen" tvg-logo="https://media2.16m50.tv/media/club/131.webp" group-title="truct-tiep live",LIVE Dinamo Zagreb vs Bayer 04 Leverkusen [64']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
