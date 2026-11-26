@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Qatar vs Hàn Quốc" tvg-logo="https://media2.16m50.tv/media/club/11149.webp" group-title="truct-tiep live",LIVE Qatar vs Hàn Quốc [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/14158931_8392b4264b93fd52f7d73495fea109c6_autoChange.m3u8?auth_key=1795729063-0-0-66a7b45d7ffbf51699996d674be98324
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Croatia U17 vs Cuba U17" tvg-logo="https://media2.16m50.tv/media/club/11059.webp" group-title="truct-tiep live",LIVE Croatia U17 vs Cuba U17 [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
