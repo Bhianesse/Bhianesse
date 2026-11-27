@@ -7,7 +7,7 @@ https://live.hztx2020.com/live/14727187_9d1b7ec1d15cd45285d524ccb370f188_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14704989_b16afcf150c98a57bc983aa28ba36236_autoChange.m3u8?auth_key=1795760985-0-0-2c2af31da6c1f7b25ecf0bcccd964b63
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Mongolia U15 vs Macau U15" tvg-logo="https://media2.16m50.tv/media/club/27952.webp" group-title="truct-tiep live",LIVE Mongolia U15 vs Macau U15 [-17']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Mongolia U15 vs Macau U15" tvg-logo="https://media2.16m50.tv/media/club/27952.webp" group-title="truct-tiep live",LIVE Mongolia U15 vs Macau U15 [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/ndqmli9x2o5arkv_2b4590408549fdf978f7883de2f753ee_autoChange.m3u8?auth_key=1795760985-0-0-6bcf27f092154a9c008110b1ec22bff8
