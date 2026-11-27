@@ -11,3 +11,11 @@ https://live1.hztx2020.com/live/14712083_89cd2aaa71762248eb1de842c149b988_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14551454_22dae6550edefb205a585fc1cc774ac3_autoChange.m3u8?auth_key=1795832985-0-0-53e4513780ee23ce34083fcac1faa470
+#EXTINF:-1 tvg-id="" tvg-name="Vila Nova vs Atletico Clube Goianiense" tvg-logo="https://media2.16m50.tv/media/club/551.webp" group-title="truct-tiep live",Vila Nova vs Atletico Clube Goianiense [06:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live2.hztx2020.com/live/14695703_4d5da8c5840db15befe7b49691c2ea9d_autoChange.m3u8?auth_key=1795834258-0-0-19da323675df497bf07b314e0a0d24f1
+#EXTINF:-1 tvg-id="" tvg-name="Sportivo Luqueno vs Olimpia Asuncion" tvg-logo="https://media2.16m50.tv/media/club/5251.webp" group-title="truct-tiep live",Sportivo Luqueno vs Olimpia Asuncion [06:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live3.hztx2020.com/live/14342719_5b2181e5340a8674a5f37e45fb850b79_autoChange.m3u8?auth_key=1795834258-0-0-653e0e072fa5eeebdfe978e4a369f497
