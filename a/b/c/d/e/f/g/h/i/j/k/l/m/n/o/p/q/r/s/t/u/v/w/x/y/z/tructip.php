@@ -11,6 +11,14 @@ https://live.hztx2020.com/live/14547383_2344daa1fab0b7c8cbff3e141e11154d_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/71762618_715d01a00306cfcd4d8318413d1b9d8e_autoChange.m3u8?auth_key=1795804189-0-0-dcc9d6a5277761f591163ff3b30144c1
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Al-Sailiya Sports Club vs Al-Gharafa Sports Club" tvg-logo="https://media2.16m50.tv/media/club/22227.webp" group-title="truct-tiep live",LIVE Al-Sailiya Sports Club vs Al-Gharafa Sports Club [73']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14728988_2f56e47c8d88776757717d345b2ff05f_autoChange.m3u8?auth_key=1795804189-0-0-20c0bd6b54b67c07d5f95f34c053eaf2
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Colombia U17 vs Serbia U17" tvg-logo="https://media2.16m50.tv/media/club/10988.webp" group-title="truct-tiep live",LIVE Colombia U17 vs Serbia U17 [61']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/71762616_bf8acfaa0cc0cd9fdb1c8128b6d4596c_autoChange.m3u8?auth_key=1795804189-0-0-4e7df64330faf382056c458033fc6e06
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Ireland U17 vs Tanzania U17" tvg-logo="https://media2.16m50.tv/media/club/11079.webp" group-title="truct-tiep live",LIVE Ireland U17 vs Tanzania U17 [-1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
