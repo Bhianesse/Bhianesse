@@ -30,24 +30,24 @@ https://live.hztx2020.com/live/14317451_da16e1be9d622b3db31b615dca3c71fb_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Lusail Sports Club vs Al-Arabi Sports Club" tvg-logo="https://media2.16m50.tv/media/club/21963.webp" group-title="truct-tiep live",LIVE Lusail Sports Club vs Al-Arabi Sports Club [2']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/ezk96i32d4ds1kn_b52831b57736326b358ddf59aad5250a_autoChange.m3u8?auth_key=1795810072-0-0-38375bf4d3df886d5c975f2c6b6a28de
+https://live1.hztx2020.com/live/ezk96i32d4ds1kn_b52831b57736326b358ddf59aad5250a_autoChange.m3u8?auth_key=1795810077-0-0-5354e3321c68bfed424a0250209e5c08
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FC Universitatea Cluj vs Sepsi OSK Sfantul Gheorghe" tvg-logo="https://media2.16m50.tv/media/club/4843.webp" group-title="truct-tiep live",LIVE FC Universitatea Cluj vs Sepsi OSK Sfantul Gheorghe [3']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/9gklzi1dr93im7x_df5c2eea18ed7a1485b0ac8a845c9165_autoChange.m3u8?auth_key=1795810073-0-0-d63a06858fb86daa1b74a554eb263406
+https://live.hztx2020.com/live/9gklzi1dr93im7x_df5c2eea18ed7a1485b0ac8a845c9165_autoChange.m3u8?auth_key=1795810077-0-0-8b04c9db8b0c75ca050170e81e203599
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Dinamo Batumi vs Dila Gori" tvg-logo="https://media2.16m50.tv/media/club/4453.webp" group-title="truct-tiep live",LIVE Dinamo Batumi vs Dila Gori [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14725414_e7c6fa5e73e087d499502ba5fa4c3dea_autoChange.m3u8?auth_key=1795810072-0-0-6de568c0553e98c3ab764a0f2fc98e7b
+https://live1.hztx2020.com/live/14725414_e7c6fa5e73e087d499502ba5fa4c3dea_autoChange.m3u8?auth_key=1795810079-0-0-b62dd8a6081b5a04dd7f4e8530ca45cf
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Al Gharraf vs Mosul FC" tvg-logo="https://media2.16m50.tv/media/club/1758.webp" group-title="truct-tiep live",LIVE Al Gharraf vs Mosul FC [-1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live4.hztx2020.com/live/75949150_96a2ff2e97d299939b5cb316223b19da_autoChange.m3u8?auth_key=1795810072-0-0-9b6b12705462f2580cb628af873e62fb
+https://live4.hztx2020.com/live/75949150_96a2ff2e97d299939b5cb316223b19da_autoChange.m3u8?auth_key=1795810079-0-0-a278dbc6f4524772eca61c1e2cad798c
 #EXTINF:-1 tvg-id="" tvg-name="LIVE NK Brezice 1919 vs Triglav Gorenjska" tvg-logo="https://media2.16m50.tv/media/club/22002.webp" group-title="truct-tiep live",LIVE NK Brezice 1919 vs Triglav Gorenjska [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14659723_a06473e0458810ada5b4677aa910a57d_autoChange.m3u8?auth_key=1795810072-0-0-ba6cb30d33072b108016c60c5621468b
+https://live.hztx2020.com/live/14659723_a06473e0458810ada5b4677aa910a57d_autoChange.m3u8?auth_key=1795810079-0-0-578bbd86ba34203ba3d76f19abca8858
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FK IMT Belgrad vs Macva Sabac" tvg-logo="https://media2.16m50.tv/media/club/6626.webp" group-title="truct-tiep live",LIVE FK IMT Belgrad vs Macva Sabac [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14109763_078d01a4dc85432dd5d927276974fd86_autoChange.m3u8?auth_key=1795810072-0-0-373b9c1244cba8cd080431e35ab711e5
+https://live.hztx2020.com/live/14109763_078d01a4dc85432dd5d927276974fd86_autoChange.m3u8?auth_key=1795810079-0-0-f3e823f90becfae121ac60a3d288c6bc
