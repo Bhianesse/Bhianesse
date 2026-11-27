@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Nottingham Forest vs Chelsea" tvg-logo="https://media2.16m50.tv/media/club/370.webp" group-title="truct-tiep live",LIVE Nottingham Forest vs Chelsea [63']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14040181_b014afe5953b349384c29b3dec253fd8_autoChange.m3u8?auth_key=1795829176-0-0-7d91042449a4dc111b8e25927b089b00
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Hound Dogs vs Lions Gibraltar" tvg-logo="https://media2.16m50.tv/media/club/7168.webp" group-title="truct-tiep live",LIVE Hound Dogs vs Lions Gibraltar [62']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/63kv9igdmxgcx7e_11d1a62024795586b7e3993734b29ebf_autoChange.m3u8?auth_key=1795829176-0-0-e5eea9142daec1fe396e7659ed926e04
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Southampton vs Middlesbrough" tvg-logo="https://media2.16m50.tv/media/club/6024.webp" group-title="truct-tiep live",LIVE Southampton vs Middlesbrough [63']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14069172_75f7351306f2842aca94188344f86f80_autoChange.m3u8?auth_key=1795829176-0-0-dd70f5dfc1ef64e53a8e0d8bec5b8895
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Levante vs Racing Santander" tvg-logo="https://media2.16m50.tv/media/club/4341.webp" group-title="truct-tiep live",LIVE Levante vs Racing Santander [64']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -26,4 +14,4 @@ https://live.hztx2020.com/live/14342716_d38765b2817906d297d1e5d951fe3497_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Deportivo Cuenca vs Manta FC" tvg-logo="https://media2.16m50.tv/media/club/669.webp" group-title="truct-tiep live",LIVE Deportivo Cuenca vs Manta FC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14462516_9f6883b21e2b9dc1e33d8110b7d5db9b_autoChange.m3u8?auth_key=1795830416-0-0-340a0dc64b8417d278b898e5189de386
+https://live.hztx2020.com/live/14462516_9f6883b21e2b9dc1e33d8110b7d5db9b_autoChange.m3u8?auth_key=1795830745-0-0-aa3f24973ad62b5a25c8f2832561bf64
