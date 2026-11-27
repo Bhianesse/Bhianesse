@@ -14,8 +14,12 @@ https://live.hztx2020.com/live/14551454_22dae6550edefb205a585fc1cc774ac3_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="Vila Nova vs Atletico Clube Goianiense" tvg-logo="https://media2.16m50.tv/media/club/551.webp" group-title="truct-tiep live",Vila Nova vs Atletico Clube Goianiense [06:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14695703_4d5da8c5840db15befe7b49691c2ea9d_autoChange.m3u8?auth_key=1795834258-0-0-19da323675df497bf07b314e0a0d24f1
+https://live2.hztx2020.com/live/14695703_4d5da8c5840db15befe7b49691c2ea9d_autoChange.m3u8?auth_key=1795834672-0-0-3c708770e342b9644b16302e8f0f8682
+#EXTINF:-1 tvg-id="" tvg-name="Fluminense - RJ vs Cruzeiro - MG" tvg-logo="https://media2.16m50.tv/media/club/14324.webp" group-title="truct-tiep live",Fluminense - RJ vs Cruzeiro - MG [06:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/13391565_9d2a774568224b1c239ed0a39052e274_autoChange.m3u8?auth_key=1795834672-0-0-9e782cbd11e1b717b25dc010042cd617
 #EXTINF:-1 tvg-id="" tvg-name="Sportivo Luqueno vs Olimpia Asuncion" tvg-logo="https://media2.16m50.tv/media/club/5251.webp" group-title="truct-tiep live",Sportivo Luqueno vs Olimpia Asuncion [06:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/14342719_5b2181e5340a8674a5f37e45fb850b79_autoChange.m3u8?auth_key=1795834258-0-0-653e0e072fa5eeebdfe978e4a369f497
+https://live3.hztx2020.com/live/14342719_5b2181e5340a8674a5f37e45fb850b79_autoChange.m3u8?auth_key=1795834672-0-0-8b451ab6206a67bfd5d401cb6622078a
