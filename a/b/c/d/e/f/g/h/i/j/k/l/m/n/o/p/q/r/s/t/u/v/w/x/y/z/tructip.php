@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Dinamo Batumi vs Dila Gori" tvg-logo="https://media2.16m50.tv/media/club/4453.webp" group-title="truct-tiep live",LIVE Dinamo Batumi vs Dila Gori [67']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Dinamo Batumi vs Dila Gori" tvg-logo="https://media2.16m50.tv/media/club/4453.webp" group-title="truct-tiep live",LIVE Dinamo Batumi vs Dila Gori [66']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14725414_e7c6fa5e73e087d499502ba5fa4c3dea_autoChange.m3u8?auth_key=1795814977-0-0-e0c6d4ae0b3ac57c6570fe2481238dea
@@ -7,14 +7,6 @@ https://live1.hztx2020.com/live/14725414_e7c6fa5e73e087d499502ba5fa4c3dea_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live4.hztx2020.com/live/75949150_96a2ff2e97d299939b5cb316223b19da_autoChange.m3u8?auth_key=1795814977-0-0-bf6cc1c9f76513742076fbad2f98f790
-#EXTINF:-1 tvg-id="" tvg-name="LIVE NK Brezice 1919 vs Triglav Gorenjska" tvg-logo="https://media2.16m50.tv/media/club/22002.webp" group-title="truct-tiep live",LIVE NK Brezice 1919 vs Triglav Gorenjska [62']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14659723_a06473e0458810ada5b4677aa910a57d_autoChange.m3u8?auth_key=1795814949-0-0-415b8ef371528c3092c0fa859f785285
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Romania U17 vs Cameroon U17" tvg-logo="https://media2.16m50.tv/media/club/11062.webp" group-title="truct-tiep live",LIVE Romania U17 vs Cameroon U17 [64']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/71762602_09ba09b261b7fb9d5f740ee87f362cbd_autoChange.m3u8?auth_key=1795814977-0-0-d8651c831cc5c3fb165e086238f82c7b
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FK IMT Belgrad vs Macva Sabac" tvg-logo="https://media2.16m50.tv/media/club/6626.webp" group-title="truct-tiep live",LIVE FK IMT Belgrad vs Macva Sabac [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -23,34 +15,18 @@ https://live.hztx2020.com/live/14109763_078d01a4dc85432dd5d927276974fd86_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/71762600_a015958546aac99854636077280a09f1_autoChange.m3u8?auth_key=1795814977-0-0-ae63db6fa3fc362cad002296d8db8ded
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Torpedo Moscow vs SKA Khabarovsk" tvg-logo="https://media2.16m50.tv/media/club/6155.webp" group-title="truct-tiep live",LIVE Torpedo Moscow vs SKA Khabarovsk [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/2424350_4587448f9f9867c6ef2e0eeb3245958e_autoChange.m3u8?auth_key=1795814976-0-0-1091f0277ae999061db16c6d93d1531b
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Al Wehdat vs Dogra FC" tvg-logo="https://media2.16m50.tv/media/club/5951.webp" group-title="truct-tiep live",LIVE Al Wehdat vs Dogra FC [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Al Wehdat vs Dogra FC" tvg-logo="https://media2.16m50.tv/media/club/5951.webp" group-title="truct-tiep live",LIVE Al Wehdat vs Dogra FC [64']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14527955_4ed302381193a4f3ea09c898a7e8a75f_autoChange.m3u8?auth_key=1795814975-0-0-e16c7ac4b9066012c1563dd3539afb28
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Lokomotiv Sofia vs Slavia Sofia" tvg-logo="https://media2.16m50.tv/media/club/721.webp" group-title="truct-tiep live",LIVE Lokomotiv Sofia vs Slavia Sofia [63']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/13989547_401d76fad401fc00022d0451472fa14b_autoChange.m3u8?auth_key=1795814975-0-0-3bfe693c19520840d3fd5103b7329ca1
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Rakow Czestochowa vs Piast Gliwice" tvg-logo="https://media2.16m50.tv/media/club/744.webp" group-title="truct-tiep live",LIVE Rakow Czestochowa vs Piast Gliwice [2']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Rakow Czestochowa vs Piast Gliwice" tvg-logo="https://media2.16m50.tv/media/club/744.webp" group-title="truct-tiep live",LIVE Rakow Czestochowa vs Piast Gliwice [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live5.hztx2020.com/live/14058566_0a042496015f32c808f4f4e85febc64b_autoChange.m3u8?auth_key=1795814974-0-0-1135c800a8f361cc6c42488f9cb92b40
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Sariyer vs Istanbulspor" tvg-logo="https://media2.16m50.tv/media/club/1221.webp" group-title="truct-tiep live",LIVE Sariyer vs Istanbulspor [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live5.hztx2020.com/live/14159199_6c9cc220a56153a6c411392831975cf4_autoChange.m3u8?auth_key=1795814976-0-0-fa13e83c3093577577f147793dce70ca
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Warta Poznan vs Pogon Siedlce" tvg-logo="https://media2.16m50.tv/media/club/4292.webp" group-title="truct-tiep live",LIVE Warta Poznan vs Pogon Siedlce [2']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Warta Poznan vs Pogon Siedlce" tvg-logo="https://media2.16m50.tv/media/club/4292.webp" group-title="truct-tiep live",LIVE Warta Poznan vs Pogon Siedlce [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14048153_3a61ed4f4d7a86ec6bd317a90dc69569_autoChange.m3u8?auth_key=1795814975-0-0-5dd1aeace1f467b4a9b259f9cbf177d0
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Alanyaspor vs Konyaspor" tvg-logo="https://media2.16m50.tv/media/club/7518.webp" group-title="truct-tiep live",LIVE Alanyaspor vs Konyaspor [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14493241_aa11ac76e07ee56e04bcb86d99ea3c22_autoChange.m3u8?auth_key=1795814974-0-0-53eace20f7a8198a27403d7189201587
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Caykur Rizespor vs Kasimpasa" tvg-logo="https://media2.16m50.tv/media/club/162.webp" group-title="truct-tiep live",LIVE Caykur Rizespor vs Kasimpasa [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -59,15 +35,11 @@ https://live4.hztx2020.com/live/14493242_732f7e3ea95a78775e01c8746d9e9afe_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14159200_9f396470b6bfac0d8417dcc4aa9ca21b_autoChange.m3u8?auth_key=1795814975-0-0-1670f92420fe597700dd0643393fe451
-#EXTINF:-1 tvg-id="" tvg-name="LIVE SK Artis Brno vs 1.FC Slovácko" tvg-logo="https://media2.16m50.tv/media/club/4246.webp" group-title="truct-tiep live",LIVE SK Artis Brno vs 1.FC Slovácko [2']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14127766_bd597dc6293361ea12a8158af1b46ed2_autoChange.m3u8?auth_key=1795814974-0-0-e5c97c6536fd46559eb4a22b9c39db13
-#EXTINF:-1 tvg-id="" tvg-name="LIVE NK Radomlje vs NK Nafta 1903" tvg-logo="https://media2.16m50.tv/media/club/22192.webp" group-title="truct-tiep live",LIVE NK Radomlje vs NK Nafta 1903 [3']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE NK Radomlje vs NK Nafta 1903" tvg-logo="https://media2.16m50.tv/media/club/22192.webp" group-title="truct-tiep live",LIVE NK Radomlje vs NK Nafta 1903 [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14041284_d5806df5e372b37ffc21dcd796f51639_autoChange.m3u8?auth_key=1795814976-0-0-a1c75bab047ce7f49f69f559604e6a63
-#EXTINF:-1 tvg-id="" tvg-name="LIVE NK Istra 1961 vs NK Varteks Varazdin" tvg-logo="https://media2.16m50.tv/media/club/1346.webp" group-title="truct-tiep live",LIVE NK Istra 1961 vs NK Varteks Varazdin [1']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE NK Istra 1961 vs NK Varteks Varazdin" tvg-logo="https://media2.16m50.tv/media/club/1346.webp" group-title="truct-tiep live",LIVE NK Istra 1961 vs NK Varteks Varazdin [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/13971874_6f48b0460d255b46c2266d840fb45c17_autoChange.m3u8?auth_key=1795814974-0-0-b7eca8c271325aa09f0a9e6f07e233de
@@ -79,6 +51,10 @@ https://live1.hztx2020.com/live/14674367_ac774d08aff3784a0066269fcd3279f6_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14099486_cabbdae978797b628d07fe301662abd2_autoChange.m3u8?auth_key=1795814974-0-0-db2da8e3392969a6bc217ab851d2683a
+#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Dinamo City vs Partizani Tirana" tvg-logo="https://media2.16m50.tv/media/club/261.webp" group-title="truct-tiep live",LIVE FC Dinamo City vs Partizani Tirana [5']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14163062_fa38ff586b50b1bcff165561550e8ee3_autoChange.m3u8?auth_key=1795814974-0-0-f01df1c74d120e7e21cc269fbfe0ec95
 #EXTINF:-1 tvg-id="" tvg-name="LIVE 1. FC Heidenheim 1846 vs 1. FC Nürnberg" tvg-logo="https://media2.16m50.tv/media/club/3834.webp" group-title="truct-tiep live",LIVE 1. FC Heidenheim 1846 vs 1. FC Nürnberg [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
