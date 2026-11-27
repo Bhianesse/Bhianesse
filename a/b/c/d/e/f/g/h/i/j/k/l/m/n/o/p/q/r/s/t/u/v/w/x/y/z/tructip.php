@@ -26,7 +26,7 @@ https://live1.hztx2020.com/live/2438128_851e5a3c89bee231deb036aab4b1af10_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Ismaily SC vs Baladiyat El Mahalla" tvg-logo="https://media2.16m50.tv/media/club/1658.webp" group-title="truct-tiep live",LIVE Ismaily SC vs Baladiyat El Mahalla [76']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14178169_685b1fd946c75218a55eaffa506ec0c7_autoChange.m3u8?auth_key=1795802150-0-0-e7a461c560a4273d540020b0ae283446
+https://live.hztx2020.com/live/14178169_685b1fd946c75218a55eaffa506ec0c7_autoChange.m3u8?auth_key=1795802382-0-0-4bd8b782099cf68e83f11bf922f0d285
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Dinamo Zagreb II vs Hrvace" tvg-logo="https://media2.16m50.tv/media/club/14301.webp" group-title="truct-tiep live",LIVE Dinamo Zagreb II vs Hrvace [61']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -58,12 +58,12 @@ https://live.hztx2020.com/live/14317458_5446421e4e4eff259d3360f4b8603799_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="Ireland U17 vs Tanzania U17" tvg-logo="https://media2.16m50.tv/media/club/11079.webp" group-title="truct-tiep live",Ireland U17 vs Tanzania U17 [21:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/71762542_f222f61bcbefc45efd88ce94f602eb1b_autoChange.m3u8?auth_key=1795802149-0-0-afcfb8096d735218944b233f6996b5ea
+https://live1.hztx2020.com/live/71762542_f222f61bcbefc45efd88ce94f602eb1b_autoChange.m3u8?auth_key=1795802381-0-0-af9822379e703db9177e0d6fc06f8a1f
 #EXTINF:-1 tvg-id="" tvg-name="Inter Kashi vs Churchill Brothers" tvg-logo="https://media2.16m50.tv/media/club/1265.webp" group-title="truct-tiep live",Inter Kashi vs Churchill Brothers [21:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14512666_2d52199bc1297470efcc84b84b39b574_autoChange.m3u8?auth_key=1795802149-0-0-682012efa2363d8b8e738c0c6f7f1c62
+https://live2.hztx2020.com/live/14512666_2d52199bc1297470efcc84b84b39b574_autoChange.m3u8?auth_key=1795802381-0-0-fe7bc410fbb139feab2e9bac400a9f30
 #EXTINF:-1 tvg-id="" tvg-name="Costa Rica U17 vs Brazil U17" tvg-logo="https://media2.16m50.tv/media/club/15288.webp" group-title="truct-tiep live",Costa Rica U17 vs Brazil U17 [21:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/71762544_111f0fd2bac7337862b7617ac33355a6_autoChange.m3u8?auth_key=1795802149-0-0-ad864ae5d7a1b6df8ae217c5312e8776
+https://live.hztx2020.com/live/71762544_111f0fd2bac7337862b7617ac33355a6_autoChange.m3u8?auth_key=1795802381-0-0-697e9ed99249d08aeda6ca40b1c61d08
