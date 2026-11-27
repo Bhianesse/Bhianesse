@@ -23,6 +23,10 @@ https://live.hztx2020.com/live/14622202_d85e659128fc2fbfe4da5a380a5a61e0_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live4.hztx2020.com/live/14360445_64e3b50860e46e584865f1cade8fc52c_autoChange.m3u8?auth_key=1795793239-0-0-761b751b3bb84bd0791de629d18cc584
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Song Lam Nghe An vs Ninh Binh FC" tvg-logo="https://media2.16m50.tv/media/club/2550.webp" group-title="truct-tiep live",LIVE Song Lam Nghe An vs Ninh Binh FC [62']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14360819_ac532569eba60193537fb92e638d57d9_autoChange.m3u8?auth_key=1795793239-0-0-1b242bbe74bb9bbeae1ed79b7ca0c60e
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Xuan Thien Phu Tho vs Lam Dong" tvg-logo="https://media2.16m50.tv/media/club/1030.webp" group-title="truct-tiep live",LIVE Xuan Thien Phu Tho vs Lam Dong [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -35,6 +39,10 @@ https://live5.hztx2020.com/live/14360818_8888596f660f7460db42855655b4732e_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14445188_13f6af8fdd4df17961457b5b83b2265e_autoChange.m3u8?auth_key=1795793239-0-0-71ffd494b410563596b82847a564653b
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Geylang United FC vs Tanjong Pagar United" tvg-logo="https://media2.16m50.tv/media/club/3039.webp" group-title="truct-tiep live",LIVE Geylang United FC vs Tanjong Pagar United [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live4.hztx2020.com/live/14219315_c57da2b5f8a0a2463ef32251de94b672_autoChange.m3u8?auth_key=1795793240-0-0-76030ecc4166c93f708ef2d9cd2198da
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Bashundhara Kings vs Fortis FC" tvg-logo="https://media2.16m50.tv/media/club/1013.webp" group-title="truct-tiep live",LIVE Bashundhara Kings vs Fortis FC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -55,3 +63,11 @@ https://live.hztx2020.com/live/14445237_e0235f8fb13903daefb7ad7ba7a25f61_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14326410_56893f8ddd759e10a0b6d847c751984e_autoChange.m3u8?auth_key=1795795773-0-0-0c3a4644b1a435c1b5541873d28bab84
+#EXTINF:-1 tvg-id="" tvg-name="Al Kholood vs Al Khaleej" tvg-logo="https://media2.16m50.tv/media/club/862.webp" group-title="truct-tiep live",Al Kholood vs Al Khaleej [19:15 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/14674365_21209babb6281888b12d42abf6793b05_autoChange.m3u8?auth_key=1795795773-0-0-e66888de967baeba2ee95187d4f49cab
+#EXTINF:-1 tvg-id="" tvg-name="Tadamon SC Sour vs Al Ahed SC" tvg-logo="https://media2.16m50.tv/media/club/2977.webp" group-title="truct-tiep live",Tadamon SC Sour vs Al Ahed SC [19:15 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live2.hztx2020.com/live/14508319_fc66128a0792b8aacb78bccdb2befcd1_autoChange.m3u8?auth_key=1795795773-0-0-99900165df32c022ba708d9c5a54fd69
