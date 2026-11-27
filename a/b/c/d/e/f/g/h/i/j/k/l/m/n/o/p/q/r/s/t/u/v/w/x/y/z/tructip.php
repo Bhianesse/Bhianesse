@@ -14,16 +14,16 @@ https://live.hztx2020.com/live/14551454_22dae6550edefb205a585fc1cc774ac3_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Vila Nova vs Atletico Clube Goianiense" tvg-logo="https://media2.16m50.tv/media/club/551.webp" group-title="truct-tiep live",LIVE Vila Nova vs Atletico Clube Goianiense [3']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14695703_4d5da8c5840db15befe7b49691c2ea9d_autoChange.m3u8?auth_key=1795835503-0-0-50177e61d273e1d791453b2222910bcc
+https://live2.hztx2020.com/live/14695703_4d5da8c5840db15befe7b49691c2ea9d_autoChange.m3u8?auth_key=1795835515-0-0-cbc0e8be0b92bd4ddc2d43f31ec71ab9
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Independiente Petrolero vs Real Oruro" tvg-logo="https://media2.16m50.tv/media/club/7837.webp" group-title="truct-tiep live",LIVE Independiente Petrolero vs Real Oruro [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14559556_ec9a44ea9ded239942b08b2ce91df5e7_autoChange.m3u8?auth_key=1795835503-0-0-b3e3402e11fdd0f3566cb562a6c43ee1
+https://live1.hztx2020.com/live/14559556_ec9a44ea9ded239942b08b2ce91df5e7_autoChange.m3u8?auth_key=1795835515-0-0-47b7fbd413d5c9f6b0b5eba0a53c6970
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Fluminense - RJ vs Cruzeiro - MG" tvg-logo="https://media2.16m50.tv/media/club/14324.webp" group-title="truct-tiep live",LIVE Fluminense - RJ vs Cruzeiro - MG [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/13391565_9d2a774568224b1c239ed0a39052e274_autoChange.m3u8?auth_key=1795835503-0-0-e54aaab83cd12d4b4549b258b82311c2
+https://live.hztx2020.com/live/13391565_9d2a774568224b1c239ed0a39052e274_autoChange.m3u8?auth_key=1795835515-0-0-949dec7dfa3cf6cdcc79af9bf6e97e0c
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Sportivo Luqueno vs Olimpia Asuncion" tvg-logo="https://media2.16m50.tv/media/club/5251.webp" group-title="truct-tiep live",LIVE Sportivo Luqueno vs Olimpia Asuncion [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/14342719_5b2181e5340a8674a5f37e45fb850b79_autoChange.m3u8?auth_key=1795835503-0-0-52e94ea9e4a245b0eb1d3b025c380903
+https://live3.hztx2020.com/live/14342719_5b2181e5340a8674a5f37e45fb850b79_autoChange.m3u8?auth_key=1795835515-0-0-c3b778c8b2c880423d13d066c0171509
