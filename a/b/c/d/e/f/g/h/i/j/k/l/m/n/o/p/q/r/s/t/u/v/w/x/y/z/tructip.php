@@ -7,10 +7,6 @@ https://live1.hztx2020.com/live/71762542_f222f61bcbefc45efd88ce94f602eb1b_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14512666_2d52199bc1297470efcc84b84b39b574_autoChange.m3u8?auth_key=1795807690-0-0-181c5a2bf3e5ce5278072f060c483648
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Costa Rica U17 vs Brazil U17" tvg-logo="https://media2.16m50.tv/media/club/15288.webp" group-title="truct-tiep live",LIVE Costa Rica U17 vs Brazil U17 [61']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/71762544_111f0fd2bac7337862b7617ac33355a6_autoChange.m3u8?auth_key=1795807690-0-0-efe6d7d7f33ad3352e547d61cb6dfb20
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Empoli Youth vs Lazio U20" tvg-logo="https://media2.16m50.tv/media/club/22077.webp" group-title="truct-tiep live",LIVE Empoli Youth vs Lazio U20 [66']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -19,10 +15,6 @@ https://live.hztx2020.com/live/14123425_73bc25224fc4a50ea5c226015c97ee1a_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14527954_f954a0eb626796e54df7f0fe1cf436d6_autoChange.m3u8?auth_key=1795807690-0-0-617c20c3ab3b43a186a6da209751a3c3
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Al Qadsiah vs Al Fayha" tvg-logo="https://media2.16m50.tv/media/club/863.webp" group-title="truct-tiep live",LIVE Al Qadsiah vs Al Fayha [64']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14674366_8dee783efc0325e0115ea111077d30f8_autoChange.m3u8?auth_key=1795807686-0-0-6e69fcde163dd4d7abd72ec0094c7e71
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Montenegro U17 vs Chile U17" tvg-logo="https://media2.16m50.tv/media/club/11048.webp" group-title="truct-tiep live",LIVE Montenegro U17 vs Chile U17 [-1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -50,8 +42,8 @@ https://live.hztx2020.com/live/14317451_da16e1be9d622b3db31b615dca3c71fb_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Lusail Sports Club vs Al-Arabi Sports Club" tvg-logo="https://media2.16m50.tv/media/club/21963.webp" group-title="truct-tiep live",LIVE Lusail Sports Club vs Al-Arabi Sports Club [2']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14728990_65d8ea284c903b79f865ddcb781e40ef_autoChange.m3u8?auth_key=1795809107-0-0-bad862590217a39c6b20b7f6999bdc88
+https://live1.hztx2020.com/live/14728990_65d8ea284c903b79f865ddcb781e40ef_autoChange.m3u8?auth_key=1795809209-0-0-c7a7bd7132db527f0ba25fda293e3dcc
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FC Universitatea Cluj vs Sepsi OSK Sfantul Gheorghe" tvg-logo="https://media2.16m50.tv/media/club/4843.webp" group-title="truct-tiep live",LIVE FC Universitatea Cluj vs Sepsi OSK Sfantul Gheorghe [3']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14075847_43e54dfa7efa962e7f52dbf4e843fe84_autoChange.m3u8?auth_key=1795809107-0-0-d8f59ea78bda81932806039e28d92964
+https://live.hztx2020.com/live/14075847_43e54dfa7efa962e7f52dbf4e843fe84_autoChange.m3u8?auth_key=1795809209-0-0-24aee42ec7c00e5209cfcc2ef8d3a0a2
