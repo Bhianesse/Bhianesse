@@ -7,10 +7,6 @@ https://live4.hztx2020.com/live/zrkn6i48w3eiwql_179204c9322f2e5a69af68770c02e437
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/zrkn6i1mdz4bwql_6ada8ebc626c8b8c216e16beeb10994e_autoChange.m3u8?auth_key=1795811214-0-0-5cb8425269d84f39bd1e56a3ea746284
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Algeria U17 vs Dominican Republic U17" tvg-logo="https://media2.16m50.tv/media/club/10856.webp" group-title="truct-tiep live",LIVE Algeria U17 vs Dominican Republic U17 [62']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/xvkjoi83p55s879_8db4e7caca23d3ff9ce536c435812ced_autoChange.m3u8?auth_key=1795811214-0-0-b84c80b87e522fc2a907d70c2583e6b1
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FC Neftci Baku vs Zira FK" tvg-logo="https://media2.16m50.tv/media/club/7506.webp" group-title="truct-tiep live",LIVE FC Neftci Baku vs Zira FK [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -31,11 +27,11 @@ https://live1.hztx2020.com/live/ezk96i32d4ds1kn_b52831b57736326b358ddf59aad5250a
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/9gklzi1dr93im7x_df5c2eea18ed7a1485b0ac8a845c9165_autoChange.m3u8?auth_key=1795811213-0-0-57323bbb9f7ee0fd77c3e032a37c197d
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Dinamo Batumi vs Dila Gori" tvg-logo="https://media2.16m50.tv/media/club/4453.webp" group-title="truct-tiep live",LIVE Dinamo Batumi vs Dila Gori [1']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Dinamo Batumi vs Dila Gori" tvg-logo="https://media2.16m50.tv/media/club/4453.webp" group-title="truct-tiep live",LIVE Dinamo Batumi vs Dila Gori [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14725414_e7c6fa5e73e087d499502ba5fa4c3dea_autoChange.m3u8?auth_key=1795811215-0-0-72b7e5b9aa47e537468e19f6110d2d68
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Al Gharraf vs Mosul FC" tvg-logo="https://media2.16m50.tv/media/club/1758.webp" group-title="truct-tiep live",LIVE Al Gharraf vs Mosul FC [-1']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Al Gharraf vs Mosul FC" tvg-logo="https://media2.16m50.tv/media/club/1758.webp" group-title="truct-tiep live",LIVE Al Gharraf vs Mosul FC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live4.hztx2020.com/live/75949150_96a2ff2e97d299939b5cb316223b19da_autoChange.m3u8?auth_key=1795811215-0-0-fa79611ae6a9baa2ac9a4afb5ad984e0
@@ -43,11 +39,11 @@ https://live4.hztx2020.com/live/75949150_96a2ff2e97d299939b5cb316223b19da_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14659723_a06473e0458810ada5b4677aa910a57d_autoChange.m3u8?auth_key=1795811215-0-0-5bda38edc378527906bacc871fe8e9fd
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Romania U17 vs Cameroon U17" tvg-logo="https://media2.16m50.tv/media/club/11062.webp" group-title="truct-tiep live",LIVE Romania U17 vs Cameroon U17 [-1']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Romania U17 vs Cameroon U17" tvg-logo="https://media2.16m50.tv/media/club/11062.webp" group-title="truct-tiep live",LIVE Romania U17 vs Cameroon U17 [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live3.hztx2020.com/live/71762602_09ba09b261b7fb9d5f740ee87f362cbd_autoChange.m3u8?auth_key=1795811215-0-0-2265da5d810374d86a97b2832489d7ec
-#EXTINF:-1 tvg-id="" tvg-name="LIVE FK IMT Belgrad vs Macva Sabac" tvg-logo="https://media2.16m50.tv/media/club/6626.webp" group-title="truct-tiep live",LIVE FK IMT Belgrad vs Macva Sabac [1']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE FK IMT Belgrad vs Macva Sabac" tvg-logo="https://media2.16m50.tv/media/club/6626.webp" group-title="truct-tiep live",LIVE FK IMT Belgrad vs Macva Sabac [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14109763_078d01a4dc85432dd5d927276974fd86_autoChange.m3u8?auth_key=1795811215-0-0-94ee135afc98800c9fb58356b056c04b
@@ -70,4 +66,4 @@ https://live.hztx2020.com/live/13989547_401d76fad401fc00022d0451472fa14b_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="NK Radomlje vs NK Nafta 1903" tvg-logo="https://media2.16m50.tv/media/club/22192.webp" group-title="truct-tiep live",NK Radomlje vs NK Nafta 1903 [00:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14041284_d5806df5e372b37ffc21dcd796f51639_autoChange.m3u8?auth_key=1795812689-0-0-7b3a5ba7169e7405e8ed9554f5cc3bd1
+https://live.hztx2020.com/live/14041284_d5806df5e372b37ffc21dcd796f51639_autoChange.m3u8?auth_key=1795812766-0-0-d3e4a25aa19e985a23d13214da94ae41
