@@ -11,10 +11,6 @@ https://live.hztx2020.com/live/14025537_5ad540edd2500a96ec4faa8393f79da0_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14025534_9da39f942c02dfe62166a5712bdea798_autoChange.m3u8?auth_key=1795825487-0-0-dbd04a69e7f95901333ce512476e15ec
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Largs Thistle vs Ayr United" tvg-logo="https://media2.16m50.tv/media/club/17219.webp" group-title="truct-tiep live",LIVE Largs Thistle vs Ayr United [63']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14621668_985ac50dab234a83bac55e66fd0dc757_autoChange.m3u8?auth_key=1795825482-0-0-008e89cc8947f7fe948a3435f8fd211f
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Chrobry Glogow vs Unia Skierniewice" tvg-logo="https://media2.16m50.tv/media/club/4881.webp" group-title="truct-tiep live",LIVE Chrobry Glogow vs Unia Skierniewice [64']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -34,11 +30,7 @@ https://live3.hztx2020.com/live/14091318_25e54753cbed66dec7e3f27b8b02eb2c_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE SV Werder Bremen vs Borussia Monchengladbach" tvg-logo="https://media2.16m50.tv/media/club/7012.webp" group-title="truct-tiep live",LIVE SV Werder Bremen vs Borussia Monchengladbach [66']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live5.hztx2020.com/live/14099070_c49b78fcf2b7691df585299b27f6e89e_autoChange.m3u8?auth_key=1795827948-0-0-ad82075115a1c70d9a405f670f870c8d
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Stade Brestois 29 vs Paris FC" tvg-logo="https://media2.16m50.tv/media/club/6992.webp" group-title="truct-tiep live",LIVE Stade Brestois 29 vs Paris FC [63']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live5.hztx2020.com/live/13998871_eca0c18123800272564fa16f6fab2e47_autoChange.m3u8?auth_key=1795825488-0-0-f1c45549a3409c319875a94bf38735bc
+https://live5.hztx2020.com/live/14099070_c49b78fcf2b7691df585299b27f6e89e_autoChange.m3u8?auth_key=1795828056-0-0-42112ab25f6414edc0ca4c5958dc8e8d
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Venezia vs Bologna" tvg-logo="https://media2.16m50.tv/media/club/4556.webp" group-title="truct-tiep live",LIVE Venezia vs Bologna [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -50,7 +42,7 @@ https://live.hztx2020.com/live/14040181_b014afe5953b349384c29b3dec253fd8_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Hound Dogs vs Lions Gibraltar" tvg-logo="https://media2.16m50.tv/media/club/7168.webp" group-title="truct-tiep live",LIVE Hound Dogs vs Lions Gibraltar [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/63kv9igdmxgcx7e_11d1a62024795586b7e3993734b29ebf_autoChange.m3u8?auth_key=1795827949-0-0-eaf4f2d69c7022a76d13b7fad380c236
+https://live.hztx2020.com/live/63kv9igdmxgcx7e_11d1a62024795586b7e3993734b29ebf_autoChange.m3u8?auth_key=1795828057-0-0-3e33709bae8f86b7c1cc931974e0296a
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Southampton vs Middlesbrough" tvg-logo="https://media2.16m50.tv/media/club/6024.webp" group-title="truct-tiep live",LIVE Southampton vs Middlesbrough [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
