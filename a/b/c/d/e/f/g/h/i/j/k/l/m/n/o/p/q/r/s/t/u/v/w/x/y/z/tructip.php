@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE MVV Maastricht vs Jong PSV Eindhoven Youth" tvg-logo="https://media2.16m50.tv/media/club/1565.webp" group-title="truct-tiep live",LIVE MVV Maastricht vs Jong PSV Eindhoven Youth [67']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/13996406_556c6c0e678c031c7b8e83507345f433_autoChange.m3u8?auth_key=1795825485-0-0-36b1f1db65f038fa1ba82e577673d5ee
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Groningen vs Willem II" tvg-logo="https://media2.16m50.tv/media/club/4386.webp" group-title="truct-tiep live",LIVE Groningen vs Willem II [69']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/13995682_ed3ff57ae7dc235203a0c96bbaffca55_autoChange.m3u8?auth_key=1795825795-0-0-9b31b13fde6972fcbf165d0e3c859c40
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Delfin SC vs Orense SC" tvg-logo="https://media2.16m50.tv/media/club/1854.webp" group-title="truct-tiep live",LIVE Delfin SC vs Orense SC [71']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -42,7 +34,7 @@ https://live3.hztx2020.com/live/14091318_25e54753cbed66dec7e3f27b8b02eb2c_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE SV Werder Bremen vs Borussia Monchengladbach" tvg-logo="https://media2.16m50.tv/media/club/7012.webp" group-title="truct-tiep live",LIVE SV Werder Bremen vs Borussia Monchengladbach [66']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live5.hztx2020.com/live/14099070_c49b78fcf2b7691df585299b27f6e89e_autoChange.m3u8?auth_key=1795827828-0-0-96b8e733c1d2bda1effa162a64d489d0
+https://live5.hztx2020.com/live/14099070_c49b78fcf2b7691df585299b27f6e89e_autoChange.m3u8?auth_key=1795827948-0-0-ad82075115a1c70d9a405f670f870c8d
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Stade Brestois 29 vs Paris FC" tvg-logo="https://media2.16m50.tv/media/club/6992.webp" group-title="truct-tiep live",LIVE Stade Brestois 29 vs Paris FC [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -51,15 +43,15 @@ https://live5.hztx2020.com/live/13998871_eca0c18123800272564fa16f6fab2e47_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live4.hztx2020.com/live/13980689_b1e2a19caf7a8b1c5dc5b074592a243d_autoChange.m3u8?auth_key=1795825796-0-0-3115a8acc524122e841ab53acd42e30a
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Nottingham Forest vs Chelsea" tvg-logo="https://media2.16m50.tv/media/club/370.webp" group-title="truct-tiep live",LIVE Nottingham Forest vs Chelsea [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Nottingham Forest vs Chelsea" tvg-logo="https://media2.16m50.tv/media/club/370.webp" group-title="truct-tiep live",LIVE Nottingham Forest vs Chelsea [64']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14040181_b014afe5953b349384c29b3dec253fd8_autoChange.m3u8?auth_key=1795825794-0-0-9dc011a03e729726ae4f4334a99a2dcb
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Hound Dogs vs Lions Gibraltar" tvg-logo="https://media2.16m50.tv/media/club/7168.webp" group-title="truct-tiep live",LIVE Hound Dogs vs Lions Gibraltar [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/63kv9igdmxgcx7e_11d1a62024795586b7e3993734b29ebf_autoChange.m3u8?auth_key=1795827829-0-0-3de878517634479565e381f2a472bfde
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Southampton vs Middlesbrough" tvg-logo="https://media2.16m50.tv/media/club/6024.webp" group-title="truct-tiep live",LIVE Southampton vs Middlesbrough [Đang đá]
+https://live.hztx2020.com/live/63kv9igdmxgcx7e_11d1a62024795586b7e3993734b29ebf_autoChange.m3u8?auth_key=1795827949-0-0-eaf4f2d69c7022a76d13b7fad380c236
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Southampton vs Middlesbrough" tvg-logo="https://media2.16m50.tv/media/club/6024.webp" group-title="truct-tiep live",LIVE Southampton vs Middlesbrough [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14069172_75f7351306f2842aca94188344f86f80_autoChange.m3u8?auth_key=1795825482-0-0-be03cac78713ebcb23771ec4b8d4c8fb
@@ -67,7 +59,7 @@ https://live2.hztx2020.com/live/14069172_75f7351306f2842aca94188344f86f80_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14090797_401ee129e97cd676df15066799623087_autoChange.m3u8?auth_key=1795825487-0-0-ecebdb2fa6dd7a481df76fc742351043
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Maritimo vs Nacional da Madeira" tvg-logo="https://media2.16m50.tv/media/club/6871.webp" group-title="truct-tiep live",LIVE Maritimo vs Nacional da Madeira [1']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Maritimo vs Nacional da Madeira" tvg-logo="https://media2.16m50.tv/media/club/6871.webp" group-title="truct-tiep live",LIVE Maritimo vs Nacional da Madeira [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14102823_0ca7851073dc79d34cf47ae48aeeef53_autoChange.m3u8?auth_key=1795825794-0-0-be4599f4db81c36c21a47794a4dcf871
