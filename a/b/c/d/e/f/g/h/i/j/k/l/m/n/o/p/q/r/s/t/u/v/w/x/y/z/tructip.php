@@ -3,6 +3,10 @@
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14643674_72952825db5419e19af78540c69e6114_autoChange.m3u8?auth_key=1795775394-0-0-c13fbec0298a132aa76d60f8b2d8014d
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Jordan vs New Zealand" tvg-logo="https://media2.16m50.tv/media/club/11685.webp" group-title="truct-tiep live",LIVE Jordan vs New Zealand [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14158934_3d3693e2f19c683400301ce6abed1b31_autoChange.m3u8?auth_key=1795778624-0-0-2918955c52960e7e255b9a07df45ac60
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Guam U15 vs Northern Mariana Islands U15" tvg-logo="https://media2.16m50.tv/media/club/27955.webp" group-title="truct-tiep live",LIVE Guam U15 vs Northern Mariana Islands U15 [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
