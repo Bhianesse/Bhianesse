@@ -19,10 +19,6 @@ https://live1.hztx2020.com/live/14305472_323ffa0213eb0c305b16d871b94e2b4e_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14622202_d85e659128fc2fbfe4da5a380a5a61e0_autoChange.m3u8?auth_key=1795793239-0-0-ae22408e78a28a6f19e787f0f90785bc
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Hong Kong Trung quốc vs Mông Cổ" tvg-logo="https://media2.16m50.tv/media/club/28010.webp" group-title="truct-tiep live",LIVE Hong Kong Trung quốc vs Mông Cổ [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14416863_966ca0711f73000fc3c77590f3ed6cc3_autoChange.m3u8?auth_key=1795794818-0-0-02c72cb6c71e901db6f6cfb60b60edeb
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Thai Nguyen vs Hung Yen" tvg-logo="https://media2.16m50.tv/media/club/24865.webp" group-title="truct-tiep live",LIVE Thai Nguyen vs Hung Yen [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -31,6 +27,10 @@ https://live4.hztx2020.com/live/14360445_64e3b50860e46e584865f1cade8fc52c_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14360819_ac532569eba60193537fb92e638d57d9_autoChange.m3u8?auth_key=1795793239-0-0-1b242bbe74bb9bbeae1ed79b7ca0c60e
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Xuan Thien Phu Tho vs Lam Dong" tvg-logo="https://media2.16m50.tv/media/club/1030.webp" group-title="truct-tiep live",LIVE Xuan Thien Phu Tho vs Lam Dong [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live3.hztx2020.com/live/14360447_bbcdb46bade2af13685e40f18e237a94_autoChange.m3u8?auth_key=1795793239-0-0-15a61cb9f18d761c41b909830b2c9631
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Thep Xanh Nam Dinh FC vs Cong An Ha Noi FC" tvg-logo="https://media2.16m50.tv/media/club/5739.webp" group-title="truct-tiep live",LIVE Thep Xanh Nam Dinh FC vs Cong An Ha Noi FC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -43,7 +43,11 @@ https://live2.hztx2020.com/live/14445188_13f6af8fdd4df17961457b5b83b2265e_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live4.hztx2020.com/live/14219315_c57da2b5f8a0a2463ef32251de94b672_autoChange.m3u8?auth_key=1795793240-0-0-76030ecc4166c93f708ef2d9cd2198da
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Syrian vs Philippines" tvg-logo="https://media2.16m50.tv/media/club/28104.webp" group-title="truct-tiep live",LIVE Syrian vs Philippines [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Bashundhara Kings vs Fortis FC" tvg-logo="https://media2.16m50.tv/media/club/1013.webp" group-title="truct-tiep live",LIVE Bashundhara Kings vs Fortis FC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14158935_8b7c9ab7932a2cf3ab1cf7647758ea6b_autoChange.m3u8?auth_key=1795794819-0-0-9c3347bdde0d6acbaf8b8d2b731d3cb2
+https://live5.hztx2020.com/live/14470604_892111771079e0d2af8d88ef0619cf6b_autoChange.m3u8?auth_key=1795793241-0-0-bf6b30f5b43b2e072e5998aea6bbc649
+#EXTINF:-1 tvg-id="" tvg-name="Sabail FC vs Al Shimali" tvg-logo="https://media2.16m50.tv/media/club/1088.webp" group-title="truct-tiep live",Sabail FC vs Al Shimali [19:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live2.hztx2020.com/live/14326410_56893f8ddd759e10a0b6d847c751984e_autoChange.m3u8?auth_key=1795794827-0-0-2a637be76825ebbb67b0a224c424c93b
