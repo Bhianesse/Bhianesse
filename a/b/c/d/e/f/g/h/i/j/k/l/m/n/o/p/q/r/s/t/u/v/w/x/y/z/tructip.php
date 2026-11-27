@@ -3,14 +3,14 @@
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/m2q15i82vzlfe76_ad854214415315192cfa46ea131505de_autoChange.m3u8?auth_key=1795793242-0-0-46c8401b3f99a8b45304f01955b527e1
-#EXTINF:-1 tvg-id="" tvg-name="LIVE PFK Zaqatala vs Qarabag Khankendi" tvg-logo="https://media2.16m50.tv/media/club/705.webp" group-title="truct-tiep live",LIVE PFK Zaqatala vs Qarabag Khankendi [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14326411_e0f0e1b450a34938e4f0db06be018a74_autoChange.m3u8?auth_key=1795793242-0-0-1113d5ff23087448670eaeee495c9bdc
 #EXTINF:-1 tvg-id="" tvg-name="LIVE İmişli FK vs Safa Baku" tvg-logo="https://media2.16m50.tv/media/club/5861.webp" group-title="truct-tiep live",LIVE İmişli FK vs Safa Baku [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14215773_f3572d130b504cb5a54f40731c84e884_autoChange.m3u8?auth_key=1795793242-0-0-b23775025d46c63bd073d4ba7cd91124
+#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Syunik vs FK Van Charentsavan" tvg-logo="https://media2.16m50.tv/media/club/5680.webp" group-title="truct-tiep live",LIVE FC Syunik vs FK Van Charentsavan [1']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/14305472_323ffa0213eb0c305b16d871b94e2b4e_autoChange.m3u8?auth_key=1795793239-0-0-7951ef18421513e1eac90f521f744d03
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FC Livyi Bereh vs Kolos Kovalivka" tvg-logo="https://media2.16m50.tv/media/club/10430.webp" group-title="truct-tiep live",LIVE FC Livyi Bereh vs Kolos Kovalivka [4']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -19,10 +19,6 @@ https://live.hztx2020.com/live/14622202_d85e659128fc2fbfe4da5a380a5a61e0_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live4.hztx2020.com/live/14360445_64e3b50860e46e584865f1cade8fc52c_autoChange.m3u8?auth_key=1795793239-0-0-761b751b3bb84bd0791de629d18cc584
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Song Lam Nghe An vs Ninh Binh FC" tvg-logo="https://media2.16m50.tv/media/club/2550.webp" group-title="truct-tiep live",LIVE Song Lam Nghe An vs Ninh Binh FC [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14360819_ac532569eba60193537fb92e638d57d9_autoChange.m3u8?auth_key=1795793239-0-0-1b242bbe74bb9bbeae1ed79b7ca0c60e
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Xuan Thien Phu Tho vs Lam Dong" tvg-logo="https://media2.16m50.tv/media/club/1030.webp" group-title="truct-tiep live",LIVE Xuan Thien Phu Tho vs Lam Dong [-1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -35,6 +31,10 @@ https://live5.hztx2020.com/live/14360818_8888596f660f7460db42855655b4732e_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14445188_13f6af8fdd4df17961457b5b83b2265e_autoChange.m3u8?auth_key=1795793239-0-0-71ffd494b410563596b82847a564653b
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Geylang United FC vs Tanjong Pagar United" tvg-logo="https://media2.16m50.tv/media/club/3039.webp" group-title="truct-tiep live",LIVE Geylang United FC vs Tanjong Pagar United [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live4.hztx2020.com/live/14219315_c57da2b5f8a0a2463ef32251de94b672_autoChange.m3u8?auth_key=1795793240-0-0-76030ecc4166c93f708ef2d9cd2198da
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Bashundhara Kings vs Fortis FC" tvg-logo="https://media2.16m50.tv/media/club/1013.webp" group-title="truct-tiep live",LIVE Bashundhara Kings vs Fortis FC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
