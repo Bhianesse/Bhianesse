@@ -10,7 +10,7 @@ https://live.hztx2020.com/live/14058562_fabc5acb9bec310c64a4e360e07b8feb_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE SV Werder Bremen vs Borussia Monchengladbach" tvg-logo="https://media2.16m50.tv/media/club/7012.webp" group-title="truct-tiep live",LIVE SV Werder Bremen vs Borussia Monchengladbach [66']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live5.hztx2020.com/live/14099070_c49b78fcf2b7691df585299b27f6e89e_autoChange.m3u8?auth_key=1795829139-0-0-dc34ab88f5354fd2752e7a65c80cce00
+https://live5.hztx2020.com/live/14099070_c49b78fcf2b7691df585299b27f6e89e_autoChange.m3u8?auth_key=1795829175-0-0-65b0459d6f949b683e2dd548567fcbdf
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Stade Brestois 29 vs Paris FC" tvg-logo="https://media2.16m50.tv/media/club/6992.webp" group-title="truct-tiep live",LIVE Stade Brestois 29 vs Paris FC [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
