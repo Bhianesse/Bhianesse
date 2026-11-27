@@ -11,3 +11,7 @@ https://live1.hztx2020.com/live/14712083_89cd2aaa71762248eb1de842c149b988_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14551454_22dae6550edefb205a585fc1cc774ac3_autoChange.m3u8?auth_key=1795832985-0-0-53e4513780ee23ce34083fcac1faa470
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Kansas vs Villanova" tvg-logo="https://media2.16m50.tv/media/club/27704.webp" group-title="truct-tiep live",LIVE Kansas vs Villanova [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live2.hztx2020.com/live/14463873_c777a958a5cf01143d0cf34ed316fc93_autoChange.m3u8?auth_key=1795834179-0-0-b97e786b256e8082e4bb5912070b4472
