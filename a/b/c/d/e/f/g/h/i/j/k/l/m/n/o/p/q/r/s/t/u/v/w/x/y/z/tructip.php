@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Al-Sailiya Sports Club vs Al-Gharafa Sports Club" tvg-logo="https://media2.16m50.tv/media/club/22227.webp" group-title="truct-tiep live",LIVE Al-Sailiya Sports Club vs Al-Gharafa Sports Club [73']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14728988_2f56e47c8d88776757717d345b2ff05f_autoChange.m3u8?auth_key=1795804189-0-0-20c0bd6b54b67c07d5f95f34c053eaf2
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Ireland U17 vs Tanzania U17" tvg-logo="https://media2.16m50.tv/media/club/11079.webp" group-title="truct-tiep live",LIVE Ireland U17 vs Tanzania U17 [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -39,11 +35,3 @@ https://live4.hztx2020.com/live/14613242_aacf2bd78a4118d1f372f1f1445eb163_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/76774830_321637725b12a0f0564a9c0e6438160a_autoChange.m3u8?auth_key=1795806564-0-0-c956dc2ca7490a8a39930a2d7a96487d
-#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Neftci Baku vs Zira FK" tvg-logo="https://media2.16m50.tv/media/club/7506.webp" group-title="truct-tiep live",LIVE FC Neftci Baku vs Zira FK [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14215774_0407dfb35b09d1a0ef0cd663a87c71ed_autoChange.m3u8?auth_key=1795806564-0-0-950e02d17bac185e5aeabfa754c2c4c3
-#EXTINF:-1 tvg-id="" tvg-name="LIVE East Riffa vs Al-Ittifaq" tvg-logo="https://media2.16m50.tv/media/club/7523.webp" group-title="truct-tiep live",LIVE East Riffa vs Al-Ittifaq [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/14613241_ae997fdf5bbfc07c55f8ded3bc9b1750_autoChange.m3u8?auth_key=1795806564-0-0-54363dea8cc36bb2308f89ac222fa92f
