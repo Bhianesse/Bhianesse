@@ -14,8 +14,8 @@ https://live.hztx2020.com/live/14342716_d38765b2817906d297d1e5d951fe3497_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Deportivo Cuenca vs Manta FC" tvg-logo="https://media2.16m50.tv/media/club/669.webp" group-title="truct-tiep live",LIVE Deportivo Cuenca vs Manta FC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14462516_9f6883b21e2b9dc1e33d8110b7d5db9b_autoChange.m3u8?auth_key=1795830745-0-0-aa3f24973ad62b5a25c8f2832561bf64
+https://live.hztx2020.com/live/14462516_9f6883b21e2b9dc1e33d8110b7d5db9b_autoChange.m3u8?auth_key=1795831058-0-0-562b2f691ad5f4069462167608210d12
 #EXTINF:-1 tvg-id="" tvg-name="Atletico Atlanta vs Club Ciudad de Bolivar" tvg-logo="https://media2.16m50.tv/media/club/5093.webp" group-title="truct-tiep live",Atletico Atlanta vs Club Ciudad de Bolivar [05:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14712083_89cd2aaa71762248eb1de842c149b988_autoChange.m3u8?auth_key=1795830745-0-0-12ad9226224cb00bbeeba9ba56b045d0
+https://live1.hztx2020.com/live/14712083_89cd2aaa71762248eb1de842c149b988_autoChange.m3u8?auth_key=1795831058-0-0-3b58930bc26d2697937c154f08f54ab9
