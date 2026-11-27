@@ -26,4 +26,4 @@ https://live3.hztx2020.com/live/14342719_5b2181e5340a8674a5f37e45fb850b79_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="Deportivo Cali vs Atletico Bucaramanga" tvg-logo="https://media2.16m50.tv/media/club/1868.webp" group-title="truct-tiep live",Deportivo Cali vs Atletico Bucaramanga [06:35 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14718718_068a2bb19fb36b91d82b8596df17d478_autoChange.m3u8?auth_key=1795836816-0-0-9dba655b5573495304cfa987ae8243b6
+https://live.hztx2020.com/live/14718718_068a2bb19fb36b91d82b8596df17d478_autoChange.m3u8?auth_key=1795836854-0-0-c4f8d6621630edd27d5eee749e303bcd
