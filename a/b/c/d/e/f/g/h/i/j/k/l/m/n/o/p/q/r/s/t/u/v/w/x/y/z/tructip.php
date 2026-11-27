@@ -3,7 +3,7 @@
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/ndqmli9x2o5arkv_2b4590408549fdf978f7883de2f753ee_autoChange.m3u8?auth_key=1795764584-0-0-55f1a78c708131deedafa3141ade908f
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Bangalore United FC vs MEG" tvg-logo="https://media2.16m50.tv/media/club/26091.webp" group-title="truct-tiep live",LIVE Bangalore United FC vs MEG [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Bangalore United FC vs MEG" tvg-logo="https://media2.16m50.tv/media/club/26091.webp" group-title="truct-tiep live",LIVE Bangalore United FC vs MEG [62']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14643676_52dbd71b6162f410b137de58088924ea_autoChange.m3u8?auth_key=1795764584-0-0-3b1bef06e54bc84ecae8028b71f82b44
