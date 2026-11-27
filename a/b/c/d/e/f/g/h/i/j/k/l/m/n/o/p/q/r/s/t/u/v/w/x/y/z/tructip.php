@@ -42,7 +42,7 @@ https://live3.hztx2020.com/live/14091318_25e54753cbed66dec7e3f27b8b02eb2c_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE SV Werder Bremen vs Borussia Monchengladbach" tvg-logo="https://media2.16m50.tv/media/club/7012.webp" group-title="truct-tiep live",LIVE SV Werder Bremen vs Borussia Monchengladbach [66']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live5.hztx2020.com/live/14099070_c49b78fcf2b7691df585299b27f6e89e_autoChange.m3u8?auth_key=1795827567-0-0-f3862c644d4613f2cb06648901148986
+https://live5.hztx2020.com/live/14099070_c49b78fcf2b7691df585299b27f6e89e_autoChange.m3u8?auth_key=1795827699-0-0-d3d93d43c778f1da66a569d940e1279e
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Stade Brestois 29 vs Paris FC" tvg-logo="https://media2.16m50.tv/media/club/6992.webp" group-title="truct-tiep live",LIVE Stade Brestois 29 vs Paris FC [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -58,7 +58,7 @@ https://live.hztx2020.com/live/14040181_b014afe5953b349384c29b3dec253fd8_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Hound Dogs vs Lions Gibraltar" tvg-logo="https://media2.16m50.tv/media/club/7168.webp" group-title="truct-tiep live",LIVE Hound Dogs vs Lions Gibraltar [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/63kv9igdmxgcx7e_11d1a62024795586b7e3993734b29ebf_autoChange.m3u8?auth_key=1795827584-0-0-ac5fa018f8b736df8f6ae52178b32cb4
+https://live.hztx2020.com/live/63kv9igdmxgcx7e_11d1a62024795586b7e3993734b29ebf_autoChange.m3u8?auth_key=1795827700-0-0-a28798fd13cd903859845de65eba6f33
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Southampton vs Middlesbrough" tvg-logo="https://media2.16m50.tv/media/club/6024.webp" group-title="truct-tiep live",LIVE Southampton vs Middlesbrough [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
