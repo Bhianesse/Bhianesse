@@ -3,6 +3,10 @@
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/2437287_b7d0e55b84f3aedf0cd3bfc3de51a488_autoChange.m3u8?auth_key=1795757396-0-0-9a16ff2a6c845ad0172d9e104b36baef
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Montevideo City Torque vs Nacional Montevideo" tvg-logo="https://media2.16m50.tv/media/club/7571.webp" group-title="truct-tiep live",LIVE Montevideo City Torque vs Nacional Montevideo [64']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14719826_9ee01d3d1e1371b9f2e5a017bb2c26ee_autoChange.m3u8?auth_key=1795758951-0-0-eb8aa7b21e2a14c8542a99416fcf7aee
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Pachuca vs Club Deportivo Guadalajara" tvg-logo="https://media2.16m50.tv/media/club/5306.webp" group-title="truct-tiep live",LIVE Pachuca vs Club Deportivo Guadalajara [3']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
