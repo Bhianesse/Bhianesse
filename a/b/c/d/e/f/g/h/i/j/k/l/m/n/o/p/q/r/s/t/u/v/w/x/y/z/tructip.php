@@ -19,11 +19,11 @@ https://live.hztx2020.com/live/14123425_73bc25224fc4a50ea5c226015c97ee1a_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14527954_f954a0eb626796e54df7f0fe1cf436d6_autoChange.m3u8?auth_key=1795804190-0-0-32af662200fe4c5c405e214042712ae0
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Al Qadsiah vs Al Fayha" tvg-logo="https://media2.16m50.tv/media/club/863.webp" group-title="truct-tiep live",LIVE Al Qadsiah vs Al Fayha [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Al Qadsiah vs Al Fayha" tvg-logo="https://media2.16m50.tv/media/club/863.webp" group-title="truct-tiep live",LIVE Al Qadsiah vs Al Fayha [64']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14674366_8dee783efc0325e0115ea111077d30f8_autoChange.m3u8?auth_key=1795803885-0-0-705c7a42ff02b0951a9e8beb2f6cec37
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Montenegro U17 vs Chile U17" tvg-logo="https://media2.16m50.tv/media/club/11048.webp" group-title="truct-tiep live",LIVE Montenegro U17 vs Chile U17 [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Montenegro U17 vs Chile U17" tvg-logo="https://media2.16m50.tv/media/club/11048.webp" group-title="truct-tiep live",LIVE Montenegro U17 vs Chile U17 [-1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/71762590_e3ea0ff882ca64459bb5a97b9eaeaed0_autoChange.m3u8?auth_key=1795807361-0-0-6f16675eb800c38601cf7748c604b225
