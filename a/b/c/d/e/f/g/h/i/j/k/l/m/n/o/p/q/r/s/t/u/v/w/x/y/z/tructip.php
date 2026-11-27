@@ -35,11 +35,11 @@ https://live.hztx2020.com/live/14025537_5ad540edd2500a96ec4faa8393f79da0_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14025534_9da39f942c02dfe62166a5712bdea798_autoChange.m3u8?auth_key=1795825487-0-0-dbd04a69e7f95901333ce512476e15ec
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Largs Thistle vs Ayr United" tvg-logo="https://media2.16m50.tv/media/club/17219.webp" group-title="truct-tiep live",LIVE Largs Thistle vs Ayr United [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Largs Thistle vs Ayr United" tvg-logo="https://media2.16m50.tv/media/club/17219.webp" group-title="truct-tiep live",LIVE Largs Thistle vs Ayr United [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14621668_985ac50dab234a83bac55e66fd0dc757_autoChange.m3u8?auth_key=1795825482-0-0-008e89cc8947f7fe948a3435f8fd211f
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Chrobry Glogow vs Unia Skierniewice" tvg-logo="https://media2.16m50.tv/media/club/4881.webp" group-title="truct-tiep live",LIVE Chrobry Glogow vs Unia Skierniewice [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Chrobry Glogow vs Unia Skierniewice" tvg-logo="https://media2.16m50.tv/media/club/4881.webp" group-title="truct-tiep live",LIVE Chrobry Glogow vs Unia Skierniewice [64']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live4.hztx2020.com/live/14048158_067affae07f4c591c243a97abd2973bf_autoChange.m3u8?auth_key=1795825795-0-0-74b6a624389d09850f3c7f693a069c73
@@ -47,15 +47,15 @@ https://live4.hztx2020.com/live/14048158_067affae07f4c591c243a97abd2973bf_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14086729_df8a755cc6a331d524b0807205efcc0e_autoChange.m3u8?auth_key=1795825487-0-0-9127b5dbc1ae37a60b63a96d4211046a
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Gornik Zabrze vs Wisla Plock" tvg-logo="https://media2.16m50.tv/media/club/420.webp" group-title="truct-tiep live",LIVE Gornik Zabrze vs Wisla Plock [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Gornik Zabrze vs Wisla Plock" tvg-logo="https://media2.16m50.tv/media/club/420.webp" group-title="truct-tiep live",LIVE Gornik Zabrze vs Wisla Plock [66']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14058562_fabc5acb9bec310c64a4e360e07b8feb_autoChange.m3u8?auth_key=1795825795-0-0-fbbe5aaf4b69d32ad66e255e39e0501f
-#EXTINF:-1 tvg-id="" tvg-name="LIVE CD Leganes vs Sabadell" tvg-logo="https://media2.16m50.tv/media/club/7108.webp" group-title="truct-tiep live",LIVE CD Leganes vs Sabadell [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE CD Leganes vs Sabadell" tvg-logo="https://media2.16m50.tv/media/club/7108.webp" group-title="truct-tiep live",LIVE CD Leganes vs Sabadell [62']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live3.hztx2020.com/live/14091318_25e54753cbed66dec7e3f27b8b02eb2c_autoChange.m3u8?auth_key=1795825795-0-0-f8c79092f8991079c7f717046ae12175
-#EXTINF:-1 tvg-id="" tvg-name="LIVE SV Werder Bremen vs Borussia Monchengladbach" tvg-logo="https://media2.16m50.tv/media/club/7012.webp" group-title="truct-tiep live",LIVE SV Werder Bremen vs Borussia Monchengladbach [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE SV Werder Bremen vs Borussia Monchengladbach" tvg-logo="https://media2.16m50.tv/media/club/7012.webp" group-title="truct-tiep live",LIVE SV Werder Bremen vs Borussia Monchengladbach [66']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live5.hztx2020.com/live/14099070_c49b78fcf2b7691df585299b27f6e89e_autoChange.m3u8?auth_key=1795826295-0-0-b16a125a008c6f316a414a95698b0566
@@ -63,7 +63,7 @@ https://live5.hztx2020.com/live/14099070_c49b78fcf2b7691df585299b27f6e89e_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live5.hztx2020.com/live/13998871_eca0c18123800272564fa16f6fab2e47_autoChange.m3u8?auth_key=1795825488-0-0-f1c45549a3409c319875a94bf38735bc
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Venezia vs Bologna" tvg-logo="https://media2.16m50.tv/media/club/4556.webp" group-title="truct-tiep live",LIVE Venezia vs Bologna [1']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Venezia vs Bologna" tvg-logo="https://media2.16m50.tv/media/club/4556.webp" group-title="truct-tiep live",LIVE Venezia vs Bologna [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live4.hztx2020.com/live/13980689_b1e2a19caf7a8b1c5dc5b074592a243d_autoChange.m3u8?auth_key=1795825796-0-0-3115a8acc524122e841ab53acd42e30a
