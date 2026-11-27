@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Petrolul Ploiesti vs Arges" tvg-logo="https://media2.16m50.tv/media/club/4046.webp" group-title="truct-tiep live",LIVE Petrolul Ploiesti vs Arges [69']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14075844_52fefdecbc93d8d921cd25f7c69fc12b_autoChange.m3u8?auth_key=1795821956-0-0-9d6d7ddf0241b043f1b85929701fd430
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Jong Genk vs RSCA Futures" tvg-logo="https://media2.16m50.tv/media/club/1604.webp" group-title="truct-tiep live",LIVE Jong Genk vs RSCA Futures [68']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14041449_349a9a1f30e258174d8570f21640a7b7_autoChange.m3u8?auth_key=1795825468-0-0-02f00b356596f153a8712b9d5f86f268
-#EXTINF:-1 tvg-id="" tvg-name="LIVE MVV Maastricht vs Jong PSV Eindhoven Youth" tvg-logo="https://media2.16m50.tv/media/club/1565.webp" group-title="truct-tiep live",LIVE MVV Maastricht vs Jong PSV Eindhoven Youth [67']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/13996406_556c6c0e678c031c7b8e83507345f433_autoChange.m3u8?auth_key=1795825485-0-0-36b1f1db65f038fa1ba82e577673d5ee
 #EXTINF:-1 tvg-id="" tvg-name="LIVE NAC Breda vs Den Bosch" tvg-logo="https://media2.16m50.tv/media/club/6894.webp" group-title="truct-tiep live",LIVE NAC Breda vs Den Bosch [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -43,11 +31,7 @@ https://live.hztx2020.com/live/14025534_9da39f942c02dfe62166a5712bdea798_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14621668_985ac50dab234a83bac55e66fd0dc757_autoChange.m3u8?auth_key=1795825482-0-0-008e89cc8947f7fe948a3435f8fd211f
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Chrobry Glogow vs Unia Skierniewice" tvg-logo="https://media2.16m50.tv/media/club/4881.webp" group-title="truct-tiep live",LIVE Chrobry Glogow vs Unia Skierniewice [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live4.hztx2020.com/live/14048158_067affae07f4c591c243a97abd2973bf_autoChange.m3u8?auth_key=1795825795-0-0-74b6a624389d09850f3c7f693a069c73
-#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Wacker Innsbruck vs First Vienna FC 1894" tvg-logo="https://media2.16m50.tv/media/club/8867.webp" group-title="truct-tiep live",LIVE FC Wacker Innsbruck vs First Vienna FC 1894 [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Wacker Innsbruck vs First Vienna FC 1894" tvg-logo="https://media2.16m50.tv/media/club/8867.webp" group-title="truct-tiep live",LIVE FC Wacker Innsbruck vs First Vienna FC 1894 [61']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14086729_df8a755cc6a331d524b0807205efcc0e_autoChange.m3u8?auth_key=1795825487-0-0-9127b5dbc1ae37a60b63a96d4211046a
@@ -75,10 +59,6 @@ https://live4.hztx2020.com/live/13980689_b1e2a19caf7a8b1c5dc5b074592a243d_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14040181_b014afe5953b349384c29b3dec253fd8_autoChange.m3u8?auth_key=1795825794-0-0-9dc011a03e729726ae4f4334a99a2dcb
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Southampton vs Middlesbrough" tvg-logo="https://media2.16m50.tv/media/club/6024.webp" group-title="truct-tiep live",LIVE Southampton vs Middlesbrough [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14069172_75f7351306f2842aca94188344f86f80_autoChange.m3u8?auth_key=1795825482-0-0-be03cac78713ebcb23771ec4b8d4c8fb
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Levante vs Racing Santander" tvg-logo="https://media2.16m50.tv/media/club/4341.webp" group-title="truct-tiep live",LIVE Levante vs Racing Santander [2']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -87,7 +67,7 @@ https://live1.hztx2020.com/live/14090797_401ee129e97cd676df15066799623087_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14102823_0ca7851073dc79d34cf47ae48aeeef53_autoChange.m3u8?auth_key=1795825794-0-0-be4599f4db81c36c21a47794a4dcf871
-#EXTINF:-1 tvg-id="" tvg-name="FC Nacional Asuncion vs Rubio nu" tvg-logo="https://media2.16m50.tv/media/club/941.webp" group-title="truct-tiep live",FC Nacional Asuncion vs Rubio nu [03:30 WIB]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Nacional Asuncion vs Rubio nu" tvg-logo="https://media2.16m50.tv/media/club/941.webp" group-title="truct-tiep live",LIVE FC Nacional Asuncion vs Rubio nu [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14342716_d38765b2817906d297d1e5d951fe3497_autoChange.m3u8?auth_key=1795825487-0-0-e22da69a8930554b2d93f7b273d72527
