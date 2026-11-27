@@ -7,6 +7,10 @@ https://live.hztx2020.com/live/m2q15i82vzlfe76_ad854214415315192cfa46ea131505de_
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14326411_e0f0e1b450a34938e4f0db06be018a74_autoChange.m3u8?auth_key=1795793242-0-0-1113d5ff23087448670eaeee495c9bdc
+#EXTINF:-1 tvg-id="" tvg-name="LIVE İmişli FK vs Safa Baku" tvg-logo="https://media2.16m50.tv/media/club/5861.webp" group-title="truct-tiep live",LIVE İmişli FK vs Safa Baku [65']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14215773_f3572d130b504cb5a54f40731c84e884_autoChange.m3u8?auth_key=1795793242-0-0-b23775025d46c63bd073d4ba7cd91124
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FC Syunik vs FK Van Charentsavan" tvg-logo="https://media2.16m50.tv/media/club/5680.webp" group-title="truct-tiep live",LIVE FC Syunik vs FK Van Charentsavan [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -15,6 +19,10 @@ https://live1.hztx2020.com/live/14305472_323ffa0213eb0c305b16d871b94e2b4e_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14622202_d85e659128fc2fbfe4da5a380a5a61e0_autoChange.m3u8?auth_key=1795793239-0-0-ae22408e78a28a6f19e787f0f90785bc
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Thai Nguyen vs Hung Yen" tvg-logo="https://media2.16m50.tv/media/club/24865.webp" group-title="truct-tiep live",LIVE Thai Nguyen vs Hung Yen [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live4.hztx2020.com/live/14360445_64e3b50860e46e584865f1cade8fc52c_autoChange.m3u8?auth_key=1795793239-0-0-761b751b3bb84bd0791de629d18cc584
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Song Lam Nghe An vs Ninh Binh FC" tvg-logo="https://media2.16m50.tv/media/club/2550.webp" group-title="truct-tiep live",LIVE Song Lam Nghe An vs Ninh Binh FC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
