@@ -3,14 +3,14 @@
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/2438128_851e5a3c89bee231deb036aab4b1af10_autoChange.m3u8?auth_key=1795800485-0-0-7713535b3a4e846d398ba810aeadcdb9
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Baish vs Wajj" tvg-logo="https://media2.16m50.tv/media/club/25491.webp" group-title="truct-tiep live",LIVE Baish vs Wajj [64']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Baish vs Wajj" tvg-logo="https://media2.16m50.tv/media/club/25491.webp" group-title="truct-tiep live",LIVE Baish vs Wajj [70']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/527r3i30rmma47e_e7007af0e8887d7237181203ff36be5a_autoChange.m3u8?auth_key=1795803888-0-0-8146beec4a5de722f3922c56e0ecf4f6
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Ismaily SC vs Baladiyat El Mahalla" tvg-logo="https://media2.16m50.tv/media/club/1658.webp" group-title="truct-tiep live",LIVE Ismaily SC vs Baladiyat El Mahalla [76']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14178169_685b1fd946c75218a55eaffa506ec0c7_autoChange.m3u8?auth_key=1795803269-0-0-ae4ba1dd0d921f1eeec9fecb33d11e58
+https://live.hztx2020.com/live/14178169_685b1fd946c75218a55eaffa506ec0c7_autoChange.m3u8?auth_key=1795803887-0-0-630141c27985a9dda23ff4f91fe178ae
 #EXTINF:-1 tvg-id="" tvg-name="LIVE KF Tirana vs Skenderbeu Korca" tvg-logo="https://media2.16m50.tv/media/club/262.webp" group-title="truct-tiep live",LIVE KF Tirana vs Skenderbeu Korca [70']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -46,8 +46,12 @@ https://live.hztx2020.com/live/71762544_111f0fd2bac7337862b7617ac33355a6_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Empoli Youth vs Lazio U20" tvg-logo="https://media2.16m50.tv/media/club/22077.webp" group-title="truct-tiep live",LIVE Empoli Youth vs Lazio U20 [6']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14123425_73bc25224fc4a50ea5c226015c97ee1a_autoChange.m3u8?auth_key=1795803270-0-0-61006eafa98f5c723230982809f1c358
+https://live.hztx2020.com/live/14123425_73bc25224fc4a50ea5c226015c97ee1a_autoChange.m3u8?auth_key=1795803884-0-0-ac2bcf34114b6a71c8970303d9b8806f
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Shabab Al Ordon vs Al-Salt" tvg-logo="https://media2.16m50.tv/media/club/5012.webp" group-title="truct-tiep live",LIVE Shabab Al Ordon vs Al-Salt [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14527954_f954a0eb626796e54df7f0fe1cf436d6_autoChange.m3u8?auth_key=1795803269-0-0-f7285e7c64cccd0425bb1c088ec83a70
+https://live.hztx2020.com/live/14527954_f954a0eb626796e54df7f0fe1cf436d6_autoChange.m3u8?auth_key=1795803884-0-0-3d4290a3e407dbfc4d3c196decdb5724
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Al Qadsiah vs Al Fayha" tvg-logo="https://media2.16m50.tv/media/club/863.webp" group-title="truct-tiep live",LIVE Al Qadsiah vs Al Fayha [1']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14674366_8dee783efc0325e0115ea111077d30f8_autoChange.m3u8?auth_key=1795803885-0-0-705c7a42ff02b0951a9e8beb2f6cec37
