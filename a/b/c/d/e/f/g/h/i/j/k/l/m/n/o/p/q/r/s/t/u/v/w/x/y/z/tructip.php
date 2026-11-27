@@ -50,4 +50,8 @@ https://live.hztx2020.com/live/14317451_da16e1be9d622b3db31b615dca3c71fb_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Lusail Sports Club vs Al-Arabi Sports Club" tvg-logo="https://media2.16m50.tv/media/club/21963.webp" group-title="truct-tiep live",LIVE Lusail Sports Club vs Al-Arabi Sports Club [2']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14728990_65d8ea284c903b79f865ddcb781e40ef_autoChange.m3u8?auth_key=1795808386-0-0-04b1427a1b0ab8ca3c1b6cb5605cc620
+https://live1.hztx2020.com/live/14728990_65d8ea284c903b79f865ddcb781e40ef_autoChange.m3u8?auth_key=1795808488-0-0-b66cd5ca21b119c87f0f9b85e587625d
+#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Universitatea Cluj vs Sepsi OSK Sfantul Gheorghe" tvg-logo="https://media2.16m50.tv/media/club/4843.webp" group-title="truct-tiep live",LIVE FC Universitatea Cluj vs Sepsi OSK Sfantul Gheorghe [3']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14075847_43e54dfa7efa962e7f52dbf4e843fe84_autoChange.m3u8?auth_key=1795808488-0-0-1c485cc4b317ebc566e0c8205486f7ea
