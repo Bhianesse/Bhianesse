@@ -35,10 +35,6 @@ https://live4.hztx2020.com/live/14613242_aacf2bd78a4118d1f372f1f1445eb163_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/76774830_321637725b12a0f0564a9c0e6438160a_autoChange.m3u8?auth_key=1795807686-0-0-24af2075c79076885fb25a7fd1b42c08
-#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Neftci Baku vs Zira FK" tvg-logo="https://media2.16m50.tv/media/club/7506.webp" group-title="truct-tiep live",LIVE FC Neftci Baku vs Zira FK [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14215774_0407dfb35b09d1a0ef0cd663a87c71ed_autoChange.m3u8?auth_key=1795807686-0-0-c1a7ea1d6aff756a441f74c2df2555f0
 #EXTINF:-1 tvg-id="" tvg-name="LIVE East Riffa vs Al-Ittifaq" tvg-logo="https://media2.16m50.tv/media/club/7523.webp" group-title="truct-tiep live",LIVE East Riffa vs Al-Ittifaq [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -50,8 +46,8 @@ https://live.hztx2020.com/live/14317451_da16e1be9d622b3db31b615dca3c71fb_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Lusail Sports Club vs Al-Arabi Sports Club" tvg-logo="https://media2.16m50.tv/media/club/21963.webp" group-title="truct-tiep live",LIVE Lusail Sports Club vs Al-Arabi Sports Club [2']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14728990_65d8ea284c903b79f865ddcb781e40ef_autoChange.m3u8?auth_key=1795808985-0-0-2ac5de1c5fdb46dd1ca9c750178509db
+https://live1.hztx2020.com/live/14728990_65d8ea284c903b79f865ddcb781e40ef_autoChange.m3u8?auth_key=1795809107-0-0-bad862590217a39c6b20b7f6999bdc88
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FC Universitatea Cluj vs Sepsi OSK Sfantul Gheorghe" tvg-logo="https://media2.16m50.tv/media/club/4843.webp" group-title="truct-tiep live",LIVE FC Universitatea Cluj vs Sepsi OSK Sfantul Gheorghe [3']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14075847_43e54dfa7efa962e7f52dbf4e843fe84_autoChange.m3u8?auth_key=1795808985-0-0-d80a7a07708ed2fa70f6baf3e3b3f562
+https://live.hztx2020.com/live/14075847_43e54dfa7efa962e7f52dbf4e843fe84_autoChange.m3u8?auth_key=1795809107-0-0-d8f59ea78bda81932806039e28d92964
