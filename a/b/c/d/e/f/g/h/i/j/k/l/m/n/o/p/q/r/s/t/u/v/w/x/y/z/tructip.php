@@ -30,4 +30,4 @@ https://live.hztx2020.com/live/14342716_d38765b2817906d297d1e5d951fe3497_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Deportivo Cuenca vs Manta FC" tvg-logo="https://media2.16m50.tv/media/club/669.webp" group-title="truct-tiep live",LIVE Deportivo Cuenca vs Manta FC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14462516_9f6883b21e2b9dc1e33d8110b7d5db9b_autoChange.m3u8?auth_key=1795829764-0-0-5dd8eabb8ee439e78deb279864aa43c0
+https://live.hztx2020.com/live/14462516_9f6883b21e2b9dc1e33d8110b7d5db9b_autoChange.m3u8?auth_key=1795830093-0-0-bf5ebde871386c0b78ab969c59de03d1
