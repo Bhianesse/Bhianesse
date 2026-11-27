@@ -3,6 +3,14 @@
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live4.hztx2020.com/live/14219315_c57da2b5f8a0a2463ef32251de94b672_autoChange.m3u8?auth_key=1795796980-0-0-1fa1c9976c75eaf46ad4aa59ff261a48
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Bashundhara Kings vs Fortis FC" tvg-logo="https://media2.16m50.tv/media/club/1013.webp" group-title="truct-tiep live",LIVE Bashundhara Kings vs Fortis FC [66']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live5.hztx2020.com/live/14470604_892111771079e0d2af8d88ef0619cf6b_autoChange.m3u8?auth_key=1795796980-0-0-a5f58e6dc9991b498c2b7210516d71e5
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Buxoro FK vs Mashal Muborak" tvg-logo="https://media2.16m50.tv/media/club/784.webp" group-title="truct-tiep live",LIVE Buxoro FK vs Mashal Muborak [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/13534454_a952576032c87e276b5b8ac53ab44d25_autoChange.m3u8?auth_key=1795796978-0-0-f5e66ad066783af3223c40f552ccfce8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FK Kokand 1912 vs Xorazm Urganch" tvg-logo="https://media2.16m50.tv/media/club/1.webp" group-title="truct-tiep live",LIVE FK Kokand 1912 vs Xorazm Urganch [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -30,11 +38,11 @@ https://live.hztx2020.com/live/14207963_4e0b66e53727faf0f165b57d7a02f4ff_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Pogradeci vs KS Iliria Fushe" tvg-logo="https://media2.16m50.tv/media/club/3338.webp" group-title="truct-tiep live",LIVE Pogradeci vs KS Iliria Fushe [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/2438128_851e5a3c89bee231deb036aab4b1af10_autoChange.m3u8?auth_key=1795798786-0-0-f26aa0ddbad69be6f41f7c34bbc538a2
+https://live1.hztx2020.com/live/2438128_851e5a3c89bee231deb036aab4b1af10_autoChange.m3u8?auth_key=1795798887-0-0-89ee2377aad1fd8992fc455d44177f3b
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Dinamo Zagreb II vs Hrvace" tvg-logo="https://media2.16m50.tv/media/club/14301.webp" group-title="truct-tiep live",LIVE Dinamo Zagreb II vs Hrvace [-1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14167838_ffb7550a24cdb4fd41b1016169e841e3_autoChange.m3u8?auth_key=1795798786-0-0-ad115a3b92f24012df6b57cf5ca6354d
+https://live.hztx2020.com/live/14167838_ffb7550a24cdb4fd41b1016169e841e3_autoChange.m3u8?auth_key=1795798887-0-0-e21ca1eb8021c7f2873a9c863114c71f
 #EXTINF:-1 tvg-id="" tvg-name="LIVE KF Tirana vs Skenderbeu Korca" tvg-logo="https://media2.16m50.tv/media/club/262.webp" group-title="truct-tiep live",LIVE KF Tirana vs Skenderbeu Korca [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -42,12 +50,16 @@ https://live.hztx2020.com/live/14163064_b99f8271fb0bb591783caf96c59d1b02_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Gulf United FC vs FC Palm City" tvg-logo="https://media2.16m50.tv/media/club/1418.webp" group-title="truct-tiep live",LIVE Gulf United FC vs FC Palm City [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14547383_2344daa1fab0b7c8cbff3e141e11154d_autoChange.m3u8?auth_key=1795798787-0-0-1eb3f464b324be19806983ed7702690e
+https://live.hztx2020.com/live/14547383_2344daa1fab0b7c8cbff3e141e11154d_autoChange.m3u8?auth_key=1795798888-0-0-c44a3d6769877f23410a9252a5d7effe
 #EXTINF:-1 tvg-id="" tvg-name="Honduras U17 vs Japan U17" tvg-logo="https://media2.16m50.tv/media/club/15289.webp" group-title="truct-tiep live",Honduras U17 vs Japan U17 [20:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/71762618_715d01a00306cfcd4d8318413d1b9d8e_autoChange.m3u8?auth_key=1795798787-0-0-7c8454108015993ac1af31445026691d
+https://live2.hztx2020.com/live/71762618_715d01a00306cfcd4d8318413d1b9d8e_autoChange.m3u8?auth_key=1795798888-0-0-52da02810c941fef61e80a97a0fc2dce
+#EXTINF:-1 tvg-id="" tvg-name="Al-Sailiya Sports Club vs Al-Gharafa Sports Club" tvg-logo="https://media2.16m50.tv/media/club/22227.webp" group-title="truct-tiep live",Al-Sailiya Sports Club vs Al-Gharafa Sports Club [20:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14728988_2f56e47c8d88776757717d345b2ff05f_autoChange.m3u8?auth_key=1795798888-0-0-edf5e4a7aec555d3f16f464c74604a1d
 #EXTINF:-1 tvg-id="" tvg-name="Colombia U17 vs Serbia U17" tvg-logo="https://media2.16m50.tv/media/club/10988.webp" group-title="truct-tiep live",Colombia U17 vs Serbia U17 [20:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/71762616_bf8acfaa0cc0cd9fdb1c8128b6d4596c_autoChange.m3u8?auth_key=1795798787-0-0-b3434b1efbed96f3ef2e06479b1b49cc
+https://live1.hztx2020.com/live/71762616_bf8acfaa0cc0cd9fdb1c8128b6d4596c_autoChange.m3u8?auth_key=1795798888-0-0-9a58a132173e04ea073ef98809c203c1
