@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Hal FC vs ASC" tvg-logo="https://media2.16m50.tv/media/club/23690.webp" group-title="truct-tiep live",LIVE Hal FC vs ASC [73']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/m2q15i82vzlfe76_ad854214415315192cfa46ea131505de_autoChange.m3u8?auth_key=1795793242-0-0-46c8401b3f99a8b45304f01955b527e1
 #EXTINF:-1 tvg-id="" tvg-name="LIVE PFK Zaqatala vs Qarabag Khankendi" tvg-logo="https://media2.16m50.tv/media/club/705.webp" group-title="truct-tiep live",LIVE PFK Zaqatala vs Qarabag Khankendi [68']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -7,6 +11,10 @@ https://live.hztx2020.com/live/14326411_e0f0e1b450a34938e4f0db06be018a74_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14215773_f3572d130b504cb5a54f40731c84e884_autoChange.m3u8?auth_key=1795793242-0-0-b23775025d46c63bd073d4ba7cd91124
+#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Syunik vs FK Van Charentsavan" tvg-logo="https://media2.16m50.tv/media/club/5680.webp" group-title="truct-tiep live",LIVE FC Syunik vs FK Van Charentsavan [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/14305472_323ffa0213eb0c305b16d871b94e2b4e_autoChange.m3u8?auth_key=1795793239-0-0-7951ef18421513e1eac90f521f744d03
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FC Livyi Bereh vs Kolos Kovalivka" tvg-logo="https://media2.16m50.tv/media/club/10430.webp" group-title="truct-tiep live",LIVE FC Livyi Bereh vs Kolos Kovalivka [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -39,7 +47,3 @@ https://live4.hztx2020.com/live/14219315_c57da2b5f8a0a2463ef32251de94b672_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live5.hztx2020.com/live/14470604_892111771079e0d2af8d88ef0619cf6b_autoChange.m3u8?auth_key=1795793241-0-0-bf6b30f5b43b2e072e5998aea6bbc649
-#EXTINF:-1 tvg-id="" tvg-name="Sabail FC vs Al Shimali" tvg-logo="https://media2.16m50.tv/media/club/1088.webp" group-title="truct-tiep live",Sabail FC vs Al Shimali [19:00 WIB]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14326410_56893f8ddd759e10a0b6d847c751984e_autoChange.m3u8?auth_key=1795795189-0-0-f6f77fb438edb6dba647c5f342266aa8
