@@ -42,24 +42,28 @@ https://live5.hztx2020.com/live/14470604_892111771079e0d2af8d88ef0619cf6b_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Buxoro FK vs Mashal Muborak" tvg-logo="https://media2.16m50.tv/media/club/784.webp" group-title="truct-tiep live",LIVE Buxoro FK vs Mashal Muborak [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/13534454_a952576032c87e276b5b8ac53ab44d25_autoChange.m3u8?auth_key=1795795772-0-0-0a4d0fa09201981c8b8a1d7bac1eaf22
+https://live.hztx2020.com/live/13534454_a952576032c87e276b5b8ac53ab44d25_autoChange.m3u8?auth_key=1795796120-0-0-b10879f4e48dc04aa5b5295c81f6de59
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FK Kokand 1912 vs Xorazm Urganch" tvg-logo="https://media2.16m50.tv/media/club/1.webp" group-title="truct-tiep live",LIVE FK Kokand 1912 vs Xorazm Urganch [2']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/13534455_d4782fcf47e2b7ba345841709ed4f9e3_autoChange.m3u8?auth_key=1795795772-0-0-87ecdb01bfd3806a106e1c67343623da
+https://live.hztx2020.com/live/13534455_d4782fcf47e2b7ba345841709ed4f9e3_autoChange.m3u8?auth_key=1795796120-0-0-89bb0756a5d7626ec749a639433f89e9
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Uthai Thani Forest vs Sisaket United" tvg-logo="https://media2.16m50.tv/media/club/8744.webp" group-title="truct-tiep live",LIVE Uthai Thani Forest vs Sisaket United [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14445237_e0235f8fb13903daefb7ad7ba7a25f61_autoChange.m3u8?auth_key=1795795772-0-0-4a9bd70af43c20744fff113034586d45
+https://live.hztx2020.com/live/14445237_e0235f8fb13903daefb7ad7ba7a25f61_autoChange.m3u8?auth_key=1795796120-0-0-d12c15563ed367c0f1031058be7610ca
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Sabail FC vs Al Shimali" tvg-logo="https://media2.16m50.tv/media/club/1088.webp" group-title="truct-tiep live",LIVE Sabail FC vs Al Shimali [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14326410_56893f8ddd759e10a0b6d847c751984e_autoChange.m3u8?auth_key=1795795773-0-0-0c3a4644b1a435c1b5541873d28bab84
+https://live2.hztx2020.com/live/14326410_56893f8ddd759e10a0b6d847c751984e_autoChange.m3u8?auth_key=1795796120-0-0-79eeb6dcefef48a606865bb8be01f40d
 #EXTINF:-1 tvg-id="" tvg-name="Al Kholood vs Al Khaleej" tvg-logo="https://media2.16m50.tv/media/club/862.webp" group-title="truct-tiep live",Al Kholood vs Al Khaleej [19:15 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14674365_21209babb6281888b12d42abf6793b05_autoChange.m3u8?auth_key=1795795773-0-0-e66888de967baeba2ee95187d4f49cab
+https://live1.hztx2020.com/live/14674365_21209babb6281888b12d42abf6793b05_autoChange.m3u8?auth_key=1795796121-0-0-e4951f1ccbea6a9e6d1fda40cabb4ab2
 #EXTINF:-1 tvg-id="" tvg-name="Tadamon SC Sour vs Al Ahed SC" tvg-logo="https://media2.16m50.tv/media/club/2977.webp" group-title="truct-tiep live",Tadamon SC Sour vs Al Ahed SC [19:15 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14508319_fc66128a0792b8aacb78bccdb2befcd1_autoChange.m3u8?auth_key=1795795773-0-0-99900165df32c022ba708d9c5a54fd69
+#EXTINF:-1 tvg-id="" tvg-name="DPMM FC vs Kelantan Red Warrior" tvg-logo="https://media2.16m50.tv/media/club/9566.webp" group-title="truct-tiep live",DPMM FC vs Kelantan Red Warrior [19:15 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14207963_4e0b66e53727faf0f165b57d7a02f4ff_autoChange.m3u8?auth_key=1795796121-0-0-3a4c403fcff3a382d2b2bce74c09c70f
