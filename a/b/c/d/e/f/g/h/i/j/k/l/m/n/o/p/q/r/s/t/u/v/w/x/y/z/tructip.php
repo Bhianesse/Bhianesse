@@ -30,7 +30,7 @@ https://live1.hztx2020.com/live/2438128_851e5a3c89bee231deb036aab4b1af10_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Ismaily SC vs Baladiyat El Mahalla" tvg-logo="https://media2.16m50.tv/media/club/1658.webp" group-title="truct-tiep live",LIVE Ismaily SC vs Baladiyat El Mahalla [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14178169_685b1fd946c75218a55eaffa506ec0c7_autoChange.m3u8?auth_key=1795800820-0-0-a8b86ed0feb925764cf66e030e29ad86
+https://live.hztx2020.com/live/14178169_685b1fd946c75218a55eaffa506ec0c7_autoChange.m3u8?auth_key=1795800948-0-0-6be8306a7d6996416a65b053bcef1a34
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Dinamo Zagreb II vs Hrvace" tvg-logo="https://media2.16m50.tv/media/club/14301.webp" group-title="truct-tiep live",LIVE Dinamo Zagreb II vs Hrvace [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
