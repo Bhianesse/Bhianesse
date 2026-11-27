@@ -23,6 +23,10 @@ https://live.hztx2020.com/live/14527954_f954a0eb626796e54df7f0fe1cf436d6_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14674366_8dee783efc0325e0115ea111077d30f8_autoChange.m3u8?auth_key=1795807686-0-0-6e69fcde163dd4d7abd72ec0094c7e71
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Montenegro U17 vs Chile U17" tvg-logo="https://media2.16m50.tv/media/club/11048.webp" group-title="truct-tiep live",LIVE Montenegro U17 vs Chile U17 [-1']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/71762590_e3ea0ff882ca64459bb5a97b9eaeaed0_autoChange.m3u8?auth_key=1795807686-0-0-59d4ba3e5a207d8369969c62704df38a
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Malkiya vs Manama Club" tvg-logo="https://media2.16m50.tv/media/club/1435.webp" group-title="truct-tiep live",LIVE Malkiya vs Manama Club [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -31,7 +35,15 @@ https://live4.hztx2020.com/live/14613242_aacf2bd78a4118d1f372f1f1445eb163_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/76774830_321637725b12a0f0564a9c0e6438160a_autoChange.m3u8?auth_key=1795807686-0-0-24af2075c79076885fb25a7fd1b42c08
+#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Neftci Baku vs Zira FK" tvg-logo="https://media2.16m50.tv/media/club/7506.webp" group-title="truct-tiep live",LIVE FC Neftci Baku vs Zira FK [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live2.hztx2020.com/live/14215774_0407dfb35b09d1a0ef0cd663a87c71ed_autoChange.m3u8?auth_key=1795807686-0-0-c1a7ea1d6aff756a441f74c2df2555f0
 #EXTINF:-1 tvg-id="" tvg-name="LIVE East Riffa vs Al-Ittifaq" tvg-logo="https://media2.16m50.tv/media/club/7523.webp" group-title="truct-tiep live",LIVE East Riffa vs Al-Ittifaq [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live3.hztx2020.com/live/14613241_ae997fdf5bbfc07c55f8ded3bc9b1750_autoChange.m3u8?auth_key=1795807686-0-0-322c9fe89af33e85f6adc457d9d763b6
+#EXTINF:-1 tvg-id="" tvg-name="Ghaz Al Shamal vs Al Karma" tvg-logo="https://media2.16m50.tv/media/club/13877.webp" group-title="truct-tiep live",Ghaz Al Shamal vs Al Karma [22:30 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14317451_da16e1be9d622b3db31b615dca3c71fb_autoChange.m3u8?auth_key=1795807687-0-0-7b476d95b59392d4ca9959b52772b64a
