@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Lusail Sports Club vs Al-Arabi Sports Club" tvg-logo="https://media2.16m50.tv/media/club/21963.webp" group-title="truct-tiep live",LIVE Lusail Sports Club vs Al-Arabi Sports Club [65']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/ezk96i32d4ds1kn_b52831b57736326b358ddf59aad5250a_autoChange.m3u8?auth_key=1795811213-0-0-d6cb9be9e33ce1ae0ab6eb6025f3cd00
-#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Universitatea Cluj vs Sepsi OSK Sfantul Gheorghe" tvg-logo="https://media2.16m50.tv/media/club/4843.webp" group-title="truct-tiep live",LIVE FC Universitatea Cluj vs Sepsi OSK Sfantul Gheorghe [69']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/9gklzi1dr93im7x_df5c2eea18ed7a1485b0ac8a845c9165_autoChange.m3u8?auth_key=1795811213-0-0-57323bbb9f7ee0fd77c3e032a37c197d
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Dinamo Batumi vs Dila Gori" tvg-logo="https://media2.16m50.tv/media/club/4453.webp" group-title="truct-tiep live",LIVE Dinamo Batumi vs Dila Gori [67']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -39,7 +31,7 @@ https://live.hztx2020.com/live/2424350_4587448f9f9867c6ef2e0eeb3245958e_autoChan
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14527955_4ed302381193a4f3ea09c898a7e8a75f_autoChange.m3u8?auth_key=1795814975-0-0-e16c7ac4b9066012c1563dd3539afb28
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Lokomotiv Sofia vs Slavia Sofia" tvg-logo="https://media2.16m50.tv/media/club/721.webp" group-title="truct-tiep live",LIVE Lokomotiv Sofia vs Slavia Sofia [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Lokomotiv Sofia vs Slavia Sofia" tvg-logo="https://media2.16m50.tv/media/club/721.webp" group-title="truct-tiep live",LIVE Lokomotiv Sofia vs Slavia Sofia [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/13989547_401d76fad401fc00022d0451472fa14b_autoChange.m3u8?auth_key=1795814975-0-0-3bfe693c19520840d3fd5103b7329ca1
@@ -79,19 +71,15 @@ https://live.hztx2020.com/live/14041284_d5806df5e372b37ffc21dcd796f51639_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/13971874_6f48b0460d255b46c2266d840fb45c17_autoChange.m3u8?auth_key=1795814974-0-0-b7eca8c271325aa09f0a9e6f07e233de
-#EXTINF:-1 tvg-id="" tvg-name="Al Ittihad vs Neom SC" tvg-logo="https://media2.16m50.tv/media/club/21077.webp" group-title="truct-tiep live",Al Ittihad vs Neom SC [00:30 WIB]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Al Ittihad vs Neom SC" tvg-logo="https://media2.16m50.tv/media/club/21077.webp" group-title="truct-tiep live",LIVE Al Ittihad vs Neom SC [3']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14674367_ac774d08aff3784a0066269fcd3279f6_autoChange.m3u8?auth_key=1795814976-0-0-849ca8f065342bedb4fa2a39f8d8ea6d
-#EXTINF:-1 tvg-id="" tvg-name="VfL Bochum 1848 vs SV Darmstadt 98" tvg-logo="https://media2.16m50.tv/media/club/5045.webp" group-title="truct-tiep live",VfL Bochum 1848 vs SV Darmstadt 98 [00:30 WIB]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE VfL Bochum 1848 vs SV Darmstadt 98" tvg-logo="https://media2.16m50.tv/media/club/5045.webp" group-title="truct-tiep live",LIVE VfL Bochum 1848 vs SV Darmstadt 98 [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14099486_cabbdae978797b628d07fe301662abd2_autoChange.m3u8?auth_key=1795814974-0-0-db2da8e3392969a6bc217ab851d2683a
-#EXTINF:-1 tvg-id="" tvg-name="FC Dinamo City vs Partizani Tirana" tvg-logo="https://media2.16m50.tv/media/club/261.webp" group-title="truct-tiep live",FC Dinamo City vs Partizani Tirana [00:30 WIB]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14163062_fa38ff586b50b1bcff165561550e8ee3_autoChange.m3u8?auth_key=1795814974-0-0-f01df1c74d120e7e21cc269fbfe0ec95
-#EXTINF:-1 tvg-id="" tvg-name="1. FC Heidenheim 1846 vs 1. FC Nürnberg" tvg-logo="https://media2.16m50.tv/media/club/3834.webp" group-title="truct-tiep live",1. FC Heidenheim 1846 vs 1. FC Nürnberg [00:30 WIB]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE 1. FC Heidenheim 1846 vs 1. FC Nürnberg" tvg-logo="https://media2.16m50.tv/media/club/3834.webp" group-title="truct-tiep live",LIVE 1. FC Heidenheim 1846 vs 1. FC Nürnberg [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14099736_3a0c350a65f53d1e415e345a3bba15df_autoChange.m3u8?auth_key=1795814976-0-0-524f27fb6cab0c2e7e3c73768bf9f670
