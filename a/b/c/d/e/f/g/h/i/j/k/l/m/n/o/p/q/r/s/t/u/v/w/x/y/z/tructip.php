@@ -47,7 +47,7 @@ https://live4.hztx2020.com/live/14048158_067affae07f4c591c243a97abd2973bf_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14086729_df8a755cc6a331d524b0807205efcc0e_autoChange.m3u8?auth_key=1795825487-0-0-9127b5dbc1ae37a60b63a96d4211046a
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Gornik Zabrze vs Wisla Plock" tvg-logo="https://media2.16m50.tv/media/club/420.webp" group-title="truct-tiep live",LIVE Gornik Zabrze vs Wisla Plock [66']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Gornik Zabrze vs Wisla Plock" tvg-logo="https://media2.16m50.tv/media/club/420.webp" group-title="truct-tiep live",LIVE Gornik Zabrze vs Wisla Plock [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14058562_fabc5acb9bec310c64a4e360e07b8feb_autoChange.m3u8?auth_key=1795825795-0-0-fbbe5aaf4b69d32ad66e255e39e0501f
