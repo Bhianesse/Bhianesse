@@ -7,6 +7,10 @@ https://live1.hztx2020.com/live/71762590_e3ea0ff882ca64459bb5a97b9eaeaed0_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live4.hztx2020.com/live/14613242_aacf2bd78a4118d1f372f1f1445eb163_autoChange.m3u8?auth_key=1795807686-0-0-0d9d01bd8f7d39b806055538b0836022
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Algeria U17 vs Dominican Republic U17" tvg-logo="https://media2.16m50.tv/media/club/10856.webp" group-title="truct-tiep live",LIVE Algeria U17 vs Dominican Republic U17 [62']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/76774830_321637725b12a0f0564a9c0e6438160a_autoChange.m3u8?auth_key=1795807686-0-0-24af2075c79076885fb25a7fd1b42c08
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FC Neftci Baku vs Zira FK" tvg-logo="https://media2.16m50.tv/media/club/7506.webp" group-title="truct-tiep live",LIVE FC Neftci Baku vs Zira FK [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -51,3 +55,11 @@ https://live.hztx2020.com/live/14109763_078d01a4dc85432dd5d927276974fd86_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/71762600_a015958546aac99854636077280a09f1_autoChange.m3u8?auth_key=1795810882-0-0-430da257b747d7e9339279972222da38
+#EXTINF:-1 tvg-id="" tvg-name="Torpedo Moscow vs SKA Khabarovsk" tvg-logo="https://media2.16m50.tv/media/club/6155.webp" group-title="truct-tiep live",Torpedo Moscow vs SKA Khabarovsk [23:30 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/2424350_4587448f9f9867c6ef2e0eeb3245958e_autoChange.m3u8?auth_key=1795810895-0-0-dadad6288ae543705642f1e1ef25f9ae
+#EXTINF:-1 tvg-id="" tvg-name="Lokomotiv Sofia vs Slavia Sofia" tvg-logo="https://media2.16m50.tv/media/club/721.webp" group-title="truct-tiep live",Lokomotiv Sofia vs Slavia Sofia [23:30 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/13989547_401d76fad401fc00022d0451472fa14b_autoChange.m3u8?auth_key=1795810894-0-0-3bd6bd32383c7968907c76861ad50bd5
