@@ -75,6 +75,10 @@ https://live.hztx2020.com/live/14207963_4e0b66e53727faf0f165b57d7a02f4ff_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/2438128_851e5a3c89bee231deb036aab4b1af10_autoChange.m3u8?auth_key=1795796979-0-0-20d5490996fd173938da837fe68aff86
+#EXTINF:-1 tvg-id="" tvg-name="Dinamo Zagreb II vs Hrvace" tvg-logo="https://media2.16m50.tv/media/club/14301.webp" group-title="truct-tiep live",Dinamo Zagreb II vs Hrvace [19:30 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14167838_ffb7550a24cdb4fd41b1016169e841e3_autoChange.m3u8?auth_key=1795797105-0-0-c90792facb02f52c2756ba1b8935df16
 #EXTINF:-1 tvg-id="" tvg-name="KF Tirana vs Skenderbeu Korca" tvg-logo="https://media2.16m50.tv/media/club/262.webp" group-title="truct-tiep live",KF Tirana vs Skenderbeu Korca [19:30 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
