@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Venezia vs Bologna" tvg-logo="https://media2.16m50.tv/media/club/4556.webp" group-title="truct-tiep live",LIVE Venezia vs Bologna [65']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live4.hztx2020.com/live/13980689_b1e2a19caf7a8b1c5dc5b074592a243d_autoChange.m3u8?auth_key=1795829175-0-0-e739860fb4294ad00cabe9e3789dcd81
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Nottingham Forest vs Chelsea" tvg-logo="https://media2.16m50.tv/media/club/370.webp" group-title="truct-tiep live",LIVE Nottingham Forest vs Chelsea [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
