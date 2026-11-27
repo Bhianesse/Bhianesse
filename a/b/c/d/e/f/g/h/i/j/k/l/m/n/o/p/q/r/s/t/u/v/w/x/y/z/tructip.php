@@ -55,10 +55,6 @@ https://live.hztx2020.com/live/14058562_fabc5acb9bec310c64a4e360e07b8feb_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live3.hztx2020.com/live/14091318_25e54753cbed66dec7e3f27b8b02eb2c_autoChange.m3u8?auth_key=1795825795-0-0-f8c79092f8991079c7f717046ae12175
-#EXTINF:-1 tvg-id="" tvg-name="LIVE SV Werder Bremen vs Borussia Monchengladbach" tvg-logo="https://media2.16m50.tv/media/club/7012.webp" group-title="truct-tiep live",LIVE SV Werder Bremen vs Borussia Monchengladbach [66']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live5.hztx2020.com/live/14099070_c49b78fcf2b7691df585299b27f6e89e_autoChange.m3u8?auth_key=1795826630-0-0-fbc2262ac47d7761dd550ac8da73d7ee
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Stade Brestois 29 vs Paris FC" tvg-logo="https://media2.16m50.tv/media/club/6992.webp" group-title="truct-tiep live",LIVE Stade Brestois 29 vs Paris FC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
