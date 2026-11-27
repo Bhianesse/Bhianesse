@@ -1,44 +1,60 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b6095450-4712-4ff9-9215-930fbb45503e-profile_image-50x50.jpeg" group-title="Sports [vip tes twitch]",PrimeVideo
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=primevideo
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/540910c9-4dba-4147-8fdd-8c0d9ed9c647-profile_image-50x50.png" group-title="EA Sports FC 27 [vip tes twitch]",AuzioMF
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=auziomf
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ab8ad319-35ca-45ef-9c71-beb4888b69df-profile_image-70x70.png" group-title="mobile legends: bang bang [vip tes twitch]",MarvelRivals
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=marvelrivals
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8ea2178a-51e5-490b-b667-3a26ef5e5c7e-profile_image-70x70.png" group-title="mobile legends: bang bang [vip tes twitch]",space
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=space
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6865a046-9ed0-4439-b6c0-e54c245af986-profile_image-70x70.png" group-title="mobile legends: bang bang [vip tes twitch]",gamelifeow
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=gamelifeow
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/327bfaa6-68b5-40a5-9302-a9cb4393dfbf-profile_image-70x70.png" group-title="mobile legends: bang bang [vip tes twitch]",bogur
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=bogur
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/9334cab4-8862-4e0c-9154-5f700f9feeec-profile_image-70x70.png" group-title="mobile legends: bang bang [vip tes twitch]",bezp
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=bezp
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/d698d6bf-5e44-4a21-8d87-780af39ed7ff-profile_image-50x50.jpeg" group-title="Mobile Legends: Bang Bang [vip tes twitch]",yourfeona — [ENG/Fil] I'll be there in a heartbeat | !sr !play !skip
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=yourfeona
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c7d33e88-0749-4eb5-92a3-4292e578bd57-profile_image-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",titamin1 — ТУРНИР! ДОТЕРЫ vs МОБЛИСТЫ. изи 500к  - Mobile Legends титамин
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=titamin1
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0cbd5294-4527-4dcf-9866-48cb0ec6b3b9-profile_image-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",LazyLazzie — Eh Dilis? | Philippines
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=lazylazzie
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/edb14bcc-397a-4aef-837e-c46989f92219-profile_image-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",thevulgurls — Something new today: MLBB DAY~
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=thevulgurls
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/5df0ee92-c70b-4ff0-ae5b-992dee0a2e1b-profile_image-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",seiyakael — [ENG/FIL 18+] san bako nagkOlang
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=seiyakael
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/9a052d06-822c-47ab-9397-0188b7e2c994-profile_image-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",TpaBoMaH — СДЕЛАЛ ТУРНИР - ИГРАЕМ НА ПОЛМИЛЛИОНА🔥 !ищунарезчика !розыгрыш !тг
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=tpabomah
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7132ac5d-3c48-4d0a-ac0a-fb8546deda99-profile_image-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",ecs_tv — Epic Clash Series: Season 21 - Group Stage
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=ecs_tv
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e8e93f36-e60b-4f39-84b8-c30bcbe139e6-profile_image-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",Ban_Mlbb_ — Файсит SKY- Очередная помойка?   #mlbb #mobilelegends #млбб #мобайллегендс
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=ban_mlbb_
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/9a052d06-822c-47ab-9397-0188b7e2c994-profile_image-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",TpaBoMaH — СДЕЛАЛ ТУРНИР - ИГРАЕМ НА ПОЛМИЛЛИОНА🔥 !ищунарезчика !розыгрыш !тг
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=tpabomah
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/65e4c601-499b-4b3a-a272-f01c22326a5b-profile_image-50x50.jpeg" group-title="Mobile Legends: Bang Bang [vip tes twitch]",balalaika13 — Ресаю режим с вами !донат !тг
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=balalaika13
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/09f74aa6-9df9-4d37-a686-7ee5ed29bca8-profile_image-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",ramzes — MLBB 🔥 учимся играть \w @afoninje  !tg !win
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/09f74aa6-9df9-4d37-a686-7ee5ed29bca8-profile_image-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",ramzes — MLBB 🔥 играем турнир \w @afoninje  !tg !win
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=ramzes
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/35ae1f6c-a066-49ee-b315-1c0781c32262-profile_image-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",chibiyoona — [18+|EN|NP|JP] banging in MLBB (1st: @rikowiko )
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=chibiyoona
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c4971626-b203-46a0-8d8c-2be55ab7f7d4-profile_image-50x50.jpeg" group-title="Mobile Legends: Bang Bang [vip tes twitch]",PashaMokriy — стрим для моих 3.5 зрителей - MLBB
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=pashamokriy
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/35ae1f6c-a066-49ee-b315-1c0781c32262-profile_image-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",chibiyoona — [18+|EN|NP|JP] banging in MLBB (1st: @rikowiko )
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=chibiyoona
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e0b3de1b-da58-4677-903d-e936de40ddb6-profile_image-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",slaimxo1 — Mobile Legends: Bang Bang
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=slaimxo1
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0ad772cb-4bb1-4da7-82d5-30eda4ae30f9-profile_image-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",wizer02 — ИГРАЕМ СТРИМЕРСБАТЛ с @ramzes @afoninje @geass81
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=wizer02
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/949d0aa4-7d77-4fb0-b1a1-2c28ee1386fc-profile_image-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",ytop1ya — ищу друзей грязнулек !tg !donate
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=ytop1ya
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/da5b8c97-c19e-4f7f-bbb7-d365d5a9137f-profile_image-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",vlavla_mlbb — ПЯТНИЦА НАЧИНАЕТСЯ С ХОРОШЕГО ПОДНЯТИЯ РАНГА⭐           /Mobile Legends/ #shorts #mobilelegends #moba #mlbb #МобайлЛегенд #МЛББ
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=vlavla_mlbb
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/01112ffc-357e-43e7-a0db-d1516f6e4c18-profile_image-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",afoninje — Играем Турнир по MLBB w/ @ramzes @wizer02 @geass81 !tg !pari
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=afoninje
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0ad772cb-4bb1-4da7-82d5-30eda4ae30f9-profile_image-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",wizer02 — ИГРАЕМ СТРИМЕРСБАТЛ с @ramzes @afoninje @geass81
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=wizer02
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f2e47325-29ec-4e9a-b15e-b4becee8b7b3-profile_image-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",mascaradinhu — Eu vou ser O MAIOR STREAMER de MOBILIA LEGENDAS
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=mascaradinhu
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8e3ec3ef-6303-4e88-be5d-020f6473b4a3-profile_image-50x50.jpeg" group-title="Mobile Legends: Bang Bang [vip tes twitch]",PUMA_Yf — Выпустите меня с сотки (104/134*)
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=puma_yf
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/aee97ebe-f121-45ea-b052-ab18c2738185-profile_image-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",razreshayu — ⚠️ ДАВАЙ ПОСИДИМ, ДАВАЙ ПОГОВОРИМ | 🔞 СЕГОДНЯ НА НИЩЕМ |☝️ ЗАКАЗЫ
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=razreshayu
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/01112ffc-357e-43e7-a0db-d1516f6e4c18-profile_image-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",afoninje — Играем Турнир по MLBB w/ @ramzes @wizer02 @geass81 !tg !pari
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=afoninje
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/60ba7858-b812-470c-a767-38f30bbc2daa-profile_image-50x50.jpeg" group-title="Mobile Legends: Bang Bang [vip tes twitch]",OlivaVino — Стоп фид/подписывайтесь
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=olivavino
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8e3ec3ef-6303-4e88-be5d-020f6473b4a3-profile_image-50x50.jpeg" group-title="Mobile Legends: Bang Bang [vip tes twitch]",PUMA_Yf — Выпустите меня с сотки (104/134*)
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=puma_yf
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/949d0aa4-7d77-4fb0-b1a1-2c28ee1386fc-profile_image-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",ytop1ya — ищу друзей грязнулек !tg !donate
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=ytop1ya
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/aee97ebe-f121-45ea-b052-ab18c2738185-profile_image-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",razreshayu — ⚠️ ДАВАЙ ПОСИДИМ, ДАВАЙ ПОГОВОРИМ | 🔞 СЕГОДНЯ НА НИЩЕМ |☝️ ЗАКАЗЫ
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=razreshayu
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e6f7a31d-4c48-4b91-8332-7d3efe062792-profile_image-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",missclickqt — Играю Скай/Ранг
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=missclickqt
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7f94ce54-3576-4e9e-a680-0a201f2aaecb-profile_image-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",pronzaykamlbb — попущена и унижена  !команды !тгк !донат
@@ -49,42 +65,36 @@ https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=tortellio_
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=awsdayy
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/525e27d1-461b-434d-a987-b76a277d4905-profile_image-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",tarnum_mlbb — Апнем же эти звёзды... 74% WR ? 290/500  !команды
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=tarnum_mlbb
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ad5d154f-589a-474c-b335-1a4a38931beb-profile_image-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",MeldonTwich — НЕ ЗАКАЗЫВАЙТЕ ДЕВОЧКУ С ЗОНТИКОМ//МЭЛДОН СТРИМ
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=meldontwich
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/37ed4604-d42c-4aa4-9b71-a5ef7777b337-profile_image-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",Shpui__ — 0\10 попаданий вторым !прайс !тг !донат
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=shpui__
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6b7e4f0c-474e-4720-ba99-28886ad18b3e-profile_image-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",cisFeitzz — а ты будешь моей женнойййй
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=cisfeitzz
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ab2da582-019b-44ff-accd-8af502c60800-profile_image-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",booger_mlbb — Тест нового режима! Затягивает?
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=booger_mlbb
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ad5d154f-589a-474c-b335-1a4a38931beb-profile_image-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",MeldonTwich — НЕ ЗАКАЗЫВАЙТЕ ДЕВОЧКУ С ЗОНТИКОМ//МЭЛДОН СТРИМ
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=meldontwich
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/liveforsurf-profile_image-1d10fe8965c948eb-50x50.png" group-title="Mobile Legends: Bang Bang [vip tes twitch]",LiveForSurf — Режим Card Braw! Рейт или скай?! !donate !tg !advice
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=liveforsurf
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7b88691a-20d2-4f6b-8f02-327c49769bd6-profile_image-70x70.png" group-title="mobile legends: bang bang [vip tes twitch]",alexxxwhiteee
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=alexxxwhiteee
 #EXTINF:-1 group-title="mobile legends: bang bang [vip tes twitch]",bhianesse
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=bhianesse
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/06c1ae7f-0ab9-4657-87c8-6606e7e26a5c-profile_image-70x70.png" group-title="Sports [vip tes twitch]",AngrodTralari
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=angrodtralari
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/bc6b44e6-6491-45e1-862f-79850ad8cd99-profile_image-50x50.png" group-title="Sports [vip tes twitch]",Ponden — F1 QATAR GRAND PRIX - Practice 1
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=ponden
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7ef286d1-936e-4e53-82e5-b471b1745f5c-profile_image-50x50.png" group-title="Sports [vip tes twitch]",thescorechicago — Baers-Lions postgame - 11/26/26
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=thescorechicago
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/bc6b44e6-6491-45e1-862f-79850ad8cd99-profile_image-50x50.png" group-title="Sports [vip tes twitch]",Ponden — F1 QATAR GRAND PRIX - Practice 1
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=ponden
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f149eb36-1aae-4d39-bcc6-a81dab1da18f-profile_image-50x50.png" group-title="Sports [vip tes twitch]",LeoDickinsonSumo — [SUMO 相撲] Kyushu Basho 2026 top division Reruns!
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=leodickinsonsumo
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/904b3a7c-0c33-41f8-b2d5-4d7f662cfb9d-profile_image-50x50.png" group-title="Sports [vip tes twitch]",da_2bros1break — BLACK FRIDAY MADNESS!!
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=da_2bros1break
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b6095450-4712-4ff9-9215-930fbb45503e-profile_image-50x50.jpeg" group-title="Sports [vip tes twitch]",PrimeVideo — The Farmers Insurance Skins Game | Black Friday Gameday
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=primevideo
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/daedc3d7-3f74-45a7-81f4-df5dbbe8275a-profile_image-50x50.png" group-title="Sports [vip tes twitch]",LeoDSumo — [SUMO 相撲] Kyushu Basho 2026 FULL RERUNS! All Divisions, all 15 days!
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=leodsumo
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/91c5e7bf-6ab7-45c5-89d5-50976926adc6-profile_image-50x50.png" group-title="Sports [vip tes twitch]",Stuffeyy — 🔴 F1 Watchalong - QATAR GP - FP1 - with Commentary & Live Timings
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=stuffeyy
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f9983d22-1a5c-439f-bf48-450adb5c79f1-profile_image-50x50.png" group-title="Sports [vip tes twitch]",craftedbyiqbal — LIVE: F1 Qatar GP FP1! 🔴 WATCH ALONG WITH LIVE TIMINGS!!!
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=craftedbyiqbal
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cb6f4cae-116b-4af3-8270-3eefcfdae9d3-profile_image-50x50.png" group-title="Sports [vip tes twitch]",dallasfancam — 105.3 The Fan's Fan Cam
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=dallasfancam
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/08799f97-00d9-4660-afb4-ef490df4b0ca-profile_image-50x50.png" group-title="Sports [vip tes twitch]",Juventibus — La JUVE VA ma ora COMO! CASA JUVENTIBUS con ZAMPINI & CO
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=juventibus
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f9983d22-1a5c-439f-bf48-450adb5c79f1-profile_image-50x50.png" group-title="Sports [vip tes twitch]",craftedbyiqbal — LIVE: F1 Qatar GP FP1! 🔴 WATCH ALONG WITH LIVE TIMINGS!!!
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=craftedbyiqbal
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/daedc3d7-3f74-45a7-81f4-df5dbbe8275a-profile_image-50x50.png" group-title="Sports [vip tes twitch]",LeoDSumo — [SUMO 相撲] Kyushu Basho 2026 FULL RERUNS! All Divisions, all 15 days!
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=leodsumo
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/17ef168a-4654-43e9-9c02-fe3068a2949e-profile_image-50x50.png" group-title="Sports [vip tes twitch]",Racing_Statistics — 🔴 F1 LIVE: Qatar GP FP1 | F1 Live Timing & Commentary | November 27, 2026 | F1 Live Watchalong | F1 Race
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=racing_statistics
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/dfa1e5e9-8864-42a2-810c-d31a1ed5ac40-profile_image-50x50.png" group-title="Sports [vip tes twitch]",agorafutbol — EL MADRID RENOVARÁ A BELLINGHAM: ¿CÓMO QUEDA SU ESCALA SALARIAL?🔸PREVIAS MADRID-ALAVÉS y DEPOR-BARÇA🔸QUINIELA J.14 #️⃣ÁGORA1569
@@ -103,26 +113,26 @@ https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=elquintogrande
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=breakadikon
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/d653efac-0231-4e12-ba01-17074c0c08ff-profile_image-50x50.png" group-title="Sports [vip tes twitch]",generaldepie — Tribuna Deportiva Viernes 27 de noviembre
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=generaldepie
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8501d29c-33cd-40e4-b30b-65dabcb864a5-profile_image-50x50.png" group-title="Sports [vip tes twitch]",WinamaxDeportes — 🔴⚽ [DIRECTO] La Previa: El Barça a defender el liderato ¿con rotaciones? + ¡Winiela! (Fútbol)
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=winamaxdeportes
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3f33c208-ffea-4235-b2a7-bf6e22a389b3-profile_image-50x50.png" group-title="Sports [vip tes twitch]",PedroBonillooo — 🔴F1 EN DIRECTO-LIBRES 1 GP QATAR🔴
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=pedrobonillooo
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e4dd1f06-29b1-4e24-a9e3-ba3d42964084-profile_image-50x50.png" group-title="Sports [vip tes twitch]",FailArmy — FailArmy Live | Celebrating Failure 24/7 | #FailArmy #FALive
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=failarmy
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8501d29c-33cd-40e4-b30b-65dabcb864a5-profile_image-50x50.png" group-title="Sports [vip tes twitch]",WinamaxDeportes — 🔴⚽ [DIRECTO] La Previa: El Barça a defender el liderato ¿con rotaciones? + ¡Winiela! (Fútbol)
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=winamaxdeportes
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/83ab22d1-f90f-4e0e-afe8-dfce8ddaa6f9-profile_image-50x50.png" group-title="Sports [vip tes twitch]",david_perogil — 🔴 F1 DIRECTO | LIBRES 1 Y 2 GP QATAR 2026 – Narración y posiciones
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=david_perogil
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0efa29b0-ed3b-4675-87fd-9863cfc6197a-profile_image-50x50.png" group-title="Sports [vip tes twitch]",FudroTV — 🇨🇭🔴F1 Grand-Prix du Qatar: Essais 1 \\Vroom™// || !Discord -!F1Pole ||
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=fudrotv
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/83ab22d1-f90f-4e0e-afe8-dfce8ddaa6f9-profile_image-50x50.png" group-title="Sports [vip tes twitch]",david_perogil — 🔴 F1 DIRECTO | LIBRES 1 Y 2 GP QATAR 2026 – Narración y posiciones
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=david_perogil
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2f659ee2-b274-42f0-9b41-01a5531264bd-profile_image-50x50.png" group-title="Sports [vip tes twitch]",TribunaMotori — 🔴 LIVE PROVE LIBERE F1 🔴 OCCASIONE FERRARI IN QATAR PER TORNARE A VINCERE?
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=tribunamotori
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/5f264dbf-e466-435e-9cc5-a0a42593aa9b-profile_image-50x50.png" group-title="Sports [vip tes twitch]",CAMP_NOU_NOW — Obras del Camp Nou en directo! Levantando la colosal estructura y el Espai Barça!!!
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=camp_nou_now
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ee3ad431-2040-4e93-85a2-d4cb40a509ad-profile_image-50x50.png" group-title="Sports [vip tes twitch]",crazycalcioshow — CCS: Analisi pre-giornata dai nostri amici di FCInter1908!
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=crazycalcioshow
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6ab499c2-578d-4e6b-a579-0016b77b5aaf-profile_image-50x50.png" group-title="Sports [vip tes twitch]",fcinter1908_official — DOMANI IN CAMPO, RIPRENDIAMO LA CORSA IN CAMPIONATO
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=fcinter1908_official
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7fc65297-c9d1-441f-b85f-33ea825cd06d-profile_image-50x50.png" group-title="Sports [vip tes twitch]",shibuchika — [FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2026][Practice 1][Original application]A live stream showing real-time F1 data.
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=shibuchika
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ee3ad431-2040-4e93-85a2-d4cb40a509ad-profile_image-50x50.png" group-title="Sports [vip tes twitch]",crazycalcioshow — CCS: Analisi pre-giornata dai nostri amici di FCInter1908!
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=crazycalcioshow
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/74807940-0b93-4853-bf41-c2c671966c79-profile_image-50x50.png" group-title="Sports [vip tes twitch]",retesport1042 — NUOVO CANALE UFFICIALE| Retesport 104.2 FM la radio dei tifosi romanisti in tutto il mondo
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=retesport1042
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f65f290a-d37e-4c33-bc74-de6049eddf55-profile_image-50x50.png" group-title="Twitch [vip tes twitch]",Tfue
@@ -139,40 +149,30 @@ https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=behzinga
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=dezignful
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/1d41de3c-731d-41ae-b0e7-615ad74db8f3-profile_image-50x50.png" group-title="Twitch [vip tes twitch]",Symfuhny
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=symfuhny
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fecbaa56-12f2-4e66-a331-91caf7ca9705-profile_image-50x50.png" group-title="Twitch [vip tes twitch]",PatStaresAt
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=patstaresat
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c853fdfd-1702-4d24-a936-add66c18b3d0-profile_image-50x50.png" group-title="Twitch [vip tes twitch]",Saiiren
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=saiiren
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c659bf60-1939-4251-8fc6-527ee003810e-profile_image-50x50.png" group-title="Twitch [vip tes twitch]",Kyedae
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=kyedae
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fl0m-profile_image-efa66f8f4aa42f40-50x50.png" group-title="Twitch [vip tes twitch]",fl0m
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=fl0m
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/gorgc-profile_image-469e05d25a1e8594-50x50.jpeg" group-title="Twitch [vip tes twitch]",Gorgc
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=gorgc
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8ea2178a-51e5-490b-b667-3a26ef5e5c7e-profile_image-50x50.png" group-title="Twitch [vip tes twitch]",space
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=space
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ab8ad319-35ca-45ef-9c71-beb4888b69df-profile_image-70x70.png" group-title="Twitch [vip tes twitch]",MarvelRivals
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=marvelrivals
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/33a9792d-d9a8-4cc8-ac97-a4b849f39003-profile_image-70x70.jpg" group-title="Twitch [vip tes twitch]",Jay3
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=jay3
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6865a046-9ed0-4439-b6c0-e54c245af986-profile_image-70x70.png" group-title="Twitch [vip tes twitch]",gamelifeow
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=gamelifeow
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/327bfaa6-68b5-40a5-9302-a9cb4393dfbf-profile_image-70x70.png" group-title="Twitch [vip tes twitch]",bogur
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=bogur
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/9334cab4-8862-4e0c-9154-5f700f9feeec-profile_image-70x70.png" group-title="Twitch [vip tes twitch]",bezp
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=bezp
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/283c9392-c5e7-4daa-af2f-b9015c948ec3-profile_image-50x50.png" group-title="Twitch [vip tes twitch]",BreaK
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=break
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/bc9e6985-7b78-437e-ba4f-12161af38535-profile_image-50x50.png" group-title="Twitch [vip tes twitch]",Just_Sevv
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=just_sevv
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/64a17ccb-4cc5-4209-b92e-bff938c0e965-profile_image-50x50.png" group-title="Twitch [vip tes twitch]",CoconutB__247
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=coconutb__247
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e7debdd7-a28f-4213-9846-b42155ae0701-profile_image-50x50.png" group-title="Twitch [vip tes twitch]",Shamijah
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=shamijah
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0696204b-2e4e-4ee1-92ae-1ddedc2e60ad-profile_image-50x50.png" group-title="Twitch [vip tes twitch]",qaixx
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=qaixx
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a1df2cf9-46cd-4016-9685-3e6024139641-profile_image-50x50.png" group-title="Twitch [vip tes twitch]",MassiahTGTV
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=massiahtgtv
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fc7b15b2-e400-4e74-8c8b-2ad3725e5770-profile_image-50x50.png" group-title="Twitch [vip tes twitch]",sodapoppin
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=sodapoppin
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/49110706-4c6c-4da5-8037-0fbd429405f5-profile_image-50x50.png" group-title="Twitch [vip tes twitch]",CDawg
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=cdawg
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/d0b9d755-7d62-427e-afcc-17784545460c-profile_image-50x50.jpeg" group-title="Twitch [vip tes twitch]",Sick_Nerd
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=sick_nerd
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/76e05185-d15d-4818-9267-1806b05fa2d1-profile_image-50x50.png" group-title="Twitch [vip tes twitch]",Emongg
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=emongg
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7e822e5c-9c73-4730-9b43-79e1f2b7525f-profile_image-50x50.jpeg" group-title="Twitch [vip tes twitch]",hadi_ow
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=hadi_ow
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/998a9f0c-f43a-4e8a-a7e4-42518a1591a8-profile_image-50x50.png" group-title="Twitch [vip tes twitch]",Saruei
@@ -185,28 +185,24 @@ https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=jshock9nine
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=elysa
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f1f1181a-84ea-4542-91e7-40f5ea04bca3-profile_image-50x50.png" group-title="Twitch [vip tes twitch]",Yoclesh
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=yoclesh
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/bfa3d4c5-586d-4674-a0ff-3ef1c23609d5-profile_image-50x50.png" group-title="Twitch [vip tes twitch]",MakoFukasame
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=makofukasame
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/6238d899-d8a5-4bd7-abf5-75904f020776-profile_image-50x50.png" group-title="Twitch [vip tes twitch]",AiCandii
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=aicandii
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/bfa3d4c5-586d-4674-a0ff-3ef1c23609d5-profile_image-50x50.png" group-title="Twitch [vip tes twitch]",MakoFukasame
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=makofukasame
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/4908ab66-edf1-4be8-8309-c6533bfa75b3-profile_image-50x50.png" group-title="Twitch [vip tes twitch]",cind
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=cind
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/525da3a6-f868-4e8b-901c-882cddef58ec-profile_image-50x50.png" group-title="Twitch [vip tes twitch]",ZloyEugene
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=zloyeugene
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c916f8e8-adeb-4c73-8f53-3f43f0441782-profile_image-50x50.png" group-title="Twitch [vip tes twitch]",Nix
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=nix
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/4fbab3d9-1f27-45db-a716-6b2330fb4b46-profile_image-50x50.png" group-title="Twitch [vip tes twitch]",BLASTDota
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=blastdota
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2bb20958-ae41-486e-9df9-7311b39c5675-profile_image-50x50.png" group-title="Twitch [vip tes twitch]",BarbarousKing
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=barbarousking
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8629daa1-ff1c-4fc7-a07c-e7a3557577bc-profile_image-50x50.png" group-title="Twitch [vip tes twitch]",Dosia_csgo
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=dosia_csgo
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/1d8f8a7e-08d8-401c-b746-ec12eb059cc5-profile_image-50x50.png" group-title="Twitch [vip tes twitch]",iferangle
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=iferangle
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/zizaran-profile_image-d534b9791c469a48-50x50.png" group-title="Twitch [vip tes twitch]",Zizaran
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=zizaran
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/be28477e-1fed-4db8-bd73-cd1d31e154c5-profile_image-50x50.png" group-title="Twitch [vip tes twitch]",Dino_xx
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=dino_xx
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/9d013a0a-da1b-4c60-b0aa-4a824d651e40-profile_image-50x50.png" group-title="Twitch [vip tes twitch]",Snupy
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=snupy
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/1fa05f49-1118-41e1-9a10-e077d5dec876-profile_image-50x50.png" group-title="Twitch [vip tes twitch]",Guzu
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=guzu
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e771d8c2-8ac9-413a-b1c6-9beb7e8b841a-profile_image-50x50.png" group-title="Twitch [vip tes twitch]",Monkeynews
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=monkeynews
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/1f594c2d-a8bf-4814-9395-36b195022fb3-profile_image-70x70.png" group-title="Twitch [vip tes twitch]",Camy
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=camy
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/04bfd170-544e-4ba4-ab31-e3734260ed41-profile_image-70x70.png" group-title="Twitch [vip tes twitch]",Spite
@@ -215,11 +211,13 @@ https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=spite
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=theburntpeanut_247
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/9d619903-ebd1-4482-bfb8-009e8f938fe7-profile_image-70x70.png" group-title="Twitch [vip tes twitch]",HappyHappyGal_VOD
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=happyhappygal_vod
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/33a9792d-d9a8-4cc8-ac97-a4b849f39003-profile_image-70x70.jpg" group-title="Twitch [vip tes twitch]",Jay3
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=jay3
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/00e3fd1f-7c55-401c-8f3a-a3bc2fc71fd3-profile_image-70x70.png" group-title="Twitch [vip tes twitch]",DayshaTaylor
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=dayshataylor
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fc7b15b2-e400-4e74-8c8b-2ad3725e5770-profile_image-70x70.png" group-title="Twitch [vip tes twitch]",sodapoppin
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=sodapoppin
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7032982d-befa-41be-a732-8cf99279f502-profile_image-70x70.png" group-title="Twitch [vip tes twitch]",MissMikkaa
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=missmikkaa
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f8055b1c-8d58-4034-871e-9df1bf89f462-profile_image-70x70.png" group-title="Twitch [vip tes twitch]",PGL
 https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=pgl
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/65fc0b86-e3ec-46fa-ad02-f4864c7448b9-profile_image-70x70.png" group-title="Twitch [vip tes twitch]",Shobek
-https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=shobek
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/273f15a6-bb3b-40eb-ac76-c3a08e082678-profile_image-70x70.png" group-title="Twitch [vip tes twitch]",HutchMF
+https://pl-gratosv---al.bhns.workers.dev/play.m3u8?id=hutchmf
