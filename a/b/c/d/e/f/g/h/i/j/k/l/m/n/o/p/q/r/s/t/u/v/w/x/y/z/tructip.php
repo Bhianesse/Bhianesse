@@ -71,3 +71,7 @@ https://live1.hztx2020.com/live/14674365_21209babb6281888b12d42abf6793b05_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14207963_4e0b66e53727faf0f165b57d7a02f4ff_autoChange.m3u8?auth_key=1795796121-0-0-3a4c403fcff3a382d2b2bce74c09c70f
+#EXTINF:-1 tvg-id="" tvg-name="KF Tirana vs Skenderbeu Korca" tvg-logo="https://media2.16m50.tv/media/club/262.webp" group-title="truct-tiep live",KF Tirana vs Skenderbeu Korca [19:30 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14163064_b99f8271fb0bb591783caf96c59d1b02_autoChange.m3u8?auth_key=1795796121-0-0-966624a6a97e3c0fa61430da14a5e05f
