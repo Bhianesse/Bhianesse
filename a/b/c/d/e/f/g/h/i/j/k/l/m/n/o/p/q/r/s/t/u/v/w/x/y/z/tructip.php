@@ -3,6 +3,10 @@
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/m2q15i82vzlfe76_ad854214415315192cfa46ea131505de_autoChange.m3u8?auth_key=1795793242-0-0-46c8401b3f99a8b45304f01955b527e1
+#EXTINF:-1 tvg-id="" tvg-name="LIVE PFK Zaqatala vs Qarabag Khankendi" tvg-logo="https://media2.16m50.tv/media/club/705.webp" group-title="truct-tiep live",LIVE PFK Zaqatala vs Qarabag Khankendi [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14326411_e0f0e1b450a34938e4f0db06be018a74_autoChange.m3u8?auth_key=1795793242-0-0-1113d5ff23087448670eaeee495c9bdc
 #EXTINF:-1 tvg-id="" tvg-name="LIVE İmişli FK vs Safa Baku" tvg-logo="https://media2.16m50.tv/media/club/5861.webp" group-title="truct-tiep live",LIVE İmişli FK vs Safa Baku [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -19,6 +23,10 @@ https://live.hztx2020.com/live/14622202_d85e659128fc2fbfe4da5a380a5a61e0_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live4.hztx2020.com/live/14360445_64e3b50860e46e584865f1cade8fc52c_autoChange.m3u8?auth_key=1795793239-0-0-761b751b3bb84bd0791de629d18cc584
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Song Lam Nghe An vs Ninh Binh FC" tvg-logo="https://media2.16m50.tv/media/club/2550.webp" group-title="truct-tiep live",LIVE Song Lam Nghe An vs Ninh Binh FC [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14360819_ac532569eba60193537fb92e638d57d9_autoChange.m3u8?auth_key=1795793239-0-0-1b242bbe74bb9bbeae1ed79b7ca0c60e
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Xuan Thien Phu Tho vs Lam Dong" tvg-logo="https://media2.16m50.tv/media/club/1030.webp" group-title="truct-tiep live",LIVE Xuan Thien Phu Tho vs Lam Dong [-1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
