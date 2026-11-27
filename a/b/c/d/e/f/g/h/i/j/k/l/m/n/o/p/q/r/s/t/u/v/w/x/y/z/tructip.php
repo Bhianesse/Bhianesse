@@ -1,17 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE FK Kokand 1912 vs Xorazm Urganch" tvg-logo="https://media2.16m50.tv/media/club/1.webp" group-title="truct-tiep live",LIVE FK Kokand 1912 vs Xorazm Urganch [65']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/13534455_d4782fcf47e2b7ba345841709ed4f9e3_autoChange.m3u8?auth_key=1795800486-0-0-4fe79b4097ddf8d756ea36e8ea1b3274
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Sabail FC vs Al Shimali" tvg-logo="https://media2.16m50.tv/media/club/1088.webp" group-title="truct-tiep live",LIVE Sabail FC vs Al Shimali [65']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14326410_56893f8ddd759e10a0b6d847c751984e_autoChange.m3u8?auth_key=1795800487-0-0-3bfe932dc49ab5fde2d0ec038d35d671
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Al Kholood vs Al Khaleej" tvg-logo="https://media2.16m50.tv/media/club/862.webp" group-title="truct-tiep live",LIVE Al Kholood vs Al Khaleej [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14674365_21209babb6281888b12d42abf6793b05_autoChange.m3u8?auth_key=1795800485-0-0-a27a84eace4e9f5ed3145e93ba19d95f
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Tadamon SC Sour vs Al Ahed SC" tvg-logo="https://media2.16m50.tv/media/club/2977.webp" group-title="truct-tiep live",LIVE Tadamon SC Sour vs Al Ahed SC [69']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Tadamon SC Sour vs Al Ahed SC" tvg-logo="https://media2.16m50.tv/media/club/2977.webp" group-title="truct-tiep live",LIVE Tadamon SC Sour vs Al Ahed SC [70']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14508319_fc66128a0792b8aacb78bccdb2befcd1_autoChange.m3u8?auth_key=1795800485-0-0-3fcbd635e9ef027b1658eed8db173f82
@@ -26,7 +18,7 @@ https://live1.hztx2020.com/live/2438128_851e5a3c89bee231deb036aab4b1af10_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Ismaily SC vs Baladiyat El Mahalla" tvg-logo="https://media2.16m50.tv/media/club/1658.webp" group-title="truct-tiep live",LIVE Ismaily SC vs Baladiyat El Mahalla [76']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14178169_685b1fd946c75218a55eaffa506ec0c7_autoChange.m3u8?auth_key=1795802504-0-0-33a73931228323e553c24cea0236f5ff
+https://live.hztx2020.com/live/14178169_685b1fd946c75218a55eaffa506ec0c7_autoChange.m3u8?auth_key=1795802550-0-0-6fa2a9330cdbe17ca796b76134cff959
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Dinamo Zagreb II vs Hrvace" tvg-logo="https://media2.16m50.tv/media/club/14301.webp" group-title="truct-tiep live",LIVE Dinamo Zagreb II vs Hrvace [61']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -47,27 +39,23 @@ https://live2.hztx2020.com/live/71762618_715d01a00306cfcd4d8318413d1b9d8e_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14728988_2f56e47c8d88776757717d345b2ff05f_autoChange.m3u8?auth_key=1795800487-0-0-35ed1977f04f4c0af763ae07f9877bbe
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Colombia U17 vs Serbia U17" tvg-logo="https://media2.16m50.tv/media/club/10988.webp" group-title="truct-tiep live",LIVE Colombia U17 vs Serbia U17 [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Colombia U17 vs Serbia U17" tvg-logo="https://media2.16m50.tv/media/club/10988.webp" group-title="truct-tiep live",LIVE Colombia U17 vs Serbia U17 [62']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/71762616_bf8acfaa0cc0cd9fdb1c8128b6d4596c_autoChange.m3u8?auth_key=1795800487-0-0-36a66008ccb5eb90d14a142e67501bec
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Zakho SC vs Karbala'a" tvg-logo="https://media2.16m50.tv/media/club/4876.webp" group-title="truct-tiep live",LIVE Zakho SC vs Karbala'a [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Ireland U17 vs Tanzania U17" tvg-logo="https://media2.16m50.tv/media/club/11079.webp" group-title="truct-tiep live",LIVE Ireland U17 vs Tanzania U17 [-1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14317458_5446421e4e4eff259d3360f4b8603799_autoChange.m3u8?auth_key=1795800489-0-0-afa404971d83f6494fb6306d6f27f06a
-#EXTINF:-1 tvg-id="" tvg-name="Ireland U17 vs Tanzania U17" tvg-logo="https://media2.16m50.tv/media/club/11079.webp" group-title="truct-tiep live",Ireland U17 vs Tanzania U17 [21:00 WIB]
+https://live1.hztx2020.com/live/71762542_f222f61bcbefc45efd88ce94f602eb1b_autoChange.m3u8?auth_key=1795802547-0-0-bfc3a33bbc8414c7fe15abb9c4faa90d
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Inter Kashi vs Churchill Brothers" tvg-logo="https://media2.16m50.tv/media/club/1265.webp" group-title="truct-tiep live",LIVE Inter Kashi vs Churchill Brothers [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/71762542_f222f61bcbefc45efd88ce94f602eb1b_autoChange.m3u8?auth_key=1795802504-0-0-0a6c6f4b4970259782ec0bde44fb3b33
-#EXTINF:-1 tvg-id="" tvg-name="Inter Kashi vs Churchill Brothers" tvg-logo="https://media2.16m50.tv/media/club/1265.webp" group-title="truct-tiep live",Inter Kashi vs Churchill Brothers [21:00 WIB]
+https://live2.hztx2020.com/live/14512666_2d52199bc1297470efcc84b84b39b574_autoChange.m3u8?auth_key=1795802547-0-0-114c50fc728ccc2ba2ad62e4e290458d
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Costa Rica U17 vs Brazil U17" tvg-logo="https://media2.16m50.tv/media/club/15288.webp" group-title="truct-tiep live",LIVE Costa Rica U17 vs Brazil U17 [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14512666_2d52199bc1297470efcc84b84b39b574_autoChange.m3u8?auth_key=1795802504-0-0-f9638dde29de8b07f510a08880935dad
-#EXTINF:-1 tvg-id="" tvg-name="Costa Rica U17 vs Brazil U17" tvg-logo="https://media2.16m50.tv/media/club/15288.webp" group-title="truct-tiep live",Costa Rica U17 vs Brazil U17 [21:00 WIB]
+https://live.hztx2020.com/live/71762544_111f0fd2bac7337862b7617ac33355a6_autoChange.m3u8?auth_key=1795802547-0-0-8d3dff7927cb8aa4d2dc173557cd8e42
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Shabab Al Ordon vs Al-Salt" tvg-logo="https://media2.16m50.tv/media/club/5012.webp" group-title="truct-tiep live",LIVE Shabab Al Ordon vs Al-Salt [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/71762544_111f0fd2bac7337862b7617ac33355a6_autoChange.m3u8?auth_key=1795802504-0-0-afc4a0c430d32633e794326e34a64056
-#EXTINF:-1 tvg-id="" tvg-name="Shabab Al Ordon vs Al-Salt" tvg-logo="https://media2.16m50.tv/media/club/5012.webp" group-title="truct-tiep live",Shabab Al Ordon vs Al-Salt [21:00 WIB]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14527954_f954a0eb626796e54df7f0fe1cf436d6_autoChange.m3u8?auth_key=1795802504-0-0-b597707b4623e09f98388b8b42b11fef
+https://live.hztx2020.com/live/14527954_f954a0eb626796e54df7f0fe1cf436d6_autoChange.m3u8?auth_key=1795802547-0-0-ef0ac8de6f39ab5bee07a908fa7c175b
