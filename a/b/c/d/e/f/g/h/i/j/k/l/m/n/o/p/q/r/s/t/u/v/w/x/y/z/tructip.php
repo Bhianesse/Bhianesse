@@ -1,28 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Jong Genk vs RSCA Futures" tvg-logo="https://media2.16m50.tv/media/club/1604.webp" group-title="truct-tiep live",LIVE Jong Genk vs RSCA Futures [68']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14041449_349a9a1f30e258174d8570f21640a7b7_autoChange.m3u8?auth_key=1795825468-0-0-02f00b356596f153a8712b9d5f86f268
 #EXTINF:-1 tvg-id="" tvg-name="LIVE MVV Maastricht vs Jong PSV Eindhoven Youth" tvg-logo="https://media2.16m50.tv/media/club/1565.webp" group-title="truct-tiep live",LIVE MVV Maastricht vs Jong PSV Eindhoven Youth [67']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/13996406_556c6c0e678c031c7b8e83507345f433_autoChange.m3u8?auth_key=1795825485-0-0-36b1f1db65f038fa1ba82e577673d5ee
-#EXTINF:-1 tvg-id="" tvg-name="LIVE NAC Breda vs Den Bosch" tvg-logo="https://media2.16m50.tv/media/club/6894.webp" group-title="truct-tiep live",LIVE NAC Breda vs Den Bosch [65']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/13996405_795892023a8996ca070f3206acbb5748_autoChange.m3u8?auth_key=1795825485-0-0-1fbab6f130995f65e444b9ff09aa3316
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Groningen vs Willem II" tvg-logo="https://media2.16m50.tv/media/club/4386.webp" group-title="truct-tiep live",LIVE Groningen vs Willem II [69']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/13995682_ed3ff57ae7dc235203a0c96bbaffca55_autoChange.m3u8?auth_key=1795825795-0-0-9b31b13fde6972fcbf165d0e3c859c40
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Francs Borains vs KAS Eupen" tvg-logo="https://media2.16m50.tv/media/club/6685.webp" group-title="truct-tiep live",LIVE Francs Borains vs KAS Eupen [67']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14041448_3ebf728c9c2ff874e5b18fca07dff0ab_autoChange.m3u8?auth_key=1795825487-0-0-032a154369b5df0e6fecdf144c6c6e65
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Ajax Amsterdam U21 vs Heracles Almelo" tvg-logo="https://media2.16m50.tv/media/club/19501.webp" group-title="truct-tiep live",LIVE Ajax Amsterdam U21 vs Heracles Almelo [66']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/13996409_88e076256a28f5a9f5db08262913ca7d_autoChange.m3u8?auth_key=1795825468-0-0-8cc64a507ae54445f14293d3a60a14bd
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Delfin SC vs Orense SC" tvg-logo="https://media2.16m50.tv/media/club/1854.webp" group-title="truct-tiep live",LIVE Delfin SC vs Orense SC [71']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -58,12 +42,12 @@ https://live3.hztx2020.com/live/14091318_25e54753cbed66dec7e3f27b8b02eb2c_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE SV Werder Bremen vs Borussia Monchengladbach" tvg-logo="https://media2.16m50.tv/media/club/7012.webp" group-title="truct-tiep live",LIVE SV Werder Bremen vs Borussia Monchengladbach [66']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/vmqy9iv5d10sgk9_f4e010651667531efbef4179e35609b1_autoChange.m3u8?auth_key=1795826758-0-0-ff6b4eb114ed2c1168e96d61ccfe1ffc
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Stade Brestois 29 vs Paris FC" tvg-logo="https://media2.16m50.tv/media/club/6992.webp" group-title="truct-tiep live",LIVE Stade Brestois 29 vs Paris FC [Đang đá]
+https://live5.hztx2020.com/live/14099070_c49b78fcf2b7691df585299b27f6e89e_autoChange.m3u8?auth_key=1795827473-0-0-9bd16bb324e70a6409663fe70d1c9901
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Stade Brestois 29 vs Paris FC" tvg-logo="https://media2.16m50.tv/media/club/6992.webp" group-title="truct-tiep live",LIVE Stade Brestois 29 vs Paris FC [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live5.hztx2020.com/live/13998871_eca0c18123800272564fa16f6fab2e47_autoChange.m3u8?auth_key=1795825488-0-0-f1c45549a3409c319875a94bf38735bc
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Venezia vs Bologna" tvg-logo="https://media2.16m50.tv/media/club/4556.webp" group-title="truct-tiep live",LIVE Venezia vs Bologna [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Venezia vs Bologna" tvg-logo="https://media2.16m50.tv/media/club/4556.webp" group-title="truct-tiep live",LIVE Venezia vs Bologna [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live4.hztx2020.com/live/13980689_b1e2a19caf7a8b1c5dc5b074592a243d_autoChange.m3u8?auth_key=1795825796-0-0-3115a8acc524122e841ab53acd42e30a
@@ -71,11 +55,15 @@ https://live4.hztx2020.com/live/13980689_b1e2a19caf7a8b1c5dc5b074592a243d_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14040181_b014afe5953b349384c29b3dec253fd8_autoChange.m3u8?auth_key=1795825794-0-0-9dc011a03e729726ae4f4334a99a2dcb
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Hound Dogs vs Lions Gibraltar" tvg-logo="https://media2.16m50.tv/media/club/7168.webp" group-title="truct-tiep live",LIVE Hound Dogs vs Lions Gibraltar [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/63kv9igdmxgcx7e_11d1a62024795586b7e3993734b29ebf_autoChange.m3u8?auth_key=1795827472-0-0-cba6555d6cce6321c3b94a8cbcbddc07
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Southampton vs Middlesbrough" tvg-logo="https://media2.16m50.tv/media/club/6024.webp" group-title="truct-tiep live",LIVE Southampton vs Middlesbrough [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14069172_75f7351306f2842aca94188344f86f80_autoChange.m3u8?auth_key=1795825482-0-0-be03cac78713ebcb23771ec4b8d4c8fb
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Levante vs Racing Santander" tvg-logo="https://media2.16m50.tv/media/club/4341.webp" group-title="truct-tiep live",LIVE Levante vs Racing Santander [2']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Levante vs Racing Santander" tvg-logo="https://media2.16m50.tv/media/club/4341.webp" group-title="truct-tiep live",LIVE Levante vs Racing Santander [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14090797_401ee129e97cd676df15066799623087_autoChange.m3u8?auth_key=1795825487-0-0-ecebdb2fa6dd7a481df76fc742351043
