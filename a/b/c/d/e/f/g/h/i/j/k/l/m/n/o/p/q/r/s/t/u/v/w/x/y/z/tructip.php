@@ -11,10 +11,6 @@ https://live1.hztx2020.com/live/14712083_89cd2aaa71762248eb1de842c149b988_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14551454_22dae6550edefb205a585fc1cc774ac3_autoChange.m3u8?auth_key=1795832985-0-0-53e4513780ee23ce34083fcac1faa470
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Kansas vs Villanova" tvg-logo="https://media2.16m50.tv/media/club/27704.webp" group-title="truct-tiep live",LIVE Kansas vs Villanova [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14463873_c777a958a5cf01143d0cf34ed316fc93_autoChange.m3u8?auth_key=1795836053-0-0-eb4cb3fef60685a37398e9755bdd8062
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Vila Nova vs Atletico Clube Goianiense" tvg-logo="https://media2.16m50.tv/media/club/551.webp" group-title="truct-tiep live",LIVE Vila Nova vs Atletico Clube Goianiense [3']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -31,7 +27,3 @@ https://live.hztx2020.com/live/13391565_9d2a774568224b1c239ed0a39052e274_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live3.hztx2020.com/live/14342719_5b2181e5340a8674a5f37e45fb850b79_autoChange.m3u8?auth_key=1795836053-0-0-cf38d5643ad5c3e4b4779e20126c26df
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Brasil vs Hoa Kỳ" tvg-logo="https://media2.16m50.tv/media/club/22308.webp" group-title="truct-tiep live",LIVE Brasil vs Hoa Kỳ [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14134599_9bf7c94d010f2083c571057a2679ff9e_autoChange.m3u8?auth_key=1795836054-0-0-a4eb2ee0a6849381df670c7350112746
