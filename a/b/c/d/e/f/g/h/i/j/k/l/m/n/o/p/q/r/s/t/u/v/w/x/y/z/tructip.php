@@ -31,11 +31,11 @@ https://live2.hztx2020.com/live/14445188_13f6af8fdd4df17961457b5b83b2265e_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live4.hztx2020.com/live/14219315_c57da2b5f8a0a2463ef32251de94b672_autoChange.m3u8?auth_key=1795796980-0-0-1fa1c9976c75eaf46ad4aa59ff261a48
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Bashundhara Kings vs Fortis FC" tvg-logo="https://media2.16m50.tv/media/club/1013.webp" group-title="truct-tiep live",LIVE Bashundhara Kings vs Fortis FC [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Bashundhara Kings vs Fortis FC" tvg-logo="https://media2.16m50.tv/media/club/1013.webp" group-title="truct-tiep live",LIVE Bashundhara Kings vs Fortis FC [66']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live5.hztx2020.com/live/14470604_892111771079e0d2af8d88ef0619cf6b_autoChange.m3u8?auth_key=1795796980-0-0-a5f58e6dc9991b498c2b7210516d71e5
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Buxoro FK vs Mashal Muborak" tvg-logo="https://media2.16m50.tv/media/club/784.webp" group-title="truct-tiep live",LIVE Buxoro FK vs Mashal Muborak [1']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Buxoro FK vs Mashal Muborak" tvg-logo="https://media2.16m50.tv/media/club/784.webp" group-title="truct-tiep live",LIVE Buxoro FK vs Mashal Muborak [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/13534454_a952576032c87e276b5b8ac53ab44d25_autoChange.m3u8?auth_key=1795796978-0-0-f5e66ad066783af3223c40f552ccfce8
@@ -70,7 +70,7 @@ https://live1.hztx2020.com/live/2438128_851e5a3c89bee231deb036aab4b1af10_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Dinamo Zagreb II vs Hrvace" tvg-logo="https://media2.16m50.tv/media/club/14301.webp" group-title="truct-tiep live",LIVE Dinamo Zagreb II vs Hrvace [-1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14167838_ffb7550a24cdb4fd41b1016169e841e3_autoChange.m3u8?auth_key=1795797585-0-0-00e61b8ad2237223c3335b044abca36b
+https://live.hztx2020.com/live/14167838_ffb7550a24cdb4fd41b1016169e841e3_autoChange.m3u8?auth_key=1795797709-0-0-a104676369a9ce5cb155ca3a675dfb13
 #EXTINF:-1 tvg-id="" tvg-name="LIVE KF Tirana vs Skenderbeu Korca" tvg-logo="https://media2.16m50.tv/media/club/262.webp" group-title="truct-tiep live",LIVE KF Tirana vs Skenderbeu Korca [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -78,4 +78,4 @@ https://live.hztx2020.com/live/14163064_b99f8271fb0bb591783caf96c59d1b02_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="Gulf United FC vs FC Palm City" tvg-logo="https://media2.16m50.tv/media/club/1418.webp" group-title="truct-tiep live",Gulf United FC vs FC Palm City [19:45 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14547383_2344daa1fab0b7c8cbff3e141e11154d_autoChange.m3u8?auth_key=1795797586-0-0-a0bccf0b0821f6948759263c5f69fee5
+https://live.hztx2020.com/live/14547383_2344daa1fab0b7c8cbff3e141e11154d_autoChange.m3u8?auth_key=1795797710-0-0-7c3f330e1e300c2fd50f7a9e37c61d27
