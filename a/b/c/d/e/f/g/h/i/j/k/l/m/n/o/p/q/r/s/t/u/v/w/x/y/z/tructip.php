@@ -43,7 +43,7 @@ https://live2.hztx2020.com/live/14215774_0407dfb35b09d1a0ef0cd663a87c71ed_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live3.hztx2020.com/live/14613241_ae997fdf5bbfc07c55f8ded3bc9b1750_autoChange.m3u8?auth_key=1795807686-0-0-322c9fe89af33e85f6adc457d9d763b6
-#EXTINF:-1 tvg-id="" tvg-name="Ghaz Al Shamal vs Al Karma" tvg-logo="https://media2.16m50.tv/media/club/13877.webp" group-title="truct-tiep live",Ghaz Al Shamal vs Al Karma [22:30 WIB]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Ghaz Al Shamal vs Al Karma" tvg-logo="https://media2.16m50.tv/media/club/13877.webp" group-title="truct-tiep live",LIVE Ghaz Al Shamal vs Al Karma [-1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14317451_da16e1be9d622b3db31b615dca3c71fb_autoChange.m3u8?auth_key=1795807687-0-0-7b476d95b59392d4ca9959b52772b64a
