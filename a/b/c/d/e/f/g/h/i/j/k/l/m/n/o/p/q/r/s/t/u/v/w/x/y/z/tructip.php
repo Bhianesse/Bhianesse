@@ -3,6 +3,10 @@
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14728988_2f56e47c8d88776757717d345b2ff05f_autoChange.m3u8?auth_key=1795804189-0-0-20c0bd6b54b67c07d5f95f34c053eaf2
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Ireland U17 vs Tanzania U17" tvg-logo="https://media2.16m50.tv/media/club/11079.webp" group-title="truct-tiep live",LIVE Ireland U17 vs Tanzania U17 [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/71762542_f222f61bcbefc45efd88ce94f602eb1b_autoChange.m3u8?auth_key=1795804191-0-0-268089ee4bf92818a1515d4ef9a02b22
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Inter Kashi vs Churchill Brothers" tvg-logo="https://media2.16m50.tv/media/club/1265.webp" group-title="truct-tiep live",LIVE Inter Kashi vs Churchill Brothers [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -26,12 +30,20 @@ https://live.hztx2020.com/live/14674366_8dee783efc0325e0115ea111077d30f8_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="Montenegro U17 vs Chile U17" tvg-logo="https://media2.16m50.tv/media/club/11048.webp" group-title="truct-tiep live",Montenegro U17 vs Chile U17 [22:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/71762590_e3ea0ff882ca64459bb5a97b9eaeaed0_autoChange.m3u8?auth_key=1795806228-0-0-a804ee86b3eeae938bc10f40fe1f5186
+https://live1.hztx2020.com/live/71762590_e3ea0ff882ca64459bb5a97b9eaeaed0_autoChange.m3u8?auth_key=1795806349-0-0-981d33835bc70731a1acfeadb41dd313
+#EXTINF:-1 tvg-id="" tvg-name="Malkiya vs Manama Club" tvg-logo="https://media2.16m50.tv/media/club/1435.webp" group-title="truct-tiep live",Malkiya vs Manama Club [22:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live4.hztx2020.com/live/14613242_aacf2bd78a4118d1f372f1f1445eb163_autoChange.m3u8?auth_key=1795806350-0-0-ec844e2e2c902455199affe1337fae41
 #EXTINF:-1 tvg-id="" tvg-name="Algeria U17 vs Dominican Republic U17" tvg-logo="https://media2.16m50.tv/media/club/10856.webp" group-title="truct-tiep live",Algeria U17 vs Dominican Republic U17 [22:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/76774830_321637725b12a0f0564a9c0e6438160a_autoChange.m3u8?auth_key=1795805917-0-0-a61cc82f8ee7a39adb94a71ecb4f5289
+https://live.hztx2020.com/live/76774830_321637725b12a0f0564a9c0e6438160a_autoChange.m3u8?auth_key=1795806349-0-0-2d6d88529de0f6c1f0abd81c74f3a1c4
+#EXTINF:-1 tvg-id="" tvg-name="FC Neftci Baku vs Zira FK" tvg-logo="https://media2.16m50.tv/media/club/7506.webp" group-title="truct-tiep live",FC Neftci Baku vs Zira FK [22:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live2.hztx2020.com/live/14215774_0407dfb35b09d1a0ef0cd663a87c71ed_autoChange.m3u8?auth_key=1795806349-0-0-801ed171f928265849116ea1ce231e1c
 #EXTINF:-1 tvg-id="" tvg-name="East Riffa vs Al-Ittifaq" tvg-logo="https://media2.16m50.tv/media/club/7523.webp" group-title="truct-tiep live",East Riffa vs Al-Ittifaq [22:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/14613241_ae997fdf5bbfc07c55f8ded3bc9b1750_autoChange.m3u8?auth_key=1795806228-0-0-bb7d90195c0789385847b57f9f4d437a
+https://live3.hztx2020.com/live/14613241_ae997fdf5bbfc07c55f8ded3bc9b1750_autoChange.m3u8?auth_key=1795806350-0-0-b9de7b4086b58a911b2ae79f669fc6bf
