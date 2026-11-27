@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Al Qadsiah vs Al Fayha" tvg-logo="https://media2.16m50.tv/media/club/863.webp" group-title="truct-tiep live",LIVE Al Qadsiah vs Al Fayha [64']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14674366_8dee783efc0325e0115ea111077d30f8_autoChange.m3u8?auth_key=1795807686-0-0-6e69fcde163dd4d7abd72ec0094c7e71
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Montenegro U17 vs Chile U17" tvg-logo="https://media2.16m50.tv/media/club/11048.webp" group-title="truct-tiep live",LIVE Montenegro U17 vs Chile U17 [62']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -23,35 +19,39 @@ https://live2.hztx2020.com/live/14215774_0407dfb35b09d1a0ef0cd663a87c71ed_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live3.hztx2020.com/live/14613241_ae997fdf5bbfc07c55f8ded3bc9b1750_autoChange.m3u8?auth_key=1795807686-0-0-322c9fe89af33e85f6adc457d9d763b6
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Ghaz Al Shamal vs Al Karma" tvg-logo="https://media2.16m50.tv/media/club/13877.webp" group-title="truct-tiep live",LIVE Ghaz Al Shamal vs Al Karma [-1']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Ghaz Al Shamal vs Al Karma" tvg-logo="https://media2.16m50.tv/media/club/13877.webp" group-title="truct-tiep live",LIVE Ghaz Al Shamal vs Al Karma [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14317451_da16e1be9d622b3db31b615dca3c71fb_autoChange.m3u8?auth_key=1795807687-0-0-7b476d95b59392d4ca9959b52772b64a
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Lusail Sports Club vs Al-Arabi Sports Club" tvg-logo="https://media2.16m50.tv/media/club/21963.webp" group-title="truct-tiep live",LIVE Lusail Sports Club vs Al-Arabi Sports Club [2']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Lusail Sports Club vs Al-Arabi Sports Club" tvg-logo="https://media2.16m50.tv/media/club/21963.webp" group-title="truct-tiep live",LIVE Lusail Sports Club vs Al-Arabi Sports Club [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/ezk96i32d4ds1kn_b52831b57736326b358ddf59aad5250a_autoChange.m3u8?auth_key=1795810459-0-0-abaaad9c130989251ba0a19a368c66a0
-#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Universitatea Cluj vs Sepsi OSK Sfantul Gheorghe" tvg-logo="https://media2.16m50.tv/media/club/4843.webp" group-title="truct-tiep live",LIVE FC Universitatea Cluj vs Sepsi OSK Sfantul Gheorghe [3']
+https://live1.hztx2020.com/live/ezk96i32d4ds1kn_b52831b57736326b358ddf59aad5250a_autoChange.m3u8?auth_key=1795810777-0-0-3cfa9399fb48ba9baaa0e8c955e326cd
+#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Universitatea Cluj vs Sepsi OSK Sfantul Gheorghe" tvg-logo="https://media2.16m50.tv/media/club/4843.webp" group-title="truct-tiep live",LIVE FC Universitatea Cluj vs Sepsi OSK Sfantul Gheorghe [2']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/9gklzi1dr93im7x_df5c2eea18ed7a1485b0ac8a845c9165_autoChange.m3u8?auth_key=1795810459-0-0-5f302aa08545076f2d8e6da3e05ad0d3
+https://live.hztx2020.com/live/9gklzi1dr93im7x_df5c2eea18ed7a1485b0ac8a845c9165_autoChange.m3u8?auth_key=1795810777-0-0-eb9852343973fc68a27d4142ec3a1178
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Dinamo Batumi vs Dila Gori" tvg-logo="https://media2.16m50.tv/media/club/4453.webp" group-title="truct-tiep live",LIVE Dinamo Batumi vs Dila Gori [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14725414_e7c6fa5e73e087d499502ba5fa4c3dea_autoChange.m3u8?auth_key=1795810461-0-0-54dcc9e6b737d5099485d382b0d45372
+https://live1.hztx2020.com/live/14725414_e7c6fa5e73e087d499502ba5fa4c3dea_autoChange.m3u8?auth_key=1795810778-0-0-940ded3bc0f7dee08068d52751940615
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Al Gharraf vs Mosul FC" tvg-logo="https://media2.16m50.tv/media/club/1758.webp" group-title="truct-tiep live",LIVE Al Gharraf vs Mosul FC [-1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live4.hztx2020.com/live/75949150_96a2ff2e97d299939b5cb316223b19da_autoChange.m3u8?auth_key=1795810461-0-0-a69a70f6c9b4d96d64bb85819a6ed4ca
+https://live4.hztx2020.com/live/75949150_96a2ff2e97d299939b5cb316223b19da_autoChange.m3u8?auth_key=1795810778-0-0-aa16107b233c0401f2470bdda16191de
 #EXTINF:-1 tvg-id="" tvg-name="LIVE NK Brezice 1919 vs Triglav Gorenjska" tvg-logo="https://media2.16m50.tv/media/club/22002.webp" group-title="truct-tiep live",LIVE NK Brezice 1919 vs Triglav Gorenjska [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14659723_a06473e0458810ada5b4677aa910a57d_autoChange.m3u8?auth_key=1795810461-0-0-36fa402f89a9768643fcab453040d139
+https://live.hztx2020.com/live/14659723_a06473e0458810ada5b4677aa910a57d_autoChange.m3u8?auth_key=1795810778-0-0-98881af6905608386de36a75547ef865
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Romania U17 vs Cameroon U17" tvg-logo="https://media2.16m50.tv/media/club/11062.webp" group-title="truct-tiep live",LIVE Romania U17 vs Cameroon U17 [-1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/71762602_09ba09b261b7fb9d5f740ee87f362cbd_autoChange.m3u8?auth_key=1795810461-0-0-2a8c119884f815fdea91ec52c717fd77
+https://live3.hztx2020.com/live/71762602_09ba09b261b7fb9d5f740ee87f362cbd_autoChange.m3u8?auth_key=1795810778-0-0-82b88bd1997a157dd5a07eb64e2d9be3
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FK IMT Belgrad vs Macva Sabac" tvg-logo="https://media2.16m50.tv/media/club/6626.webp" group-title="truct-tiep live",LIVE FK IMT Belgrad vs Macva Sabac [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14109763_078d01a4dc85432dd5d927276974fd86_autoChange.m3u8?auth_key=1795810792-0-0-479f4ee1c1dc3d1c611c45fa63a2f118
+https://live.hztx2020.com/live/14109763_078d01a4dc85432dd5d927276974fd86_autoChange.m3u8?auth_key=1795810778-0-0-86b89e314cfe418c20d6e86684821762
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Venezuela U17 vs Mexico U17" tvg-logo="https://media2.16m50.tv/media/club/10989.webp" group-title="truct-tiep live",LIVE Venezuela U17 vs Mexico U17 [1']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live2.hztx2020.com/live/71762600_a015958546aac99854636077280a09f1_autoChange.m3u8?auth_key=1795810778-0-0-5cc4cb3ca186d4c12a91f1f0c5c23720
