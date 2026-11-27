@@ -3,6 +3,10 @@
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live4.hztx2020.com/live/zrkn6i48w3eiwql_179204c9322f2e5a69af68770c02e437_autoChange.m3u8?auth_key=1795811214-0-0-ad10a1b23a794d3af25af68d86d1eb5a
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Malkiya vs Manama Club" tvg-logo="https://media2.16m50.tv/media/club/1435.webp" group-title="truct-tiep live",LIVE Malkiya vs Manama Club [67']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/zrkn6i1mdz4bwql_6ada8ebc626c8b8c216e16beeb10994e_autoChange.m3u8?auth_key=1795811214-0-0-5cb8425269d84f39bd1e56a3ea746284
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Algeria U17 vs Dominican Republic U17" tvg-logo="https://media2.16m50.tv/media/club/10856.webp" group-title="truct-tiep live",LIVE Algeria U17 vs Dominican Republic U17 [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
