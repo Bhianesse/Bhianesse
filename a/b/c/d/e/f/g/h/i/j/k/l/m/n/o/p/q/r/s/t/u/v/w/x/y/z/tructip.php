@@ -6,4 +6,4 @@ https://live.hztx2020.com/live/14704990_e16b96b4cf15dd8f3c57287dd065740e_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Bangalore Dream United FC vs Bangalore City" tvg-logo="https://media2.16m50.tv/media/club/24114.webp" group-title="truct-tiep live",LIVE Bangalore Dream United FC vs Bangalore City [7']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14643674_72952825db5419e19af78540c69e6114_autoChange.m3u8?auth_key=1795773461-0-0-0f6fa152746c71d11648b08303e234d0
+https://live.hztx2020.com/live/14643674_72952825db5419e19af78540c69e6114_autoChange.m3u8?auth_key=1795774030-0-0-17d58df27f933e1b4f1eb4ba5a2c2697
