@@ -3,10 +3,6 @@
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14305472_323ffa0213eb0c305b16d871b94e2b4e_autoChange.m3u8?auth_key=1795796978-0-0-52e9bbf92769e04ce634e3cc2fa8a1df
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Hong Kong Trung quốc vs Mông Cổ" tvg-logo="https://media2.16m50.tv/media/club/28010.webp" group-title="truct-tiep live",LIVE Hong Kong Trung quốc vs Mông Cổ [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14416863_966ca0711f73000fc3c77590f3ed6cc3_autoChange.m3u8?auth_key=1795797770-0-0-674e37e532d3cdd683c5fcac3aff51bf
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FC Livyi Bereh vs Kolos Kovalivka" tvg-logo="https://media2.16m50.tv/media/club/10430.webp" group-title="truct-tiep live",LIVE FC Livyi Bereh vs Kolos Kovalivka [67']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -35,10 +31,6 @@ https://live4.hztx2020.com/live/14219315_c57da2b5f8a0a2463ef32251de94b672_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live5.hztx2020.com/live/14470604_892111771079e0d2af8d88ef0619cf6b_autoChange.m3u8?auth_key=1795796980-0-0-a5f58e6dc9991b498c2b7210516d71e5
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Syrian vs Philippines" tvg-logo="https://media2.16m50.tv/media/club/28104.webp" group-title="truct-tiep live",LIVE Syrian vs Philippines [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14158935_8b7c9ab7932a2cf3ab1cf7647758ea6b_autoChange.m3u8?auth_key=1795798187-0-0-7d76804ffa31663b389a796fc69cd4e7
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Buxoro FK vs Mashal Muborak" tvg-logo="https://media2.16m50.tv/media/club/784.webp" group-title="truct-tiep live",LIVE Buxoro FK vs Mashal Muborak [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
