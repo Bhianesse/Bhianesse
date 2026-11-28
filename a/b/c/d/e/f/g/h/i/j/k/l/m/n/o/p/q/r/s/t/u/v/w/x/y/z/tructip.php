@@ -102,8 +102,8 @@ https://live1.hztx2020.com/live/14075761_530761e8ee916ef064443065184d988b_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="Holstein Kiel vs 1. FC Kaiserslautern" tvg-logo="https://media2.16m50.tv/media/club/2824.webp" group-title="truct-tiep live",Holstein Kiel vs 1. FC Kaiserslautern [19:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14099489_67faeaa054deb04080f8295c61455bb7_autoChange.m3u8?auth_key=1795881094-0-0-1419adbe651e002f7be3c8ecad87f10d
+https://live2.hztx2020.com/live/14099489_67faeaa054deb04080f8295c61455bb7_autoChange.m3u8?auth_key=1795881214-0-0-c40cbc6f1893862e961b689dde23f42b
 #EXTINF:-1 tvg-id="" tvg-name="Dynamo Dresden vs FC St. Pauli" tvg-logo="https://media2.16m50.tv/media/club/6077.webp" group-title="truct-tiep live",Dynamo Dresden vs FC St. Pauli [19:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14099735_d378d9ff36576947be8d7f98557f5697_autoChange.m3u8?auth_key=1795881094-0-0-df26fc8301d458be1cee32cc2f015ac0
+https://live1.hztx2020.com/live/14099735_d378d9ff36576947be8d7f98557f5697_autoChange.m3u8?auth_key=1795881214-0-0-8ceb707e84f7ae511087664f28e9a777
