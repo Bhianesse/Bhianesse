@@ -75,6 +75,10 @@ https://live.hztx2020.com/live/2424682_2ab67d4ce46adfd30f0c58056637b3ff_autoChan
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14159198_eb1d0237d8fcf204fe79a7beb153d20c_autoChange.m3u8?auth_key=1795875930-0-0-685bc57fc955bae7a6c8510bdc92917d
+#EXTINF:-1 tvg-id="" tvg-name="Tallinna FC Ararat TTU vs Viljandi Tulevik" tvg-logo="https://media2.16m50.tv/media/club/4373.webp" group-title="truct-tiep live",Tallinna FC Ararat TTU vs Viljandi Tulevik [17:30 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live3.hztx2020.com/live/14716039_d3b40f50f2ad1c08299d7090f7a8fe57_autoChange.m3u8?auth_key=1795876306-0-0-1884ab9f7e4541c6447561f482b64d57
 #EXTINF:-1 tvg-id="" tvg-name="FC Kuressaare vs Viimsi JK" tvg-logo="https://media2.16m50.tv/media/club/5715.webp" group-title="truct-tiep live",FC Kuressaare vs Viimsi JK [17:30 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
