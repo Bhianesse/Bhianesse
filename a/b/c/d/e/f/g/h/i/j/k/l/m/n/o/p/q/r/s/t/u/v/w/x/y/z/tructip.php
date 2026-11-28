@@ -3,14 +3,10 @@
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/77184704_392f0c57685e3d5fa8842d494b35d434_autoChange.m3u8?auth_key=1795879776-0-0-8a4e1851483d0ffe743f39e4117c55ba
-#EXTINF:-1 tvg-id="" tvg-name="LIVE AC Milan U20 vs Lecce U20" tvg-logo="https://media2.16m50.tv/media/club/751.webp" group-title="truct-tiep live",LIVE AC Milan U20 vs Lecce U20 [62']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE AC Milan U20 vs Lecce U20" tvg-logo="https://media2.16m50.tv/media/club/751.webp" group-title="truct-tiep live",LIVE AC Milan U20 vs Lecce U20 [63']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/o17pjiodl3xsy7j_4c79eb1f8e128f3d0ca74c937420b4e8_autoChange.m3u8?auth_key=1795879776-0-0-c2053dc90d119a0887ff826ffec5a34e
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Naftan Novopolotsk vs Dinamo Minsk" tvg-logo="https://media2.16m50.tv/media/club/2452.webp" group-title="truct-tiep live",LIVE Naftan Novopolotsk vs Dinamo Minsk [61']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/2424686_2b9b8dab79d33adc45fef154900e9b97_autoChange.m3u8?auth_key=1795879777-0-0-dcc5f3e39b9408c2dce317c9c9e3a1c1
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FC Belshina Babruisk vs Maxline Vitebsk" tvg-logo="https://media2.16m50.tv/media/club/3368.webp" group-title="truct-tiep live",LIVE FC Belshina Babruisk vs Maxline Vitebsk [62']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -27,7 +23,7 @@ https://live2.hztx2020.com/live/14205982_29e5890c1432afa890f6be1671773e75_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/2424682_2ab67d4ce46adfd30f0c58056637b3ff_autoChange.m3u8?auth_key=1795879777-0-0-cd4c438c815f27c8af30ae8ecf5eb581
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Bandirmaspor vs Batman Petrolspor" tvg-logo="https://media2.16m50.tv/media/club/3410.webp" group-title="truct-tiep live",LIVE Bandirmaspor vs Batman Petrolspor [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Bandirmaspor vs Batman Petrolspor" tvg-logo="https://media2.16m50.tv/media/club/3410.webp" group-title="truct-tiep live",LIVE Bandirmaspor vs Batman Petrolspor [64']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14159198_eb1d0237d8fcf204fe79a7beb153d20c_autoChange.m3u8?auth_key=1795879784-0-0-888f1f3b0bc2d8087f914e626f9c3f15
@@ -43,7 +39,7 @@ https://live3.hztx2020.com/live/14716039_d3b40f50f2ad1c08299d7090f7a8fe57_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14683696_c43da86f933586b36317b5199ea1a274_autoChange.m3u8?auth_key=1795879784-0-0-33c4e5eab378b2975aa6a5655e81a603
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Sivasspor vs Bodrum FK" tvg-logo="https://media2.16m50.tv/media/club/2542.webp" group-title="truct-tiep live",LIVE Sivasspor vs Bodrum FK [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Sivasspor vs Bodrum FK" tvg-logo="https://media2.16m50.tv/media/club/2542.webp" group-title="truct-tiep live",LIVE Sivasspor vs Bodrum FK [68']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14159203_42e7c2adca945418a4523b75c01d7d6b_autoChange.m3u8?auth_key=1795879784-0-0-372f7afafc0e52ca95cc3dc55dfb5b2f
@@ -99,3 +95,7 @@ https://live.hztx2020.com/live/14072732_ce923181e1a321d98a77dc5a5676729d_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14241055_3e5fcc5385e38c0156a11e637bee73ed_autoChange.m3u8?auth_key=1795879786-0-0-dd95bf6274a08505611648ac56ccc278
+#EXTINF:-1 tvg-id="" tvg-name="HNK Segesta Sisak vs NK Dubrava" tvg-logo="https://media2.16m50.tv/media/club/3783.webp" group-title="truct-tiep live",HNK Segesta Sisak vs NK Dubrava [18:45 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14167837_b45c9d8333ac52f8eea6596102149106_autoChange.m3u8?auth_key=1795880608-0-0-d513878843e0ccaeb6e271384feccd45
