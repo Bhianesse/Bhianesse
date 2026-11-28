@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Maharlika vs Kaya FC-Iloilo" tvg-logo="https://media2.16m50.tv/media/club/22884.webp" group-title="truct-tiep live",LIVE Maharlika vs Kaya FC-Iloilo [64']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Bahrain vs Kazakhstan" tvg-logo="https://media2.16m50.tv/media/club/17351.webp" group-title="truct-tiep live",LIVE Bahrain vs Kazakhstan [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14437756_6ff07d1f7f0e90e239407fc36b10040b_autoChange.m3u8?auth_key=1795872589-0-0-9a4a84162aa7556f15095344a9e7cf06
+https://live.hztx2020.com/live/14416862_c123ca0e5bb476f9c76fc1c2a70a62df_autoChange.m3u8?auth_key=1795874082-0-0-261505fed676cf91eadce8a0b74f1793
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Chattogram City FC vs Brothers Union" tvg-logo="https://media2.16m50.tv/media/club/14676.webp" group-title="truct-tiep live",LIVE Chattogram City FC vs Brothers Union [68']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -55,15 +55,15 @@ https://live.hztx2020.com/live/14207964_eebab2bdbc442e6c1dd05740e2146b39_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14207965_1c842110676f72e927e49695234fb7b6_autoChange.m3u8?auth_key=1795872580-0-0-fa4d75a04b0a272a00d039a7972b8254
-#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Victoria Mykolaivka vs Lokomotiv Kyiv" tvg-logo="https://media2.16m50.tv/media/club/3635.webp" group-title="truct-tiep live",LIVE FC Victoria Mykolaivka vs Lokomotiv Kyiv [3']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Victoria Mykolaivka vs Lokomotiv Kyiv" tvg-logo="https://media2.16m50.tv/media/club/3635.webp" group-title="truct-tiep live",LIVE FC Victoria Mykolaivka vs Lokomotiv Kyiv [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14188496_fb416117cbea93a3120ece36916fbd81_autoChange.m3u8?auth_key=1795872580-0-0-82c0382f35b90fcc9c96bd5fd9e3a2a4
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Metallurg Bekobod vs FarDU" tvg-logo="https://media2.16m50.tv/media/club/13311.webp" group-title="truct-tiep live",LIVE Metallurg Bekobod vs FarDU [5']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Metallurg Bekobod vs FarDU" tvg-logo="https://media2.16m50.tv/media/club/13311.webp" group-title="truct-tiep live",LIVE Metallurg Bekobod vs FarDU [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/77184704_392f0c57685e3d5fa8842d494b35d434_autoChange.m3u8?auth_key=1795872588-0-0-6ab55fa61854ff11dedf3fbe6670d2c0
-#EXTINF:-1 tvg-id="" tvg-name="LIVE ISPE FC U20 vs Yangon United FC U20" tvg-logo="https://media2.16m50.tv/media/club/17196.webp" group-title="truct-tiep live",LIVE ISPE FC U20 vs Yangon United FC U20 [1']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE ISPE FC U20 vs Yangon United FC U20" tvg-logo="https://media2.16m50.tv/media/club/17196.webp" group-title="truct-tiep live",LIVE ISPE FC U20 vs Yangon United FC U20 [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14408956_28d5507f79b985413e2a191d5fbf9f63_autoChange.m3u8?auth_key=1795872588-0-0-4380f2c8bb3f84ec861dbcb2e2b8c970
@@ -71,3 +71,11 @@ https://live.hztx2020.com/live/14408956_28d5507f79b985413e2a191d5fbf9f63_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14360625_165b4676d359b30ece32d946126301c9_autoChange.m3u8?auth_key=1795872581-0-0-cdbae1e48816e2b18ee9d64eab543bb9
+#EXTINF:-1 tvg-id="" tvg-name="FK Vitebsk vs Arsenal Dzerzhinsk" tvg-logo="https://media2.16m50.tv/media/club/2453.webp" group-title="truct-tiep live",FK Vitebsk vs Arsenal Dzerzhinsk [17:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/2424688_9ab709a24a1cf78a08f8870660d33c81_autoChange.m3u8?auth_key=1795874142-0-0-f3d331d2984b5db2e53884ea43abb7ee
+#EXTINF:-1 tvg-id="" tvg-name="ASU Politehnica Timișoara vs FC Bihor Oradea" tvg-logo="https://media2.16m50.tv/media/club/22066.webp" group-title="truct-tiep live",ASU Politehnica Timișoara vs FC Bihor Oradea [17:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live2.hztx2020.com/live/14205982_29e5890c1432afa890f6be1671773e75_autoChange.m3u8?auth_key=1795874142-0-0-bd894a72c4012ab156c14ef06e0a6971
