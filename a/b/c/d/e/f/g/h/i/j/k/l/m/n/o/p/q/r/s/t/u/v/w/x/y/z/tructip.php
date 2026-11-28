@@ -47,6 +47,10 @@ https://live.hztx2020.com/live/14360626_cf3361568b663c9bac9d7a96543f0aaf_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14170358_d7215e81bc022857e728ec271192efe3_autoChange.m3u8?auth_key=1795872580-0-0-3cbcc218a6e9b2a8763c4b842ba6e21f
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Negeri Sembilan vs Terengganu FC" tvg-logo="https://media2.16m50.tv/media/club/3670.webp" group-title="truct-tiep live",LIVE Negeri Sembilan vs Terengganu FC [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14207964_eebab2bdbc442e6c1dd05740e2146b39_autoChange.m3u8?auth_key=1795872588-0-0-e9bce5417b2af379fb56a35842251b9c
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Sabah FC vs Selangor FC" tvg-logo="https://media2.16m50.tv/media/club/6.webp" group-title="truct-tiep live",LIVE Sabah FC vs Selangor FC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
