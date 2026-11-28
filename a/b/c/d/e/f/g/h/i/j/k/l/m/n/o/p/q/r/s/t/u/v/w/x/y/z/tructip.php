@@ -14,12 +14,12 @@ https://live.hztx2020.com/live/14666901_3bc04b5ae860b2a00e8a78224e476b25_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE USA Women vs El Salvador Women" tvg-logo="https://media2.16m50.tv/media/club/627.webp" group-title="truct-tiep live",LIVE USA Women vs El Salvador Women [8']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14551455_74eb10912fb196964c0de654166efc21_autoChange.m3u8?auth_key=1795845943-0-0-81843f313b55ce4fcbfe6152fc9983f5
+https://live.hztx2020.com/live/14551455_74eb10912fb196964c0de654166efc21_autoChange.m3u8?auth_key=1795846066-0-0-3805885c7e59416abaa56d579673689d
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Millonarios vs America de Cali" tvg-logo="https://media2.16m50.tv/media/club/648.webp" group-title="truct-tiep live",LIVE Millonarios vs America de Cali [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14718719_43084bf34d9c728b2f59e9ade2329ce5_autoChange.m3u8?auth_key=1795845943-0-0-00312a5b92825dcb66e3c46bb8816829
+https://live.hztx2020.com/live/14718719_43084bf34d9c728b2f59e9ade2329ce5_autoChange.m3u8?auth_key=1795846067-0-0-158fea341e8c3b8120d990fc381100d4
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Auckland United Women vs Eastern Suburbs Women" tvg-logo="https://media2.16m50.tv/media/club/15278.webp" group-title="truct-tiep live",LIVE Auckland United Women vs Eastern Suburbs Women [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14726941_172523d693d69d0175c58e190f1a8f14_autoChange.m3u8?auth_key=1795845943-0-0-401dbc999082d721ae9a64f56732dc55
+https://live1.hztx2020.com/live/14726941_172523d693d69d0175c58e190f1a8f14_autoChange.m3u8?auth_key=1795846067-0-0-d5816ad58ad9203cb5045a5f5cf67227
