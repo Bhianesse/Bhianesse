@@ -3,10 +3,10 @@
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14720597_93c9108089401014b71f7691657a0edc_autoChange.m3u8?auth_key=1795840181-0-0-cffa0fec8ca5b9926a6fb1abd48d3666
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Deportivo Cali vs Atletico Bucaramanga" tvg-logo="https://media2.16m50.tv/media/club/1868.webp" group-title="truct-tiep live",LIVE Deportivo Cali vs Atletico Bucaramanga [66']
+#EXTINF:-1 tvg-id="" tvg-name="LIVE New York Knicks vs Miami Heat" tvg-logo="https://media2.16m50.tv/media/club/11751.webp" group-title="truct-tiep live",LIVE New York Knicks vs Miami Heat [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14718718_068a2bb19fb36b91d82b8596df17d478_autoChange.m3u8?auth_key=1795843763-0-0-f3ae193e6d0d328e37a75e33628b1271
+https://live1.hztx2020.com/live/14331397_d36d75e2de71f167bb694239fb855aff_autoChange.m3u8?auth_key=1795844387-0-0-49bff182731fd6aafe4884094afa8852
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Tristan Suarez vs Gimnasia y Tiro" tvg-logo="https://media2.16m50.tv/media/club/7247.webp" group-title="truct-tiep live",LIVE Tristan Suarez vs Gimnasia y Tiro [70']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -23,7 +23,11 @@ https://live1.hztx2020.com/live/14438038_dae994d1e862617d2e86aeccbda35f8e_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14666901_3bc04b5ae860b2a00e8a78224e476b25_autoChange.m3u8?auth_key=1795843763-0-0-ed38a0c487b4258cf71bb9364e30a052
-#EXTINF:-1 tvg-id="" tvg-name="Millonarios vs America de Cali" tvg-logo="https://media2.16m50.tv/media/club/648.webp" group-title="truct-tiep live",Millonarios vs America de Cali [08:40 WIB]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE USA Women vs El Salvador Women" tvg-logo="https://media2.16m50.tv/media/club/627.webp" group-title="truct-tiep live",LIVE USA Women vs El Salvador Women [8']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14718719_43084bf34d9c728b2f59e9ade2329ce5_autoChange.m3u8?auth_key=1795844266-0-0-355dde4c4bfe478b443db5898dfb9f61
+https://live.hztx2020.com/live/14551455_74eb10912fb196964c0de654166efc21_autoChange.m3u8?auth_key=1795844379-0-0-562422140bc7b75779920fee93da2b88
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Minnesota Timberwolves vs Memphis Grizzlies" tvg-logo="https://media2.16m50.tv/media/club/10804.webp" group-title="truct-tiep live",LIVE Minnesota Timberwolves vs Memphis Grizzlies [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/14331402_efd2d10a158285238612593bb1cd1e8e_autoChange.m3u8?auth_key=1795844265-0-0-d634e797add7350063a6d98ea782eb5d
