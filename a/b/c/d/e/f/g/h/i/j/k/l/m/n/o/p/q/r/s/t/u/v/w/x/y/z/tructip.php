@@ -51,10 +51,6 @@ https://live2.hztx2020.com/live/14159203_42e7c2adca945418a4523b75c01d7d6b_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/13989544_462c9a2fb084303bb66fca6875a35bb3_autoChange.m3u8?auth_key=1795879785-0-0-2815492a2a073ef4b7cf442c13430dd4
-#EXTINF:-1 tvg-id="" tvg-name="LIVE United Arab Emirates vs Sri Lanka" tvg-logo="https://media2.16m50.tv/media/club/11161.webp" group-title="truct-tiep live",LIVE United Arab Emirates vs Sri Lanka [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14416867_ef6ecd47382efc84ccb80398ca1606e1_autoChange.m3u8?auth_key=1795880023-0-0-db1729a6d632bcbbb2a31e6fc49fd870
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Pattani vs Singha Chiangrai United" tvg-logo="https://media2.16m50.tv/media/club/6072.webp" group-title="truct-tiep live",LIVE Pattani vs Singha Chiangrai United [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -79,6 +75,10 @@ https://live5.hztx2020.com/live/14360820_7fd23f67c7b9e6ac21e422243e65881b_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14360450_ef6101f10c21ce8c0a4da64c23bcec95_autoChange.m3u8?auth_key=1795879786-0-0-508401ab17904cf618f93faec70497b1
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Cong An Ho Chi Minh City vs Hoang Anh Gia Lai" tvg-logo="https://media2.16m50.tv/media/club/2475.webp" group-title="truct-tiep live",LIVE Cong An Ho Chi Minh City vs Hoang Anh Gia Lai [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live4.hztx2020.com/live/14360821_6aec7012e1a31232f20bace0fd83e812_autoChange.m3u8?auth_key=1795879788-0-0-a6e3471c2c2eb938f66b68e16c0849e5
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Aguilas-UMak FC vs Manila Digger FC" tvg-logo="https://media2.16m50.tv/media/club/5536.webp" group-title="truct-tiep live",LIVE Aguilas-UMak FC vs Manila Digger FC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
