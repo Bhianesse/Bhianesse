@@ -22,4 +22,4 @@ https://live.hztx2020.com/live/14666901_3bc04b5ae860b2a00e8a78224e476b25_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE USA Women vs El Salvador Women" tvg-logo="https://media2.16m50.tv/media/club/627.webp" group-title="truct-tiep live",LIVE USA Women vs El Salvador Women [8']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14551455_74eb10912fb196964c0de654166efc21_autoChange.m3u8?auth_key=1795844505-0-0-a52340f4c1e59bc21739b4fcaa05b8f3
+https://live.hztx2020.com/live/14551455_74eb10912fb196964c0de654166efc21_autoChange.m3u8?auth_key=1795844634-0-0-dc1314db4c4fa19fd6b4067af0a3ff6a
