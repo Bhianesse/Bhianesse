@@ -34,7 +34,7 @@ https://live1.hztx2020.com/live/14470605_c0b28b5a17df33d46a3ffd3ecd0e857d_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="Persatuan Sepakbola Makassar vs Dewa United FC" tvg-logo="https://media2.16m50.tv/media/club/2926.webp" group-title="truct-tiep live",Persatuan Sepakbola Makassar vs Dewa United FC [15:30 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/14302269_904ac46d595d3c4abddb19189f7a6f10_autoChange.m3u8?auth_key=1795869080-0-0-38581677c98fd32fc4b18fe7220a61d9
+https://live3.hztx2020.com/live/14302269_904ac46d595d3c4abddb19189f7a6f10_autoChange.m3u8?auth_key=1795869221-0-0-0637f4546db80bb58ed6205701cc54e3
 #EXTINF:-1 tvg-id="" tvg-name="MSPCC City Club vs PWD Sports Club" tvg-logo="https://media2.16m50.tv/media/club/13353.webp" group-title="truct-tiep live",MSPCC City Club vs PWD Sports Club [15:30 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -46,7 +46,7 @@ https://live5.hztx2020.com/live/14722467_b1e9624dc163b5bc32b287e45968d9a8_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="PSIM Yogyakarta vs Persatuan Sepakbola Indonesia Jepara" tvg-logo="https://media2.16m50.tv/media/club/8.webp" group-title="truct-tiep live",PSIM Yogyakarta vs Persatuan Sepakbola Indonesia Jepara [15:30 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14302268_3d6997dd173efbd3184c736b35cf23f5_autoChange.m3u8?auth_key=1795869080-0-0-00227d0a1bca9f246a445d564af462af
+https://live2.hztx2020.com/live/14302268_3d6997dd173efbd3184c736b35cf23f5_autoChange.m3u8?auth_key=1795869221-0-0-fb7f46a614b1b2c5bf7b9a9ed61d772d
 #EXTINF:-1 tvg-id="" tvg-name="Isenmulang Kalteng vs PSS Sleman" tvg-logo="https://media2.16m50.tv/media/club/22516.webp" group-title="truct-tiep live",Isenmulang Kalteng vs PSS Sleman [15:30 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -54,12 +54,16 @@ https://live1.hztx2020.com/live/14307162_aeadd4be57758fbc48e4d7d4330e7a0f_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="Bali United vs Bhayangkara Presisi Indonesia FC" tvg-logo="https://media2.16m50.tv/media/club/1236.webp" group-title="truct-tiep live",Bali United vs Bhayangkara Presisi Indonesia FC [15:30 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14302267_1d1f40baf364056ed8d1f0a0cf15d68c_autoChange.m3u8?auth_key=1795869080-0-0-c551da833ce24edf6e55f9d4d7a23424
+https://live.hztx2020.com/live/14302267_1d1f40baf364056ed8d1f0a0cf15d68c_autoChange.m3u8?auth_key=1795869221-0-0-b4d6e79ab0e0206c186eff88c7cd0ed5
 #EXTINF:-1 tvg-id="" tvg-name="Barito Putera vs De Red FC" tvg-logo="https://media2.16m50.tv/media/club/11822.webp" group-title="truct-tiep live",Barito Putera vs De Red FC [15:30 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14362686_ca57236a483b1bac0150f8d0c4407af7_autoChange.m3u8?auth_key=1795869080-0-0-cfdc7cbb53876ba0c6fa1ae46b8bdc61
+https://live.hztx2020.com/live/14362686_ca57236a483b1bac0150f8d0c4407af7_autoChange.m3u8?auth_key=1795869221-0-0-3cc6c97c9a80468ebff97dfa74f0dc3b
 #EXTINF:-1 tvg-id="" tvg-name="Persela Lamongan vs Rans Nusantara FC" tvg-logo="https://media2.16m50.tv/media/club/11786.webp" group-title="truct-tiep live",Persela Lamongan vs Rans Nusantara FC [15:30 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live4.hztx2020.com/live/14362688_8143c54a2e19c66bf65080b4a37f4959_autoChange.m3u8?auth_key=1795868989-0-0-68234e2b1ab27c2f62cb97da25982635
+#EXTINF:-1 tvg-id="" tvg-name="Shan United vs Sagaing United" tvg-logo="https://media2.16m50.tv/media/club/5551.webp" group-title="truct-tiep live",Shan United vs Sagaing United [15:30 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14360626_cf3361568b663c9bac9d7a96543f0aaf_autoChange.m3u8?auth_key=1795869221-0-0-dca9b614e95ec7219480aa67187b2ccc
