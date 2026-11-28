@@ -18,16 +18,16 @@ https://live3.hztx2020.com/live/14342719_5b2181e5340a8674a5f37e45fb850b79_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Racing Club Montevideo vs Liverpool URU" tvg-logo="https://media2.16m50.tv/media/club/940.webp" group-title="truct-tiep live",LIVE Racing Club Montevideo vs Liverpool URU [5']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14720597_93c9108089401014b71f7691657a0edc_autoChange.m3u8?auth_key=1795839216-0-0-fc249568f2cb66cdf1b95aad5b9451ef
+https://live1.hztx2020.com/live/14720597_93c9108089401014b71f7691657a0edc_autoChange.m3u8?auth_key=1795839348-0-0-c4715bd76974b942f76a467c0b724a3b
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Deportivo Cali vs Atletico Bucaramanga" tvg-logo="https://media2.16m50.tv/media/club/1868.webp" group-title="truct-tiep live",LIVE Deportivo Cali vs Atletico Bucaramanga [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14718718_068a2bb19fb36b91d82b8596df17d478_autoChange.m3u8?auth_key=1795839216-0-0-3ecc42e12bcf1d8defc230bbacf03e40
+https://live.hztx2020.com/live/14718718_068a2bb19fb36b91d82b8596df17d478_autoChange.m3u8?auth_key=1795839348-0-0-ca28f3a12081123d49d914cf910817e9
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Tristan Suarez vs Gimnasia y Tiro" tvg-logo="https://media2.16m50.tv/media/club/7247.webp" group-title="truct-tiep live",LIVE Tristan Suarez vs Gimnasia y Tiro [4']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14712085_e93b8d165528703b41b10396f4c0898f_autoChange.m3u8?auth_key=1795839216-0-0-837d354ac57b8d0f1cbf7986a584cb65
+https://live.hztx2020.com/live/14712085_e93b8d165528703b41b10396f4c0898f_autoChange.m3u8?auth_key=1795839348-0-0-108f2a0eb22b90750e725983faa0c70b
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Deportivo Moron vs Colon de Santa Fe" tvg-logo="https://media2.16m50.tv/media/club/7333.webp" group-title="truct-tiep live",LIVE Deportivo Moron vs Colon de Santa Fe [6']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14712084_005d310dde756f6cf9788354ee1caecc_autoChange.m3u8?auth_key=1795839216-0-0-0711d102c1a9680c5218fb0b9ff56b6c
+https://live.hztx2020.com/live/14712084_005d310dde756f6cf9788354ee1caecc_autoChange.m3u8?auth_key=1795839348-0-0-ea91181d0997d013afbc9aaa268c9ff0
