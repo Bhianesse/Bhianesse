@@ -3,6 +3,14 @@
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14624248_84ff98ac31a0080309795f4137dbfbe7_autoChange.m3u8?auth_key=1795872589-0-0-803aaa4d8f4d1a141651b2ab8cb7a660
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Maharlika vs Kaya FC-Iloilo" tvg-logo="https://media2.16m50.tv/media/club/22884.webp" group-title="truct-tiep live",LIVE Maharlika vs Kaya FC-Iloilo [64']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14437756_6ff07d1f7f0e90e239407fc36b10040b_autoChange.m3u8?auth_key=1795872589-0-0-9a4a84162aa7556f15095344a9e7cf06
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Chattogram City FC vs Brothers Union" tvg-logo="https://media2.16m50.tv/media/club/14676.webp" group-title="truct-tiep live",LIVE Chattogram City FC vs Brothers Union [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/14470605_c0b28b5a17df33d46a3ffd3ecd0e857d_autoChange.m3u8?auth_key=1795872586-0-0-8f497175cdfb0386339856c818224937
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Persatuan Sepakbola Makassar vs Dewa United FC" tvg-logo="https://media2.16m50.tv/media/club/2926.webp" group-title="truct-tiep live",LIVE Persatuan Sepakbola Makassar vs Dewa United FC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -15,6 +23,10 @@ https://live.hztx2020.com/live/14470606_9ffb3ad3fd52be58848b9ee29ab13728_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live5.hztx2020.com/live/14722467_b1e9624dc163b5bc32b287e45968d9a8_autoChange.m3u8?auth_key=1795872586-0-0-4b8228339a6f3390b4b089c063d27b1e
+#EXTINF:-1 tvg-id="" tvg-name="LIVE PSIM Yogyakarta vs Persatuan Sepakbola Indonesia Jepara" tvg-logo="https://media2.16m50.tv/media/club/8.webp" group-title="truct-tiep live",LIVE PSIM Yogyakarta vs Persatuan Sepakbola Indonesia Jepara [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live2.hztx2020.com/live/14302268_3d6997dd173efbd3184c736b35cf23f5_autoChange.m3u8?auth_key=1795872590-0-0-51a0833f31a7038b27c268a73fce1420
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Isenmulang Kalteng vs PSS Sleman" tvg-logo="https://media2.16m50.tv/media/club/22516.webp" group-title="truct-tiep live",LIVE Isenmulang Kalteng vs PSS Sleman [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
