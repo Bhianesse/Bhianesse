@@ -18,4 +18,4 @@ https://live.hztx2020.com/live/14712084_005d310dde756f6cf9788354ee1caecc_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Wellington Phoenix Reserve vs Wellington Olympic" tvg-logo="https://media2.16m50.tv/media/club/11615.webp" group-title="truct-tiep live",LIVE Wellington Phoenix Reserve vs Wellington Olympic [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14438038_dae994d1e862617d2e86aeccbda35f8e_autoChange.m3u8?auth_key=1795843306-0-0-804ca6c4250bdf43a9be29cf42b3de1d
+https://live1.hztx2020.com/live/14438038_dae994d1e862617d2e86aeccbda35f8e_autoChange.m3u8?auth_key=1795843426-0-0-015b22945263da06decfe4828baa6a1a
