@@ -7,6 +7,14 @@ https://live1.hztx2020.com/live/14720597_93c9108089401014b71f7691657a0edc_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14438038_dae994d1e862617d2e86aeccbda35f8e_autoChange.m3u8?auth_key=1795843764-0-0-775d85cda87bc301663746b88f36aa2b
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Columbus Crew vs Inter Miami CF" tvg-logo="https://media2.16m50.tv/media/club/5281.webp" group-title="truct-tiep live",LIVE Columbus Crew vs Inter Miami CF [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14666901_3bc04b5ae860b2a00e8a78224e476b25_autoChange.m3u8?auth_key=1795843763-0-0-ed38a0c487b4258cf71bb9364e30a052
+#EXTINF:-1 tvg-id="" tvg-name="LIVE USA Women vs El Salvador Women" tvg-logo="https://media2.16m50.tv/media/club/627.webp" group-title="truct-tiep live",LIVE USA Women vs El Salvador Women [8']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14551455_74eb10912fb196964c0de654166efc21_autoChange.m3u8?auth_key=1795846547-0-0-934a2375bfefe09584d47f14e1267a4e
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Millonarios vs America de Cali" tvg-logo="https://media2.16m50.tv/media/club/648.webp" group-title="truct-tiep live",LIVE Millonarios vs America de Cali [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
