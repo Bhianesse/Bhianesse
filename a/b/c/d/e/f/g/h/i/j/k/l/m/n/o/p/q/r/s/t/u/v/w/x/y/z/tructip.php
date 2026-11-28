@@ -14,12 +14,8 @@ https://live.hztx2020.com/live/14666901_3bc04b5ae860b2a00e8a78224e476b25_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE USA Women vs El Salvador Women" tvg-logo="https://media2.16m50.tv/media/club/627.webp" group-title="truct-tiep live",LIVE USA Women vs El Salvador Women [8']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14551455_74eb10912fb196964c0de654166efc21_autoChange.m3u8?auth_key=1795846185-0-0-fc52392f24ce72835817d4c2af95fcbc
+https://live.hztx2020.com/live/14551455_74eb10912fb196964c0de654166efc21_autoChange.m3u8?auth_key=1795846306-0-0-57e94367997d10bfc6c5268b8c608601
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Millonarios vs America de Cali" tvg-logo="https://media2.16m50.tv/media/club/648.webp" group-title="truct-tiep live",LIVE Millonarios vs America de Cali [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14718719_43084bf34d9c728b2f59e9ade2329ce5_autoChange.m3u8?auth_key=1795846185-0-0-2b82e1098f362b7a5f4dc2377a829efb
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Auckland United Women vs Eastern Suburbs Women" tvg-logo="https://media2.16m50.tv/media/club/15278.webp" group-title="truct-tiep live",LIVE Auckland United Women vs Eastern Suburbs Women [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14726941_172523d693d69d0175c58e190f1a8f14_autoChange.m3u8?auth_key=1795846185-0-0-4145f0896ba7a8393c9e21d574094d7c
+https://live.hztx2020.com/live/14718719_43084bf34d9c728b2f59e9ade2329ce5_autoChange.m3u8?auth_key=1795846306-0-0-29bcc52c67d291317fbb2f10c5c0e1fd
