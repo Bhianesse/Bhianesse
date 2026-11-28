@@ -18,7 +18,11 @@ https://live3.hztx2020.com/live/14342719_5b2181e5340a8674a5f37e45fb850b79_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Racing Club Montevideo vs Liverpool URU" tvg-logo="https://media2.16m50.tv/media/club/940.webp" group-title="truct-tiep live",LIVE Racing Club Montevideo vs Liverpool URU [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14720597_93c9108089401014b71f7691657a0edc_autoChange.m3u8?auth_key=1795839947-0-0-4da00e978c851f27c879ceaa8a3aaeb1
+https://live1.hztx2020.com/live/14720597_93c9108089401014b71f7691657a0edc_autoChange.m3u8?auth_key=1795840063-0-0-607f9563ee407ab56b6d28ac32a1d7d4
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Deportivo Cali vs Atletico Bucaramanga" tvg-logo="https://media2.16m50.tv/media/club/1868.webp" group-title="truct-tiep live",LIVE Deportivo Cali vs Atletico Bucaramanga [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14718718_068a2bb19fb36b91d82b8596df17d478_autoChange.m3u8?auth_key=1795840063-0-0-dd1a0af0897c314448b333d1f082bc58
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Tristan Suarez vs Gimnasia y Tiro" tvg-logo="https://media2.16m50.tv/media/club/7247.webp" group-title="truct-tiep live",LIVE Tristan Suarez vs Gimnasia y Tiro [4']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -27,7 +31,3 @@ https://live.hztx2020.com/live/14712085_e93b8d165528703b41b10396f4c0898f_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14712084_005d310dde756f6cf9788354ee1caecc_autoChange.m3u8?auth_key=1795840063-0-0-49b02d104cabd4f540c18d496a89bf28
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Indiana Pacers vs Philadelphia 76ers" tvg-logo="https://media2.16m50.tv/media/club/11741.webp" group-title="truct-tiep live",LIVE Indiana Pacers vs Philadelphia 76ers [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14331399_d35b9c33139d7ddb3d33668d48574e51_autoChange.m3u8?auth_key=1795839946-0-0-acb051c0415c380fe0a9a4e357a5bade
