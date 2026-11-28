@@ -31,7 +31,3 @@ https://live.hztx2020.com/live/14712085_e93b8d165528703b41b10396f4c0898f_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14712084_005d310dde756f6cf9788354ee1caecc_autoChange.m3u8?auth_key=1795840181-0-0-b0b3d78020ab4f98ff74d9edd1bc7689
-#EXTINF:-1 tvg-id="" tvg-name="LIVE New York Knicks vs Miami Heat" tvg-logo="https://media2.16m50.tv/media/club/11751.webp" group-title="truct-tiep live",LIVE New York Knicks vs Miami Heat [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14331397_d36d75e2de71f167bb694239fb855aff_autoChange.m3u8?auth_key=1795840426-0-0-77a01e1e7867baf077e49ec7a8681b3c
