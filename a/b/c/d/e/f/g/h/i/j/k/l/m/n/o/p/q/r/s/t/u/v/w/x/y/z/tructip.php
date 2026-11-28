@@ -70,15 +70,15 @@ https://live1.hztx2020.com/live/14360625_165b4676d359b30ece32d946126301c9_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE AC Milan U20 vs Lecce U20" tvg-logo="https://media2.16m50.tv/media/club/751.webp" group-title="truct-tiep live",LIVE AC Milan U20 vs Lecce U20 [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/o17pjiodl3xsy7j_4c79eb1f8e128f3d0ca74c937420b4e8_autoChange.m3u8?auth_key=1795874861-0-0-d793f754af586ec01d93859d90866fb8
+https://live.hztx2020.com/live/o17pjiodl3xsy7j_4c79eb1f8e128f3d0ca74c937420b4e8_autoChange.m3u8?auth_key=1795874985-0-0-603dcf933fe432de6c909d3380ec9b19
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FK Vitebsk vs Arsenal Dzerzhinsk" tvg-logo="https://media2.16m50.tv/media/club/2453.webp" group-title="truct-tiep live",LIVE FK Vitebsk vs Arsenal Dzerzhinsk [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/2424688_9ab709a24a1cf78a08f8870660d33c81_autoChange.m3u8?auth_key=1795874864-0-0-b9a2d78cd5e5973fa63327869a2a64a4
+https://live1.hztx2020.com/live/2424688_9ab709a24a1cf78a08f8870660d33c81_autoChange.m3u8?auth_key=1795874983-0-0-adaf6904fc550f47c95c2b3a13d25a65
 #EXTINF:-1 tvg-id="" tvg-name="LIVE ASU Politehnica Timișoara vs FC Bihor Oradea" tvg-logo="https://media2.16m50.tv/media/club/22066.webp" group-title="truct-tiep live",LIVE ASU Politehnica Timișoara vs FC Bihor Oradea [2']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14205982_29e5890c1432afa890f6be1671773e75_autoChange.m3u8?auth_key=1795874865-0-0-6f591ca45dd8034bd153a02ba99ec64c
+https://live2.hztx2020.com/live/14205982_29e5890c1432afa890f6be1671773e75_autoChange.m3u8?auth_key=1795874983-0-0-c848493823e2f13701e0594e776c3999
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Dong Thap vs Becamex Ho Chi Minh City" tvg-logo="https://media2.16m50.tv/media/club/5541.webp" group-title="truct-tiep live",LIVE Dong Thap vs Becamex Ho Chi Minh City [-2']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
