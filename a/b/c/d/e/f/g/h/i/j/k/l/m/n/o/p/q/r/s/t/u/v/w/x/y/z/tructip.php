@@ -1,8 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Racing Club Montevideo vs Liverpool URU" tvg-logo="https://media2.16m50.tv/media/club/940.webp" group-title="truct-tiep live",LIVE Racing Club Montevideo vs Liverpool URU [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Racing Club Montevideo vs Liverpool URU" tvg-logo="https://media2.16m50.tv/media/club/940.webp" group-title="truct-tiep live",LIVE Racing Club Montevideo vs Liverpool URU [129']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14720597_93c9108089401014b71f7691657a0edc_autoChange.m3u8?auth_key=1795840181-0-0-cffa0fec8ca5b9926a6fb1abd48d3666
+#EXTINF:-1 tvg-id="" tvg-name="LIVE New York Knicks vs Miami Heat" tvg-logo="https://media2.16m50.tv/media/club/11751.webp" group-title="truct-tiep live",LIVE New York Knicks vs Miami Heat [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/14331397_d36d75e2de71f167bb694239fb855aff_autoChange.m3u8?auth_key=1795845343-0-0-ea94e703c57f2db10b380fbb633cae93
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Tristan Suarez vs Gimnasia y Tiro" tvg-logo="https://media2.16m50.tv/media/club/7247.webp" group-title="truct-tiep live",LIVE Tristan Suarez vs Gimnasia y Tiro [70']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -19,11 +23,19 @@ https://live1.hztx2020.com/live/14438038_dae994d1e862617d2e86aeccbda35f8e_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14666901_3bc04b5ae860b2a00e8a78224e476b25_autoChange.m3u8?auth_key=1795843763-0-0-ed38a0c487b4258cf71bb9364e30a052
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Minnesota Timberwolves vs Memphis Grizzlies" tvg-logo="https://media2.16m50.tv/media/club/10804.webp" group-title="truct-tiep live",LIVE Minnesota Timberwolves vs Memphis Grizzlies [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/14331402_efd2d10a158285238612593bb1cd1e8e_autoChange.m3u8?auth_key=1795845113-0-0-5d6d25241cbd4fb4c396f8e2dfaf241d
 #EXTINF:-1 tvg-id="" tvg-name="LIVE USA Women vs El Salvador Women" tvg-logo="https://media2.16m50.tv/media/club/627.webp" group-title="truct-tiep live",LIVE USA Women vs El Salvador Women [8']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14551455_74eb10912fb196964c0de654166efc21_autoChange.m3u8?auth_key=1795845223-0-0-20d6159c8cbaf701523c5bc3cf24778a
+https://live.hztx2020.com/live/14551455_74eb10912fb196964c0de654166efc21_autoChange.m3u8?auth_key=1795845344-0-0-12722e4b730e2b55ba2de60d766a4b90
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Millonarios vs America de Cali" tvg-logo="https://media2.16m50.tv/media/club/648.webp" group-title="truct-tiep live",LIVE Millonarios vs America de Cali [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14718719_43084bf34d9c728b2f59e9ade2329ce5_autoChange.m3u8?auth_key=1795845221-0-0-2440ba8938de0a52e503e1b82e70b741
+https://live.hztx2020.com/live/14718719_43084bf34d9c728b2f59e9ade2329ce5_autoChange.m3u8?auth_key=1795845344-0-0-7454259df4c66195a088a60ad694e318
+#EXTINF:-1 tvg-id="" tvg-name="Auckland United Women vs Eastern Suburbs Women" tvg-logo="https://media2.16m50.tv/media/club/15278.webp" group-title="truct-tiep live",Auckland United Women vs Eastern Suburbs Women [09:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/14726941_172523d693d69d0175c58e190f1a8f14_autoChange.m3u8?auth_key=1795845344-0-0-a51d3b49f671d0549348164270093ff0
