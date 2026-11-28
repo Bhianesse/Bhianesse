@@ -7,6 +7,10 @@ https://live.hztx2020.com/live/77184704_392f0c57685e3d5fa8842d494b35d434_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/o17pjiodl3xsy7j_4c79eb1f8e128f3d0ca74c937420b4e8_autoChange.m3u8?auth_key=1795879776-0-0-c2053dc90d119a0887ff826ffec5a34e
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Naftan Novopolotsk vs Dinamo Minsk" tvg-logo="https://media2.16m50.tv/media/club/2452.webp" group-title="truct-tiep live",LIVE Naftan Novopolotsk vs Dinamo Minsk [61']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/2424686_2b9b8dab79d33adc45fef154900e9b97_autoChange.m3u8?auth_key=1795879777-0-0-dcc5f3e39b9408c2dce317c9c9e3a1c1
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FC Belshina Babruisk vs Maxline Vitebsk" tvg-logo="https://media2.16m50.tv/media/club/3368.webp" group-title="truct-tiep live",LIVE FC Belshina Babruisk vs Maxline Vitebsk [62']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
