@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Brasil vs Hoa Kỳ" tvg-logo="https://media2.16m50.tv/media/club/22308.webp" group-title="truct-tiep live",LIVE Brasil vs Hoa Kỳ [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14134599_9bf7c94d010f2083c571057a2679ff9e_autoChange.m3u8?auth_key=1795842465-0-0-95bd0becb6821b7fa955e0c635d946d5
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Racing Club Montevideo vs Liverpool URU" tvg-logo="https://media2.16m50.tv/media/club/940.webp" group-title="truct-tiep live",LIVE Racing Club Montevideo vs Liverpool URU [69']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -11,10 +7,6 @@ https://live1.hztx2020.com/live/14720597_93c9108089401014b71f7691657a0edc_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14718718_068a2bb19fb36b91d82b8596df17d478_autoChange.m3u8?auth_key=1795840181-0-0-b792ee1a832d07ace94ac2ab4e54c9be
-#EXTINF:-1 tvg-id="" tvg-name="LIVE New York Knicks vs Miami Heat" tvg-logo="https://media2.16m50.tv/media/club/11751.webp" group-title="truct-tiep live",LIVE New York Knicks vs Miami Heat [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14331397_d36d75e2de71f167bb694239fb855aff_autoChange.m3u8?auth_key=1795842464-0-0-9b4e629dc07eda4da9cd16c91a0db48a
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Tristan Suarez vs Gimnasia y Tiro" tvg-logo="https://media2.16m50.tv/media/club/7247.webp" group-title="truct-tiep live",LIVE Tristan Suarez vs Gimnasia y Tiro [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -30,7 +22,7 @@ https://live1.hztx2020.com/live/14331399_d35b9c33139d7ddb3d33668d48574e51_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Wellington Phoenix Reserve vs Wellington Olympic" tvg-logo="https://media2.16m50.tv/media/club/11615.webp" group-title="truct-tiep live",LIVE Wellington Phoenix Reserve vs Wellington Olympic [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14438038_dae994d1e862617d2e86aeccbda35f8e_autoChange.m3u8?auth_key=1795842464-0-0-d787cbf3d9d8600d20cf56db9a3433aa
+https://live1.hztx2020.com/live/14438038_dae994d1e862617d2e86aeccbda35f8e_autoChange.m3u8?auth_key=1795842587-0-0-05b7b4c1ca1fd3f88f245ecbf74fce91
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Boston Celtics vs Atlanta Hawks" tvg-logo="https://media2.16m50.tv/media/club/10803.webp" group-title="truct-tiep live",LIVE Boston Celtics vs Atlanta Hawks [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
