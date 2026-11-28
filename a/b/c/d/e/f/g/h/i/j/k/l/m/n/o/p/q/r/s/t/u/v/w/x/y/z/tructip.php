@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Bahrain vs Kazakhstan" tvg-logo="https://media2.16m50.tv/media/club/17351.webp" group-title="truct-tiep live",LIVE Bahrain vs Kazakhstan [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14416862_c123ca0e5bb476f9c76fc1c2a70a62df_autoChange.m3u8?auth_key=1795873185-0-0-d2e751011ab8346ed2f54003bffe45b1
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Maharlika vs Kaya FC-Iloilo" tvg-logo="https://media2.16m50.tv/media/club/22884.webp" group-title="truct-tiep live",LIVE Maharlika vs Kaya FC-Iloilo [64']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
