@@ -75,3 +75,7 @@ https://live.hztx2020.com/live/63kv9igd52zfx7e_9f694c3dabe0bffac3bca11dba63add4_
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14072732_ce923181e1a321d98a77dc5a5676729d_autoChange.m3u8?auth_key=1795878081-0-0-b50f0eabfb780aff8ee131d28035ab43
+#EXTINF:-1 tvg-id="" tvg-name="Neftchi Fergana vs Dinamo Samarqand" tvg-logo="https://media2.16m50.tv/media/club/788.webp" group-title="truct-tiep live",Neftchi Fergana vs Dinamo Samarqand [18:15 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/13534458_81d8ea6402efd2c02734b13238ff04da_autoChange.m3u8?auth_key=1795878079-0-0-d68ecbab4f7fa91dae36ea17b849e970
