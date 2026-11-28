@@ -1,8 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Ganzi Team vs Leshan Team" tvg-logo="https://media2.16m50.tv/media/club/28108.webp" group-title="truct-tiep live",LIVE Ganzi Team vs Leshan Team [69']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/ezk96ijn2elt1kn_a86ba0df07672429498ef70369d23d92_autoChange.m3u8?auth_key=1795868969-0-0-99ca7064ff4fe3266b10d56ae3acbb19
+#EXTINF:-1 tvg-id="" tvg-name="LIVE North District vs Southern District" tvg-logo="https://media2.16m50.tv/media/club/5690.webp" group-title="truct-tiep live",LIVE North District vs Southern District [62']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14243930_8bd9ad301f553a8bc44a4d5afbe41211_autoChange.m3u8?auth_key=1795868969-0-0-5b82bad17c2b8d7294adbfeb112df466
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Kashiwa Reysol vs Sanfrecce Hiroshima" tvg-logo="https://media2.16m50.tv/media/club/1957.webp" group-title="truct-tiep live",LIVE Kashiwa Reysol vs Sanfrecce Hiroshima [66']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14062068_a4e74cf65cb45eaeb133d152894d15c4_autoChange.m3u8?auth_key=1795868969-0-0-3ebe8011e868254ce6f4bb60d850280b
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Pohang Steelers vs Gwangju Football Club" tvg-logo="https://media2.16m50.tv/media/club/8657.webp" group-title="truct-tiep live",LIVE Pohang Steelers vs Gwangju Football Club [65']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/14624249_cc0336b3a966e54b964aea73f5644546_autoChange.m3u8?auth_key=1795868969-0-0-baf07dfb7a95496873c321d41ec0d013
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Baisha Team vs Tunchang Team" tvg-logo="https://media2.16m50.tv/media/club/26182.webp" group-title="truct-tiep live",LIVE Baisha Team vs Tunchang Team [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -22,15 +34,11 @@ https://live1.hztx2020.com/live/14470605_c0b28b5a17df33d46a3ffd3ecd0e857d_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Persatuan Sepakbola Makassar vs Dewa United FC" tvg-logo="https://media2.16m50.tv/media/club/2926.webp" group-title="truct-tiep live",LIVE Persatuan Sepakbola Makassar vs Dewa United FC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/14302269_904ac46d595d3c4abddb19189f7a6f10_autoChange.m3u8?auth_key=1795869578-0-0-1d03af73a35499d20a16dc92fb41377b
+https://live3.hztx2020.com/live/14302269_904ac46d595d3c4abddb19189f7a6f10_autoChange.m3u8?auth_key=1795869691-0-0-613e7d1200ad26cc3826809b581d234b
 #EXTINF:-1 tvg-id="" tvg-name="LIVE MSPCC City Club vs PWD Sports Club" tvg-logo="https://media2.16m50.tv/media/club/13353.webp" group-title="truct-tiep live",LIVE MSPCC City Club vs PWD Sports Club [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14470606_9ffb3ad3fd52be58848b9ee29ab13728_autoChange.m3u8?auth_key=1795868968-0-0-c8234bdfd7937a4c241e2cf3136d6057
-#EXTINF:-1 tvg-id="" tvg-name="LIVE PSIM Yogyakarta vs Persatuan Sepakbola Indonesia Jepara" tvg-logo="https://media2.16m50.tv/media/club/8.webp" group-title="truct-tiep live",LIVE PSIM Yogyakarta vs Persatuan Sepakbola Indonesia Jepara [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14302268_3d6997dd173efbd3184c736b35cf23f5_autoChange.m3u8?auth_key=1795869578-0-0-a7fd5d84fa62ce28cc6466ce5c101edc
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Isenmulang Kalteng vs PSS Sleman" tvg-logo="https://media2.16m50.tv/media/club/22516.webp" group-title="truct-tiep live",LIVE Isenmulang Kalteng vs PSS Sleman [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -38,11 +46,7 @@ https://live1.hztx2020.com/live/14307162_aeadd4be57758fbc48e4d7d4330e7a0f_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Bali United vs Bhayangkara Presisi Indonesia FC" tvg-logo="https://media2.16m50.tv/media/club/1236.webp" group-title="truct-tiep live",LIVE Bali United vs Bhayangkara Presisi Indonesia FC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14302267_1d1f40baf364056ed8d1f0a0cf15d68c_autoChange.m3u8?auth_key=1795869578-0-0-eae8bad55307b5cd71ed91151b3730ac
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Barito Putera vs De Red FC" tvg-logo="https://media2.16m50.tv/media/club/11822.webp" group-title="truct-tiep live",LIVE Barito Putera vs De Red FC [1']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14362686_ca57236a483b1bac0150f8d0c4407af7_autoChange.m3u8?auth_key=1795869578-0-0-85a46f70063971c62c3fddf33c8c5aaa
+https://live.hztx2020.com/live/14302267_1d1f40baf364056ed8d1f0a0cf15d68c_autoChange.m3u8?auth_key=1795869690-0-0-0aa1cf3df3445a7b87bbcf85a9a91a62
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Persela Lamongan vs Rans Nusantara FC" tvg-logo="https://media2.16m50.tv/media/club/11786.webp" group-title="truct-tiep live",LIVE Persela Lamongan vs Rans Nusantara FC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -50,8 +54,8 @@ https://live4.hztx2020.com/live/14362688_8143c54a2e19c66bf65080b4a37f4959_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Shan United vs Sagaing United" tvg-logo="https://media2.16m50.tv/media/club/5551.webp" group-title="truct-tiep live",LIVE Shan United vs Sagaing United [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14360626_cf3361568b663c9bac9d7a96543f0aaf_autoChange.m3u8?auth_key=1795869578-0-0-21dad5a772ed55a862f26964ddff1c7f
+https://live.hztx2020.com/live/14360626_cf3361568b663c9bac9d7a96543f0aaf_autoChange.m3u8?auth_key=1795869688-0-0-18c6b5276079396b3c80ce202e99fb39
 #EXTINF:-1 tvg-id="" tvg-name="Central Coast Mariners vs Auckland FC" tvg-logo="https://media2.16m50.tv/media/club/8494.webp" group-title="truct-tiep live",Central Coast Mariners vs Auckland FC [15:40 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14170358_d7215e81bc022857e728ec271192efe3_autoChange.m3u8?auth_key=1795869579-0-0-420b0e77deed273a5009b746416be9aa
+https://live.hztx2020.com/live/14170358_d7215e81bc022857e728ec271192efe3_autoChange.m3u8?auth_key=1795869689-0-0-e1f04e7e6955e196078ccce7f5d429cd
