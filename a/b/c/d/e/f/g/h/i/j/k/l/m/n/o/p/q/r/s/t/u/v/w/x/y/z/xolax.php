@@ -1,106 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/d23xmv1txzdmg8n/image/small" group-title="xoilac live", Link trực tiếp United Arab Emirates vs Sri Lanka 18:00 ngày 28/11 (18:00 - 28/11)
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/8y39mp4t92dmojx/image/small" group-title="xoilac live", Link trực tiếp Long Island Nets vs Maine Celtics 05:00 ngày 29/11 (05:00 - 29/11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live3979.zundrixmediapipeline.com/live/channel25.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jho9qwzv3/image/small" group-title="xoilac live", [LIVE] Link trực tiếp Victoria Mykolaivka vs Lokomotiv Kyiv 16:00 ngày 28/11 (16:00 - 28/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel14.flv?wsSecret=c0f2e60efa094101c584b92f1ab670fc&wsABSTime=1795904923
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/49vjxm8xt4q6odg/image/small" group-title="xoilac live", Link trực tiếp Charlotte Hornets vs Brooklyn Nets 06:00 ngày 29/11 (06:00 - 29/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live3979.zundrixmediapipeline.com/live/channel29.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whkvpryox/image/small" group-title="xoilac live", [LIVE] Link trực tiếp Đồng Tháp vs Becamex Hồ Chí Minh 16:00 ngày 28/11 (17:00 - 28/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live3979.zundrixmediapipeline.com/live/channel12.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kdj2ryohyzgq1zp/image/small" group-title="xoilac live", Link trực tiếp MSPCC City Club vs PWD Sports Club 15:30 ngày 28/11 (15:30 - 28/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel7.flv?wsSecret=943416fe3ee8a06ee9746d3d9c0647c2&wsABSTime=1795904922
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="xoilac live", Link trực tiếp Barito Putera vs De Red FC 15:30 ngày 28/11 (15:30 - 28/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel9.flv?wsSecret=2adf31fdfa0801f6b36b2bdcf7d917b3&wsABSTime=1795904928
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whk0ryox8/image/small" group-title="xoilac live", [LIVE] Link trực tiếp Nữ Australia vs Nữ Colombia 15:45 ngày 28/11 (15:45 - 28/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel35.flv?wsSecret=259b8a7c2d4fcf09e94e636af01c3d19&wsABSTime=1795904921
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/8y39mp4t92dmojx/image/small" group-title="xoilac live", Link trực tiếp Austin Spurs vs Mexico City Capitanes 02:00 ngày 29/11 (02:00 - 29/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=6499ffd14d0ec2ba097ef1f7f59e5c6d&wsABSTime=1795904929
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="xoilac live", [LIVE] Link trực tiếp Isenmulang Kalteng vs PSS Sleman 15:30 ngày 28/11 (15:30 - 28/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live3979.zundrixmediapipeline.com/live/channel22.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kdj2ryohyzgq1zp/image/small" group-title="xoilac live", [LIVE] Link trực tiếp Chattogram City FC vs Brothers Union 15:30 ngày 28/11 (15:30 - 28/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel8.flv?wsSecret=51ee34426dc6458a9d6454caafe5160b&wsABSTime=1795904923
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h39q0j6l/image/small" group-title="xoilac live", [LIVE] Link trực tiếp Naftan Novopolotsk vs Dinamo Minsk 17:00 ngày 28/11 (17:00 - 28/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel17.flv?wsSecret=5a7bdb36deba4b78530cda20f4d98e12&wsABSTime=1795904924
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllh2epqvy9/image/small" group-title="xoilac live", [LIVE] Link trực tiếp Sabah vs Selangor FC 16:00 ngày 28/11 (16:00 - 28/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live3979.zundrixmediapipeline.com/live/channel9.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zh38gql07/image/small" group-title="xoilac live", [LIVE] Link trực tiếp Metallurg Bekobod vs FarDU 16:00 ngày 28/11 (16:00 - 28/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel36.flv?wsSecret=80f038455082a92a4d56409f6e656010&wsABSTime=1795904927
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="xoilac live", Link trực tiếp Bali United vs Bhayangkara Presisi 15:30 ngày 28/11 (15:30 - 28/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live3979.zundrixmediapipeline.com/live/channel18.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z318q66hweyqo9j/image/small" group-title="xoilac live", [LIVE] Link trực tiếp Bayswater City vs Sydney United 58 FC 15:30 ngày 28/11 (15:30 - 28/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel6.flv?wsSecret=04c1af7f160a10957c2c57d6703abdde&wsABSTime=1795904923
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllh2epqvy9/image/small" group-title="xoilac live", [LIVE] Link trực tiếp Negeri Sembilan vs Terengganu FC 15:45 ngày 28/11 (15:45 - 28/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live2.streamhaulcdn.com/livecdn/channel-1.flv?auth_key=3000001795861730-0-0-615535676125764ea980a8f02175c893
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="xoilac live", Link trực tiếp PSIM Yogyakarta vs Persijap Jepara 15:30 ngày 28/11 (15:30 - 28/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live3979.zundrixmediapipeline.com/live/channel13.flv
+https://live1.quickscoreboardz.com/live/channel41.flv?wsSecret=b3059f39537bde2c0e5d2cb66e021c79&wsABSTime=1795905293
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9k82rekhvz2repz/image/small" group-title="xoilac live", [LIVE] Link trực tiếp Central Coast Mariners vs Auckland FC 15:40 ngày 28/11 (15:40 - 28/11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -108,227 +12,341 @@ https://live3979.zundrixmediapipeline.com/live/channel13.flv
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
 https://live3979.zundrixmediapipeline.com/live/channel11.flv
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h39q0j6l/image/small" group-title="xoilac live", [LIVE] Link trực tiếp BATE Borisov vs FK Isloch Minsk 17:00 ngày 28/11 (17:00 - 28/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live3979.zundrixmediapipeline.com/live/channel7.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghjj0r6od/image/small" group-title="xoilac live", [LIVE] Link trực tiếp Ayeyawady vs Yangon City 16:00 ngày 28/11 (16:00 - 28/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel6.flv?wsSecret=dafc35c18155e0c24fe561b5cf9a9f51&wsABSTime=1795904925
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/8y39mp4t92dmojx/image/small" group-title="xoilac live", Link trực tiếp Long Island Nets vs Maine Celtics 05:00 ngày 29/11 (05:00 - 29/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel41.flv?wsSecret=cfdb7e6c5ee06c1f5a7e69f089e8a875&wsABSTime=1795904929
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghjj0r6od/image/small" group-title="xoilac live", Link trực tiếp Shan United vs Sagaing United 15:30 ngày 28/11 (15:30 - 28/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel12.flv?wsSecret=f21a08e62521f04b3ba9c0403cde56ee&wsABSTime=1795904927
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="xoilac live", Link trực tiếp PSM Makassar vs Dewa United FC 15:30 ngày 28/11 (15:30 - 28/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live3979.zundrixmediapipeline.com/live/channel4.flv
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/j1l4rjztzlem7vx/image/small" group-title="xoilac live", Link trực tiếp Quezon Huskers vs Abra Weavers 17:30 ngày 28/11 (17:30 - 28/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel44.flv?wsSecret=07836c6228da2c466d5ad72700d7401c&wsABSTime=1795904926
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="xoilac live", [LIVE] Link trực tiếp Persela Lamongan vs Rans Nusantara FC 15:30 ngày 28/11 (15:30 - 28/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel10.flv?wsSecret=70ade0461131cf3f00c5f52de556b63f&wsABSTime=1795904928
-
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/49vjxm8xt4q6odg/image/small" group-title="xoilac live", Link trực tiếp Washington Wizards vs Orlando Magic 05:00 ngày 29/11 (05:00 - 29/11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
 https://live3979.zundrixmediapipeline.com/live/channel27.flv
 
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z318q66hweyqo9j/image/small" group-title="xoilac live", Link trực tiếp Bayswater City vs Sydney United 58 FC 15:30 ngày 28/11 (15:30 - 28/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live1.quickscoreboardz.com/live/channel6.flv?wsSecret=9135840061fa2af2c4ee401df68c2087&wsABSTime=1795905297
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/gy0or5jho9qwzv3/image/small" group-title="xoilac live", [LIVE] Link trực tiếp Victoria Mykolaivka vs Lokomotiv Kyiv 16:00 ngày 28/11 (16:40 - 28/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live1.quickscoreboardz.com/live/channel14.flv?wsSecret=4d98b0a8371adca892127a0a273888cf&wsABSTime=1795905294
+
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/8y39mp4t92dmojx/image/small" group-title="xoilac live", Link trực tiếp Salt Lake City Stars vs Stockton Kings 06:00 ngày 29/11 (06:00 - 29/11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel43.flv?wsSecret=54738f6b8f557ba2b93ef03321ec9304&wsABSTime=1795904927
+https://live1.quickscoreboardz.com/live/channel43.flv?wsSecret=545770dd239b919c226808eda0e0cc29&wsABSTime=1795905293
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whk0ryox8/image/small" group-title="xoilac live", [LIVE] Link trực tiếp Nữ Australia vs Nữ Colombia 15:45 ngày 28/11 (15:45 - 28/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live1.quickscoreboardz.com/live/channel35.flv?wsSecret=24824da5fbc2c4dcc5de13c44c14eeba&wsABSTime=1795905293
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9vjxm8ghjj0r6od/image/small" group-title="xoilac live", [LIVE] Link trực tiếp Ayeyawady vs Yangon City 16:00 ngày 28/11 (16:00 - 28/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live1.quickscoreboardz.com/live/channel6.flv?wsSecret=8abb89bcb7427aba2121e44857205673&wsABSTime=1795905293
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kdj2ryohyzgq1zp/image/small" group-title="xoilac live", Link trực tiếp Chattogram City FC vs Brothers Union 15:30 ngày 28/11 (15:30 - 28/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live1.quickscoreboardz.com/live/channel8.flv?wsSecret=87ecb8e0c23ed9c3b8e9a4158967bbca&wsABSTime=1795905294
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h39q0j6l/image/small" group-title="xoilac live", [LIVE] Link trực tiếp FC Minsk vs Dnepr Mogilev 17:00 ngày 28/11 (17:00 - 28/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live3979.zundrixmediapipeline.com/live/channel17.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllh2epqvy9/image/small" group-title="xoilac live", [LIVE] Link trực tiếp Negeri Sembilan vs Terengganu FC 15:45 ngày 28/11 (15:45 - 28/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live2.streamhaulcdn.com/livecdn/channel-1.flv?auth_key=3000001795862093-0-0-81412a4a6b9deb2749663c220f44c0bd
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/d23xmv1txzdmg8n/image/small" group-title="xoilac live", Link trực tiếp United Arab Emirates vs Sri Lanka 18:00 ngày 28/11 (18:00 - 28/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live3979.zundrixmediapipeline.com/live/channel25.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/kn54qllh2epqvy9/image/small" group-title="xoilac live", [LIVE] Link trực tiếp Sabah vs Selangor FC 16:00 ngày 28/11 (16:00 - 28/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live3979.zundrixmediapipeline.com/live/channel9.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9k82rekhgorepzj/image/small" group-title="xoilac live", [LIVE] Link trực tiếp Bandirmaspor vs Batman Petrolspor 17:30 ngày 28/11 (17:30 - 28/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live1.quickscoreboardz.com/live/channel23.flv?wsSecret=8958c1e0e6a25f667f7cf1fbc169d3bc&wsABSTime=1795905295
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/j1l4rjztzlem7vx/image/small" group-title="xoilac live", Link trực tiếp Quezon Huskers vs Abra Weavers 17:30 ngày 28/11 (17:30 - 28/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live1.quickscoreboardz.com/live/channel44.flv?wsSecret=127aed9f49af827f173ce29d3d6b20d0&wsABSTime=1795905295
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/49vjxm8xt4q6odg/image/small" group-title="xoilac live", Link trực tiếp Charlotte Hornets vs Brooklyn Nets 06:00 ngày 29/11 (06:00 - 29/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live3979.zundrixmediapipeline.com/live/channel29.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h39q0j6l/image/small" group-title="xoilac live", [LIVE] Link trực tiếp FC Belshina vs Maxline Vitebsk 17:00 ngày 28/11 (17:00 - 28/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live1.quickscoreboardz.com/live/channel18.flv?wsSecret=07ebe77ff52a80f1e2f9f0118699fdad&wsABSTime=1795905294
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/v2y8m4zh38gql07/image/small" group-title="xoilac live", [LIVE] Link trực tiếp Metallurg Bekobod vs FarDU 16:00 ngày 28/11 (16:00 - 28/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live1.quickscoreboardz.com/live/channel36.flv?wsSecret=5325ba5ce91e246d0d7f1974e1805d3e&wsABSTime=1795905295
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/56ypq3nhz53md7o/image/small" group-title="xoilac live", Link trực tiếp Isenmulang Kalteng vs PSS Sleman 15:30 ngày 28/11 (15:30 - 28/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live3979.zundrixmediapipeline.com/live/channel22.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h39q0j6l/image/small" group-title="xoilac live", [LIVE] Link trực tiếp FK Vitebsk vs Arsenal Dzyarz 17:00 ngày 28/11 (17:00 - 28/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live1.quickscoreboardz.com/live/channel19.flv?wsSecret=c1ee73927e346e63d1e6f7b2e75be488&wsABSTime=1795905294
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h2kgq0j6/image/small" group-title="xoilac live", Link trực tiếp Persela Lamongan vs Rans Nusantara FC 15:30 ngày 28/11 (15:30 - 28/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live1.quickscoreboardz.com/live/channel10.flv?wsSecret=a5fcd6bc306fa592064d39d9df421118&wsABSTime=1795905293
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/kjw2r02tndqz84o/image/small" group-title="xoilac live", Link trực tiếp Nữ Galatasaray vs Nữ Fenerbahce 23:00 ngày 28/11 (23:00 - 28/11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel43.flv?wsSecret=de693d90843bf432f84201431480d319&wsABSTime=1795904929
+https://live1.quickscoreboardz.com/live/channel43.flv?wsSecret=afbcd9d4de203f322b7b08ec0b02a00d&wsABSTime=1795905298
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/9k82rekhgorepzj/image/small" group-title="xoilac live", [LIVE] Link trực tiếp Sivasspor vs Bodrum FK 17:30 ngày 28/11 (17:30 - 28/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live1.quickscoreboardz.com/live/channel24.flv?wsSecret=ee7e65399a9df23f75edb795a7f4b004&wsABSTime=1795905296
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h39q0j6l/image/small" group-title="xoilac live", [LIVE] Link trực tiếp Naftan Novopolotsk vs Dinamo Minsk 17:00 ngày 28/11 (17:00 - 28/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live1.quickscoreboardz.com/live/channel17.flv?wsSecret=ef13bcc13a5e518b4c55a21ae984fdea&wsABSTime=1795905296
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/8y39mp4t92dmojx/image/small" group-title="xoilac live", Link trực tiếp Austin Spurs vs Mexico City Capitanes 02:00 ngày 29/11 (02:00 - 29/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=a5e8a5878d8de4c946db8a07d5ab7211&wsABSTime=1795905296
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/z8yomo4h39q0j6l/image/small" group-title="xoilac live", [LIVE] Link trực tiếp BATE Borisov vs FK Isloch Minsk 17:00 ngày 28/11 (17:00 - 28/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live3979.zundrixmediapipeline.com/live/channel7.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whkvpryox/image/small" group-title="xoilac live", [LIVE] Link trực tiếp Đồng Tháp vs Becamex Hồ Chí Minh 16:00 ngày 28/11 (17:00 - 28/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live3979.zundrixmediapipeline.com/live/channel12.flv
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/football/competition/jednm9whokryox8/image/small" group-title="xoilac live", [LIVE] Link trực tiếp FC Kuressaare vs Viimsi JK 17:30 ngày 28/11 (17:30 - 28/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live1.quickscoreboardz.com/live/channel25.flv?wsSecret=2d7a62d8e62bfa4675331c76b4fba671&wsABSTime=1795905295
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/8y39mp4t92dmojx/image/small" group-title="xoilac live", Link trực tiếp Greensboro Swarm vs College Park Skyhawks 06:00 ngày 29/11 (06:00 - 29/11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel44.flv?wsSecret=7100d19646e801c062daf2e68fc943f2&wsABSTime=1795905031
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/49vjxm8xt4q6odg/image/small" group-title="xoilac live", Link trực tiếp Milwaukee Bucks vs Oklahoma City Thunder 08:00 ngày 29/11 (08:00 - 29/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel48.flv?wsSecret=412363972c43f3a1f20108f841dd7472&wsABSTime=1795905036
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/8y39mp4t92dmojx/image/small" group-title="xoilac live", Link trực tiếp Santa Cruz Warriors vs Valley Suns 10:00 ngày 29/11 (10:00 - 29/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel43.flv?wsSecret=2bdc8884d650d32d6984b1915b450b71&wsABSTime=1795905044
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/8y39mp4t92dmojx/image/small" group-title="xoilac live", Link trực tiếp Cleveland Charge vs Iowa Wolves 07:00 ngày 29/11 (07:00 - 29/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel45.flv?wsSecret=332ab263b7ba1a222b60d592748f3579&wsABSTime=1795905035
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/8y39mp4t92dmojx/image/small" group-title="xoilac live", Link trực tiếp Grand Rapids Gold vs Noblesville Boom 07:00 ngày 29/11 (07:00 - 29/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel46.flv?wsSecret=f1ee3ab92f77045546addf50d2c79d2b&wsABSTime=1795905036
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/pxwrxl4sgg3gryk/image/small" group-title="xoilac live", Link trực tiếp Unnati Hooda vs Tanvi Sharma 17:40 ngày 28/11 (18:20 - 28/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel60.flv?wsSecret=2b4d955d54dc9eab7d2b5400dcd3da6a&wsABSTime=1795905045
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/8y39mp4t92dmojx/image/small" group-title="xoilac live", Link trực tiếp Rio Grande Vipers vs Memphis Hustle 08:30 ngày 29/11 (08:30 - 29/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=8918c41270b71e445a51dbd0e1256931&wsABSTime=1795905044
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/d23xmv1tgv6mg8n/image/small" group-title="xoilac live", Link trực tiếp Nữ Mid-North vs Nữ Northern Kahu 09:00 ngày 29/11 (09:00 - 29/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel41.flv?wsSecret=2392e7639f74cb82977b8576af9cfd32&wsABSTime=1795905044
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/jednm9vh9d4qyox/image/small" group-title="xoilac live", Link trực tiếp Novokuybyshevsk vs Orenburg 20:30 ngày 28/11 (20:30 - 28/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel81.flv?wsSecret=14d8f4aafb927be9804b10284d706ac1&wsABSTime=1795905052
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/vjxm8ges44wjr6o/image/small" group-title="xoilac live", Link trực tiếp Abbygael Harris/Estelle van Leeuwen vs Isyana Syahira Meida/Rinjani Kwinara Nastine 18:30 ngày 28/11 (19:10 - 28/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel60.flv?wsSecret=813df73feaa0ad5653d9b7ccd8723f4f&wsABSTime=1795905048
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/z8yomoxhkxzm0j6/image/small" group-title="xoilac live", Link trực tiếp Halkbank vs Fenerbahce 18:00 ngày 28/11 (18:00 - 28/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel80.flv?wsSecret=35e5ee7279f1845829211693fe8a7d06&wsABSTime=1795905046
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/z8yomoxhkxzm0j6/image/small" group-title="xoilac live", Link trực tiếp Spor Toto vs Ziraat Bankasi 23:00 ngày 28/11 (23:00 - 28/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live3979.zundrixmediapipeline.com/live/channel33.flv
+https://live1.quickscoreboardz.com/live/channel44.flv?wsSecret=11ce32e54a024fd0fb7686a47e7a1f29&wsABSTime=1795905407
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/tennis/competition/318q6jfo9o0ro9j/image/small" group-title="xoilac live", [LIVE] Link trực tiếp Diego Dedura-Palomero vs Thomas Faurel 16:10 ngày 28/11 (16:35 - 28/11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel52.flv?wsSecret=cf4feeca0e7197cd7a7ecbdb4413ab57&wsABSTime=1795905047
+https://live1.quickscoreboardz.com/live/channel52.flv?wsSecret=eabbdb4e0f1d6f48710469e95b351c48&wsABSTime=1795905415
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/d23xmv1t34mg8ny/image/small" group-title="xoilac live", Link trực tiếp Nữ Southside vs Nữ Bendigo Spirit 09:00 ngày 29/11 (09:00 - 29/11)
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/dn1m1nh4ex5qoep/image/small" group-title="xoilac live", Link trực tiếp Nữ Kuzey Boru Genclik vs Nữ Vakifbank 18:00 ngày 28/11 (18:00 - 28/11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel42.flv?wsSecret=3b9b242a6c1dca34efbded0cd6bd2102&wsABSTime=1795905044
+https://live3979.zundrixmediapipeline.com/live/channel33.flv
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/vjxm8ges44wjr6o/image/small" group-title="xoilac live", Link trực tiếp Treesa Jolly/Gayatri Gopichand Pullela vs Polina Buhrova/Yevheniia Kantemyr 19:20 ngày 28/11 (20:00 - 28/11)
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/vjxm8ges44wjr6o/image/small" group-title="xoilac live", Link trực tiếp Abbygael Harris/Estelle van Leeuwen vs Isyana Syahira Meida/Rinjani Kwinara Nastine 18:30 ngày 28/11 (19:10 - 28/11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel60.flv?wsSecret=f12548a7e0fe0981334a269e1a88c6ba&wsABSTime=1795905049
+https://live1.quickscoreboardz.com/live/channel60.flv?wsSecret=9c5ff8db7650c7d83c8ccf0f8d8184ef&wsABSTime=1795905415
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/l965mkdh4gdr1ge/image/small" group-title="xoilac live", Link trực tiếp Tyumen vs CSKA Moscow 22:00 ngày 28/11 (22:00 - 28/11)
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/8y39mp4t92dmojx/image/small" group-title="xoilac live", Link trực tiếp Rio Grande Vipers vs Memphis Hustle 08:30 ngày 29/11 (08:30 - 29/11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel80.flv?wsSecret=78b4033e3465e80ebeb4d1dbe5f5ef2e&wsABSTime=1795905057
+https://live1.quickscoreboardz.com/live/channel40.flv?wsSecret=fbeb19d3487f9a1fe149e2f76fc5dadc&wsABSTime=1795905411
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/3glrw74swwp1qdy/image/small" group-title="xoilac live", Link trực tiếp Nikolaus Joaquin/Raymond Indra vs Chaloempon Charoenkitamorn/Worrapol Thongsa-Nga 16:50 ngày 28/11 (17:30 - 28/11)
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/8y39mp4t92dmojx/image/small" group-title="xoilac live", Link trực tiếp Santa Cruz Warriors vs Valley Suns 10:00 ngày 29/11 (10:00 - 29/11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel60.flv?wsSecret=fb35a48cd4cf058b2edfb729ac0b9420&wsABSTime=1795905047
+https://live1.quickscoreboardz.com/live/channel43.flv?wsSecret=c83f17567f0e453bb7da9b69f4c6940b&wsABSTime=1795905413
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/49vjxm8xt4q6odg/image/small" group-title="xoilac live", Link trực tiếp Milwaukee Bucks vs Oklahoma City Thunder 08:00 ngày 29/11 (08:00 - 29/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live1.quickscoreboardz.com/live/channel48.flv?wsSecret=6fb3bacadc939909b5b3af7c47e6fe6e&wsABSTime=1795905409
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/vl7oqddh60vq510/image/small" group-title="xoilac live", Link trực tiếp Sete vs Narbonne 01:30 ngày 29/11 (01:30 - 29/11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel80.flv?wsSecret=d074faf1858adb4e7f7b1489e698bf4c&wsABSTime=1795905054
+https://live1.quickscoreboardz.com/live/channel80.flv?wsSecret=ad4f92777d4321becc685a5cfd01ee43&wsABSTime=1795905421
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/e4wyrn3he7zm86p/image/small" group-title="xoilac live", Link trực tiếp Nữ Latino Amisa vs Nữ Rebaza Acosta 02:45 ngày 29/11 (02:45 - 29/11)
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/8y39mp4t92dmojx/image/small" group-title="xoilac live", Link trực tiếp Cleveland Charge vs Iowa Wolves 07:00 ngày 29/11 (07:00 - 29/11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel82.flv?wsSecret=67636392a16993348dfded087af03892&wsABSTime=1795905056
+https://live1.quickscoreboardz.com/live/channel45.flv?wsSecret=065d9a46597bfdb05e4fd7d0d6d3e33a&wsABSTime=1795905410
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/8y39mp4t92dmojx/image/small" group-title="xoilac live", Link trực tiếp Grand Rapids Gold vs Noblesville Boom 07:00 ngày 29/11 (07:00 - 29/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live1.quickscoreboardz.com/live/channel46.flv?wsSecret=2d8051bb6e41d400686fab32142050ef&wsABSTime=1795905410
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/d23xmv1tgv6mg8n/image/small" group-title="xoilac live", Link trực tiếp Nữ Mid-North vs Nữ Northern Kahu 09:00 ngày 29/11 (09:00 - 29/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live1.quickscoreboardz.com/live/channel41.flv?wsSecret=a7627db0a5fec5264eb015f93362a62e&wsABSTime=1795905412
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/vl7oqddh60vq510/image/small" group-title="xoilac live", Link trực tiếp Chaumont vs Cannes 02:00 ngày 29/11 (02:00 - 29/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live1.quickscoreboardz.com/live/channel81.flv?wsSecret=5e63db1599c4d98e3b6c2fb73f4868d8&wsABSTime=1795905419
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/vjxm8ges44wjr6o/image/small" group-title="xoilac live", Link trực tiếp Treesa Jolly/Gayatri Gopichand Pullela vs Polina Buhrova/Yevheniia Kantemyr 19:20 ngày 28/11 (20:00 - 28/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live1.quickscoreboardz.com/live/channel60.flv?wsSecret=0dfc1c68d5106248ee20bb5d0305e7d9&wsABSTime=1795905416
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/d23xmvzhod9qg8n/image/small" group-title="xoilac live", Link trực tiếp Guarulhos vs Volei Renata 04:30 ngày 29/11 (04:30 - 29/11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel81.flv?wsSecret=67c37ff55fa0d5165fc268dde77fed47&wsABSTime=1795905054
+https://live1.quickscoreboardz.com/live/channel81.flv?wsSecret=4dafe559f14934b120e039979c2e9237&wsABSTime=1795905429
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/pxwrxl4sgg3gryk/image/small" group-title="xoilac live", Link trực tiếp Unnati Hooda vs Tanvi Sharma 17:40 ngày 28/11 (18:20 - 28/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live1.quickscoreboardz.com/live/channel60.flv?wsSecret=a79f8a0fc70bbf9bd11b726a6efc1f11&wsABSTime=1795905417
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/basketball/competition/d23xmv1t34mg8ny/image/small" group-title="xoilac live", Link trực tiếp Nữ Southside vs Nữ Bendigo Spirit 09:00 ngày 29/11 (09:00 - 29/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live1.quickscoreboardz.com/live/channel42.flv?wsSecret=1d5b4b0dd061169135d02335bcbcf7dd&wsABSTime=1795905414
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/z8yomoxhkxzm0j6/image/small" group-title="xoilac live", Link trực tiếp Halkbank vs Fenerbahce 18:00 ngày 28/11 (18:00 - 28/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live1.quickscoreboardz.com/live/channel80.flv?wsSecret=b57a011c266dac806bd55c5eb14330cc&wsABSTime=1795905418
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/l965mkdh4gdr1ge/image/small" group-title="xoilac live", Link trực tiếp Tyumen vs CSKA Moscow 22:00 ngày 28/11 (22:00 - 28/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live1.quickscoreboardz.com/live/channel80.flv?wsSecret=c9757de7d133c6ccc7937181a1668bfb&wsABSTime=1795905417
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/badminton/competition/3glrw74swwp1qdy/image/small" group-title="xoilac live", [LIVE] Link trực tiếp Nikolaus Joaquin/Raymond Indra vs Chaloempon Charoenkitamorn/Worrapol Thongsa-Nga 16:50 ngày 28/11 (17:30 - 28/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live1.quickscoreboardz.com/live/channel60.flv?wsSecret=4fe21f3234dc7912863e42f721ba1edb&wsABSTime=1795905418
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/jednm9vh9d4qyox/image/small" group-title="xoilac live", Link trực tiếp Novokuybyshevsk vs Orenburg 20:30 ngày 28/11 (20:30 - 28/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live1.quickscoreboardz.com/live/channel81.flv?wsSecret=5d4b2b4f7fb57815aab67a4e57757c82&wsABSTime=1795905418
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/e4wyrn3he7zm86p/image/small" group-title="xoilac live", Link trực tiếp Nữ San Martin Porres vs Nữ Atenea 07:00 ngày 29/11 (07:00 - 29/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live1.quickscoreboardz.com/live/channel80.flv?wsSecret=51d6bb16f1a8e2d967641d0de04f76d2&wsABSTime=1795905430
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/z8yomoxhkxzm0j6/image/small" group-title="xoilac live", Link trực tiếp Galatasaray vs Gaziantep Genclik 23:00 ngày 28/11 (23:00 - 28/11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel81.flv?wsSecret=b6ad0d8779681a352cd7b4617f481741&wsABSTime=1795905053
+https://live1.quickscoreboardz.com/live/channel81.flv?wsSecret=96636c1ee6049e785370848fc4f25ae6&wsABSTime=1795905420
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/e4wyrn3he7zm86p/image/small" group-title="xoilac live", Link trực tiếp Nữ Alianza Lima vs Nữ Peru 05:00 ngày 29/11 (05:00 - 29/11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel82.flv?wsSecret=a737aed2409e5f383fa0abfc881b9172&wsABSTime=1795905059
+https://live1.quickscoreboardz.com/live/channel82.flv?wsSecret=2c99b125c920f591dc10143527f79cd5&wsABSTime=1795905425
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/yl5ergdh35or8k0/image/small" group-title="xoilac live", Link trực tiếp Rzeszow vs GKS Katowice 00:00 ngày 29/11 (00:00 - 29/11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel82.flv?wsSecret=2c03654e1f0661d223054f9dad232a91&wsABSTime=1795905055
+https://live1.quickscoreboardz.com/live/channel82.flv?wsSecret=ac52f34d82b9527e794dc510fd84dd52&wsABSTime=1795905422
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/l5ergdho7eor8k0/image/small" group-title="xoilac live", Link trực tiếp Nữ Ageo vs Nữ Green Wings 11:05 ngày 29/11 (11:05 - 29/11)
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/gy0or58h444rwzv/image/small" group-title="xoilac live", Link trực tiếp River Plate vs Boca Juniors 04:00 ngày 29/11 (04:00 - 29/11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel81.flv?wsSecret=92f62be11df2b32451a75c1b5ea7567a&wsABSTime=1795905128
+https://live1.quickscoreboardz.com/live/channel80.flv?wsSecret=66a829f188eb1d45e48dab7086da5059&wsABSTime=1795905428
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/csgo/competition/ednm928tp64ryox/image/small" group-title="xoilac live", Link trực tiếp aimclub vs Spirit Academy 01:00 ngày 29/11 (01:00 - 29/11)
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/l5ergdho7eor8k0/image/small" group-title="xoilac live", Link trực tiếp Nữ Okayama Seagulls vs Nữ Hisamitsu Springs 10:05 ngày 29/11 (10:05 - 29/11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel74.flv?wsSecret=05fbc8eb36d68ae0826ac7e73b8f405a&wsABSTime=1795905135
+https://live1.quickscoreboardz.com/live/channel80.flv?wsSecret=f592bbd516ebc6c425629644cc1f0948&wsABSTime=1795905427
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/dota2/competition/n54qle1txdomvy9/image/small" group-title="xoilac live", Link trực tiếp Team Yandex vs Team Liquid 18:30 ngày 28/11 (18:30 - 28/11)
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/csgo/competition/ednm928tp64ryox/image/small" group-title="xoilac live", [LIVE] Link trực tiếp FORZE Reload vs Leo 16:00 ngày 28/11 (16:00 - 28/11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel71.flv?wsSecret=61f026d1b9ba6764f096e9d3aa78a542&wsABSTime=1795905138
+https://live1.quickscoreboardz.com/live/channel77.flv?wsSecret=f39d4644d640aa8fbb4673eb18779745&wsABSTime=1795905513
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/csgo/competition/318q6g3f3n9ro9j/image/small" group-title="xoilac live", Link trực tiếp Prestige vs HAVU 01:00 ngày 29/11 (01:00 - 29/11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel75.flv?wsSecret=ac9ee1ae39f0e30fa68ca65c18b9aab3&wsABSTime=1795905134
+https://live1.quickscoreboardz.com/live/channel75.flv?wsSecret=87424cc86ec71cfba2fe4f09cef811ae&wsABSTime=1795905513
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/volleyball/competition/l5ergdho7eor8k0/image/small" group-title="xoilac live", Link trực tiếp Nữ Ageo vs Nữ Green Wings 11:05 ngày 29/11 (11:05 - 29/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live1.quickscoreboardz.com/live/channel81.flv?wsSecret=b79026b54672c343563371e24e1c3140&wsABSTime=1795905510
+
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/csgo/competition/ednm928tp64ryox/image/small" group-title="xoilac live", Link trực tiếp aimclub vs Spirit Academy 01:00 ngày 29/11 (01:00 - 29/11)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
+#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
+https://live1.quickscoreboardz.com/live/channel74.flv?wsSecret=dd3b0a70ab97f7a2ec8ecba76055084d&wsABSTime=1795905514
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/lol/competition/zp5rz5pfjjgr82w/image/small" group-title="xoilac live", Link trực tiếp ⁠Francesinhas vs ⁠Sawadika 17:00 ngày 28/11 (17:00 - 28/11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
@@ -336,45 +354,39 @@ https://live1.quickscoreboardz.com/live/channel75.flv?wsSecret=ac9ee1ae39f0e30fa
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
 https://live3979.zundrixmediapipeline.com/live/channel30.flv
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/csgo/competition/k82rep4fjn7qepz/image/small" group-title="xoilac live", Link trực tiếp MOUZ NXT vs Honvéd 22:00 ngày 28/11 (22:00 - 28/11)
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/dota2/competition/y0or59nhe0pmwzv/image/small" group-title="xoilac live", Link trực tiếp V vs Zero Tenacity 22:00 ngày 28/11 (22:00 - 28/11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel73.flv?wsSecret=0c4bdb75120b72c9b0cd1ceef4d1903d&wsABSTime=1795905136
-
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/csgo/competition/ednm928tp64ryox/image/small" group-title="xoilac live", [LIVE] Link trực tiếp FORZE Reload vs Leo 16:00 ngày 28/11 (16:00 - 28/11)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
-#EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel77.flv?wsSecret=a31986fe9957966fd84f7a296ba4a2fc&wsABSTime=1795905133
+https://live1.quickscoreboardz.com/live/channel72.flv?wsSecret=5ace06021cec275b227f311757bbd6f6&wsABSTime=1795905513
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/dota2/competition/3glrwwgijlerdyj/image/small" group-title="xoilac live", Link trực tiếp Inner Circle X Insanity vs Power Rangers 21:00 ngày 28/11 (21:00 - 28/11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel70.flv?wsSecret=8a43b849b43d37901a503ed0efe4197d&wsABSTime=1795905139
+https://live1.quickscoreboardz.com/live/channel70.flv?wsSecret=c5b0d8237be395e75fd50a08533e3cb0&wsABSTime=1795905514
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/dota2/competition/y0or59nhe0pmwzv/image/small" group-title="xoilac live", Link trực tiếp V vs Zero Tenacity 22:00 ngày 28/11 (22:00 - 28/11)
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/dota2/competition/n54qle1txdomvy9/image/small" group-title="xoilac live", Link trực tiếp Team Yandex vs Team Liquid 18:30 ngày 28/11 (18:30 - 28/11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel72.flv?wsSecret=31ab9bd9bcbea8845424bb828b202c29&wsABSTime=1795905139
+https://live1.quickscoreboardz.com/live/channel71.flv?wsSecret=5a014efdf87a48f22479b759461f867c&wsABSTime=1795905514
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/dota2/competition/y0or59nhe0pmwzv/image/small" group-title="xoilac live", Link trực tiếp Zero Tenacity vs Team Synapse 01:00 ngày 03/12 (01:00 - 03/12)
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/csgo/competition/k82rep4fjn7qepz/image/small" group-title="xoilac live", Link trực tiếp MOUZ NXT vs Honvéd 22:00 ngày 28/11 (22:00 - 28/11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel70.flv?wsSecret=e0455b91fc2b08e1c558713e3b1fb4fe&wsABSTime=1795905141
+https://live1.quickscoreboardz.com/live/channel73.flv?wsSecret=426e8322206f0bb8e5bb73141f9ee5d9&wsABSTime=1795905513
 
 #EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/dota2/competition/y0or59nhe0pmwzv/image/small" group-title="xoilac live", Link trực tiếp 4ikibamboni vs Team Synapse 16:00 ngày 28/11 (22:00 - 03/12)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel70.flv?wsSecret=6eb5bde38707321c6f53ea30c6a4574e&wsABSTime=1795905142
+https://live1.quickscoreboardz.com/live/channel70.flv?wsSecret=c54c3ea7146b79a1513066643f936334&wsABSTime=1795905513
 
-#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/dota2/competition/y0or59nhe0pmwzv/image/small" group-title="xoilac live", Link trực tiếp Team Synapse vs V 19:00 ngày 03/12 (19:00 - 03/12)
+#EXTINF:-1 tvg-logo="https://imgts.sportpulseapiz.com/dota2/competition/y0or59nhe0pmwzv/image/small" group-title="xoilac live", Link trực tiếp Hokori vs Legends Gaming 01:00 ngày 29/11 (01:00 - 29/11)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.domainkqt.cc/
 #EXTVLCOPT:http-origin=https://xl365.domainkqt.cc
-https://live1.quickscoreboardz.com/live/channel71.flv?wsSecret=18cd25161598c27b37429c5eb2a849c7&wsABSTime=1795905141
+https://live1.quickscoreboardz.com/live/channel71.flv?wsSecret=f8bc03183f980a070ec3fae921592dc2&wsABSTime=1795905512
 
