@@ -3,10 +3,6 @@
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14720597_93c9108089401014b71f7691657a0edc_autoChange.m3u8?auth_key=1795840181-0-0-cffa0fec8ca5b9926a6fb1abd48d3666
-#EXTINF:-1 tvg-id="" tvg-name="LIVE New York Knicks vs Miami Heat" tvg-logo="https://media2.16m50.tv/media/club/11751.webp" group-title="truct-tiep live",LIVE New York Knicks vs Miami Heat [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14331397_d36d75e2de71f167bb694239fb855aff_autoChange.m3u8?auth_key=1795844387-0-0-49bff182731fd6aafe4884094afa8852
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Tristan Suarez vs Gimnasia y Tiro" tvg-logo="https://media2.16m50.tv/media/club/7247.webp" group-title="truct-tiep live",LIVE Tristan Suarez vs Gimnasia y Tiro [70']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -26,8 +22,4 @@ https://live.hztx2020.com/live/14666901_3bc04b5ae860b2a00e8a78224e476b25_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE USA Women vs El Salvador Women" tvg-logo="https://media2.16m50.tv/media/club/627.webp" group-title="truct-tiep live",LIVE USA Women vs El Salvador Women [8']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14551455_74eb10912fb196964c0de654166efc21_autoChange.m3u8?auth_key=1795844379-0-0-562422140bc7b75779920fee93da2b88
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Minnesota Timberwolves vs Memphis Grizzlies" tvg-logo="https://media2.16m50.tv/media/club/10804.webp" group-title="truct-tiep live",LIVE Minnesota Timberwolves vs Memphis Grizzlies [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14331402_efd2d10a158285238612593bb1cd1e8e_autoChange.m3u8?auth_key=1795844265-0-0-d634e797add7350063a6d98ea782eb5d
+https://live.hztx2020.com/live/14551455_74eb10912fb196964c0de654166efc21_autoChange.m3u8?auth_key=1795844505-0-0-a52340f4c1e59bc21739b4fcaa05b8f3
