@@ -34,7 +34,7 @@ https://live5.hztx2020.com/live/14722467_b1e9624dc163b5bc32b287e45968d9a8_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE PSIM Yogyakarta vs Persatuan Sepakbola Indonesia Jepara" tvg-logo="https://media2.16m50.tv/media/club/8.webp" group-title="truct-tiep live",LIVE PSIM Yogyakarta vs Persatuan Sepakbola Indonesia Jepara [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14302268_3d6997dd173efbd3184c736b35cf23f5_autoChange.m3u8?auth_key=1795871858-0-0-46c4bfb25905ed68c1b9c3d4e0397bea
+https://live2.hztx2020.com/live/14302268_3d6997dd173efbd3184c736b35cf23f5_autoChange.m3u8?auth_key=1795871980-0-0-3c0a174b1be0848a8b79fda54778ca09
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Isenmulang Kalteng vs PSS Sleman" tvg-logo="https://media2.16m50.tv/media/club/22516.webp" group-title="truct-tiep live",LIVE Isenmulang Kalteng vs PSS Sleman [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -42,11 +42,11 @@ https://live1.hztx2020.com/live/14307162_aeadd4be57758fbc48e4d7d4330e7a0f_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Bali United vs Bhayangkara Presisi Indonesia FC" tvg-logo="https://media2.16m50.tv/media/club/1236.webp" group-title="truct-tiep live",LIVE Bali United vs Bhayangkara Presisi Indonesia FC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14302267_1d1f40baf364056ed8d1f0a0cf15d68c_autoChange.m3u8?auth_key=1795871858-0-0-8a75243ca1e7fb53a13070c5b4b77415
+https://live.hztx2020.com/live/14302267_1d1f40baf364056ed8d1f0a0cf15d68c_autoChange.m3u8?auth_key=1795871980-0-0-a5f3f07234a3de3807b8b9ee57c66849
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Barito Putera vs De Red FC" tvg-logo="https://media2.16m50.tv/media/club/11822.webp" group-title="truct-tiep live",LIVE Barito Putera vs De Red FC [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14362686_ca57236a483b1bac0150f8d0c4407af7_autoChange.m3u8?auth_key=1795871858-0-0-3d4945c6e05e215342cb66b555dc7c4c
+https://live.hztx2020.com/live/14362686_ca57236a483b1bac0150f8d0c4407af7_autoChange.m3u8?auth_key=1795871976-0-0-4a46a4bd87840d6ab5b62112153898ed
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Persela Lamongan vs Rans Nusantara FC" tvg-logo="https://media2.16m50.tv/media/club/11786.webp" group-title="truct-tiep live",LIVE Persela Lamongan vs Rans Nusantara FC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -54,32 +54,32 @@ https://live4.hztx2020.com/live/14362688_8143c54a2e19c66bf65080b4a37f4959_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Shan United vs Sagaing United" tvg-logo="https://media2.16m50.tv/media/club/5551.webp" group-title="truct-tiep live",LIVE Shan United vs Sagaing United [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14360626_cf3361568b663c9bac9d7a96543f0aaf_autoChange.m3u8?auth_key=1795871858-0-0-2bc81fdc34ebb09ef6664824e7200304
+https://live.hztx2020.com/live/14360626_cf3361568b663c9bac9d7a96543f0aaf_autoChange.m3u8?auth_key=1795871977-0-0-c1b285de7949024cef196db32996284b
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Central Coast Mariners vs Auckland FC" tvg-logo="https://media2.16m50.tv/media/club/8494.webp" group-title="truct-tiep live",LIVE Central Coast Mariners vs Auckland FC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14170358_d7215e81bc022857e728ec271192efe3_autoChange.m3u8?auth_key=1795871860-0-0-b03b0d67041041e2a10ab11481a57d4a
+https://live.hztx2020.com/live/14170358_d7215e81bc022857e728ec271192efe3_autoChange.m3u8?auth_key=1795871978-0-0-99b136e682501a17361306180964fc4d
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Negeri Sembilan vs Terengganu FC" tvg-logo="https://media2.16m50.tv/media/club/3670.webp" group-title="truct-tiep live",LIVE Negeri Sembilan vs Terengganu FC [6']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14207964_eebab2bdbc442e6c1dd05740e2146b39_autoChange.m3u8?auth_key=1795871860-0-0-84805426c2cda77a73ae713efcf61368
+https://live.hztx2020.com/live/14207964_eebab2bdbc442e6c1dd05740e2146b39_autoChange.m3u8?auth_key=1795871978-0-0-b66a947a4bc72411e0abb7f12bc168aa
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Sabah FC vs Selangor FC" tvg-logo="https://media2.16m50.tv/media/club/6.webp" group-title="truct-tiep live",LIVE Sabah FC vs Selangor FC [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14207965_1c842110676f72e927e49695234fb7b6_autoChange.m3u8?auth_key=1795871860-0-0-58de7a960918f644b6dbfdabbd53a8bd
+https://live.hztx2020.com/live/14207965_1c842110676f72e927e49695234fb7b6_autoChange.m3u8?auth_key=1795871986-0-0-4d8faaa87e29326fcd478ea2fc192731
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FC Victoria Mykolaivka vs Lokomotiv Kyiv" tvg-logo="https://media2.16m50.tv/media/club/3635.webp" group-title="truct-tiep live",LIVE FC Victoria Mykolaivka vs Lokomotiv Kyiv [3']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14188496_fb416117cbea93a3120ece36916fbd81_autoChange.m3u8?auth_key=1795871860-0-0-62a013cc73087d712d1cd29ac5bfcb81
+https://live.hztx2020.com/live/14188496_fb416117cbea93a3120ece36916fbd81_autoChange.m3u8?auth_key=1795871986-0-0-c6e0c07d90ffb116e4ca32aa4923fc65
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Metallurg Bekobod vs FarDU" tvg-logo="https://media2.16m50.tv/media/club/13311.webp" group-title="truct-tiep live",LIVE Metallurg Bekobod vs FarDU [5']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/77184704_392f0c57685e3d5fa8842d494b35d434_autoChange.m3u8?auth_key=1795871860-0-0-a6aa9c1473fd02b93881bdc99c713bd0
+https://live.hztx2020.com/live/77184704_392f0c57685e3d5fa8842d494b35d434_autoChange.m3u8?auth_key=1795871986-0-0-c6a3d3ebbf989e884d3e8be5c00852b7
 #EXTINF:-1 tvg-id="" tvg-name="LIVE ISPE FC U20 vs Yangon United FC U20" tvg-logo="https://media2.16m50.tv/media/club/17196.webp" group-title="truct-tiep live",LIVE ISPE FC U20 vs Yangon United FC U20 [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14408956_28d5507f79b985413e2a191d5fbf9f63_autoChange.m3u8?auth_key=1795871860-0-0-0563c92d79f12f2930913bf5bbd75a1d
+https://live.hztx2020.com/live/14408956_28d5507f79b985413e2a191d5fbf9f63_autoChange.m3u8?auth_key=1795871986-0-0-9a7f23a0120a189678a67885520c7451
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Ayeyawady united vs Yangon City" tvg-logo="https://media2.16m50.tv/media/club/690.webp" group-title="truct-tiep live",LIVE Ayeyawady united vs Yangon City [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14360625_165b4676d359b30ece32d946126301c9_autoChange.m3u8?auth_key=1795871860-0-0-6620b72bcbc46fe77034a7d39de6d925
+https://live1.hztx2020.com/live/14360625_165b4676d359b30ece32d946126301c9_autoChange.m3u8?auth_key=1795871986-0-0-a5af18e3e2bed067109b78b657e99b61
