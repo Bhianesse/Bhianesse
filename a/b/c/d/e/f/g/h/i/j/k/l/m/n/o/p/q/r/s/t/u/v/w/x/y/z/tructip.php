@@ -51,6 +51,10 @@ https://live.hztx2020.com/live/14207964_eebab2bdbc442e6c1dd05740e2146b39_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14207965_1c842110676f72e927e49695234fb7b6_autoChange.m3u8?auth_key=1795872580-0-0-fa4d75a04b0a272a00d039a7972b8254
+#EXTINF:-1 tvg-id="" tvg-name="LIVE FC Victoria Mykolaivka vs Lokomotiv Kyiv" tvg-logo="https://media2.16m50.tv/media/club/3635.webp" group-title="truct-tiep live",LIVE FC Victoria Mykolaivka vs Lokomotiv Kyiv [1']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14188496_fb416117cbea93a3120ece36916fbd81_autoChange.m3u8?auth_key=1795872580-0-0-82c0382f35b90fcc9c96bd5fd9e3a2a4
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Metallurg Bekobod vs FarDU" tvg-logo="https://media2.16m50.tv/media/club/13311.webp" group-title="truct-tiep live",LIVE Metallurg Bekobod vs FarDU [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -66,16 +70,16 @@ https://live1.hztx2020.com/live/14360625_165b4676d359b30ece32d946126301c9_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE AC Milan U20 vs Lecce U20" tvg-logo="https://media2.16m50.tv/media/club/751.webp" group-title="truct-tiep live",LIVE AC Milan U20 vs Lecce U20 [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/o17pjiodl3xsy7j_4c79eb1f8e128f3d0ca74c937420b4e8_autoChange.m3u8?auth_key=1795874740-0-0-63875e4d29aac99042f8d2c5f678cbed
+https://live.hztx2020.com/live/o17pjiodl3xsy7j_4c79eb1f8e128f3d0ca74c937420b4e8_autoChange.m3u8?auth_key=1795874861-0-0-d793f754af586ec01d93859d90866fb8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FK Vitebsk vs Arsenal Dzerzhinsk" tvg-logo="https://media2.16m50.tv/media/club/2453.webp" group-title="truct-tiep live",LIVE FK Vitebsk vs Arsenal Dzerzhinsk [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/2424688_9ab709a24a1cf78a08f8870660d33c81_autoChange.m3u8?auth_key=1795874742-0-0-e050e9488e64496d6bd05d694f6a2a63
+https://live1.hztx2020.com/live/2424688_9ab709a24a1cf78a08f8870660d33c81_autoChange.m3u8?auth_key=1795874864-0-0-b9a2d78cd5e5973fa63327869a2a64a4
 #EXTINF:-1 tvg-id="" tvg-name="LIVE ASU Politehnica Timișoara vs FC Bihor Oradea" tvg-logo="https://media2.16m50.tv/media/club/22066.webp" group-title="truct-tiep live",LIVE ASU Politehnica Timișoara vs FC Bihor Oradea [2']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14205982_29e5890c1432afa890f6be1671773e75_autoChange.m3u8?auth_key=1795874743-0-0-d21396ca4f2f3113138f24f1e2c56fa1
+https://live2.hztx2020.com/live/14205982_29e5890c1432afa890f6be1671773e75_autoChange.m3u8?auth_key=1795874865-0-0-6f591ca45dd8034bd153a02ba99ec64c
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Dong Thap vs Becamex Ho Chi Minh City" tvg-logo="https://media2.16m50.tv/media/club/5541.webp" group-title="truct-tiep live",LIVE Dong Thap vs Becamex Ho Chi Minh City [-2']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/8lk2dirednecz73_73b12d736047eb7a393754f16fdaca8e_autoChange.m3u8?auth_key=1795874740-0-0-a528c19c3a72203bae26158499081b1d
+https://live3.hztx2020.com/live/8lk2dirednecz73_73b12d736047eb7a393754f16fdaca8e_autoChange.m3u8?auth_key=1795874861-0-0-f11735b2024fd0743e6d7b6f8dfdfc59
