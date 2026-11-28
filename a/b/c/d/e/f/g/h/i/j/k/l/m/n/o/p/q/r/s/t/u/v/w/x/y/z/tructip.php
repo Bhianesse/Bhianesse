@@ -31,10 +31,6 @@ https://live.hztx2020.com/live/14207965_1c842110676f72e927e49695234fb7b6_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/34kgmiolv69ueko_d75a3f4e00c4517cae8433e6ddd9cbe5_autoChange.m3u8?auth_key=1795875930-0-0-bc717aa5681aff355ed1fbe364d22378
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Metallurg Bekobod vs FarDU" tvg-logo="https://media2.16m50.tv/media/club/13311.webp" group-title="truct-tiep live",LIVE Metallurg Bekobod vs FarDU [72']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/77184704_392f0c57685e3d5fa8842d494b35d434_autoChange.m3u8?auth_key=1795875934-0-0-6012b8c4f048375ff53c492af9902e05
 #EXTINF:-1 tvg-id="" tvg-name="LIVE ISPE FC U20 vs Yangon United FC U20" tvg-logo="https://media2.16m50.tv/media/club/17196.webp" group-title="truct-tiep live",LIVE ISPE FC U20 vs Yangon United FC U20 [62']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -78,11 +74,11 @@ https://live1.hztx2020.com/live/14159198_eb1d0237d8fcf204fe79a7beb153d20c_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="Prykarpattya Ivano Frankivsk vs Kulykiv" tvg-logo="https://media2.16m50.tv/media/club/1474.webp" group-title="truct-tiep live",Prykarpattya Ivano Frankivsk vs Kulykiv [17:30 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14188495_1743df52b8c52eb5797f309f82485c3e_autoChange.m3u8?auth_key=1795876430-0-0-de3ed8c28f23a21ea28e314f528dfed2
+https://live.hztx2020.com/live/14188495_1743df52b8c52eb5797f309f82485c3e_autoChange.m3u8?auth_key=1795876549-0-0-881867ca5c41ac65764457be3448e4a2
 #EXTINF:-1 tvg-id="" tvg-name="Tallinna FC Ararat TTU vs Viljandi Tulevik" tvg-logo="https://media2.16m50.tv/media/club/4373.webp" group-title="truct-tiep live",Tallinna FC Ararat TTU vs Viljandi Tulevik [17:30 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/14716039_d3b40f50f2ad1c08299d7090f7a8fe57_autoChange.m3u8?auth_key=1795876430-0-0-a73624ce5b2c50a0a40752e0c8a4186c
+https://live3.hztx2020.com/live/14716039_d3b40f50f2ad1c08299d7090f7a8fe57_autoChange.m3u8?auth_key=1795876549-0-0-bf84ca4e794ac5b017d5327fd7172558
 #EXTINF:-1 tvg-id="" tvg-name="FC Kuressaare vs Viimsi JK" tvg-logo="https://media2.16m50.tv/media/club/5715.webp" group-title="truct-tiep live",FC Kuressaare vs Viimsi JK [17:30 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -91,3 +87,7 @@ https://live.hztx2020.com/live/14683696_c43da86f933586b36317b5199ea1a274_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14159203_42e7c2adca945418a4523b75c01d7d6b_autoChange.m3u8?auth_key=1795875930-0-0-2ab6eabf26eea5fe1bef06215e0a3538
+#EXTINF:-1 tvg-id="" tvg-name="Lokomotiv Plovdiv vs Spartak Varna" tvg-logo="https://media2.16m50.tv/media/club/771.webp" group-title="truct-tiep live",Lokomotiv Plovdiv vs Spartak Varna [17:45 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/13989544_462c9a2fb084303bb66fca6875a35bb3_autoChange.m3u8?auth_key=1795876550-0-0-eacd319d71683166841128ceed9e22cb
