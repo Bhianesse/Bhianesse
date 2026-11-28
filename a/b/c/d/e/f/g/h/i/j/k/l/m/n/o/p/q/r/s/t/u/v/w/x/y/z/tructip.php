@@ -11,6 +11,10 @@ https://live1.hztx2020.com/live/14559556_ec9a44ea9ded239942b08b2ce91df5e7_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/13391565_9d2a774568224b1c239ed0a39052e274_autoChange.m3u8?auth_key=1795840182-0-0-8ef37302083c24aad9314e7edd0bc5a1
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Sportivo Luqueno vs Olimpia Asuncion" tvg-logo="https://media2.16m50.tv/media/club/5251.webp" group-title="truct-tiep live",LIVE Sportivo Luqueno vs Olimpia Asuncion [62']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live3.hztx2020.com/live/14342719_5b2181e5340a8674a5f37e45fb850b79_autoChange.m3u8?auth_key=1795840180-0-0-99b04cf10433f645284cbf49f5caf01a
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Racing Club Montevideo vs Liverpool URU" tvg-logo="https://media2.16m50.tv/media/club/940.webp" group-title="truct-tiep live",LIVE Racing Club Montevideo vs Liverpool URU [69']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
