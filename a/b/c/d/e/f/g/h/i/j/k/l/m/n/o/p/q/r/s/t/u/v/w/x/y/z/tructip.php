@@ -50,11 +50,11 @@ https://live1.hztx2020.com/live/14159198_eb1d0237d8fcf204fe79a7beb153d20c_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Prykarpattya Ivano Frankivsk vs Kulykiv" tvg-logo="https://media2.16m50.tv/media/club/1474.webp" group-title="truct-tiep live",LIVE Prykarpattya Ivano Frankivsk vs Kulykiv [3']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14188495_1743df52b8c52eb5797f309f82485c3e_autoChange.m3u8?auth_key=1795877747-0-0-80beb25bbae15b575787956fb082615c
+https://live.hztx2020.com/live/14188495_1743df52b8c52eb5797f309f82485c3e_autoChange.m3u8?auth_key=1795877868-0-0-0b56f1fad614fcd7d46c2775cc589f9e
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Tallinna FC Ararat TTU vs Viljandi Tulevik" tvg-logo="https://media2.16m50.tv/media/club/4373.webp" group-title="truct-tiep live",LIVE Tallinna FC Ararat TTU vs Viljandi Tulevik [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/14716039_d3b40f50f2ad1c08299d7090f7a8fe57_autoChange.m3u8?auth_key=1795877747-0-0-ce3a7d2abc139ece2aece0e71a66b88f
+https://live3.hztx2020.com/live/14716039_d3b40f50f2ad1c08299d7090f7a8fe57_autoChange.m3u8?auth_key=1795877868-0-0-d01d6c890b4179ec6c8d5cd1aa1de60a
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FC Kuressaare vs Viimsi JK" tvg-logo="https://media2.16m50.tv/media/club/5715.webp" group-title="truct-tiep live",LIVE FC Kuressaare vs Viimsi JK [2']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -66,20 +66,20 @@ https://live2.hztx2020.com/live/14159203_42e7c2adca945418a4523b75c01d7d6b_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Lokomotiv Plovdiv vs Spartak Varna" tvg-logo="https://media2.16m50.tv/media/club/771.webp" group-title="truct-tiep live",LIVE Lokomotiv Plovdiv vs Spartak Varna [1']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/13989544_462c9a2fb084303bb66fca6875a35bb3_autoChange.m3u8?auth_key=1795877744-0-0-dcc9d52c4ba56cffa1866219c74415c6
+https://live.hztx2020.com/live/13989544_462c9a2fb084303bb66fca6875a35bb3_autoChange.m3u8?auth_key=1795877868-0-0-6f0930d544e891ffa3510a227849b075
 #EXTINF:-1 tvg-id="" tvg-name="Pattani vs Singha Chiangrai United" tvg-logo="https://media2.16m50.tv/media/club/6072.webp" group-title="truct-tiep live",Pattani vs Singha Chiangrai United [18:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live3.hztx2020.com/live/14184613_0211a7bb9dfa249014ee54fa44fe01a4_autoChange.m3u8?auth_key=1795877744-0-0-68cbfec2806814312b0bdff0a8cc3673
+https://live3.hztx2020.com/live/14184613_0211a7bb9dfa249014ee54fa44fe01a4_autoChange.m3u8?auth_key=1795877869-0-0-d0cbef58f3c8086ea23dca55084c277b
 #EXTINF:-1 tvg-id="" tvg-name="Rubin Kazan vs Akron Togliatti" tvg-logo="https://media2.16m50.tv/media/club/6361.webp" group-title="truct-tiep live",Rubin Kazan vs Akron Togliatti [18:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/2425885_4d27def07fe67400f2103430e48d10e4_autoChange.m3u8?auth_key=1795877744-0-0-247052e0a531f644ce943fbf4b5db195
+https://live.hztx2020.com/live/2425885_4d27def07fe67400f2103430e48d10e4_autoChange.m3u8?auth_key=1795877869-0-0-98f7d60dbd2eaa40c5af00b40952f85d
 #EXTINF:-1 tvg-id="" tvg-name="AVS Futebol SAD vs Leixoes" tvg-logo="https://media2.16m50.tv/media/club/4350.webp" group-title="truct-tiep live",AVS Futebol SAD vs Leixoes [18:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14103257_c50c2f8f87ecef228c4f435c36788911_autoChange.m3u8?auth_key=1795877744-0-0-c44df015bce45a7a95c254ad4c66d2eb
+https://live2.hztx2020.com/live/14103257_c50c2f8f87ecef228c4f435c36788911_autoChange.m3u8?auth_key=1795877869-0-0-ad1573f9e52b21751422debe27b47d4d
 #EXTINF:-1 tvg-id="" tvg-name="Aguilas-UMak FC vs Manila Digger FC" tvg-logo="https://media2.16m50.tv/media/club/5536.webp" group-title="truct-tiep live",Aguilas-UMak FC vs Manila Digger FC [18:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14437757_9d328848b2fdcf57fe6411282e58819f_autoChange.m3u8?auth_key=1795877467-0-0-f9354f45eacc7b04a325ea3a5620f0ff
+https://live.hztx2020.com/live/14437757_9d328848b2fdcf57fe6411282e58819f_autoChange.m3u8?auth_key=1795877869-0-0-30ff16aabfd5ce84aed2c15878444265
