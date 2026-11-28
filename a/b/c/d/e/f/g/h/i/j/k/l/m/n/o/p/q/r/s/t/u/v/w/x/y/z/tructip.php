@@ -102,4 +102,4 @@ https://live.hztx2020.com/live/14241055_3e5fcc5385e38c0156a11e637bee73ed_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="HNK Segesta Sisak vs NK Dubrava" tvg-logo="https://media2.16m50.tv/media/club/3783.webp" group-title="truct-tiep live",HNK Segesta Sisak vs NK Dubrava [18:45 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14167837_b45c9d8333ac52f8eea6596102149106_autoChange.m3u8?auth_key=1795880855-0-0-16e311deefd0a681216c49afa0fdcd72
+https://live.hztx2020.com/live/14167837_b45c9d8333ac52f8eea6596102149106_autoChange.m3u8?auth_key=1795880991-0-0-1aacf65c2c865a30dd7dafb18b653c04
