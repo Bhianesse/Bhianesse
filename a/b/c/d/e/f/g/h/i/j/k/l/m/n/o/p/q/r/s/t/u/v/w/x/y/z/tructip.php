@@ -35,6 +35,10 @@ https://live.hztx2020.com/live/14302267_1d1f40baf364056ed8d1f0a0cf15d68c_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14362686_ca57236a483b1bac0150f8d0c4407af7_autoChange.m3u8?auth_key=1795872586-0-0-2e01fb449ad506b548f5eb7fdfe98a4c
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Persela Lamongan vs Rans Nusantara FC" tvg-logo="https://media2.16m50.tv/media/club/11786.webp" group-title="truct-tiep live",LIVE Persela Lamongan vs Rans Nusantara FC [68']
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live4.hztx2020.com/live/14362688_8143c54a2e19c66bf65080b4a37f4959_autoChange.m3u8?auth_key=1795872586-0-0-6a5674d0b4ed253bc5e5cef18b0d5539
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Shan United vs Sagaing United" tvg-logo="https://media2.16m50.tv/media/club/5551.webp" group-title="truct-tiep live",LIVE Shan United vs Sagaing United [62']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
