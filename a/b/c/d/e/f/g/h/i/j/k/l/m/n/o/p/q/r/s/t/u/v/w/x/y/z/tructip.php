@@ -18,8 +18,4 @@ https://live.hztx2020.com/live/14712084_005d310dde756f6cf9788354ee1caecc_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Wellington Phoenix Reserve vs Wellington Olympic" tvg-logo="https://media2.16m50.tv/media/club/11615.webp" group-title="truct-tiep live",LIVE Wellington Phoenix Reserve vs Wellington Olympic [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14438038_dae994d1e862617d2e86aeccbda35f8e_autoChange.m3u8?auth_key=1795842587-0-0-05b7b4c1ca1fd3f88f245ecbf74fce91
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Boston Celtics vs Atlanta Hawks" tvg-logo="https://media2.16m50.tv/media/club/10803.webp" group-title="truct-tiep live",LIVE Boston Celtics vs Atlanta Hawks [Đang đá]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live2.hztx2020.com/live/14331401_36036045c3f957f96d0f8934ba55d4a3_autoChange.m3u8?auth_key=1795842464-0-0-9128681e0a36c03ae51d3eb12e44702d
+https://live1.hztx2020.com/live/14438038_dae994d1e862617d2e86aeccbda35f8e_autoChange.m3u8?auth_key=1795842696-0-0-02cb403122a3601dc8abe66f0b152430
