@@ -1,5 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Real Salt Lake vs Vancouver Whitecaps" tvg-logo="https://media2.16m50.tv/media/club/5280.webp" group-title="truct-tiep live",LIVE Real Salt Lake vs Vancouver Whitecaps [Đang đá]
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Utah Jazz vs Denver Nuggets" tvg-logo="https://media2.16m50.tv/media/club/11841.webp" group-title="truct-tiep live",LIVE Utah Jazz vs Denver Nuggets [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live3.hztx2020.com/live/14331405_67a569ff586156e0c8129bfd293bada1_autoChange.m3u8?auth_key=1795855188-0-0-08564389cc6028fbe548e098dc7e24ea
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Portland Trail Blazers vs Golden State Warriors" tvg-logo="https://media2.16m50.tv/media/club/11742.webp" group-title="truct-tiep live",LIVE Portland Trail Blazers vs Golden State Warriors [Đang đá]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live2.hztx2020.com/live/14331407_9b2ac42f8504721a4c731fffe6a19a2c_autoChange.m3u8?auth_key=1795854944-0-0-5f54235e3042737f45a66c4b4a09a648
+#EXTINF:-1 tvg-id="" tvg-name="LIVE Real Salt Lake vs Vancouver Whitecaps" tvg-logo="https://media2.16m50.tv/media/club/5280.webp" group-title="truct-tiep live",LIVE Real Salt Lake vs Vancouver Whitecaps [64']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live1.hztx2020.com/live/14718516_cbee30b4b4f512d7a08f75fb3e7d2307_autoChange.m3u8?auth_key=1795854378-0-0-300dac0e1df69849589246d1fb5b0dbc
