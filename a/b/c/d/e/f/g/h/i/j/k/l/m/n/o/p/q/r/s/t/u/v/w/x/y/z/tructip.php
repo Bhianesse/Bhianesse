@@ -47,3 +47,11 @@ https://live5.hztx2020.com/live/13533572_0fa37924ce9ce0bc47e7e538345a33da_autoCh
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14624246_d28ebebefc999b2d0d3cbdfb050f9fab_autoChange.m3u8?auth_key=1795858184-0-0-dcdfbf44cb5dfc8bdbef098c72ecc368
+#EXTINF:-1 tvg-id="" tvg-name="Kashima Antlers vs Fagiano Okayama" tvg-logo="https://media2.16m50.tv/media/club/2108.webp" group-title="truct-tiep live",Kashima Antlers vs Fagiano Okayama [13:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live3.hztx2020.com/live/14062067_b087d9170676966ebf0a58ed4ca5fa27_autoChange.m3u8?auth_key=1795859506-0-0-1327c7fa1a79b18a25ce72e193424cb2
+#EXTINF:-1 tvg-id="" tvg-name="Vissel Kobe vs JEF United Ichihara Chiba" tvg-logo="https://media2.16m50.tv/media/club/7703.webp" group-title="truct-tiep live",Vissel Kobe vs JEF United Ichihara Chiba [13:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live2.hztx2020.com/live/14062075_e00e488b7616b62e4ec9c8c5beb72e87_autoChange.m3u8?auth_key=1795859506-0-0-18f1e0bd894efe5e62750b96b9a54ef2
