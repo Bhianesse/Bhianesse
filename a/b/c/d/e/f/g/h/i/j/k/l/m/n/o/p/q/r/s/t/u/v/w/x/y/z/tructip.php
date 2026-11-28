@@ -3,10 +3,6 @@
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live2.hztx2020.com/live/14695703_4d5da8c5840db15befe7b49691c2ea9d_autoChange.m3u8?auth_key=1795840180-0-0-c9f727fde16aa89ef1e6505787de3546
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Independiente Petrolero vs Real Oruro" tvg-logo="https://media2.16m50.tv/media/club/7837.webp" group-title="truct-tiep live",LIVE Independiente Petrolero vs Real Oruro [62']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14559556_ec9a44ea9ded239942b08b2ce91df5e7_autoChange.m3u8?auth_key=1795840182-0-0-c40352c88256d0c6d8e385f5647f55ba
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Fluminense - RJ vs Cruzeiro - MG" tvg-logo="https://media2.16m50.tv/media/club/14324.webp" group-title="truct-tiep live",LIVE Fluminense - RJ vs Cruzeiro - MG [65']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
