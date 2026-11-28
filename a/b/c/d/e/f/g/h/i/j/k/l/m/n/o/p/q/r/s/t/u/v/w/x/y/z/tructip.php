@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Atletico Atlanta vs Club Ciudad de Bolivar" tvg-logo="https://media2.16m50.tv/media/club/5093.webp" group-title="truct-tiep live",LIVE Atletico Atlanta vs Club Ciudad de Bolivar [69']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14712083_89cd2aaa71762248eb1de842c149b988_autoChange.m3u8?auth_key=1795836588-0-0-f8fd7d8bf1dddea07029a2a4ed6d99b7
-#EXTINF:-1 tvg-id="" tvg-name="LIVE Jamaica Women vs Costa Rica Women" tvg-logo="https://media2.16m50.tv/media/club/13831.webp" group-title="truct-tiep live",LIVE Jamaica Women vs Costa Rica Women [65']
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14551454_22dae6550edefb205a585fc1cc774ac3_autoChange.m3u8?auth_key=1795836588-0-0-673703362bab2c396694afd86763044f
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Vila Nova vs Atletico Clube Goianiense" tvg-logo="https://media2.16m50.tv/media/club/551.webp" group-title="truct-tiep live",LIVE Vila Nova vs Atletico Clube Goianiense [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
@@ -26,12 +18,8 @@ https://live3.hztx2020.com/live/14342719_5b2181e5340a8674a5f37e45fb850b79_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Racing Club Montevideo vs Liverpool URU" tvg-logo="https://media2.16m50.tv/media/club/940.webp" group-title="truct-tiep live",LIVE Racing Club Montevideo vs Liverpool URU [5']
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live1.hztx2020.com/live/14720597_93c9108089401014b71f7691657a0edc_autoChange.m3u8?auth_key=1795838504-0-0-8d258e1bac6c9a68cba1a28d6f78cccd
+https://live1.hztx2020.com/live/14720597_93c9108089401014b71f7691657a0edc_autoChange.m3u8?auth_key=1795838741-0-0-6d3e95e72c226682b366e1993678cdbe
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Deportivo Cali vs Atletico Bucaramanga" tvg-logo="https://media2.16m50.tv/media/club/1868.webp" group-title="truct-tiep live",LIVE Deportivo Cali vs Atletico Bucaramanga [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14718718_068a2bb19fb36b91d82b8596df17d478_autoChange.m3u8?auth_key=1795838631-0-0-9fa8b0788e801ff73ef39ca26e809e0a
-#EXTINF:-1 tvg-id="" tvg-name="Deportivo Moron vs Colon de Santa Fe" tvg-logo="https://media2.16m50.tv/media/club/7333.webp" group-title="truct-tiep live",Deportivo Moron vs Colon de Santa Fe [07:00 WIB]
-#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14712084_005d310dde756f6cf9788354ee1caecc_autoChange.m3u8?auth_key=1795838377-0-0-e8dbdb865338a4f92e10e386f4701582
+https://live.hztx2020.com/live/14718718_068a2bb19fb36b91d82b8596df17d478_autoChange.m3u8?auth_key=1795838742-0-0-43f07af4d68d755526ce62ccf8d0fb5b
