@@ -30,7 +30,7 @@ https://live1.hztx2020.com/live/14720597_93c9108089401014b71f7691657a0edc_autoCh
 #EXTINF:-1 tvg-id="" tvg-name="LIVE Deportivo Cali vs Atletico Bucaramanga" tvg-logo="https://media2.16m50.tv/media/club/1868.webp" group-title="truct-tiep live",LIVE Deportivo Cali vs Atletico Bucaramanga [Đang đá]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14718718_068a2bb19fb36b91d82b8596df17d478_autoChange.m3u8?auth_key=1795838504-0-0-4b8e3672a579f95b199091d1063af8af
+https://live.hztx2020.com/live/14718718_068a2bb19fb36b91d82b8596df17d478_autoChange.m3u8?auth_key=1795838631-0-0-9fa8b0788e801ff73ef39ca26e809e0a
 #EXTINF:-1 tvg-id="" tvg-name="Deportivo Moron vs Colon de Santa Fe" tvg-logo="https://media2.16m50.tv/media/club/7333.webp" group-title="truct-tiep live",Deportivo Moron vs Colon de Santa Fe [07:00 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
