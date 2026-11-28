@@ -26,4 +26,4 @@ https://live.hztx2020.com/live/14666901_3bc04b5ae860b2a00e8a78224e476b25_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="Millonarios vs America de Cali" tvg-logo="https://media2.16m50.tv/media/club/648.webp" group-title="truct-tiep live",Millonarios vs America de Cali [08:40 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14718719_43084bf34d9c728b2f59e9ade2329ce5_autoChange.m3u8?auth_key=1795844133-0-0-27d199dd89aef939540cd0bff652666e
+https://live.hztx2020.com/live/14718719_43084bf34d9c728b2f59e9ade2329ce5_autoChange.m3u8?auth_key=1795844266-0-0-355dde4c4bfe478b443db5898dfb9f61
