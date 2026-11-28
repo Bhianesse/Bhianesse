@@ -27,3 +27,11 @@ https://live.hztx2020.com/live/14712085_e93b8d165528703b41b10396f4c0898f_autoCha
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
 https://live.hztx2020.com/live/14712084_005d310dde756f6cf9788354ee1caecc_autoChange.m3u8?auth_key=1795840181-0-0-b0b3d78020ab4f98ff74d9edd1bc7689
+#EXTINF:-1 tvg-id="" tvg-name="Columbus Crew vs Inter Miami CF" tvg-logo="https://media2.16m50.tv/media/club/5281.webp" group-title="truct-tiep live",Columbus Crew vs Inter Miami CF [08:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live.hztx2020.com/live/14666901_3bc04b5ae860b2a00e8a78224e476b25_autoChange.m3u8?auth_key=1795841865-0-0-86c2f581c7dee77f37531a3bb85ccb0a
+#EXTINF:-1 tvg-id="" tvg-name="Wellington Phoenix Reserve vs Wellington Olympic" tvg-logo="https://media2.16m50.tv/media/club/11615.webp" group-title="truct-tiep live",Wellington Phoenix Reserve vs Wellington Olympic [08:00 WIB]
+#EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT: http-referrer=https://tructiep-hd.club/
+https://live1.hztx2020.com/live/14438038_dae994d1e862617d2e86aeccbda35f8e_autoChange.m3u8?auth_key=1795841865-0-0-75639554436be110361fd5686c00c318
