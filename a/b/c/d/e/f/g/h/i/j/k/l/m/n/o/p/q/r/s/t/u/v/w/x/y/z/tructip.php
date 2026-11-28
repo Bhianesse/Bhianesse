@@ -98,4 +98,4 @@ https://live.hztx2020.com/live/14072732_ce923181e1a321d98a77dc5a5676729d_autoCha
 #EXTINF:-1 tvg-id="" tvg-name="China Women vs Thailand Women" tvg-logo="https://media2.16m50.tv/media/club/1004.webp" group-title="truct-tiep live",China Women vs Thailand Women [18:35 WIB]
 #EXTVLCOPT: http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT: http-referrer=https://tructiep-hd.club/
-https://live.hztx2020.com/live/14693027_ffb7f799f900fc442bd0b8ed90eac60f_autoChange.m3u8?auth_key=1795879784-0-0-a5fb48bc4fcfdd54b19d02c6128e34f7
+https://live.hztx2020.com/live/14693027_ffb7f799f900fc442bd0b8ed90eac60f_autoChange.m3u8?auth_key=1795879861-0-0-1b2f5aaaae15cd34d6744623b6e591a8
